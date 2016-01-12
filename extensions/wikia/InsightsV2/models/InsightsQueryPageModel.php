@@ -102,6 +102,10 @@ abstract class InsightsQueryPageModel extends InsightsModel {
 			if ( $row->title ) {
 				$title = Title::newFromText( $row->title, $row->namespace );
 
+				if ( !$title instanceof Title ) {
+					continue;
+				}
+
 				$data = [
 					'pageId' => $title->getArticleID(),
 					'title' => $title

@@ -13,7 +13,7 @@ class ExactTargetUserDataVerificationTask extends ExactTargetTask {
 	 */
 	protected function getLoggerContext() {
 		return [
-			'provided_user_ids' => $this->userIds,
+			'provided_user_ids_100' => array_slice( $this->userIds, 0, 100 )
 		];
 	}
 
@@ -26,6 +26,7 @@ class ExactTargetUserDataVerificationTask extends ExactTargetTask {
 	public function verifyUsersData( array $aUsersIds ) {
 		$this->userIds = $aUsersIds;
 		$bSummaryResult = true;
+		$differentUserData = [];
 		// Fetch data from ExactTarget
 		$oRetrieveUserTask = $this->getRetrieveUserTask();
 		$aExactTargetUsersData = $oRetrieveUserTask->retrieveUsersDataByIds( $this->userIds );
@@ -44,6 +45,7 @@ class ExactTargetUserDataVerificationTask extends ExactTargetTask {
 
 			// Mark verification process as failed if any record fails
 			if ( $bResult === false ) {
+				$differentUserData[] = $aExactTargetUserData['user_id'];
 				$bSummaryResult = $bResult;
 			}
 
@@ -54,16 +56,22 @@ class ExactTargetUserDataVerificationTask extends ExactTargetTask {
 		if ( count( $aUsersIdsFlipped ) > 0 ) {
 			$bSummaryResult = false;
 		}
+		$missingCount = count( $aUsersIdsFlipped );
+		$differentCount = count( $differentUserData );
+		$totalCount = count( $this->userIds );
 
-		// Log error if unchecked users found
-		if ( !empty( $aUsersIdsFlipped ) ) {
-			$context = [
-				'missing_user_ids_100' => array_slice( array_keys( $aUsersIdsFlipped ), 0, 100 ),
-				'missing_user_ids_total_count' => count( $aUsersIdsFlipped ),
-				'called_task_method' => __METHOD__,
-			];
-			$this->error( 'User data missing in ExactTarget', $context );
-		}
+		$context = [
+			'missing_user_ids_100' => array_slice( array_keys( $aUsersIdsFlipped ), 0, 100 ),
+			'different_user_ids_100' => array_slice( array_keys( $differentUserData ), 0, 100 ),
+			'different_user_ids_total_count' => $differentCount,
+			'missing_user_ids_total_count' => $missingCount,
+			'different_ratio' => $differentCount / $totalCount,
+			'missing_ratio' => $missingCount / $totalCount,
+		];
+		$this->info( 'ExactTarget - User data sync log', $context );
+
+		echo 'ExactTarget - User data sync log';
+		print_r( $context );
 
 		return $bSummaryResult;
 	}

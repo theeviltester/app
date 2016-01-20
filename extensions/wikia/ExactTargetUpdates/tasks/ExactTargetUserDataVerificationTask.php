@@ -5,6 +5,18 @@ class ExactTargetUserDataVerificationTask extends ExactTargetTask {
 
 	use ExactTargetDataComparisonHelper;
 
+	private $userIds;
+
+	/**
+	 * context key/val pairs that all log messages coming from this class must have
+	 * @return array
+	 */
+	protected function getLoggerContext() {
+		return [
+			'provided_user_ids' => $this->userIds,
+		];
+	}
+
 	/**
 	 * Retrieves data from ExactTarget and compares it with data in Wikia database
 	 * @return bool
@@ -12,11 +24,12 @@ class ExactTargetUserDataVerificationTask extends ExactTargetTask {
 	 * if data isn't equal throws exception with result diff
 	 */
 	public function verifyUsersData( array $aUsersIds ) {
+		$this->userIds = $aUsersIds;
 		$bSummaryResult = true;
 		// Fetch data from ExactTarget
 		$oRetrieveUserTask = $this->getRetrieveUserTask();
-		$aExactTargetUsersData = $oRetrieveUserTask->retrieveUsersDataByIds( $aUsersIds );
-		$aUsersIdsFlipped = array_flip( $aUsersIds );
+		$aExactTargetUsersData = $oRetrieveUserTask->retrieveUsersDataByIds( $this->userIds );
+		$aUsersIdsFlipped = array_flip( $this->userIds );
 		foreach ( $aExactTargetUsersData as $aExactTargetUserData ) {
 			$this->info( __METHOD__ . ' ExactTarget user data record: ' . json_encode( $aExactTargetUserData ) );
 
@@ -38,9 +51,18 @@ class ExactTargetUserDataVerificationTask extends ExactTargetTask {
 			unset ( $aUsersIdsFlipped[$aExactTargetUserData['user_id']] );
 		}
 
+		if ( count( $aUsersIdsFlipped ) > 0 ) {
+			$bSummaryResult = false;
+		}
+
 		// Log error if unchecked users found
 		if ( !empty( $aUsersIdsFlipped ) ) {
-			$this->error( __METHOD__ . ' Following user ids not retrieved from ET: ' . json_encode( array_keys( $aUsersIdsFlipped ) ) );
+			$context = [
+				'missing_user_ids_100' => array_slice( array_keys( $aUsersIdsFlipped ), 0, 100 ),
+				'missing_user_ids_total_count' => count( $aUsersIdsFlipped ),
+				'called_task_method' => __METHOD__,
+			];
+			$this->error( 'User data missing in ExactTarget', $context );
 		}
 
 		return $bSummaryResult;
@@ -54,6 +76,7 @@ class ExactTargetUserDataVerificationTask extends ExactTargetTask {
 	 * if data isn't equal throws exception with result diff
 	 */
 	public function verifyUserPropertiesData( $iUserId ) {
+		$this->userIds = [ $iUserId ];
 		// Fetch data from ExactTarget
 		$oRetrieveUserTask = $this->getRetrieveUserTask();
 		$aExactTargetUserProperties = $oRetrieveUserTask->retrieveUserPropertiesByUserId( $iUserId );

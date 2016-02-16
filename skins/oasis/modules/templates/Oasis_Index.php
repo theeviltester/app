@@ -105,8 +105,8 @@
 
 <?= $nielsen ?>
 </body>
-<script src="http://visualeditor.inez.wikia-dev.com/resources/sweetalert.js"></script>
-<link rel="stylesheet" href="http://visualeditor.inez.wikia-dev.com/skins/oasis/css/sweetalert.css">
+<script src="/resources/sweetalert.js"></script>
+<link rel="stylesheet" href="/skins/oasis/css/sweetalert.css">
 <script>
 mw.hook( 'postEdit' ).add(function() {
 	swal({

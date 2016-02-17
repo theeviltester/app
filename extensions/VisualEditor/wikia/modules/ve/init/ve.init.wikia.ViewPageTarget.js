@@ -205,12 +205,16 @@ ve.init.wikia.ViewPageTarget.prototype.attachToolbarCancelButton = function () {
 };
 
 ve.init.wikia.ViewPageTarget.prototype.updateToolbarSaveButtonState = function () {
+	console.log('ve.init.wikia.ViewPageTarget.prototype.updateToolbarSaveButtonState');
+
+	// what does this do??
 	var _this = this;
 	var doit = function() {
 		_this.docToSave = ve.dm.converter.getDomFromModel( _this.getSurface().getModel().getDocument() );
 		_this.prepareCacheKey( _this.docToSave ).then(doit);
 	};
 	doit();
+	// ---
 
 	ve.init.mw.ViewPageTarget.prototype.updateToolbarSaveButtonState.call( this );
 	if (

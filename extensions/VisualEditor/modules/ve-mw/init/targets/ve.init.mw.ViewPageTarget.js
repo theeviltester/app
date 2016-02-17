@@ -551,6 +551,8 @@ ve.init.mw.ViewPageTarget.prototype.onViewTabClick = function ( e ) {
 ve.init.mw.ViewPageTarget.prototype.onSave = function (
 	html, categoriesHtml, newid, isRedirect, displayTitle, lastModified, contentSub
 ) {
+	console.log('ve.init.mw.ViewPageTarget.prototype.onSave');
+
 	var newUrlParams, watchChecked;
 	this.saveDeferred.resolve();
 	if ( !this.pageExists || this.restoring ) {
@@ -855,7 +857,13 @@ ve.init.mw.ViewPageTarget.prototype.onNoChanges = function () {
  * @param {jQuery.Event} e Mouse click event
  */
 ve.init.mw.ViewPageTarget.prototype.onToolbarSaveButtonClick = function () {
-	this.toolbarSaveButton.setLabelContent("Saving")
+	/*
+	 if ( this.edited || this.restoring ) {
+	 	this.showSaveDialog();
+	 }
+	 */
+
+	this.toolbarSaveButton.setLabelContent("Saving");
 	var saveOptions = this.getSaveOptions();
 	this.save( this.docToSave, saveOptions );
 	this.saveDeferred = $.Deferred();
@@ -884,6 +892,7 @@ ve.init.mw.ViewPageTarget.prototype.updateToolbarSaveButtonState = function () {
 	// Disable the save button if we have no history or if the sanity check is not finished
 	isDisabled = ( !this.edited && !this.restoring ) || !this.sanityCheckFinished;
 	this.toolbarSaveButton.setDisabled( isDisabled );
+	this.toolbarSaveDropdown.setDisabled( isDisabled );
 	this.toolbarSaveButton.$element.toggleClass( 've-init-mw-viewPageTarget-waiting', !this.sanityCheckFinished );
 	mw.hook( 've.toolbarSaveButton.stateChanged' ).fire( isDisabled );
 };
@@ -1000,6 +1009,8 @@ ve.init.mw.ViewPageTarget.prototype.onSaveDialogResolveConflict = function () {
  * @returns {Object} Form data for submission to the MediaWiki action=edit UI
  */
 ve.init.mw.ViewPageTarget.prototype.getSaveFields = function () {
+	console.log('ve.init.mw.ViewPageTarget.prototype.getSaveFields');
+
 	var fields = {};
 	this.$checkboxes
 		.each( function () {
@@ -1010,6 +1021,8 @@ ve.init.mw.ViewPageTarget.prototype.getSaveFields = function () {
 				fields[$this.prop( 'name' )] = $this.val();
 			}
 		} );
+
+	// Changed dialog here: This needs to hook in to the new save info POPOUT
 	ve.extendObject( fields, {
 		wpSummary: '', //this.saveDialog ? this.saveDialog.editSummaryInput.getValue() : this.initialEditSummary,
 		//wpCaptchaClass: this.saveDialog.$( '#wpCaptchaClass' ).val(),
@@ -1137,11 +1150,31 @@ ve.init.mw.ViewPageTarget.prototype.setupSectionEditLinks = null;
  * @method
  */
 ve.init.mw.ViewPageTarget.prototype.setupToolbarSaveButton = function () {
+	console.log('ve.init.mw.ViewPageTarget.prototype.setupToolbarSaveButton');
+
 	this.toolbarSaveButton = new OO.ui.ButtonWidget( {
 		label: ve.msg( 'visualeditor-toolbar-savedialog' ),
 		flags: [ 'constructive', 'primary' ],
 		disabled: !this.restoring
 	} );
+
+	this.toolbarSaveDropdown = new OO.ui.ButtonWidget( {
+		label: 'v', //ve.msg( 'v' ),
+		flags: [ 'constructive', 'primary' ],
+		disabled: !this.restoring
+	} );
+
+	this.saveGroup = new OO.ui.ButtonGroupWidget( {
+			$: this.$,
+			classes: ['ve-ui-findAndReplaceDialog-cell'],
+			items: [
+				this.toolbarSaveButton,
+				this.toolbarSaveDropdown
+			]
+		} );
+
+	this.toolbarSaveButton.$element.addClass( 'oo-ui-splitButton-left' );  
+	this.toolbarSaveDropdown.$element.addClass( 'oo-ui-splitButton-right' );
 
 	// NOTE (phuedx, 2014-08-20): This class is used by the firsteditve guided
 	// tour to attach a guider to the "Save page" button.
@@ -1164,6 +1197,8 @@ ve.init.mw.ViewPageTarget.prototype.setupToolbarSaveButton = function () {
  * @method
  */
 ve.init.mw.ViewPageTarget.prototype.attachToolbarSaveButton = function () {
+	console.log('ve.init.mw.ViewPageTarget.prototype.attachToolbarSaveButton');
+
 	var $actionTools = $( '<div>' ),
 		$pushButtons = $( '<div>' ),
 		actions = new ve.ui.TargetToolbar( this );
@@ -1176,7 +1211,9 @@ ve.init.mw.ViewPageTarget.prototype.attachToolbarSaveButton = function () {
 
 	$pushButtons
 		.addClass( 've-init-mw-viewPageTarget-toolbar-actions' )
-		.append( this.toolbarSaveButton.$element );
+//		.append( this.toolbarSaveButton.$element )
+//		.append( this.toolbarSaveDropdown.$element );
+		.append( this.saveGroup.$element );
 
 	this.toolbar.$actions.append( $actionTools, $pushButtons );
 };
@@ -1196,7 +1233,8 @@ ve.init.mw.ViewPageTarget.prototype.attachToolbarCancelButton = function () {
  * @fires saveWorkflowBegin
  */
 ve.init.mw.ViewPageTarget.prototype.showSaveDialog = function () {
-	debugger;
+	console.log('ve.init.mw.ViewPageTarget.prototype.showSaveDialog');
+
 	this.emit( 'saveWorkflowBegin' );
 	this.getSurface().getDialogs().getWindow( 'mwSave' ).then( function ( win ) {
 		var currentWindow = this.getSurface().getContext().getInspectors().getCurrentWindow(),

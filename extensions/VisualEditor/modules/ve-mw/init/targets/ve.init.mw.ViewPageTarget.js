@@ -873,6 +873,15 @@ ve.init.mw.ViewPageTarget.prototype.onToolbarSaveButtonClick = function () {
 };
 
 /**
+ * Handle clicks on the toolbar save button dropdown
+ *
+ */
+ve.init.mw.ViewPageTarget.prototype.onToolbarSaveDropdownClick = function () {
+	console.log("onToolbarSaveDropdownClick");
+}
+
+
+/**
  * Handle clicks on the MwMeta button in the toolbar.
  *
  * @method
@@ -1159,7 +1168,8 @@ ve.init.mw.ViewPageTarget.prototype.setupToolbarSaveButton = function () {
 	} );
 
 	this.toolbarSaveDropdown = new OO.ui.ButtonWidget( {
-		label: 'v', //ve.msg( 'v' ),
+		icon: 'expand',
+		//icon: 'arrow-down',
 		flags: [ 'constructive', 'primary' ],
 		disabled: !this.restoring
 	} );
@@ -1173,8 +1183,11 @@ ve.init.mw.ViewPageTarget.prototype.setupToolbarSaveButton = function () {
 			]
 		} );
 
-	this.toolbarSaveButton.$element.addClass( 'oo-ui-splitButton-left' );  
-	this.toolbarSaveDropdown.$element.addClass( 'oo-ui-splitButton-right' );
+	//this.toolbarSaveButton.$element.addClass( 'oo-ui-splitButton-left' );
+	//this.toolbarSaveDropdown.$element.addClass( 'oo-ui-splitButton-right' );
+	this.toolbarSaveButton.$element.children().addClass( 'oo-ui-splitButton-left' );
+	this.toolbarSaveDropdown.$element.children().addClass( 'oo-ui-splitButton-right' );
+
 
 	// NOTE (phuedx, 2014-08-20): This class is used by the firsteditve guided
 	// tour to attach a guider to the "Save page" button.
@@ -1189,6 +1202,7 @@ ve.init.mw.ViewPageTarget.prototype.setupToolbarSaveButton = function () {
 	this.updateToolbarSaveButtonState();
 
 	this.toolbarSaveButton.connect( this, { click: 'onToolbarSaveButtonClick' } );
+	this.toolbarSaveDropdown.connect( this, { click: 'onToolbarSaveDropdownClick' } );
 };
 
 /**

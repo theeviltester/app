@@ -3,6 +3,20 @@
 $padding: 0.2em 0.8em;
 $margin: 0.1em 0;
 
+@mixin splitButton-left {
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+	//border: 1px solid #006cb0;
+	border-right-color: rgb(255, 255, 255);
+}
+
+@mixin splitButton-right {
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+	//border: 1px solid #006cb0;
+	//border-left-color: rgb(255, 255, 255);
+}
+
 .oo-ui-buttonElement-framed {
 	&.oo-ui-flaggedElement-constructive,
 	&.oo-ui-flaggedElement-primary {
@@ -11,12 +25,24 @@ $margin: 0.1em 0;
 			padding: 0.2em 0.8em;
 			margin: 0.1em 0;
 		}
+		.oo-ui-splitButton-left {
+			@include splitButton-left;
+		}
+		.oo-ui-splitButton-right {
+			@include splitButton-right;
+		}
 	}
 	&.oo-ui-widget-disabled {
 		.oo-ui-buttonElement-button {
 			@extend .button[disabled];
 			padding: 0.2em 0.8em;
 			margin: 0.1em 0;
+		}
+		.oo-ui-splitButton-left {
+			@include splitButton-left;
+		}
+		.oo-ui-splitButton-right {
+			@include splitButton-right;
 		}
 	}
 	.oo-ui-buttonElement-button {
@@ -29,17 +55,15 @@ $margin: 0.1em 0;
 			}
 		}
 	}
+	.oo-ui-splitButton-left {
+		@include splitButton-left;
+	}
+	.oo-ui-splitButton-right {
+		@include splitButton-right;
+	}
 	&.oo-ui-buttonElement-active {
 		.oo-ui-buttonElement-button {
 			@extend .button.active;
 		}
 	}
-}
-
-.oo-ui-splitButton-left {
-	border: 0;
-}
-
-.oo-ui-splitButton-right {
-	border: 0;
 }

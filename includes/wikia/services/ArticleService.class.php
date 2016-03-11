@@ -164,10 +164,12 @@ class ArticleService extends WikiaObject {
 		} else {
 			$key = self::getCacheKey( $articleId );
 			$service = $this;
+			var_dump( 'RYCHU: before WikiaDataAccess::cache' );
 			$text = self::$localCache[$articleId] = WikiaDataAccess::cache(
 				$key,
 				86400 /*24h*/,
 				function() use ( $service ) {
+					var_dump( 'RYCHU: in WikiaDataAccess::cache $getData' );
 					$content = '';
 					if ( !$this->wg->DevelEnvironment && !empty( $this->wg->SolrMaster ) ) {
 						$content = $service->getTextFromSolr();
@@ -181,6 +183,7 @@ class ArticleService extends WikiaObject {
 					return $content;
 				}
 			);
+			exit;
 		}
 
 		return $text;

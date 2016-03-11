@@ -878,8 +878,18 @@ ve.init.mw.ViewPageTarget.prototype.onToolbarSaveButtonClick = function () {
  */
 ve.init.mw.ViewPageTarget.prototype.onToolbarSaveDropdownClick = function () {
 	console.log("onToolbarSaveDropdownClick");
-}
 
+	//this.getSurface().getDialogs().openWindow( 'wikiaVideoInsert' );
+	//this.getSurface().getDialogs().openWindow( 'wikitextswitchconfirm', { target: this } );
+	//this.getSurface().getDialogs().openWindow( 'betaWelcome' );
+	//this.getSurface().getDialogs().openWindow( 'wikiaEditDetails' );
+	//this.getSurface().open( 'wikiaEditDetails' );
+
+
+	var surface = this.getSurface();
+	//surface.execute( 'window', 'open', 'wikiaEditDetails' );
+	surface.execute( 'window', 'open', 'link' );
+};
 
 /**
  * Handle clicks on the MwMeta button in the toolbar.

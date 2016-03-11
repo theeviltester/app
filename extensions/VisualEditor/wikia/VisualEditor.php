@@ -130,6 +130,7 @@ $wgResourceModules += array(
 			've/ui/dialogs/ve.ui.WikiaInfoboxDialog.js',
 			've/ui/dialogs/ve.ui.WikiaTemplateInsertDialog.js',
 			've/ui/dialogs/ve.ui.WikiaTransclusionDialog.js',
+			've/ui/dialogs/ve.ui.WikiaEditDetailsDialog.js',
 			've/ui/tools/ve.ui.WikiaDialogTool.js',
 			've/ui/tools/ve.ui.WikiaHelpTool.js',
 			've/ui/tools/ve.ui.WikiaInfoboxDialogTool.js',

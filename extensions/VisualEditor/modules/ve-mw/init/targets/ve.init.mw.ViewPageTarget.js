@@ -593,7 +593,11 @@ ve.init.mw.ViewPageTarget.prototype.onSave = function (
 			} );
 			this.revid = newid;
 		}
-		//this.saveDialog.reset();
+
+		if (this.saveDialog) {
+			this.saveDialog.reset();
+		}
+
 		this.replacePageContent(
 			html,
 			categoriesHtml,
@@ -918,7 +922,11 @@ ve.init.mw.ViewPageTarget.prototype.updateToolbarSaveButtonState = function () {
 	// Disable the save button if we have no history or if the sanity check is not finished
 	isDisabled = ( !this.edited && !this.restoring ) || !this.sanityCheckFinished;
 	this.toolbarSaveButton.setDisabled( isDisabled );
-	this.toolbarSaveDropdown.setDisabled( isDisabled );
+
+	if (this.toolbarSaveDropdown) {
+		this.toolbarSaveDropdown.setDisabled( isDisabled );
+	}
+
 	this.toolbarSaveButton.$element.toggleClass( 've-init-mw-viewPageTarget-waiting', !this.sanityCheckFinished );
 	mw.hook( 've.toolbarSaveButton.stateChanged' ).fire( isDisabled );
 };
@@ -1035,7 +1043,7 @@ ve.init.mw.ViewPageTarget.prototype.onSaveDialogResolveConflict = function () {
  * @returns {Object} Form data for submission to the MediaWiki action=edit UI
  */
 ve.init.mw.ViewPageTarget.prototype.getSaveFields = function () {
-	console.log('ve.init.mw.ViewPageTarget.prototype.getSaveFields');
+	console.log('==> ve.init.mw.ViewPageTarget.prototype.getSaveFields <==');
 
 	var fields = {};
 	this.$checkboxes
@@ -1048,6 +1056,7 @@ ve.init.mw.ViewPageTarget.prototype.getSaveFields = function () {
 			}
 		} );
 
+	// FIXME: need to re-fill thesse for the pop-out save dialog
 	// Changed dialog here: This needs to hook in to the new save info POPOUT
 	ve.extendObject( fields, {
 		wpSummary: '', //this.saveDialog ? this.saveDialog.editSummaryInput.getValue() : this.initialEditSummary,
@@ -1241,11 +1250,16 @@ ve.init.mw.ViewPageTarget.prototype.attachToolbarSaveButton = function () {
 		.addClass( 've-init-mw-viewPageTarget-toolbar-utilities' )
 		.append( actions.$element );
 
-	$pushButtons
-		.addClass( 've-init-mw-viewPageTarget-toolbar-actions' )
-//		.append( this.toolbarSaveButton.$element )
-//		.append( this.toolbarSaveDropdown.$element );
-		.append( this.saveGroup.$element );
+	if (ve.init.wikia.getPublishDialogABVariantNumber() === 1) {
+		$pushButtons
+			.addClass( 've-init-mw-viewPageTarget-toolbar-actions' )
+			.append( this.saveGroup.$element );
+	}
+	else {
+		$pushButtons
+			.addClass( 've-init-mw-viewPageTarget-toolbar-actions' )
+			.append( this.toolbarSaveButton.$element );
+	}
 
 	this.toolbar.$actions.append( $actionTools, $pushButtons );
 };

@@ -54,3 +54,18 @@ ve.init.wikia.activateToolbarABTest = function () {
 		window.optimizely.push( ['activate', optimizelyId] );
 	}
 };
+
+/**
+ * @returns {number} The A/B test variant number for the Simplified Publish Dialog A/B test
+ */
+ve.init.wikia.getPublishDialogABVariantNumber = function () {
+	// fixme: hardcoded for now
+	return 1;
+};
+
+/**
+ * Activates Simplified Publish Dialog A/B test
+ */
+ve.init.wikia.activatePublishDialogABVariantNumber = function () {
+	// fixme: create in optimizely and activate
+};

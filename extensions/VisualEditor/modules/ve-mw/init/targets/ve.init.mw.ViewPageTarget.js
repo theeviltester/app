@@ -857,11 +857,18 @@ ve.init.mw.ViewPageTarget.prototype.onNoChanges = function () {
  * @param {jQuery.Event} e Mouse click event
  */
 ve.init.mw.ViewPageTarget.prototype.onToolbarSaveButtonClick = function () {
-	/*
 	 if ( this.edited || this.restoring ) {
 	 	this.showSaveDialog();
 	 }
-	 */
+};
+
+/**
+ * Handle clicks on the save immediately button in the toolbar.
+ */
+ve.init.mw.ViewPageTarget.prototype.onToolbarSaveImmediatelyButtonClick = function () {
+	// FIXME: Start loading indicator
+	// stop again on
+	// mw.hook( 'postEdit' ).add(function() { });
 
 	this.toolbarSaveButton.setLabelContent("Saving");
 	var saveOptions = this.getSaveOptions();
@@ -1177,28 +1184,6 @@ ve.init.mw.ViewPageTarget.prototype.setupToolbarSaveButton = function () {
 		disabled: !this.restoring
 	} );
 
-	this.toolbarSaveDropdown = new OO.ui.ButtonWidget( {
-		icon: 'expand',
-		//icon: 'arrow-down',
-		flags: [ 'constructive', 'primary' ],
-		disabled: !this.restoring
-	} );
-
-	this.saveGroup = new OO.ui.ButtonGroupWidget( {
-			$: this.$,
-			classes: ['ve-ui-findAndReplaceDialog-cell'],
-			items: [
-				this.toolbarSaveButton,
-				this.toolbarSaveDropdown
-			]
-		} );
-
-	//this.toolbarSaveButton.$element.addClass( 'oo-ui-splitButton-left' );
-	//this.toolbarSaveDropdown.$element.addClass( 'oo-ui-splitButton-right' );
-	this.toolbarSaveButton.$element.children().addClass( 'oo-ui-splitButton-left' );
-	this.toolbarSaveDropdown.$element.children().addClass( 'oo-ui-splitButton-right' );
-
-
 	// NOTE (phuedx, 2014-08-20): This class is used by the firsteditve guided
 	// tour to attach a guider to the "Save page" button.
 	this.toolbarSaveButton.$element.addClass( 've-ui-toolbar-saveButton' );
@@ -1209,10 +1194,33 @@ ve.init.mw.ViewPageTarget.prototype.setupToolbarSaveButton = function () {
 		this.toolbarSaveButton.$button.attr( 'accesskey', ve.msg( 'accesskey-save' ) );
 	}
 
-	this.updateToolbarSaveButtonState();
+	if (ve.init.wikia.getPublishDialogABVariantNumber() === 1) {
+		this.toolbarSaveDropdown = new OO.ui.ButtonWidget( {
+			icon: 'expand',
+			flags: [ 'constructive', 'primary' ],
+			disabled: !this.restoring
+		} );
 
-	this.toolbarSaveButton.connect( this, { click: 'onToolbarSaveButtonClick' } );
-	this.toolbarSaveDropdown.connect( this, { click: 'onToolbarSaveDropdownClick' } );
+		this.saveGroup = new OO.ui.ButtonGroupWidget( {
+			$: this.$,
+			classes: ['ve-ui-findAndReplaceDialog-cell'],
+			items: [
+				this.toolbarSaveButton,
+				this.toolbarSaveDropdown
+			]
+		} );
+
+		this.toolbarSaveButton.$element.children().addClass( 'oo-ui-splitButton-left' );
+		this.toolbarSaveDropdown.$element.children().addClass( 'oo-ui-splitButton-right' );
+
+		this.toolbarSaveButton.connect( this, { click: 'onToolbarSaveImmediatelyButtonClick' } );
+		this.toolbarSaveDropdown.connect( this, { click: 'onToolbarSaveDropdownClick' } );
+	}
+	else {
+		this.toolbarSaveButton.connect( this, { click: 'onToolbarSaveButtonClick' } );
+	}
+
+	this.updateToolbarSaveButtonState();
 };
 
 /**

@@ -106,24 +106,6 @@
 
 <?= $nielsen ?>
 </body>
-<script src="/resources/sweetalert.js"></script>
-<link rel="stylesheet" href="/skins/oasis/css/sweetalert.css">
-<script>
-mw.hook( 'postEdit' ).add(function() {
-	swal({
-			title: "Thanks for the edit. Good job!",
-			text: "You might write summary of your edit, but only if you really want to",
-			type: "input",
-			showCancelButton: true,
-			closeOnConfirm: false,
-			inputPlaceholder: "Write something"
-		},
-		function(inputValue){
-			swal("Nice", "You wrote: " + inputValue, "success");
-		}
-	);
-});
-</script>
 <?= wfReportTime() . "\n" ?>
 <?= F::app()->renderView('Ad', 'Config') ?>
 

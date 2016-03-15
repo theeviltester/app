@@ -59,10 +59,10 @@ class FixedWidthDetector extends Maintenance {
 		if ( $article ) {
 			$content = $article->getContent();
 			preg_match_all( '/\.pi\-image/', $content, $matches );
-//			if ( !empty( $matches[0] ) ) {
+			if ( !empty( $matches[0] ) ) {
 				$rabbit->publish("infoboxes.fixed-width", ['cityId' => $wgCityId, 'file' => $stylesheet, 'match' => $matches[0]]);
 				echo sprintf( "%-90s, Lines: %10s\n", $title->getFullUrl(), count( $matches[0] ) );
-//			}
+			}
 		}
 	}
 

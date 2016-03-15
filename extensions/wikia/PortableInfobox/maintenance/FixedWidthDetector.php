@@ -30,26 +30,27 @@ class FixedWidthDetector extends Maintenance {
 		foreach ($stylesheets as $stylesheet) {
 			$title = Title::newFromText($stylesheet, NS_MEDIAWIKI);
 
-			$this->processArticleFromTitle($title);
+			$this->processArticleFromTitle($title, $stylesheet);
 
 			$subpages = $title->getSubpages();
 			foreach ($subpages as $subpage) {
-				$this->communityCount += $this->processArticleFromTitle($subpage);
+				$this->processArticleFromTitle($subpage, $stylesheet);
 			}
 		}
 
 	}
 
-	private function processArticleFromTitle( $title ) {
+	private function processArticleFromTitle( $title, $stylesheet ) {
 		global $wgCityId, $wgServer, $wgRabbitPass, $wgRabbitUser;
 
 		$rabbitCredentials = [
-			'host' => 'prod.rabbit.service.sjc.consul',
+			'host' => 'dev.rabbit.service.sjc-dev.consul',
 			'port' => 5672,
 			'user' => $wgRabbitUser,
 			'pass' => $wgRabbitPass,
 			'vhost' => 'events',
-			'exchange' => 'events'
+			'exchange' => 'events',
+			'deadExchange' => 'zombie.0.1'
 		];
 
 		$rabbit = new \Wikia\IndexingPipeline\ConnectionBase($rabbitCredentials);
@@ -58,18 +59,17 @@ class FixedWidthDetector extends Maintenance {
 		if ( $article ) {
 			$content = $article->getContent();
 			preg_match_all( '/\.pi\-image/', $content, $matches );
-			if ( !empty( $matches[0] ) ) {
-				$rabbit->publish("infoboxes.fixed-width", ['cityId' => $wgCityId, 'match' => $matches[0]]);
+//			if ( !empty( $matches[0] ) ) {
+				$rabbit->publish("infoboxes.fixed-width", ['cityId' => $wgCityId, 'file' => $stylesheet, 'match' => $matches[0]]);
 				echo sprintf( "%-90s, Lines: %10s\n", $title->getFullUrl(), count( $matches[0] ) );
-			}
-			return !empty( $matches[0]);
+//			}
 		}
-		return false;
 	}
 
 	private function isPublic() {
 		global $wgCityId;
-		$dbr = wfGetDB(DB_SLAVE);
+		global $wgExternalSharedDB;
+		$dbr = wfGetDB(DB_SLAVE, array(), $wgExternalSharedDB);
 
 		$sql = 'SELECT city_public FROM city_list
 				WHERE city_id='.$wgCityId;

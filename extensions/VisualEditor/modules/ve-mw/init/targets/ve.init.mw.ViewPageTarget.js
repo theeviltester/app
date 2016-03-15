@@ -888,7 +888,7 @@ ve.init.mw.ViewPageTarget.prototype.onToolbarSaveImmediatelyButtonClick = functi
  *
  */
 ve.init.mw.ViewPageTarget.prototype.onToolbarSaveDropdownClick = function () {
-	console.log("onToolbarSaveDropdownClick");
+	console.log('ve.init.mw.ViewPageTarget.prototype.onToolbarSaveDropdownClick');
 
 	//this.getSurface().getDialogs().openWindow( 'wikiaVideoInsert' );
 	//this.getSurface().getDialogs().openWindow( 'wikitextswitchconfirm', { target: this } );
@@ -897,10 +897,107 @@ ve.init.mw.ViewPageTarget.prototype.onToolbarSaveDropdownClick = function () {
 	//this.getSurface().open( 'wikiaEditDetails' );
 
 
-	var surface = this.getSurface();
+	//var surface = this.getSurface();
 	//surface.execute( 'window', 'open', 'wikiaEditDetails' );
-	surface.execute( 'window', 'open', 'link' );
+	//surface.execute( 'window', 'open', 'link' );
+
+	this.getSurface().getDialogs().getWindow( 'wikiaEditDetails' ).then( function ( win ) {
+		var currentWindow = this.getSurface().getContext().getInspectors().getCurrentWindow(),
+			target = this;
+
+		console.log(win);
+
+		if ( !this.editDetailsDialog ) {
+			this.editDetailsDialog = win;
+
+			/*
+			 // Connect to save dialog
+			 this.saveDialog.connect( this, {
+			 save: 'saveDocument',
+			 review: 'onSaveDialogReview',
+			 resolve: 'onSaveDialogResolveConflict',
+			 retry: 'onSaveRetry'
+			 } );
+			 */
+
+			this.editDetailsDialog.connect( this, {
+				save: 'saveImmediately',
+			} );
+
+		}
+
+		this.getSurface().getDialogs().openWindow(
+			this.editDetailsDialog,
+			{ dir: this.getSurface().getModel().getDocument().getLang() }
+		)
+			// Call onEditDetailsDialogClose() when the dialog starts closing
+			.done( function ( opened ) {
+				opened.always( target.onEditDetailsDialogClose.bind( target ) );
+			} );
+
+
+	}.bind( this ) );
+
 };
+
+ve.init.mw.ViewPageTarget.prototype.onEditDetailsDialogClose = function () {
+	console.log('ve.init.mw.ViewPageTarget.prototype.onEditDetailsDialogClose');
+};
+
+
+ve.init.mw.ViewPageTarget.prototype.saveImmediately = function ( saveDeferred ) {
+	console.log('ve.init.mw.ViewPageTarget.prototype.saveImmediately');
+	console.log(saveDeferred);
+};
+
+/*
+ve.init.mw.ViewPageTarget.prototype.showSaveDialog = function () {
+	console.log('ve.init.mw.ViewPageTarget.prototype.showSaveDialog');
+
+	this.emit( 'saveWorkflowBegin' );
+	this.getSurface().getDialogs().getWindow( 'mwSave' ).then( function ( win ) {
+		var currentWindow = this.getSurface().getContext().getInspectors().getCurrentWindow(),
+			target = this;
+		this.origSelection = this.getSurface().getModel().getSelection();
+
+		// Make sure any open inspectors are closed
+		if ( currentWindow ) {
+			currentWindow.close();
+		}
+
+		// Preload the serialization
+		if ( !this.docToSave ) {
+			this.docToSave = ve.dm.converter.getDomFromModel( this.getSurface().getModel().getDocument() );
+		}
+		this.prepareCacheKey( this.docToSave );
+
+		if ( !this.saveDialog ) {
+			this.saveDialog = win;
+
+			// Connect to save dialog
+			this.saveDialog.connect( this, {
+				save: 'saveDocument',
+				review: 'onSaveDialogReview',
+				resolve: 'onSaveDialogResolveConflict',
+				retry: 'onSaveRetry'
+			} );
+			// Setup edit summary and checkboxes
+			this.saveDialog.setEditSummary( this.initialEditSummary );
+			this.saveDialog.setupCheckboxes( this.$checkboxes );
+		}
+
+		this.saveDialog.setSanityCheck( this.sanityCheckVerified );
+		this.getSurface().getDialogs().openWindow(
+			this.saveDialog,
+			{ dir: this.getSurface().getModel().getDocument().getLang() }
+		)
+			// Call onSaveDialogClose() when the save dialog starts closing
+			.done( function ( opened ) {
+				opened.always( target.onSaveDialogClose.bind( target ) );
+			} );
+	}.bind( this ) );
+};
+*/
 
 /**
  * Handle clicks on the MwMeta button in the toolbar.
@@ -1331,6 +1428,8 @@ ve.init.mw.ViewPageTarget.prototype.showSaveDialog = function () {
  * @fires saveWorkflowEnd
  */
 ve.init.mw.ViewPageTarget.prototype.onSaveDialogClose = function () {
+	console.log('ve.init.mw.ViewPageTarget.prototype.onSaveDialogClose');
+
 	// Clear the cached HTML and cache key once the document changes
 	var clear = function () {
 		this.docToSave = null;

@@ -60,8 +60,8 @@ ve.init.wikia.activateToolbarABTest = function () {
  */
 ve.init.wikia.getPublishDialogABVariantNumber = function () {
 	// fixme: hardcoded for now
-	//return 1;
-	return 0;
+	return 1;
+	//return 0;
 };
 
 /**

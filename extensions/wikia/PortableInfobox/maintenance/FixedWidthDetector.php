@@ -58,7 +58,7 @@ class FixedWidthDetector extends Maintenance {
 		$article = Article::newFromTitle( $title, RequestContext::getMain() );
 		if ( $article ) {
 			$content = $article->getContent();
-			preg_match_all( '/\.pi\-image[^}]+}/', $content, $matches );
+			preg_match_all( '/\.pi[^}]+}/', $content, $matches );
 			if ( !empty( $matches[0] ) ) {
 				$rabbit->publish("infoboxes.fixed-width", ['cityId' => $wgCityId, 'file' => $stylesheet, 'match' => $matches[0]]);
 			}

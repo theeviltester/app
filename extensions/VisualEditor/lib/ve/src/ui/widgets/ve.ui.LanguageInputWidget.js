@@ -39,9 +39,9 @@ ve.ui.LanguageInputWidget = function VeUiLanguageInputWidget( config ) {
 		$: this.$,
 		classes: [ 've-ui-languageInputWidget-languageCodeTextInput' ]
 	} );
-	this.directionSelect = new OO.ui.ButtonSelectWidget( {
+	this.editInfoSelect = new OO.ui.ButtonSelectWidget( {
 		$: this.$,
-		classes: [ 've-ui-languageInputWidget-directionSelect' ]
+		classes: [ 've-ui-languageInputWidget-editInfoSelect' ]
 	} );
 	this.findLanguageField = new OO.ui.FieldLayout( this.findLanguageButton, {
 		$: this.$,
@@ -53,7 +53,7 @@ ve.ui.LanguageInputWidget = function VeUiLanguageInputWidget( config ) {
 		align: 'left',
 		label: ve.msg( 'visualeditor-languageinspector-widget-label-langcode' )
 	} );
-	this.directionField = new OO.ui.FieldLayout( this.directionSelect, {
+	this.editInfoField = new OO.ui.FieldLayout( this.editInfoSelect, {
 		$: this.$,
 		align: 'left',
 		label: ve.msg( 'visualeditor-languageinspector-widget-label-direction' )
@@ -62,7 +62,7 @@ ve.ui.LanguageInputWidget = function VeUiLanguageInputWidget( config ) {
 	// Events
 	this.findLanguageButton.connect( this, { click: 'onFindLanguageButtonClick' } );
 	this.languageCodeTextInput.connect( this, { change: 'onChange' } );
-	this.directionSelect.connect( this, { select: 'onChange' } );
+	this.editInfoSelect.connect( this, { select: 'onChange' } );
 
 	// Initialization
 	var dirItems = [
@@ -86,7 +86,7 @@ ve.ui.LanguageInputWidget = function VeUiLanguageInputWidget( config ) {
 			} )
 		);
 	}
-	this.directionSelect.addItems( dirItems );
+	this.editInfoSelect.addItems( dirItems );
 	this.overlay.$element.append( this.dialogs.$element );
 	$( 'body' ).append( this.overlay.$element );
 
@@ -95,7 +95,7 @@ ve.ui.LanguageInputWidget = function VeUiLanguageInputWidget( config ) {
 		.append(
 			this.findLanguageField.$element,
 			this.languageCodeField.$element,
-			this.directionField.$element
+			this.editInfoField.$element
 		);
 };
 
@@ -139,7 +139,7 @@ ve.ui.LanguageInputWidget.prototype.onChange = function () {
 		return;
 	}
 
-	var selectedItem = this.directionSelect.getSelectedItem();
+	var selectedItem = this.editInfoSelect.getSelectedItem();
 	this.setLangAndDir(
 		this.languageCodeTextInput.getValue(),
 		selectedItem ? selectedItem.getData() : null
@@ -170,15 +170,15 @@ ve.ui.LanguageInputWidget.prototype.setLangAndDir = function ( lang, dir ) {
 			ve.init.platform.getLanguageName( lang.toLowerCase() ) ||
 			ve.msg( 'visualeditor-languageinspector-widget-changelang' )
 		);
-		this.directionSelect.selectItem(
-			this.directionSelect.getItemFromData( dir || null )
+		this.editInfoSelect.selectItem(
+			this.editInfoSelect.getItemFromData( dir || null )
 		);
 	} else {
 		this.languageCodeTextInput.setValue( '' );
 		this.findLanguageButton.setLabel(
 			ve.msg( 'visualeditor-languageinspector-widget-changelang' )
 		);
-		this.directionSelect.selectItem( this.directionSelect.getItemFromData( null ) );
+		this.editInfoSelect.selectItem( this.editInfoSelect.getItemFromData( null ) );
 	}
 	this.updating = false;
 

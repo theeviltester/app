@@ -18,11 +18,11 @@ ve.ui.WikiaEditDetailsDialog = function VeUiMWEditDetailsPopupDialog( config ) {
 
 /* Inheritance */
 
-//OO.inheritClass( ve.ui.WikiaEditDetailsDialog, ve.ui.WikiaMediaInsertDialog );
 OO.inheritClass( ve.ui.WikiaEditDetailsDialog, OO.ui.ProcessDialog );
-//OO.inheritClass( ve.ui.WikiaEditDetailsDialog, ve.ui.MWSaveDialog );
-//OO.inheritClass( ve.ui.WikiaEditDetailsDialog, OO.ui.InputWidget );
+//OO.inheritClass( ve.ui.WikiaEditDetailsDialog, OO.ui.PopupWidget );
 
+/*
+// fixme: Move these to be buttons inside the dialog
 ve.ui.WikiaEditDetailsDialog.static.actions = [
 	{
 		action: 'save',
@@ -38,6 +38,7 @@ ve.ui.WikiaEditDetailsDialog.static.actions = [
 		label: 'CANCEL'
 	}
 ];
+*/
 
 
 /* Static Properties */
@@ -55,80 +56,101 @@ ve.ui.WikiaEditDetailsDialog.static.trackingLabel = 'dialog-edit-details';
  * @inheritdoc
  */
 ve.ui.WikiaEditDetailsDialog.prototype.initialize = function () {
+	var editInfoItems, item, i;
+
 	console.log('ve.ui.WikiaEditDetailsDialog.prototype.initialize');
 
 	// Parent method
 	ve.ui.WikiaEditDetailsDialog.super.prototype.initialize.call( this );
 
-
 	// Properties
 	this.$items = this.$( '<div>' );
-	this.feedback = null;
-	this.helpButton = new OO.ui.ButtonWidget( {
+
+	this.editInfoSelect = new OO.ui.RadioSelectWidget( {
 		$: this.$,
-		framed: false,
-		icon: 'help',
-		title: ve.msg( 'visualeditor-help-title' ),
-		href: new mw.Title( ve.msg( 'visualeditor-help-link' ) ).getUrl(),
-		target: '_blank',
-		label: ve.msg( 'visualeditor-help-label' )
-	} );
-	this.keyboardShortcutsButton = new OO.ui.ButtonWidget( {
-		$: this.$,
-		framed: false,
-		icon: 'help',
-		label: ve.msg( 'visualeditor-dialog-command-help-title' )
-	} );
-	this.feedbackButton = new OO.ui.ButtonWidget( {
-		$: this.$,
-		framed: false,
-		icon: 'comment',
-		label: ve.msg( 'visualeditor-feedback-tool' )
 	} );
 
-	// Events
-	//this.feedbackButton.connect( this, { click: 'onFeedbackClick' } );
-	//this.keyboardShortcutsButton.connect( this, { click: 'onKeyboardShortcutsClick' } );
+	this.editInfoField = new OO.ui.FieldLayout( this.editInfoSelect, {
+		$: this.$,
+		align: 'left',
+	} );
+
+	editInfoItems = [
+		new OO.ui.RadioOptionWidget( {
+			$: this.$,
+			data: 'minor',
+			label: 'Minor Text Edit' // fixme: TEXT
+		} ),
+		new OO.ui.RadioOptionWidget( {
+			$: this.$,
+			data: 'fixed',
+			label: 'Fixed Incorrect Information'  // fixme: TEXT
+		} ),
+		new OO.ui.RadioOptionWidget( {
+			$: this.$,
+			data: 'added',
+			label: 'Added New Information' // fixme: TEXT
+		} ),
+		new OO.ui.RadioOptionWidget( {
+			$: this.$,
+			data: 'other',
+			label: 'Other'  // fixme: TEXT
+		} )
+	];
+
+	// Remove default box-shadow border around option radio buttons
+	for (i = 0; i < editInfoItems.length; i++) {
+		editInfoItems[i].$element.children().addClass( 've-ui-wikiaEditInfoFieldOption' );
+		editInfoItems[i].$element.children().removeClass( 'oo-ui-inputWidget' );
+	}
+
+	//this.$element.addClass( 'oo-ui-inputWidget' ).append( this.$input, $( '<span>' ) );
+
+	this.editInfoSelect.addItems( editInfoItems );
+
+	item = this.editInfoSelect.getFirstSelectableItem();
+	this.editInfoSelect.selectItem( item );
+
+	this.editInfoField.$element.addClass( 've-ui-wikiaEditInfoField' );
+
+	this.editInfoTextInput = new OO.ui.TextInputWidget( { $: this.$ } );
+
+	/*
+	this.popup = new ve.ui.MWCategoryPopupWidget( {
+		$: this.$
+	} );
+	*/
+
+	this.editInfoTextField = new OO.ui.FieldLayout( this.editInfoTextInput, {
+		$: this.$,
+	} );
+
+	this.$editInfoTextForm = this.$( '<form>' ).addClass( 've-ui-mwCategoryPopupWidget-sortKeyForm' )
+		.append( this.editInfoTextField.$element );
+
+	this.saveButton = new OO.ui.ButtonWidget( {
+		$: this.$,
+		label: 'SAVE PAGE' // fixme: TEXT
+	} );
+
+	this.saveButton.connect( this, { click: 'onSaveButtonClick' } );
 
 	// Initialization
 	this.$items
-		.addClass( 've-ui-mwHelpPopupTool-items' )
+		.addClass( 've-ui-wikiaEditDetails' )
+		.append(
+		this.$( '<span>' )
+			.addClass( 've-ui-wikiaVideoOptionWidget-duration' )
+			.text( 'Tell us about the changes you made' )// fixme: TEXT
+		)
 		.append(
 		this.$( '<div>' )
-			.addClass( 've-ui-mwHelpPopupTool-item' )
-			.text( ve.msg( 'visualeditor-beta-warning' ) )
-	)
-		.append(
-		this.$( '<div>' )
-			.addClass( 've-ui-mwHelpPopupTool-item' )
-			.append( this.helpButton.$element )
-			.append( this.keyboardShortcutsButton.$element )
-			.append( this.feedbackButton.$element )
+			//.addClass( 've-ui-mwHelpPopupTool-item' ) // FIXME: make new class (padding)
+			.append( this.editInfoField.$element )
+			.append( this.$editInfoTextForm )
+			.append( this.saveButton.$element )
+			//.append( this.popup.$element )
 	);
-	if ( ve.version.id !== false ) {
-		this.$items
-			.append( this.$( '<div>' )
-				.addClass( 've-ui-mwHelpPopupTool-item' )
-				.append( this.$( '<span>' )
-					.addClass( 've-ui-mwHelpPopupTool-version-label' )
-					.text( ve.msg( 'visualeditor-version-label' ) )
-			)
-				.append( ' ' )
-				.append( this.$( '<a>' )
-					.addClass( 've-ui-mwHelpPopupTool-version-link' )
-					.attr( 'target', '_blank' )
-					.attr( 'href', ve.version.url )
-					.text( ve.version.id )
-			)
-				.append( ' ' )
-				.append( this.$( '<span>' )
-					.addClass( 've-ui-mwHelpPopupTool-version-date' )
-					.text( ve.version.dateString )
-			)
-		);
-	}
-
-	//this.$items.find( 'a' ).attr( 'target', '_blank' );
 
 	this.$body.append( this.$items );
 };
@@ -138,6 +160,7 @@ ve.ui.WikiaEditDetailsDialog.prototype.createDialogContent = function ( data ) {
 	console.log(data);
 };
 
+// Fixme: not in use any more (?)
 ve.ui.WikiaEditDetailsDialog.prototype.getActionProcess = function ( action ) {
 	console.log('ve.ui.WikiaEditDetailsDialog.prototype.getActionProcess');
 	console.log(action);
@@ -154,6 +177,11 @@ ve.ui.WikiaEditDetailsDialog.prototype.getActionProcess = function ( action ) {
 	}
 
 	return ve.ui.WikiaEditDetailsDialog.super.prototype.getActionProcess.call( this, action );
+};
+
+OO.ui.ProcessDialog.prototype.onSaveButtonClick = function () {
+	console.log( 'OO.ui.ProcessDialog.prototype.onSaveButtonClick' );
+	this.close( { action: null } );
 };
 
 ve.ui.windowFactory.register( ve.ui.WikiaEditDetailsDialog );

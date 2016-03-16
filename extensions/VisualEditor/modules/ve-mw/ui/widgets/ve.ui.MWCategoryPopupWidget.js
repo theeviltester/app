@@ -33,19 +33,19 @@ ve.ui.MWCategoryPopupWidget = function VeUiMWCategoryPopupWidget( config ) {
 		icon: 'remove',
 		title: ve.msg( 'visualeditor-inspector-remove-tooltip' )
 	} );
-	this.sortKeyInput = new OO.ui.TextInputWidget( { $: this.$ } );
-	this.sortKeyField = new OO.ui.FieldLayout( this.sortKeyInput, {
+	this.editInfoTextInput = new OO.ui.TextInputWidget( { $: this.$ } );
+	this.editInfoTextField = new OO.ui.FieldLayout( this.editInfoTextInput, {
 		$: this.$,
 		align: 'top',
 		label: ve.msg ( 'visualeditor-dialog-meta-categories-sortkey-label' )
 	} );
-	this.$sortKeyForm = this.$( '<form>' ).addClass( 've-ui-mwCategoryPopupWidget-sortKeyForm' )
-		.append( this.sortKeyField.$element );
+	this.$editInfoTextForm = this.$( '<form>' ).addClass( 've-ui-mwCategoryPopupWidget-sortKeyForm' )
+		.append( this.editInfoTextField.$element );
 
 	// Events
 	this.connect( this, { toggle: 'onToggle' } );
 	this.removeButton.connect( this, { click: 'onRemoveCategory' } );
-	this.$sortKeyForm.on( 'submit', this.onSortKeySubmit.bind( this ) );
+	this.$editInfoTextForm.on( 'submit', this.onSortKeySubmit.bind( this ) );
 
 	// Initialization
 	this.$element.addClass( 've-ui-mwCategoryPopupWidget' ).hide();
@@ -59,7 +59,7 @@ ve.ui.MWCategoryPopupWidget = function VeUiMWCategoryPopupWidget( config ) {
 			this.$title,
 			this.$hiddenStatus,
 			this.removeButton.$element.addClass( 've-ui-mwCategoryPopupWidget-removeButton' ),
-			this.$sortKeyForm
+			this.$editInfoTextForm
 		);
 	this.$body.append( this.$menu );
 };
@@ -131,9 +131,9 @@ ve.ui.MWCategoryPopupWidget.prototype.onToggle = function ( show ) {
 	if ( show ) {
 		return;
 	}
-	var newSortkey = this.sortKeyInput.$input.val();
+	var newSortkey = this.editInfoTextInput.$input.val();
 	if ( !this.removed && newSortkey !== ( this.origSortkey || '' ) ) {
-		this.emit( 'updateSortkey', this.category, this.sortKeyInput.$input.val() );
+		this.emit( 'updateSortkey', this.category, this.editInfoTextInput.$input.val() );
 	}
 };
 
@@ -152,7 +152,7 @@ ve.ui.MWCategoryPopupWidget.prototype.loadCategoryIntoPopup = function ( item ) 
 	} else {
 		this.$hiddenStatus.empty();
 	}
-	this.sortKeyInput.$input.val( item.sortKey );
+	this.editInfoTextInput.$input.val( item.sortKey );
 };
 
 /**
@@ -172,7 +172,7 @@ ve.ui.MWCategoryPopupWidget.prototype.closePopup = function () {
  * @param {string} value Default sort key value
  */
 ve.ui.MWCategoryPopupWidget.prototype.setDefaultSortKey = function ( value ) {
-	this.sortKeyInput.$input.attr( 'placeholder', value );
+	this.editInfoTextInput.$input.attr( 'placeholder', value );
 };
 
 /**

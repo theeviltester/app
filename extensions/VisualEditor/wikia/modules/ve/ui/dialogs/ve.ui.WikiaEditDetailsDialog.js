@@ -45,8 +45,7 @@ ve.ui.WikiaEditDetailsDialog.static.actions = [
 
 ve.ui.WikiaEditDetailsDialog.static.name = 'wikiaEditDetails';
 
-//ve.ui.WikiaEditDetailsDialog.static.title = OO.ui.deferMsg( 'visualeditor-dialog-video-insert-title' );
-ve.ui.WikiaEditDetailsDialog.static.title = 'Save Details';
+ve.ui.WikiaEditDetailsDialog.static.title = OO.ui.deferMsg( 'visualeditor-editdetailsdialog-title' );
 
 ve.ui.WikiaEditDetailsDialog.static.trackingLabel = 'dialog-edit-details';
 

@@ -940,6 +940,7 @@ $wgResourceModules += array(
 			'visualeditor-savedialog-title-nochanges',
 			'visualeditor-savedialog-title-review',
 			'visualeditor-savedialog-title-save',
+			'visualeditor-editdetailsdialog-title',
 			'visualeditor-savedialog-warning-dirty',
 			'visualeditor-saveerror',
 			'visualeditor-serializeerror',

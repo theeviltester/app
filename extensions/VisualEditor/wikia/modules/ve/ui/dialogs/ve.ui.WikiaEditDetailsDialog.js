@@ -115,6 +115,8 @@ ve.ui.WikiaEditDetailsDialog.prototype.initialize = function () {
 
 	this.editInfoTextInput = new OO.ui.TextInputWidget( { $: this.$ } );
 
+	this.editInfoTextInput.connect( this, { click: 'onActivateEditField'});
+
 	/*
 	this.popup = new ve.ui.MWCategoryPopupWidget( {
 		$: this.$
@@ -180,8 +182,24 @@ ve.ui.WikiaEditDetailsDialog.prototype.getActionProcess = function ( action ) {
 };
 
 OO.ui.ProcessDialog.prototype.onSaveButtonClick = function () {
+	var selectionText, selected = this.editInfoSelect.getSelectedItem();
+
+	if (selected.getData() === 'other') {
+		// fixme: What if other is selected but there is no text in the text box?
+		selectionText = this.editInfoTextInput.getValue();
+	} else {
+		selectionText = selected.getLabel();
+	}
+
 	console.log( 'OO.ui.ProcessDialog.prototype.onSaveButtonClick' );
-	this.close( { action: null } );
+	console.log(selectionText);
+
+	// fixme: figure out how to send the result of the dialog back to ve.init.mwViewPageTarget.js handler
+	this.close( { summaryText: selectionText } );
+};
+
+OO.ui.ProcessDialog.prototype.onActivateEditField = function () {
+	console.log ( 'OO.ui.ProcessDialog.prototype.onActivateEditField' );
 };
 
 ve.ui.windowFactory.register( ve.ui.WikiaEditDetailsDialog );

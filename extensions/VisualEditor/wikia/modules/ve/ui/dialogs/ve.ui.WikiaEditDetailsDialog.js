@@ -78,22 +78,22 @@ ve.ui.WikiaEditDetailsDialog.prototype.initialize = function () {
 		new OO.ui.RadioOptionWidget( {
 			$: this.$,
 			data: 'minor',
-			label: 'Minor Text Edit' // fixme: TEXT
+			label: OO.ui.deferMsg( 'visualeditor-editdetailsdialog-option-minor' )
 		} ),
 		new OO.ui.RadioOptionWidget( {
 			$: this.$,
 			data: 'fixed',
-			label: 'Fixed Incorrect Information'  // fixme: TEXT
+			label: OO.ui.deferMsg( 'visualeditor-editdetailsdialog-option-fixed' )
 		} ),
 		new OO.ui.RadioOptionWidget( {
 			$: this.$,
 			data: 'added',
-			label: 'Added New Information' // fixme: TEXT
+			label: OO.ui.deferMsg( 'visualeditor-editdetailsdialog-option-info' )
 		} ),
 		new OO.ui.RadioOptionWidget( {
 			$: this.$,
 			data: 'other',
-			label: 'Other'  // fixme: TEXT
+			label: OO.ui.deferMsg( 'visualeditor-editdetailsdialog-option-other' )
 		} )
 	];
 
@@ -131,7 +131,7 @@ ve.ui.WikiaEditDetailsDialog.prototype.initialize = function () {
 
 	this.saveButton = new OO.ui.ButtonWidget( {
 		$: this.$,
-		label: 'SAVE PAGE' // fixme: TEXT
+		label: OO.ui.deferMsg( 'visualeditor-savedialog-label-save' )
 	} );
 
 	this.saveButton.connect( this, { click: 'onSaveButtonClick' } );
@@ -142,11 +142,10 @@ ve.ui.WikiaEditDetailsDialog.prototype.initialize = function () {
 		.append(
 		this.$( '<span>' )
 			.addClass( 've-ui-wikiaVideoOptionWidget-duration' )
-			.text( 'Tell us about the changes you made' )// fixme: TEXT
+			.text( OO.ui.deferMsg( 'visualeditor-editdetailsdialog-describe' ) )
 		)
 		.append(
 		this.$( '<div>' )
-			//.addClass( 've-ui-mwHelpPopupTool-item' ) // FIXME: make new class (padding)
 			.append( this.editInfoField.$element )
 			.append( this.$editInfoTextForm )
 			.append( this.saveButton.$element )

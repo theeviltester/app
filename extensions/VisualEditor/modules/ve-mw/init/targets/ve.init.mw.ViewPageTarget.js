@@ -890,17 +890,6 @@ ve.init.mw.ViewPageTarget.prototype.onToolbarSaveImmediatelyButtonClick = functi
 ve.init.mw.ViewPageTarget.prototype.onToolbarSaveDropdownClick = function () {
 	console.log('ve.init.mw.ViewPageTarget.prototype.onToolbarSaveDropdownClick');
 
-	//this.getSurface().getDialogs().openWindow( 'wikiaVideoInsert' );
-	//this.getSurface().getDialogs().openWindow( 'wikitextswitchconfirm', { target: this } );
-	//this.getSurface().getDialogs().openWindow( 'betaWelcome' );
-	//this.getSurface().getDialogs().openWindow( 'wikiaEditDetails' );
-	//this.getSurface().open( 'wikiaEditDetails' );
-
-
-	//var surface = this.getSurface();
-	//surface.execute( 'window', 'open', 'wikiaEditDetails' );
-	//surface.execute( 'window', 'open', 'link' );
-
 	this.getSurface().getDialogs().getWindow( 'wikiaEditDetails' ).then( function ( win ) {
 		var currentWindow = this.getSurface().getContext().getInspectors().getCurrentWindow(),
 			target = this;

@@ -105,6 +105,10 @@
 <?= $bottomScripts ?>
 
 <?= $nielsen ?>
+
+<!-- fixme: This should be moved to a template, or inside VE as a Widget -->
+
+
 </body>
 <?= wfReportTime() . "\n" ?>
 <?= F::app()->renderView('Ad', 'Config') ?>

@@ -5,6 +5,48 @@ use Wikia\Interfaces\IRequest;
 class UserFeedbackStorageApiController extends WikiaApiController {
 	const FEEDBACK_TABLE_NAME = 'experiments_user_feedback';
 
+	private static $experiments = [
+		'infobox' => 'INFOBOX_BASED_QUESTIONS',
+		'satisfaction' => 'USER_SATISFACTION_FEEDBACK',
+	];
+
+	/**
+	 * @requestParam string experiment Either infobox or satisfaction
+	 */
+	public function getUserFeedback() {
+		$currentUser = $this->getContext()->getUser();
+		if ( in_array( 'util', $currentUser->getGroups() ) ) {
+			$request = $this->getRequest();
+			$experiment = $request->getVal( 'experiment' , false );
+
+			$dbr = $this->getDatabaseForRead();
+			$conditions = [];
+			if ( isset( self::$experiments[$experiment] ) ) {
+				$conditions['experiment_id'] = self::$experiments[$experiment];
+			} else {
+				$experiment = 'all';
+			}
+
+			$results = $dbr->select( self::FEEDBACK_TABLE_NAME, '*', $conditions, __METHOD__ );
+			$feedback = [];
+			while ( $row = $results->fetchObject() ) {
+				$feedback[] = get_object_vars( $row );
+			}
+
+			$this->response->setHeader( 'Content-Type', 'text/csv' );
+			$this->response->setHeader( 'Content-Disposition', "attachment; filename=feedbackReport-{$experiment}.csv" );
+			$this->response->setHeader( 'Cache-Control', 'no-cache, no-store, must-revalidate' );
+			$this->response->setHeader( 'Pragma', 'no-cache' );
+			$this->response->setHeader( 'Expires', '0' );
+
+			$output = fopen('php://output', 'w');
+			foreach ( $feedback as $row ) {
+				fputcsv( $output, $row, '^' );
+			}
+			fclose( $output );
+		}
+	}
+
 	/**
 	 * Saves user feedback to a temporary table in the portable_flags db
 	 *
@@ -80,6 +122,15 @@ class UserFeedbackStorageApiController extends WikiaApiController {
 			];
 
 		return $requestParams;
+	}
+
+	/**
+	 * @return DatabaseMysqli
+	 */
+	private function getDatabaseForRead() {
+		global $wgFlagsDB;
+
+		return wfGetDB( DB_SLAVE, [], $wgFlagsDB );
 	}
 
 	/**

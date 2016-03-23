@@ -31,6 +31,7 @@ class DumpStarters extends Maintenance {
 		'externallinks',
 		'langlinks',
 		'pagelinks',
+		'querycache',
 		'templatelinks',
 	];
 

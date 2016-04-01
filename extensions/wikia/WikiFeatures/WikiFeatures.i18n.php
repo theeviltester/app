@@ -1231,8 +1231,8 @@ $messages['pl'] = array(
 	'action-wikifeaturesview' => 'zobacz Rozszerzenia Wiki',
 	'wikifeatures-feature-heading-wgDisableAnonymousEditing' => 'Należy być zalogowanym, aby edytować',
 	'wikifeatures-feature-description-wgDisableAnonymousEditing' => 'Czy chcesz, żeby wszyscy użytkownicy Twojej wikii byli zalogowani, aby móc edytować? Kiedy ta funkcja jest włączona, osoby odwiedzające stronę anonimowo nie mogą edytować stron, komentować treści na stronie, udzielać się na forum ani na tablicach użytkowników, bez uprzedniego zalogowania. Każdy ciągle może utworzyć konto na Wikii i dołączyć do Twojej społeczności!',
-	'wikifeatures-feature-heading-wgEnablePortableInfoboxEuropaTheme' => 'Motyw kolorystyczny Europa dla infoboksów',
-	'wikifeatures-feature-description-wgEnablePortableInfoboxEuropaTheme' => "Włącz nowy motyw kolorystyczny Europa dla infoboksów na swojej wiki aby wykorzystać w pełni kolory zdefiniowane w Kreatorze Motywu!",
+	'wikifeatures-feature-heading-wgEnablePortableInfoboxEuropaTheme' => 'Szablon Infoboks Europa',
+	'wikifeatures-feature-description-wgEnablePortableInfoboxEuropaTheme' => 'Aktywuj nowy wygląd swoich infoboksów, aby w pełni korzystać z kolorystyki twojej wiki!',
 );
 
 /** Pashto (پښتو)

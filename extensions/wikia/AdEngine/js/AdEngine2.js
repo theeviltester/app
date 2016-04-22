@@ -6,6 +6,7 @@ define('ext.wikia.adEngine.adEngine', [
 	'ext.wikia.adEngine.slotTracker',
 	'ext.wikia.adEngine.slotTweaker',
 	'ext.wikia.adEngine.utils.hooks',
+	'ext.wikia.adEngine.adTracker',
 	'wikia.document',
 	'wikia.lazyqueue',
 	'wikia.log'
@@ -16,6 +17,7 @@ define('ext.wikia.adEngine.adEngine', [
 	slotTracker,
 	slotTweaker,
 	registerHooks,
+	adTracker,
 	doc,
 	lazyQueue,
 	log
@@ -108,6 +110,8 @@ define('ext.wikia.adEngine.adEngine', [
 
 	function run(adConfig, adslots, queueName) {
 		log(['run', adslots, queueName], 'debug', logGroup);
+
+		adTracker.measureTime('adengine.init', queueName).track();
 
 		function fillInSlotUsingProvider(queuedSlot, provider, nextProvider) {
 			log(['fillInSlotUsingProvider', provider.name, queuedSlot], 'debug', logGroup);

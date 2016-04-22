@@ -111,7 +111,7 @@ define('ext.wikia.adEngine.adEngine', [
 	function run(adConfig, adslots, queueName) {
 		log(['run', adslots, queueName], 'debug', logGroup);
 
-		adTracker.measureTime('adengine.init', queueName).track();
+		adTracker.measureTime('adengine.run', queueName).track();
 
 		function fillInSlotUsingProvider(queuedSlot, provider, nextProvider) {
 			log(['fillInSlotUsingProvider', provider.name, queuedSlot], 'debug', logGroup);

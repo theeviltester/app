@@ -23,6 +23,8 @@ define('ext.wikia.adEngine.adEngineRunner', [
 			enabledBidders = [],
 			startedByBidders = false;
 
+		adTracker.measureTime('adengine.delayedRun').track();
+		
 		/**
 		 * Mark bidder as responded and trigger run if all bidders already responded
 		 *

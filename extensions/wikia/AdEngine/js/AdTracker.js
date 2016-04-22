@@ -105,6 +105,10 @@ define('ext.wikia.adEngine.adTracker', ['wikia.tracker', 'wikia.window', 'wikia.
 		var timingValue = window.wgNow && new Date().getTime() - window.wgNow.getTime();
 		eventType = eventType ? '/' + eventType : '';
 
+		window.console.log('### AD MEASUREMENT ###');
+		window.console.log(eventName, eventData, eventType);
+		window.console.log(window.performance.now());
+
 		return {
 			measureDiff: function (diffData, diffType) {
 				eventType = '/' + diffType;

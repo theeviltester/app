@@ -1,12 +1,12 @@
 /*global define*/
-define('ext.wikia.recirculation.experiments.placement.lateralCommunity', [
+define('ext.wikia.recirculation.experiments.placement.LATERAL_COMMUNITY', [
 	'jquery',
 	'ext.wikia.recirculation.utils',
 	'ext.wikia.recirculation.helpers.lateral',
 	'ext.wikia.recirculation.views.incontent',
 ], function ($, utils, LateralHelper, IncontentView) {
 
-	function run() {
+	function run(experimentName) {
 		var view = IncontentView();
 
 		return LateralHelper({

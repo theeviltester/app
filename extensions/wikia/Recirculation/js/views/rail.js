@@ -32,11 +32,13 @@ define('ext.wikia.recirculation.views.rail', [
 
 	function setupTracking(experimentName) {
 		return function($html) {
-			tracker.trackVerboseImpression(experimentName, 'rail');
+			if (experimentName) {
+				tracker.trackVerboseImpression(experimentName, 'rail');
 
-			$html.on('mousedown', 'a', function() {
-				tracker.trackVerboseClick(experimentName, utils.buildLabel(this, 'rail'));
-			});
+				$html.on('mousedown', 'a', function() {
+					tracker.trackVerboseClick(experimentName, utils.buildLabel(this, 'rail'));
+				});
+			}
 
 			return $html;
 		}

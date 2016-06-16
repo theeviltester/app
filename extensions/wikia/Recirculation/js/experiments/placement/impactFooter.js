@@ -1,5 +1,5 @@
 /*global define*/
-define('ext.wikia.recirculation.experiments.placement.fandomGenre', [
+define('ext.wikia.recirculation.experiments.placement.IMPACT_FOOTER', [
 	'jquery',
 	'ext.wikia.recirculation.utils',
 	'ext.wikia.recirculation.helpers.contentLinks',
@@ -9,7 +9,8 @@ define('ext.wikia.recirculation.experiments.placement.fandomGenre', [
 	'ext.wikia.recirculation.views.impactFooter'
 ], function ($, utils, ContentLinks, DataHelper, RailView, ScrollerView, ImpactFooterView) {
 
-	function run() {
+	// TODO: renderRail and renderImpactFooter do not have access to experimentName
+	function run(experimentName) {
 		var scrollerView = ScrollerView();
 
 		ContentLinksHelper({

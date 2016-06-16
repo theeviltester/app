@@ -1,12 +1,12 @@
 /*global define*/
-define('ext.wikia.recirculation.experiments.placement.linksScroller', [
+define('ext.wikia.recirculation.experiments.placement.LINKS_SCROLLER', [
 	'jquery',
 	'ext.wikia.recirculation.utils',
 	'ext.wikia.recirculation.helpers.contentLinks',
 	'ext.wikia.recirculation.views.scroller',
 ], function ($, utils, LinksHelper, ScrollerView) {
 
-	function run() {
+	function run(experimentName) {
 		var view = ScrollerView();
 
 		return LinksHelper({

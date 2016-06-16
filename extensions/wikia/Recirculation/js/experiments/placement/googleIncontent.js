@@ -1,5 +1,5 @@
 /*global define*/
-define('ext.wikia.recirculation.experiments.placement.googleIncontent', [
+define('ext.wikia.recirculation.experiments.placement.GOOGLE_INCONTENT', [
 	'jquery',
 	'ext.wikia.recirculation.utils',
 	'ext.wikia.recirculation.tracker',
@@ -7,7 +7,7 @@ define('ext.wikia.recirculation.experiments.placement.googleIncontent', [
 	'ext.wikia.recirculation.views.incontent'
 ], function ($, utils, tracker, GoogleMatchHelper, IncontentView) {
 
-	function run() {
+	function run(experimentName) {
 		var deferred = $.Deferred(),
 			section = IncontentView().findSuitableSection();
 

@@ -257,7 +257,7 @@ function ($, w, mw, loader, nirvana, tracker, throbber, labeling, infoboxBuilder
 			vars: {
 				id: 'TemplateClassificationEditModal',
 				classes: ['template-classification-edit-modal'],
-				size: 'medium', // size of the modal
+				size: 'content-width', // size of the modal
 				content: content, // content
 				title: labeling.getTitle()
 			}

@@ -112,7 +112,9 @@ class ApiVisualEditor extends ApiBase {
 		} elseif ( $status->isGood() ) {
 			\Wikia\Logger\WikiaLogger::instance()->error( 'ApiVisualEditor_requestParsoid', [
 				'method' => $method,
-				'error' => 'parsoidserver-http-' . $req->getStatus()
+				'error' => 'parsoidserver-http-' . $req->getStatus(),
+				'status-code' => $req->getStatus(),
+				'test-value' => 'foo'
 			] );
 			$this->dieUsage( $req->getContent(), 'parsoidserver-http-' . $req->getStatus() );
 		} elseif ( $errors = $status->getErrorsByType( 'error' ) ) {

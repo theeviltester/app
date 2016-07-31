@@ -194,7 +194,12 @@ class ArticleQualityService extends Service {
 
 			$this->app->wg->Memc->set( $cacheKey, $percentile, self::MEMC_CACHE_TIME );
 		}
-		return $percentile;
+		return [
+			'output' => [
+				'aq' => $percentile
+			],
+			'input' => $inputs
+		];
 	}
 
 	/**

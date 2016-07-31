@@ -24,7 +24,12 @@ class ArticleQuality extends AbstractService {
 		}
 
 		$aqService->setArticleById( $pageId );
-		$result[ 'article_quality_i' ] = $aqService->getArticleQuality();
+		$result['article_quality_i'] = $aqService->getArticleQuality()['output']['aq'];
+		$result['aq_params_outbound_i'] = $aqService->getArticleQuality()['input']['outbound'];
+		$result['aq_params_inbound_i'] = $aqService->getArticleQuality()['input']['inbound'];
+		$result['aq_params_length_i'] = $aqService->getArticleQuality()['input']['length'];
+		$result['aq_params_sections_i'] = $aqService->getArticleQuality()['input']['sections'];
+		$result['aq_params_images_i'] = $aqService->getArticleQuality()['input']['images'];
 
 		return $result;
 	}

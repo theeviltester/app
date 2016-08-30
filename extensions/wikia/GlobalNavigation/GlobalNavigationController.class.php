@@ -24,21 +24,7 @@ class GlobalNavigationController extends WikiaController {
 	}
 
 	public function index() {
-		global $wgLang, $wgUser;
-
-		Wikia::addAssetsToOutput( 'global_navigation_scss' );
-		Wikia::addAssetsToOutput( 'global_navigation_js' );
-
-		$this->response->setVal( 'menuContents', $this->helper->getMenuNodes() );
-		$this->response->setVal( 'isFandomExposed', $this->wikiaLogoHelper->isFandomExposed( $wgLang->getCode() ) );
-
-		$createWikiUrl = $this->helper->getCreateNewWikiUrl( $wgLang->getCode() );
-		$userCanRead = $wgUser->isAllowed( 'read' );
-
-		$this->response->setVal( 'centralUrl', $this->wikiaLogoHelper->getMainCorpPageURL() );
-		$this->response->setVal( 'createWikiUrl', $createWikiUrl );
-		$this->response->setVal( 'notificationsEnabled', !empty( $userCanRead ) );
-		$this->response->setVal( 'isAnon', $wgUser->isAnon() );
+		$this->skipRendering();
 	}
 
 	public function searchIndex() {

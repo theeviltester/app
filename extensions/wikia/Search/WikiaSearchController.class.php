@@ -556,8 +556,6 @@ class WikiaSearchController extends WikiaSpecialPageController {
 	 * @param Wikia\Search\Config $searchConfig
 	 */
 	protected function setResponseValuesFromConfig( Wikia\Search\Config $searchConfig ) {
-		global $wgLanguageCode;
-
 		$response = $this->getResponse();
 		$format = $response->getFormat();
 		if ( $format == 'json' || $format == 'jsonp' ) {
@@ -632,30 +630,6 @@ class WikiaSearchController extends WikiaSpecialPageController {
 			$this->registerWikiMatch( $searchConfig );
 		}
 
-		$topWikiArticlesHtml = '';
-
-		if ( ! $searchConfig->getInterWiki() && $wgLanguageCode == 'en' && !$isMonobook ) {
-
-			$cacheKey = wfMemcKey(
-				__CLASS__,
-				'WikiaSearch',
-				'topWikiArticles',
-				$this->wg->CityId,
-				static::TOP_ARTICLES_CACHE,
-				$isGridLayoutEnabled
-			);
-
-			$topWikiArticlesHtml = WikiaDataAccess::cache(
-				$cacheKey,
-				86400 * 5, // 5 days, one business week
-				function () {
-					return $this->app->renderView( 'WikiaSearchController', 'topWikiArticles' );
-				}
-			);
-		}
-
-		$this->setVal( 'topWikiArticles', $topWikiArticlesHtml );
-
 		$this->addRightRailModules( $searchConfig );
 	}
 
@@ -663,6 +637,7 @@ class WikiaSearchController extends WikiaSpecialPageController {
 		global $wgLang;
 
 		$isMonobook = $this->response->getVal( 'isMonobook' );
+		$isGridLayoutEnabled = $this->response->getVal( 'isGridLayoutEnabled' );
 		$query = $searchConfig->getQuery()->getSanitizedQuery();
 		$this->setVal( 'fandomStories', false );
 		$this->setVal( 'hasTopWikiArticles', false );
@@ -684,14 +659,29 @@ class WikiaSearchController extends WikiaSpecialPageController {
 			}
 		}
 
-		$topWikiArticles = \Wikia\Search\TopWikiArticles::getArticlesWithCache(
-			$this->wg->CityId,
-			$this->response->getVal( 'isGridLayoutEnabled' )
-		);
+		if ( !$searchConfig->getInterWiki() && $wgLang->getCode() === 'en' && !$isMonobook ) {
 
-		if ( !empty( $topWikiArticles ) ) {
-			$this->setVal( 'topWikiArticles', $topWikiArticles );
-			$this->setVal( 'hasTopWikiArticles', true );
+			$cacheKey = wfMemcKey(
+				__CLASS__,
+				'WikiaSearch',
+				'topWikiArticles',
+				$this->wg->CityId,
+				static::TOP_ARTICLES_CACHE,
+				$isGridLayoutEnabled
+			);
+
+			$topWikiArticlesHtml = WikiaDataAccess::cache(
+				$cacheKey,
+				86400 * 5, // 5 days, one business week
+				function () {
+					return $this->app->renderView( 'WikiaSearchController', 'topWikiArticles' );
+				}
+			);
+
+			if ( !empty( $topWikiArticlesHtml ) ) {
+				$this->setVal( 'topWikiArticles', $topWikiArticlesHtml );
+				$this->setVal( 'hasTopWikiArticles', true );
+			}
 		}
 	}
 

@@ -99,7 +99,6 @@
 				<?php if ( !empty( $wikiMatch ) ):?>
 					<?= $wikiMatch ?>
 				<?php endif; ?>
-				<?= $topWikiArticles ?>
 				<?php if ( $hasFandomStories ): ?>
 					<?= F::app()->renderView( 'WikiaSearch', 'fandomStories', [
 						'stories' => $fandomStories,

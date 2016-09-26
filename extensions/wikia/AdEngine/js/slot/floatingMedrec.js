@@ -17,7 +17,7 @@ define('ext.wikia.adEngine.slot.floatingMedrec', [
 			isEnoughSpace = false,
 			enabled = false,
 			adPushed = false,
-			globalNavigationHeight = $('#globalNavigation').outerHeight(true),
+			globalNavigationHeight = $('#globalNavigation').height(),
 			margin = 10,
 			minDistance = 800,
 			leftSkyscraper3Selector = '#LEFT_SKYSCRAPER_3',

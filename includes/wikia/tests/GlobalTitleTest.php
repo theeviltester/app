@@ -14,14 +14,12 @@ class GlobalTitleTest extends WikiaBaseTest {
 			->willReturnMap( [
 				// basically all tests where GlobalTitle::load() is executed
 				[ 'wgServer', 177, 'http://community.wikia.com' ],
-				[ 'wgServer', 113, 'http://memory-alpha.wikia.com' ],
-				[ 'wgServer', 490, 'http://wowwiki.wikia.com' ],
+				[ 'wgServer', 113, 'http://en.memory-alpha.org' ],
+				[ 'wgServer', 490, 'http://www.wowwiki.com' ],
 				[ 'wgServer', 1686, 'http://spolecznosc.wikia.com' ],
+				/** @see testUrlsMainNSonWoW **/
+				[ 'wgArticlePath', 490, '/$1' ],
 				[ 'wgExtraNamespacesLocal', 490, [ 116 => 'Portal' ] ],
-				[ 'wgLanguageCode', 177, 'en' ],
-				[ 'wgLanguageCode', 113, 'en' ],
-				[ 'wgLanguageCode', 490, 'en' ],
-				[ 'wgLanguageCode', 1686, 'pl' ],
 			] );
 	}
 
@@ -53,7 +51,7 @@ class GlobalTitleTest extends WikiaBaseTest {
 		$this->mockProdEnv();
 
 		$title = GlobalTitle::newFromText( "Timeline", NS_MAIN, 113 ); # memory-alpha
-		$expectedUrl = "http://memory-alpha.wikia.com/wiki/Timeline";
+		$expectedUrl = "http://en.memory-alpha.org/wiki/Timeline";
 		$this->assertEquals( $expectedUrl, $title->getFullURL() );
 	}
 
@@ -61,7 +59,7 @@ class GlobalTitleTest extends WikiaBaseTest {
 		$this->mockProdEnv();
 
 		$title = GlobalTitle::newFromText( "Main", 116, 490); # wowwiki
-		$expectedUrl = "http://wowwiki.wikia.com/wiki/Portal:Main";
+		$expectedUrl = "http://www.wowwiki.com/Portal:Main";
 		$this->assertEquals( $expectedUrl, $title->getFullURL() );
 	}
 
@@ -78,24 +76,8 @@ class GlobalTitleTest extends WikiaBaseTest {
 	function testUrlsSpecialNS() {
 		$this->mockProdEnv();
 
-		$title = GlobalTitle::newFromText( 'WikiFactory', NS_SPECIAL, 1686 ); # pl.wikia.com
-		$expectedUrl = 'http://spolecznosc.wikia.com/wiki/Specjalna:WikiFactory';
-		$this->assertEquals( $expectedUrl, $title->getFullURL() );
-	}
-
-	function testUrlsLocalizedNS() {
-		$this->mockProdEnv();
-
-		$title = GlobalTitle::newFromText( 'Test', NS_USER, 1686 ); # pl.wikia.com
-		$expectedUrl = 'http://spolecznosc.wikia.com/wiki/U%C5%BCytkownik:Test';
-		$this->assertEquals( $expectedUrl, $title->getFullURL() );
-	}
-
-	function testUrlsLocalizedSpecialPage() {
-		$this->mockProdEnv();
-
-		$title = GlobalTitle::newFromText( 'Search', NS_SPECIAL, 1686 ); # pl.wikia.com
-		$expectedUrl = 'http://spolecznosc.wikia.com/wiki/Specjalna:Szukaj';
+		$title = GlobalTitle::newFromText( "WikiFactory", NS_SPECIAL, 1686 ); # pl.wikia.com
+		$expectedUrl = "http://spolecznosc.wikia.com/wiki/Special:WikiFactory";
 		$this->assertEquals( $expectedUrl, $title->getFullURL() );
 	}
 

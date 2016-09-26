@@ -624,12 +624,9 @@ class UserLoginHelper extends WikiaModel {
 			$requestUrl = $this->app->wg->request->getRequestURL();
 		}
 
-		parse_str( parse_url( $page, PHP_URL_QUERY ), $queryParams );
-
-		return wfAppendQuery( $page, 'redirect='
+		return $page . '?redirect='
 			. urlencode ( wfExpandUrl ( $requestUrl ) )
-			. ( !isset( $queryParams['uselang'] ) ? $this->getUselangParam() : '' )
-		);
+			. $this->getUselangParam();
 	}
 
 	/**

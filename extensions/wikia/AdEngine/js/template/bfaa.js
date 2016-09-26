@@ -46,8 +46,10 @@ define('ext.wikia.adEngine.template.bfaa', [
 				position = win.scrollY || win.pageYOffset;
 
 			if (doc.body.offsetWidth <= breakPointWidthNotSupported || position <= height) {
+				wrapper.classList.add('bfaa-pinned-nav');
 				nav.classList.add('bfaa-pinned');
 			} else {
+				wrapper.classList.remove('bfaa-pinned-nav');
 				nav.classList.remove('bfaa-pinned');
 			}
 		},

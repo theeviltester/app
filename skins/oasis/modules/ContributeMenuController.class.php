@@ -36,6 +36,16 @@ class ContributeMenuController extends WikiaController {
 				'href' =>  $specialPageTitle->getLocalURL(),
 			];
 
+			/**
+			 * id for flow tracking
+			 * @see https://wikia-inc.atlassian.net/browse/WW-343
+			 */
+			if ( $specialPageName === 'CreatePage' ) {
+				$attrs[ 'id' ] = 'contribute-button-create-page';
+				// TODO: move param name and flow name  to consts
+				$attrs[ 'href' ] = $attrs[ 'href' ] . '?flow=create-page-contribute-button';
+			}
+
 			if ( isset( $link[ 'accesskey' ] ) ) {
 				$attrs[ 'accesskey' ] = $link[ 'accesskey' ];
 			}

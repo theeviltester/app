@@ -1,11 +1,16 @@
 /* global $ */
 var CreatePage = {
+	// keep these constants up to date with wikia.flowTracking.flows
+	CREATE_PAGE_CONTRIBUTE_BUTTON: 'create-page-contribute-button',
+	CREATE_PAGE_REDLINK: 'create-page-redlink',
+
 	pageLayout: null,
 	options: {},
 	loading: false,
 	context: null,
 	wgArticlePath: mw.config.get( 'wgArticlePath' ),
 	redlinkParam: '',
+	flowName: '',
 
 	canUseVisualEditor: function() {
 		return mw.libs && mw.libs.ve ? mw.libs.ve.canCreatePageUsingVE() : false;
@@ -20,15 +25,18 @@ var CreatePage = {
 		},
 		function( response ) {
 			var articlePath;
+			var flowParam = ( CreatePage.flowName === '' ) ? '' : '&flow=' + CreatePage.flowName;
+
 			if ( response.result === 'ok' ) {
 				if ( CreatePage.canUseVisualEditor() && mw.libs.ve.isInValidNamespace( title ) ) {
 					articlePath = CreatePage.wgArticlePath.replace( '$1', encodeURIComponent( title ) );
-					location.href = articlePath + '?veaction=edit' + CreatePage.redlinkParam;
+					location.href = articlePath + '?veaction=edit' + CreatePage.redlinkParam + flowParam;
 				} else {
 					location.href = CreatePage.options[ CreatePage.canUseVisualEditor() ? 'blank' :
 						CreatePage.pageLayout ].submitUrl.replace( '$1', encodeURIComponent( title ) ) +
-						CreatePage.redlinkParam;
+						CreatePage.redlinkParam + flowParam;
 				}
+				CreatePage.flowName = '';
 			}
 			else {
 				CreatePage.displayError( response.msg );
@@ -269,6 +277,9 @@ var CreatePage = {
 
 		CreatePage.redlinkParam = '&redlink=1';
 
+		CreatePage.flowName = 'create-page-redlink';
+		CreatePage.trackCreatePageStart(CreatePage.CREATE_PAGE_REDLINK);
+
 		if ( CreatePage.canUseVisualEditor() ) {
 			CreatePage.track( { action: 'click', label: 've-redlink-click' } );
 		}
@@ -288,6 +299,18 @@ var CreatePage = {
 	init: function( context ) {
 		'use strict';
 		CreatePage.context = context;
+
+		$( '#contribute-button-create-page' ).click(function() {
+			CreatePage.trackCreatePageStart(CreatePage.CREATE_PAGE_CONTRIBUTE_BUTTON);
+			CreatePage.flowName = 'create-page-contribute-button';
+		});
+
+		$( function() {
+			$( '#WikiaArticle').find( 'a.new' ).toArray().forEach(function(redlink) {
+				redlink.href = redlink.href + '&flow=create-page-redlink';
+			});
+		});
+
 		if ( window.WikiaEnableNewCreatepage ) {
 			$().log( 'init', 'CreatePage' );
 
@@ -342,6 +365,13 @@ var CreatePage = {
 		}
 	},
 
+	// create page flow tracking
+	trackCreatePageStart: function (flowName) {
+		require(['wikia.flowTracking'], function (flowTrack) {
+			flowTrack.beginFlow(flowName, {});
+		});
+	},
+
 	// Tracking for VE dialog only
 	track: function( data ) {
 		var defaultData;
@@ -350,7 +380,7 @@ var CreatePage = {
 			defaultData = {
 				category: 'article',
 				trackingMethod: 'internal'
-			}
+			};
 
 			$.extend( defaultData, data );
 

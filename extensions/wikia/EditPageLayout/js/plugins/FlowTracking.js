@@ -20,6 +20,13 @@
 			require(['ext.wikia.flowTracking.createPageTracking'], function(flowTrackingCreatePage) {
 				flowTrackingCreatePage.trackOnEditPageLoad(editorName(editor.mode));
 			});
+		},
+
+		changeTitle: function(oldTitle, newTitle) {
+			if (oldTitle === '') {
+				// TODO: track creating article on special:CreatePage
+				console.log('plugin:', oldTitle, newTitle);
+			}
 		}
 	});
 })(this,jQuery);

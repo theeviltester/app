@@ -352,7 +352,7 @@
 			WE.plugin.superclass.constructor.call(this);
 
 			var methodName,
-				autobindMethods = ['initConfig', 'beforeInit', 'init', 'initEditor', 'initDom', 'afterShow'],
+				autobindMethods = ['initConfig', 'beforeInit', 'init', 'initEditor', 'initDom', 'afterShow', 'changeTitle'],
 				i = 0,
 				l = autobindMethods.length;
 
@@ -425,12 +425,12 @@
 				this.uiReadyFired = true;
 				this.addDefaults();
 				this.editor.fire('uiReady',this);
-			}
+			};
 
 			var chkInitDom = function() {
 				this.initDomCalled = true;
 				chk.apply(this);
-			}
+			};
 
 			this.editor.on({
 				uiExternalProviderReady: chk,

@@ -254,6 +254,14 @@
 
 				// before showing the dialog move hidden fields from edit form to the dialog
 				callback: function () {
+					var oldTitle = $('input[name="wpTitle"]').val();
+
+					$('#ok').click(function() {
+						var newTitle = $('input[name="wpTitle"]').val()
+						self.editor.fire('changeTitle', oldTitle, newTitle);
+						// console.log(oldTitle, newTitle);
+					});
+
 					self.hiddenFields.children('label').appendTo($('#HiddenFieldsDialog .fields'));
 
 					// set focus on the first field

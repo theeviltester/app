@@ -195,6 +195,7 @@ class ResourceLoaderStartUpModule extends ResourceLoaderModule {
 	 * @return string
 	 */
 	public function getScript( ResourceLoaderContext $context ) {
+		return '';
 		global $IP, $wgLoadScript, $wgLegacyJavaScriptGlobals;
 
 		$out = file_get_contents( "$IP/resources/startup.js" );

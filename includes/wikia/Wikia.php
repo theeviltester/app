@@ -2077,6 +2077,7 @@ class Wikia {
 	 * ])
 	 */
 	public static function addAssetsToOutput( $assetName, $local = false ) {
+		return;
 		$app = F::app();
 
 		$type = false;

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/AdEngineRunner.js');
 /*global define, require*/
 define('ext.wikia.adEngine.adEngineRunner', [
 	'ext.wikia.adEngine.adEngine',

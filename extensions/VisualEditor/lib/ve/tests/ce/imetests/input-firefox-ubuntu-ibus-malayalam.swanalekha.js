@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/ce/imetests/input-firefox-ubuntu-ibus-malayalam.swanalekha.js');
 /*!
  * VisualEditor IME test for Firefox on Ubuntu in Malayalam using iBus Swanalekha.
  *

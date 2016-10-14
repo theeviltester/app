@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/ajax/simile-ajax-bundle.js');
 
 
 /* jquery-1.3.2.min.js */

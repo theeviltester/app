@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AuthModal/js/AuthModal.js');
 (function ($, window) {
 	'use strict';
 

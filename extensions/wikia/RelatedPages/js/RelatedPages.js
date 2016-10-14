@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RelatedPages/js/RelatedPages.js');
 require(['sloth', 'wikia.window', 'jquery'], function (sloth, w, $) {
 	'use strict';
 

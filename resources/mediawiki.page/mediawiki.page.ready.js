@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki.page/mediawiki.page.ready.js');
 /* wikia change begin - modified patch from mw 1.23 (UC-68) */
 ( function ( mw ) {
 	'use strict';

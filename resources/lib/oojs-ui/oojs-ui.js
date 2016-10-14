@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/lib/oojs-ui/oojs-ui.js');
 /*!
  * OOjs UI v0.6.0
  * https://www.mediawiki.org/wiki/OOjs_UI

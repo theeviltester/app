@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/provider/directGptMobile.js');
 /*global define*/
 define('ext.wikia.adEngine.provider.directGptMobile', [
 	'ext.wikia.adEngine.provider.factory.wikiaGpt'

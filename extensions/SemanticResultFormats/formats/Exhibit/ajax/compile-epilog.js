@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/ajax/compile-epilog.js');
 (function() {
     var f = null;
     if ("SimileWidgets_onLoad" in window) {

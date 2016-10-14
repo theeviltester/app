@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/dm/ve.dm.SurfaceFragment.test.js');
 /*!
  * VisualEditor DataModel SurfaceFragment tests.
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/autoresize/jquery.autoresize.js');
 /*
  * jQuery autoResize (textarea auto-resizer)
  * @copyright James Padolsey http://james.padolsey.com

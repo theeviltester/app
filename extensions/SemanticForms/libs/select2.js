@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticForms/libs/select2.js');
 /*
 Copyright 2012 Igor Vaynberg
 

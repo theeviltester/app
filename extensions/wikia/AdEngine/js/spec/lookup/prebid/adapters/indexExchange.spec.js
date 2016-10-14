@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/lookup/prebid/adapters/indexExchange.spec.js');
 describe('ext.wikia.adEngine.lookup.prebid.adapters.indexExchange', function () {
 	'use strict';
 

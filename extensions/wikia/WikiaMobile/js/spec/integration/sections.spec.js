@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/spec/integration/sections.spec.js');
 /*global describe, it, runs, waitsFor, expect, require, document*/
 xdescribe("Sections module", function () {
 	'use strict';

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WidgetFramework/Widgets/WidgetTopContent/WidgetTopContent.js');
 function WidgetTopContentSwitchSection(selector) {
 	var widgetId = selector.id.split('_')[1],
 		selected = selector.options[ selector.selectedIndex ].value;

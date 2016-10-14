@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/en/scripts/util/facets-l10n.js');
 /*==================================================
  *  Exhibit.FacetUtilities English localization
  *==================================================

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/WikiaDartVideoHelper.spec.js');
 /* global describe, it, expect, modules */
 describe('WikiaDartVideoHelper', function () {
 	'use strict';

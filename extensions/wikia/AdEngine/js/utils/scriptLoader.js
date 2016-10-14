@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/utils/scriptLoader.js');
 define('ext.wikia.adEngine.utils.scriptLoader', [
 	'ext.wikia.adEngine.adContext',
 	'ext.wikia.adEngine.adTracker',

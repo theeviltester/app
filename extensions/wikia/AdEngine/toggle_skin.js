@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/toggle_skin.js');
 var displayToggleSkin = function(){
 	var ToggleSkin = {
 		settings: {

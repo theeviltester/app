@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/common/IEFixes.js');
 // IE fixes javascript
 
 window.isMSIE55 = ( window.showModalDialog && window.clipboardData && window.createPopup );

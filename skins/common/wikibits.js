@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/common/wikibits.js');
 /**
  * MediaWiki legacy wikibits
  */

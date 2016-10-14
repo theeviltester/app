@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/integration/aim.spec.js');
 /*global describe, it, getBody, expect, document*/
 describe('AIM', function () {
 	'use strict';

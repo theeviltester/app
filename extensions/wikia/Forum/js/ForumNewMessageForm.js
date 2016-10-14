@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Forum/js/ForumNewMessageForm.js');
 /* global Forum, Wall */
 
 (function (window, $) {

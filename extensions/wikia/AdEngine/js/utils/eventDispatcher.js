@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/utils/eventDispatcher.js');
 /*global define*/
 define('ext.wikia.adEngine.utils.eventDispatcher', [
 	'wikia.document',

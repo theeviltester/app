@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ui/widgets/ve.ui.MobileContextOptionWidget.js');
 /*!
  * VisualEditor Mobile Context Item widget class.
  *

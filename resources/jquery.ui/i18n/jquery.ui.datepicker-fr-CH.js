@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/i18n/jquery.ui.datepicker-fr-CH.js');
 /* Swiss-French initialisation for the jQuery UI date picker plugin. */
 /* Written Martin Voelkle (martin.voelkle@e-tc.ch). */
 jQuery(function($){

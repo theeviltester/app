@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/oasis/js/Achievements.js');
 (function( window, $ ) {
 	var AchievementsModule = {
 		init: function() {

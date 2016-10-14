@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideosModule/scripts/models/videos.js');
 define('videosmodule.models.videos', [
 	'wikia.nirvana',
 	'wikia.geo',

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/c9search.js');
 ace.define('ace/snippets/c9search', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

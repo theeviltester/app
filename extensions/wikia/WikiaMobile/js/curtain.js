@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/curtain.js');
 /**
  * Curtain module to handle curtain that can overlay whole page
  */

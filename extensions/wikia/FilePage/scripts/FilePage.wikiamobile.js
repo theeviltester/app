@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/FilePage/scripts/FilePage.wikiamobile.js');
 /**
  * Any mobile-specific js for file page goes here.
  * @author Liz Lee

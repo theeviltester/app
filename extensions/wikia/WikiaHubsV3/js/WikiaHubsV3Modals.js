@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaHubsV3/js/WikiaHubsV3Modals.js');
 (function (window, $) {
 	'use strict';
 

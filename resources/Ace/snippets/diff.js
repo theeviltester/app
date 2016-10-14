@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/diff.js');
 ace.define('ace/snippets/diff', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

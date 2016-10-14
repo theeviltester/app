@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/TemplateClassification/scripts/TemplateClassificationGlobalShortcuts.js');
 /**
  * TemplateClassification module for adding shortcut key to GlobalShortcuts extension
  */

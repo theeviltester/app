@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/common/protect.js');
 
 window.ProtectionForm = {
 	'existingMatch': false,

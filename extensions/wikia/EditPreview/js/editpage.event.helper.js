@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPreview/js/editpage.event.helper.js');
 define('editpage.event.helper', ['wikia.window'], function (window, ace) {
 	'use strict';
 

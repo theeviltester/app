@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/wikia/modules/ve/ui/pages/ve.ui.WikiaParameterPage.js');
 /*!
  * VisualEditor user interface WikiaParameterPage class.
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RecentChanges/js/RecentChanges.js');
 jQuery(function($) {
 	//Used by AjaxRC
 	window.Wikia = window.Wikia || {};

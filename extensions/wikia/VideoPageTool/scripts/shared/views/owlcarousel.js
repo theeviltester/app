@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/shared/views/owlcarousel.js');
 define('shared.views.owlcarousel', [], function () {
 	'use strict';
 	var OwlCarouselView = Backbone.View.extend({

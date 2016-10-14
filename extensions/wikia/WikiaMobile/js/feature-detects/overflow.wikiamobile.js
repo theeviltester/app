@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/feature-detects/overflow.wikiamobile.js');
 /**
  * The following attempts to determine whether the browser has native overflow support
  * so we can enable it but not polyfill

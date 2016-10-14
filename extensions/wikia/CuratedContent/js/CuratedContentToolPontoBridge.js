@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CuratedContent/js/CuratedContentToolPontoBridge.js');
 define(
 	'curatedContentTool.pontoBridge',
 	['wikia.window','ponto'],

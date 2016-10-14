@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.delayedBind.js');
 (function( $ ) {
 /**
  * Function that escapes spaces in event names. This is needed because

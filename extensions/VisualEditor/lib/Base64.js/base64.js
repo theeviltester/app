@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/Base64.js/base64.js');
 ;(function () {
 
   var object = typeof exports != 'undefined' ? exports : this; // #8: web workers

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MiniEditor/js/Wall/Wall.NewMessageForm.js');
 /* global MiniEditor:true, Wall:true */
 (function ($) {
 	'use strict';

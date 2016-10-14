@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/graphics.js');
 /**
  * @fileOverview Graphics utility functions and constants
  * @name SimileAjax.Graphics

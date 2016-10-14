@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/GlobalShortcuts/scripts/Mousetrap.js');
 /*global define:false */
 /**
  * Copyright 2015 Craig Campbell

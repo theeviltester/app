@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticForms/libs/SF_wikieditor.js');
 // create ext if it does not exist yet
 /*global wgWikiEditorEnabledModules*/
 if ( window.ext == null || typeof( window.ext ) === "undefined" ) {

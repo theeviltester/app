@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/slot/revcontentSlots.js');
 /*global define*/
 define('ext.wikia.adEngine.slot.revcontentSlots', [
 	'ext.wikia.aRecoveryEngine.recovery.helper',

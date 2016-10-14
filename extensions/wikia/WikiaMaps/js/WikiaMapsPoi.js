@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMaps/js/WikiaMapsPoi.js');
 define(
 	'wikia.maps.poi',
 	[

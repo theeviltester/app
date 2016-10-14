@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Recirculation/js/spec/tracker.spec.js');
 /*global beforeEach, describe, it, modules, expect*/
 describe('ext.wikia.recirculation.tracker', function () {
 	'use strict';

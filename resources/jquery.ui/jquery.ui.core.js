@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/jquery.ui.core.js');
 /*!
  * jQuery UI 1.8.23
  *

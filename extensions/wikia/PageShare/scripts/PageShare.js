@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/PageShare/scripts/PageShare.js');
 define('wikia.pageShare', [
 	'wikia.window',
 	'wikia.tracker',

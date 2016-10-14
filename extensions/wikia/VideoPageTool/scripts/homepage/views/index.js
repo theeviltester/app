@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/homepage/views/index.js');
 /**
  * view for video home page
  */

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/TemplateClassification/scripts/TemplateClassificationModalForce.js');
 /**
  * Extension provides a method to force TemplateClassification
  * if both New and Current templateClassificationType hidden fields in #editform are not filled

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/time/locales/sv/time-locale.js');
 /*==================================================
  *  Exhibit Time Extension Swedish localization
  *==================================================

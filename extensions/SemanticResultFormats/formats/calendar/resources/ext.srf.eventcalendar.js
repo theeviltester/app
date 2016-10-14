@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/calendar/resources/ext.srf.eventcalendar.js');
 /**
  * JavaScript for SRF event calendar module using the fullcalendar library
  * @see http://arshaw.com/fullcalendar/docs/

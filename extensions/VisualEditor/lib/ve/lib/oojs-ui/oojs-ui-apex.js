@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/lib/oojs-ui/oojs-ui-apex.js');
 /*!
  * OOjs UI v0.5.0
  * https://www.mediawiki.org/wiki/OOjs_UI

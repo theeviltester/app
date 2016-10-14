@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/visit-source/visit-source.js');
 var VisitSource = (function () {
 	/**
 	 *

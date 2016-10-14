@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ve.LeafNode.js');
 /*!
  * VisualEditor LeafNode mixin.
  *

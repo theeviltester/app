@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/lsl.js');
 ace.define('ace/snippets/lsl', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

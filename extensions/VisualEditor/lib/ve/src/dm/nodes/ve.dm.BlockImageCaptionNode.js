@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/dm/nodes/ve.dm.BlockImageCaptionNode.js');
 /*!
  * VisualEditor DataModel block image caption node class.
  *

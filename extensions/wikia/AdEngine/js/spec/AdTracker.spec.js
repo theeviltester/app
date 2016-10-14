@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/AdTracker.spec.js');
 /*global beforeEach, describe, it, expect, modules, spyOn, jasmine*/
 /*jshint camelcase:false*/
 describe('ext.wikia.adEngine.adTracker', function () {

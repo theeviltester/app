@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/FlowTracking/scripts/initCreatePageTracking.js');
 require([
 	'wikia.flowTracking',
 	'ext.wikia.flowTracking.createPageTracking',

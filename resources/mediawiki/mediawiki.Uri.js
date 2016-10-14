@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki/mediawiki.Uri.js');
 /**
  * Library for simple URI parsing and manipulation.  Requires jQuery.
  *

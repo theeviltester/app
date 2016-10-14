@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaRSS/js/WikiaRss.js');
 var WikiaRss = WikiaRss || (function(){
 	/** @private **/
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.checkboxShiftClick.js');
 /**
  * jQuery checkboxShiftClick
  *

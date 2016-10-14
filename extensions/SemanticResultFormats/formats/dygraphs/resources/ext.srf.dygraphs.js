@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/dygraphs/resources/ext.srf.dygraphs.js');
 /**
  * JavaScript for SRF dygraphs module
  * @see http://www.semantic-mediawiki.org/wiki/Help:Dygraphs format

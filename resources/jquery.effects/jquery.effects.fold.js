@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.effects/jquery.effects.fold.js');
 /*
  * jQuery UI Effects Fold 1.8.17
  *

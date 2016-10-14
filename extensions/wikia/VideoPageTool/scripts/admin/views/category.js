@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/admin/views/category.js');
 /**
  * View file for the category (aka latest videos) form
  * @extends 'videopageadmin.views.editbase'

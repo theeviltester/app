@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Recirculation/js/helpers/FandomHelper.js');
 define('ext.wikia.recirculation.helpers.fandom', [
 	'jquery',
 	'wikia.window',

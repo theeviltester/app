@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/lookup/amazonMatch.spec.js');
 /*global describe, it, modules, expect, spyOn*/
 describe('Method ext.wikia.adEngine.lookup.amazonMatch', function () {
 	'use strict';

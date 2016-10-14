@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Maps/includes/services/OpenLayers/OpenLayers/OpenLayers.js');
 /*
 
   OpenLayers.js -- OpenLayers Map Viewer Library

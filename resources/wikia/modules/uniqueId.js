@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/uniqueId.js');
 
 /**
  * original by: Kevin van Zonneveld (http://kevin.vanzonneveld.net)

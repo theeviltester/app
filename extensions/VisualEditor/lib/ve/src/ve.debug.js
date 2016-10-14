@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ve.debug.js');
 /*global console */
 /*!
  * VisualEditor debugging methods.

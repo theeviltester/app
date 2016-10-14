@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/TOC/js/modules/toc.js');
 define( 'wikia.toc', function() {
 	'use strict';
 

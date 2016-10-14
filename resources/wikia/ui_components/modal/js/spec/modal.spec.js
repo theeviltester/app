@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/ui_components/modal/js/spec/modal.spec.js');
 /* global getBody */
 describe('Modal module', function () {
 	'use strict';

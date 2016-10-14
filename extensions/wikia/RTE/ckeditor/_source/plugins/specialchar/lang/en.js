@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/ckeditor/_source/plugins/specialchar/lang/en.js');
 
 CKEDITOR.plugins.setLang( 'specialchar', 'en',
 {

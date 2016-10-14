@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/facets/slider.js');
  
 Exhibit.SliderFacet.slider = function(div, facet, precision) {
     this._div = div;

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Recirculation/js/views/incontent.js');
 define('ext.wikia.recirculation.views.incontent', [
 	'jquery',
 	'wikia.window',

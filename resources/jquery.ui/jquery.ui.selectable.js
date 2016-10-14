@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/jquery.ui.selectable.js');
 /*
  * jQuery UI Selectable 1.8.17
  *

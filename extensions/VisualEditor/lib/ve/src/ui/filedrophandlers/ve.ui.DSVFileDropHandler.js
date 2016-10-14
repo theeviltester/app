@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ui/filedrophandlers/ve.ui.DSVFileDropHandler.js');
 /*!
  * VisualEditor UserInterface delimiter-separated values file drop handler class.
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticForms/libs/SF_submit.js');
 /**
 * Javascript handler for the save-and-continue button
 *

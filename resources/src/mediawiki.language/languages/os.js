@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki.language/languages/os.js');
 /*!
  * Ossetian (Ирон) language functions
  * @author Santhosh Thottingal

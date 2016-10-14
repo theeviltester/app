@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/AdLogicPageParams.spec.js');
 /*global describe, it, expect, modules*/
 /*jshint camelcase:false*/
 /*jshint maxlen:200*/

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/chart/locales/nl/chart-locale.js');
 /*==================================================
  *  Exhibit Chart Extension Dutch localization
  *==================================================

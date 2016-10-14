@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CodeLint/js/utils.js');
 /**
  * Parses script arguments provided as
  *

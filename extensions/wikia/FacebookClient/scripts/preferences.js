@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/FacebookClient/scripts/preferences.js');
 /* global jQuery, mediaWiki */
 (function (window, $, mw) {
 	'use strict';

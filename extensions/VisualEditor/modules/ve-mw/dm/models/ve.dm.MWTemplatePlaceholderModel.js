@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/dm/models/ve.dm.MWTemplatePlaceholderModel.js');
 /*!
  * VisualEditor DataModel MWTemplatePlaceholderModel class.
  *

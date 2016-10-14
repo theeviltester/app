@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.pyramidRenderer.js');
 /**
  * jqPlot
  * Pure JavaScript plotting plugin using jQuery

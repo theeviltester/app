@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CreateNewWiki/js/spec/CreateNewWikiHelper.spec.js');
 describe('ext.createNewWiki.helper', function () {
 	'use strict';
 	it('sanitizeWikiName', function () {

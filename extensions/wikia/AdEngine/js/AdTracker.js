@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/AdTracker.js');
 /*global define*/
 /*jshint camelcase:false*/
 define('ext.wikia.adEngine.adTracker', ['wikia.tracker', 'wikia.window', 'wikia.log'], function (tracker, window, log) {

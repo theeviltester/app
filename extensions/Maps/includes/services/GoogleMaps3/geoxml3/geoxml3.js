@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Maps/includes/services/GoogleMaps3/geoxml3/geoxml3.js');
 /**
  * @fileOverview Renders KML on the Google Maps JavaScript API Version 3
  * @name GeoXML3

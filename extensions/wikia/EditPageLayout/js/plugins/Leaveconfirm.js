@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPageLayout/js/plugins/Leaveconfirm.js');
 /**
  * Prevent users from being able to accidentally leave the edit page (BugId:6969)
  *

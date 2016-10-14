@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/3rdparty/LyricWiki/LyricFind/js/lyricbox.js');
 require(['jquery'], function($) {
 	function preventHighlighting(element){
 		if (typeof element.onselectstart !== "undefined") { // IE

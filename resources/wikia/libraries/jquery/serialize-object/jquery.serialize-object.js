@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/serialize-object/jquery.serialize-object.js');
 /**
  * jQuery serializeObject
  * @copyright 2014, macek <paulmacek@gmail.com>

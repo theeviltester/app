@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ContentReview/scripts/contentReviewDiffPage.js');
 define(
 	'ext.wikia.contentReview.diff.page',
 	['BannerNotification', 'wikia.querystring', 'jquery', 'mw', 'wikia.loader', 'wikia.nirvana'],

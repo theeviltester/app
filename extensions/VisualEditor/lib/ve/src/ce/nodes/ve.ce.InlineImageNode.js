@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ce/nodes/ve.ce.InlineImageNode.js');
 /*!
  * VisualEditor ContentEditable InlineImageNode class.
  *

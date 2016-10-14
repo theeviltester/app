@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/curate/scripts/submission-widgets.js');
 Exhibit.Submission = {};
 
 Exhibit.Submission.submissionWidgets = ['submission-property', 'submission-button'];

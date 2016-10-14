@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/sloth/sloth.js');
 /**
  * Library to lazy initialize components of a web page
  * Note: Be careful when using this with user generated content and JS. Does not support mw-collapsible for example.

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/comment/plugin.js');
 CKEDITOR.plugins.add('rte-comment',
 {
 	init: function(editor) {

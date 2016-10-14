@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki/mediawiki.debug.js');
 /**
  * JavaScript for the new debug toolbar, enabled through $wgDebugToolbar.
  *

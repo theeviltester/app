@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/sql.js');
 ace.define('ace/snippets/sql', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

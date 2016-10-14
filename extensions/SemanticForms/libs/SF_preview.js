@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticForms/libs/SF_preview.js');
 /**
  * Handles dynamic Page Preview for Semantic Forms.
  *

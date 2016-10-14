@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki.language/languages/hu.js');
 /*!
  * Hungarian language functions
  * @author Santhosh Thottingal

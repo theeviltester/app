@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/d3/resources/ext.srf.d3.chart.treemap.js');
 /**
  * JavaScript for SRF D3 chart treemap module using d3 v2
  * @see http://www.semantic-mediawiki.org/wiki/Help:D3chart format

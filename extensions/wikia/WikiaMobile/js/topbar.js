@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/topbar.js');
 /**
  * Module used to control topbar on wikiamobile
  * has to be run onload event

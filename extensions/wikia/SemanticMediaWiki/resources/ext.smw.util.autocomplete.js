@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SemanticMediaWiki/resources/ext.smw.util.autocomplete.js');
 /**
  * JavaScript for SMW autocomplete functionality
  *

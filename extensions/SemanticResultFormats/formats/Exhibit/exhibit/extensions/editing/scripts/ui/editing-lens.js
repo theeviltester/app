@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/editing/scripts/ui/editing-lens.js');
 Exhibit.EditingLens = {};
 
 var NO_EDITING = 0;

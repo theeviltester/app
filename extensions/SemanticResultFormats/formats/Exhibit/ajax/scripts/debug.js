@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/debug.js');
 /*==================================================
  *  Debug Utility Functions
  *==================================================

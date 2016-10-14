@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/common/ajax.js');
 // remote scripting library
 // (c) copyright 2005 modernmethod, inc
 window.sajax_debug_mode = false;

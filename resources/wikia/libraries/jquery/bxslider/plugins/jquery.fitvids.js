@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/bxslider/plugins/jquery.fitvids.js');
 /*global jQuery */
 /*jshint multistr:true browser:true */
 /*!

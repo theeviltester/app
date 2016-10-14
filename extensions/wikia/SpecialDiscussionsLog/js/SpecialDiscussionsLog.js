@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialDiscussionsLog/js/SpecialDiscussionsLog.js');
 (function() {
 
     var ipCache = {};

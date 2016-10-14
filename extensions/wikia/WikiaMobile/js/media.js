@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/media.js');
 /*global define, Features */
 /**
  * Media handling in Wikia Mobile

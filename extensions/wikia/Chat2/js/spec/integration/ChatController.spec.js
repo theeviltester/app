@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Chat2/js/spec/integration/ChatController.spec.js');
 describe("ChatView Test", function(){
 	var origwgServer,
 		origwgArticlePath,

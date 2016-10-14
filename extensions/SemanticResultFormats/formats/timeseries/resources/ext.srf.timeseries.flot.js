@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/timeseries/resources/ext.srf.timeseries.flot.js');
 /**
  * JavaScript for SRF timeseries
  * @see http://www.semantic-mediawiki.org/wiki/Help:Timeseries format

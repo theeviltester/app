@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/lookup/prebid/adapters/appnexusPlacements.spec.js');
 describe('ext.wikia.adEngine.lookup.prebid.adapters.appnexusPlacements', function () {
 	'use strict';
 

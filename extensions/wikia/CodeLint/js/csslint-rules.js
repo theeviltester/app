@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CodeLint/js/csslint-rules.js');
 /**
  * List of all CSS properties known to mankind
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/ui_components/drawer/js/drawer.js');
 define('wikia.ui.drawer', ['jquery', 'wikia.window'], function ($, w) {
 	'use strict';
 

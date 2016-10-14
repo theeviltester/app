@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/scripts/event-utils.js');
 /*==================================================
  *  Event Utils
  *==================================================

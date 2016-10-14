@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Spotlights/js/AdProviderOpenX.js');
 var AdProviderOpenX = {
 	url : '',
 	defaultHttpBase: 'http://spotlights.wikia.net/',

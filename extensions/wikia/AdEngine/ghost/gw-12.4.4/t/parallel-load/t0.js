@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/parallel-load/t0.js');
 function test(){ 
 	var theTest = new Y.Test.Case({ 
 		 name: "Parallel Loading Test"

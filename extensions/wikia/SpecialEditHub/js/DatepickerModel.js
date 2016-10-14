@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialEditHub/js/DatepickerModel.js');
 var DatepickerModel = function(cityId) {
 	this.cityId = cityId;
 	this.specialDates = {};

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Maps/includes/editor/js/mapeditor.js');
 var mapEditor = {
     __map:null,
     __drawingManager:null,

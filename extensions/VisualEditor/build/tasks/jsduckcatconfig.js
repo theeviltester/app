@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/build/tasks/jsduckcatconfig.js');
 /*!
  * Merge jsduck configuration files with a downstream one
  */

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/InteractiveMaps/ads.js');
 /*global window, define, require, document*/
 /*jshint camelcase:false*/
 var ads = (function (window, document) {

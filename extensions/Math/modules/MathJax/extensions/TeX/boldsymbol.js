@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Math/modules/MathJax/extensions/TeX/boldsymbol.js');
 /*************************************************************
  *
  *  MathJax/extensions/TeX/boldsymbol.js

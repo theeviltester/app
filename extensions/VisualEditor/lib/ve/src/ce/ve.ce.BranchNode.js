@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ce/ve.ce.BranchNode.js');
 /*!
  * VisualEditor ContentEditable BranchNode class.
  *

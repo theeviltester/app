@@ -1,1 +1,2 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ContentWarning/js/ContentWarningDetect.js');
 !(window.wgContentWarningApproved = (document.cookie.indexOf('ContentWarningApproved=1') >= 0)) && (document.body.className += ' ShowContentWarning');

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiFeatures/js/WikiFeatures.js');
 /* global Modernizr */
 
 (function (window, $, mw) {

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.textSelection.js');
 /**
  * These plugins provide extra functionality for interaction with textareas.
  */

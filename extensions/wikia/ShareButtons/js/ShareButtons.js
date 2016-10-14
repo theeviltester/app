@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ShareButtons/js/ShareButtons.js');
 (function( window, $ ) {
 
 var callbacks = [],

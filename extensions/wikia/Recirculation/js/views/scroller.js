@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Recirculation/js/views/scroller.js');
 define('ext.wikia.recirculation.views.scroller', [
 	'jquery',
 	'wikia.window',

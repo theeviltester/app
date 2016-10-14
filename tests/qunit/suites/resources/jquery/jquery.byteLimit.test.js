@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/suites/resources/jquery/jquery.byteLimit.test.js');
 ( function ( $, mw ) {
 	var simpleSample, U_20AC, mbSample;
 

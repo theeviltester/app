@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpitfiresContributionExperiments/scripts/experiments-tracker.js');
 /*global define*/
 define('ext.wikia.spitfires.experiments.tracker', [
 	'wikia.tracker',

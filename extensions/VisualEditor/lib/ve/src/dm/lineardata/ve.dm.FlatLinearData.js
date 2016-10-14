@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/dm/lineardata/ve.dm.FlatLinearData.js');
 /*!
  * VisualEditor FlatLinearData classes.
  *

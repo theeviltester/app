@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/jqplot/resources/ext.srf.jqplot.themes.js');
 /**
  * JavaSript for SRF jqPlot module
  *

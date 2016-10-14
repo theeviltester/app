@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/resources/jquery.jqplot/jquery.jqplot.js');
 /**
  * Title: jqPlot Charts
  * 

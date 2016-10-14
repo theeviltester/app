@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Chat2/js/ChatWidget.js');
 /*global UserLoginModal*/
 
 var ChatWidget = {

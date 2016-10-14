@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Bucky/js/bucky_metrics.js');
 /*
  * This file is used for setting frontend data we want to track in Bucky
  */

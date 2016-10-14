@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/database.js');
 /*======================================================================
  *  Exhibit.Database
  *  http://simile.mit.edu/wiki/Exhibit/API/Database

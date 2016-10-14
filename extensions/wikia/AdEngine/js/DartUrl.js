@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/DartUrl.js');
 /**
  * DartUrl - a module to help generating DART URLs
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/PhalanxII/js/SpecialPhalanx.js');
 require(['jquery', 'mw', 'phalanx', 'BannerNotification'], function($, mw, phalanx, notification) {
 	// edit token is required by Phalanx API
 	phalanx.init(mw.config.get('wgPhalanxToken'));

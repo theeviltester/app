@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Math/modules/MathJax/jax/output/HTML-CSS/fonts/STIX/IntegralsD/Bold/All.js');
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/fonts/STIX/IntegralsD/Bold/All.js

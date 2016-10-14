@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaInYourLang/modules/ext.wikiaInYourLang.js');
 /**
  * Module that checks if a given wikia exists
  * in a user's native language (based on a Geo cookie)

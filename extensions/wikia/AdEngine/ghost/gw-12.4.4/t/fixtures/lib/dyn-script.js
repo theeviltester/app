@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/fixtures/lib/dyn-script.js');
 function doubleAttachingRemoteScript(){ 
 	var
 		 remoteUrl= 'http://b.ec2-1.digital-fulcrum.com/?delay=1&cache-control=no-cache;private'

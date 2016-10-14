@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.autoEllipsis.js');
 /**
  * Plugin that automatically truncates the plain text contents of an element and adds an ellipsis
  */

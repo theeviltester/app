@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Filtered/libs/ext.srf.filtered.list-view.js');
 /**
  * File holding the list-view plugin
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WidgetFramework/Widgets/WidgetSlideshow/WidgetSlideshow.js');
 // widget init (on add / on load)
 function WidgetSlideshow_init(id, widget) {
 	// preload images

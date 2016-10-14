@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/JitGraph/SRF_JitGraph.js');
 var labelType, useGradients, nativeTextSupport, animate;
 
 (function() {

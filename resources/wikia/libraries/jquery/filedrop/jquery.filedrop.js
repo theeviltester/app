@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/filedrop/jquery.filedrop.js');
 /*
  * Default text - jQuery plugin for html5 dragging files from desktop to browser
  *

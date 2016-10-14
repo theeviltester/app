@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/mode-sh.js');
 /* ***** BEGIN LICENSE BLOCK *****
  * Distributed under the BSD license:
  *

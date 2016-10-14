@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/admin/models/thumbnail.js');
 define('videopageadmin.models.thumbnail', [
 	'jquery'
 ], function ($) {

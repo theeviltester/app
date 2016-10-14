@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Math/modules/ext.math.mathjax.enabler.js');
 /**
  * From https://en.wikipedia.org/wiki/User:Nageh/mathJax.js
  */

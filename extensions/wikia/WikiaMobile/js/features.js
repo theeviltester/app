@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/features.js');
 /**
  *
  * Think of it as a Modernizr replacement

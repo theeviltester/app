@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/getcss/jquery.getcss.js');
 /**
  * jQuery.getCSS plugin
  * http://github.com/furf/jquery-getCSS

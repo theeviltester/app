@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/InWikiExternalForm/js/InWikiExternalForm.js');
 var InWikiExternalForm = {
 	init: function() {
 		Wikia.Tracker.track({

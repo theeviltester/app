@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WallNotifications/scripts/WallNotifications.js');
 var $window = $(window);
 var WallNotifications = $.createClass(Object, {
 	constructor: function() {

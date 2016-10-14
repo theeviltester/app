@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ce/ve.ce.AnnotationFactory.js');
 /*!
  * VisualEditor ContentEditable AnnotationFactory class.
  *

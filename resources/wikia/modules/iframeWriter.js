@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/iframeWriter.js');
 /*global define*/
 define('wikia.iframeWriter', [
 	'wikia.document',

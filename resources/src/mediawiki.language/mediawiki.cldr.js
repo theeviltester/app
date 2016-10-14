@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki.language/mediawiki.cldr.js');
 ( function ( mw ) {
 	'use strict';
 

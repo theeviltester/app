@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/ui/tools/ve.ui.MWEditModeTool.js');
 /*!
  * VisualEditor MediaWiki UserInterface edit mode tool classes.
  *

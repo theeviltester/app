@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikihiero/modules/ext.wikihiero.Special.js');
 jQuery( function ( $ ) {
 
 var $textarea = $( '#hiero-text' );

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/template/dialogs/template.js');
 /**
  *  Wikia template editor
  *

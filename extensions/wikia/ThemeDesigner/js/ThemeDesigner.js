@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ThemeDesigner/js/ThemeDesigner.js');
 /* global $ */
 (function (window) {
 	'use strict';

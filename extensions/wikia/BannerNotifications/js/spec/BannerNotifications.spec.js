@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/BannerNotifications/js/spec/BannerNotifications.spec.js');
 /*global describe, it, expect, BannerNotification*/
 describe('Banner Notification', function () {
 	'use strict';

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ShareButtons/js/ShareButtonFacebook.js');
 (function( window, $) {
 'use strict';
 

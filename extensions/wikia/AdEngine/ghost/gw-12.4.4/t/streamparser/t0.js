@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/streamparser/t0.js');
 window.HTMLParser= ghostwriter.htmlstreamparser
 function test(Y){
 

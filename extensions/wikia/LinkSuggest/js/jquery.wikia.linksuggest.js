@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/LinkSuggest/js/jquery.wikia.linksuggest.js');
 /*
  * jQuery MediaWiki LinkSuggest 1.1.0
  * JavaScript for LinkSuggest extension

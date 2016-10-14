@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/admin/collections/categorydata.js');
 define('videopageadmin.collections.categorydata', [], function () {
 	'use strict';
 

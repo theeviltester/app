@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/chart/chart-extension.js');
 /*==================================================
  *  Simile Exhibit Chart Extension
  *==================================================

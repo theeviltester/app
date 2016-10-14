@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/stringhelper.spec.js');
 describe("Stringhelper", function () {
 	'use strict';
 

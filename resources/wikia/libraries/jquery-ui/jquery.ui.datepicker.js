@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery-ui/jquery.ui.datepicker.js');
 /*!
  * jQuery UI Datepicker 1.9.1
  * http://jqueryui.com

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/en/scripts/ui/views/ordered-view-frame-l10n.js');
 /*==================================================
  *  Exhibit.OrderedViewFrame English localization
  *==================================================

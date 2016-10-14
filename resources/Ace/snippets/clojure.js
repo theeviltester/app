@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/clojure.js');
 ace.define('ace/snippets/clojure', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/ce/imetests/input-chrome-win-greek.js');
 /*!
  * VisualEditor IME test for Chromium on Windows in Greek.
  *

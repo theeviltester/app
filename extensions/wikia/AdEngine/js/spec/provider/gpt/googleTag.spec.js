@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/provider/gpt/googleTag.spec.js');
 /*global describe, it, expect, modules, spyOn, document, beforeEach*/
 describe('ext.wikia.adEngine.provider.gpt.googleTag', function () {
 	'use strict';

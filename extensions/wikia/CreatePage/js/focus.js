@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CreatePage/js/focus.js');
 $(function() {
     $("#postTitle").keydown(function (e) {
     	if(e.keyCode == 9){

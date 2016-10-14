@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/docs/javascript/prettify.js');
 
 // This code comes from the December 2009 release of Google Prettify, which is Copyright © 2006 Google Inc.
 // Minor modifications are marked with "ND Change" comments.

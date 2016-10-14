@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialContact2/SpecialContact.wikiamobile.js');
 (function(d){
 	var form = d.getElementById('wkContactForm'),
 		submit = d.getElementById('contactSub'),

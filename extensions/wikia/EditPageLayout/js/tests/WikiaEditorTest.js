@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPageLayout/js/tests/WikiaEditorTest.js');
 /*
 global module, text
 @test-exclude AssetsManager packages are not supported/QUnit is not supported

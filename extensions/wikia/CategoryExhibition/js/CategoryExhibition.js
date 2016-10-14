@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CategoryExhibition/js/CategoryExhibition.js');
 var CategoryExhibition = {
 	lockTable: {},
 

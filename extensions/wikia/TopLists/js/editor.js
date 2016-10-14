@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/TopLists/js/editor.js');
 /**
  * @author Federico "Lox" Lucignano <federico@wikia-inc.com>
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Wall/js/WallNewMessageForm.js');
 /* global Wall:true, WikiaButtons */
 (function (window, $) {
 	'use strict';

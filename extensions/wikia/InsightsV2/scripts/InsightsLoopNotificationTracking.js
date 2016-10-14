@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/InsightsV2/scripts/InsightsLoopNotificationTracking.js');
 /**
  * LoopNotificationTracking for Insights extension
  * Module sends tracking record to google analytics and internal analytics

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/lib/jquery.i18n/src/languages/hu.js');
 /**
  * Hungarian language functions
  *

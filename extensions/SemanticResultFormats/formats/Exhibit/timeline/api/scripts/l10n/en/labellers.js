@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/scripts/l10n/en/labellers.js');
 /*==================================================
  *  Localization of labellers.js
  *==================================================

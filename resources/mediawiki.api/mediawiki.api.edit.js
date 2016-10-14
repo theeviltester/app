@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki.api/mediawiki.api.edit.js');
 /**
  * Additional mw.Api methods to assist with API calls related to editing wiki pages.
  */

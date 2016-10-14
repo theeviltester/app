@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ui/ve.ui.Toolbar.js');
 /*!
  * VisualEditor UserInterface Toolbar class.
  *

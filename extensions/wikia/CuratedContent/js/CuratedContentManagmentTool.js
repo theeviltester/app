@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CuratedContent/js/CuratedContentManagmentTool.js');
 /* global mw, wgServer, wgScript */
 /* jshint maxlen: false */
 /* jshint loopfunc: false */

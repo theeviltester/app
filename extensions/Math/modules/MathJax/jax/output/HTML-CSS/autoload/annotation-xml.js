@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Math/modules/MathJax/jax/output/HTML-CSS/autoload/annotation-xml.js');
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/autoload/annotation-xm;l.js

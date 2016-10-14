@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/spec/admin/collections/category.spec.js');
 /*global describe, it, expect, beforeEach, modules, spyOn */
 describe('VideoPageTool: Admin Category Collection ( Backbone ):', function () {
 	'use strict';

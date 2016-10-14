@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/timeago/jquery.timeago.js');
 /*
  * timeago: a jQuery plugin, version: 0.9.3 (2011-01-21)
  * @requires jQuery v1.2.3 or later

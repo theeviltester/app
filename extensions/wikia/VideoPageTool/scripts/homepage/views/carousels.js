@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/homepage/views/carousels.js');
 /**
  * View for list of carousels on the video homage page.
  * Collection data is an array with all the carousel data.

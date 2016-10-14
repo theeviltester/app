@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/wikia/modules/ve/ui/tools/ve.ui.WikiaDialogTool.js');
 /**
  * UserInterface WikiaSourceModeDialog tool.
  *

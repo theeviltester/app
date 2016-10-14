@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/facebookLocale.js');
 /*global Geo*/
 (function (context) {
 	'use strict';

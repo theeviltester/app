@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoHandlers/js/handlers/Ooyala.js');
 /*global define, require*/
 
 /**

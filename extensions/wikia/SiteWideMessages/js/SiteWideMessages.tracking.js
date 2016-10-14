@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SiteWideMessages/js/SiteWideMessages.tracking.js');
 /**
  * Provides click tracking for the content of SiteWideMessages in Oasis
  *

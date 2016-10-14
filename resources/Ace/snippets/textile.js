@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/textile.js');
 ace.define('ace/snippets/textile', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

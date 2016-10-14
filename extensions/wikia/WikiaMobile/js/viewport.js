@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/viewport.js');
 /**
  * A window event fired when the viewport size is changed
  * it tries to get viewport size correctly

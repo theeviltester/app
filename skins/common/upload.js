@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/common/upload.js');
 ( function () {
 var	ajaxUploadDestCheck = mw.config.get( 'wgAjaxUploadDestCheck' ),
 	fileExtensions = mw.config.get( 'wgFileExtensions' );

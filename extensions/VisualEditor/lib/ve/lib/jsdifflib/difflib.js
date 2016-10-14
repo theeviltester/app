@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/lib/jsdifflib/difflib.js');
 /***
 This is part of jsdifflib v1.0. <http://snowtide.com/jsdifflib>
 

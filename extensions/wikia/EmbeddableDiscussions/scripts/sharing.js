@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EmbeddableDiscussions/scripts/sharing.js');
 /**
  * Functionality for social network sharing for Embeddable Discussions extension
  */

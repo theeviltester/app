@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMaps/js/WikiaMapsDeleteMap.js');
 define(
 	'wikia.maps.deleteMap',
 	[

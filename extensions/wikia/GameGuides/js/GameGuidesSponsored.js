@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/GameGuides/js/GameGuidesSponsored.js');
 /* global mw, confirm */
 $(function () {
 	'use strict';

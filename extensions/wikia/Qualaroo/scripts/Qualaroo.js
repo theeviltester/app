@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Qualaroo/scripts/Qualaroo.js');
 ( function ( window ) {
 	'use strict';
 	var _kiq = [],

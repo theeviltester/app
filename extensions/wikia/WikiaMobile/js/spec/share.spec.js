@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/spec/share.spec.js');
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("Share module", function () {
 	'use strict';

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/spec/integration/toast.spec.js');
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("Toast module", function () {
 	'use strict';

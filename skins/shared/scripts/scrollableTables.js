@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/shared/scripts/scrollableTables.js');
 /* global define */
 define('scrollableTables', ['wikia.window', 'wikia.dom'], function (win, dom) {
 	'use strict';

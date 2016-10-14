@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticForms/libs/SF_popupform.js');
 /**
  * Javascript code to be used with extension SemanticForms for popup forms.
  *

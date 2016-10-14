@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/spec/integration/modal.spec.js');
 /*global describe, it, afterEach, getBody, expect, jasmine, document*/
 describe('Modal module', function () {
 	'use strict';

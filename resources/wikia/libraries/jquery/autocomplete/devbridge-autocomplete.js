@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/autocomplete/devbridge-autocomplete.js');
 /**
  *  Ajax Autocomplete for jQuery, version 1.2.24
  *  (c) 2015 Tomas Kirda

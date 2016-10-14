@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ContentReview/scripts/contentReviewTestMode.js');
 define(
 	'ext.wikia.contentReview.testMode',
 	['jquery', 'mw', 'wikia.loader', 'wikia.nirvana', 'wikia.window', 'wikia.querystring', 'BannerNotification'],

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/importScriptHelper.js');
 define('wikia.importScriptHelper', function() {
 	'use strict';
 

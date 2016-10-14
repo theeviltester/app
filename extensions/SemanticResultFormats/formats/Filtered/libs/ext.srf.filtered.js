@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Filtered/libs/ext.srf.filtered.js');
 /**
  * File holding the filtered plugin
  *

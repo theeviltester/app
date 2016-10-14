@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ImagePlaceholder/js/MediaPlaceholder.js');
 /*
  * @author Liz Lee
  *

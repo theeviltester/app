@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/init/sa/ve.init.sa.Platform.js');
 /*!
  * VisualEditor Standalone Initialization Platform class.
  *

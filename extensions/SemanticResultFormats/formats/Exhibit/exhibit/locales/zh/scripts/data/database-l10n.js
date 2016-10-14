@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/zh/scripts/data/database-l10n.js');
 /*==================================================
  *  Exhibit.Database Chinese localization
  *==================================================

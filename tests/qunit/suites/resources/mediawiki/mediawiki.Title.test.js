@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/suites/resources/mediawiki/mediawiki.Title.test.js');
 /*jshint -W024 */
 ( function ( mw, $ ) {
 	// mw.Title relies on these three config vars

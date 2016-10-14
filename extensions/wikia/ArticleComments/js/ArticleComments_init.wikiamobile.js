@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ArticleComments/js/ArticleComments_init.wikiamobile.js');
 /**
  * Article Comments initialization for the WikiaMobile skin
  * This is loaded on any page that supports commenting and will load the full ArticleComments

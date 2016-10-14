@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/mode-handlebars.js');
 /* global define */
 
 ace.define('ace/mode/handlebars', ['require', 'exports', 'module' , 'ace/lib/oop', 'ace/mode/html', 'ace/tokenizer', 'ace/mode/handlebars_highlight_rules', 'ace/mode/behaviour/html', 'ace/mode/folding/html'], function(require, exports, module) {

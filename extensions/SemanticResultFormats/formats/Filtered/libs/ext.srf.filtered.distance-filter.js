@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Filtered/libs/ext.srf.filtered.distance-filter.js');
 /**
  * File holding the distance-filter plugin
  * 

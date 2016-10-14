@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/InWikiGame/js/InWikiGameEntryPointTracker.js');
 var InWikiGameEntryPointTracker = {
 	ENTRY_POINT_STORAGE_KEY: 'IN_WIKI_GAME_ENTRY_POINT',
 	init: function() {

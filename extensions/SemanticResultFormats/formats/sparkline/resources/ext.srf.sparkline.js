@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/sparkline/resources/ext.srf.sparkline.js');
 /**
  * JavaSript for SRF sparkline format
  * @see http://www.semantic-mediawiki.org/wiki/Help:Sparkline format

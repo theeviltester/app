@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPageLayout/js/plugins/WikitextSyntaxHighlighterQueueInit.js');
 /**
  * Simple script to queue run of WikiTextSyntaxHighlighter for source mode editor
  *

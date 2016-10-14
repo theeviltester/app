@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/dm/models/ve.dm.MWImageModel.js');
 /*!
  * VisualEditor DataModel MWImageModel class.
  *

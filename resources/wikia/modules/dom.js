@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/dom.js');
 /* global define */
 define('wikia.dom', ['wikia.document'], function (doc) {
 	'use strict';

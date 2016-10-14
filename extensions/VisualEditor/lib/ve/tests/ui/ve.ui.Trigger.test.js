@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/ui/ve.ui.Trigger.test.js');
 /*!
  * VisualEditor UserInterface Trigger tests.
  *

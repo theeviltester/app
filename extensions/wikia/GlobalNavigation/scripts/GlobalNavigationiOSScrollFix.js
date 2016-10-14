@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/GlobalNavigation/scripts/GlobalNavigationiOSScrollFix.js');
 define('GlobalNavigationiOSScrollFix', ['jquery', 'wikia.window'], function($, win) {
 	'use strict';
 	var cachedScrollY;

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/AdSlotInteractiveMaps.js');
 /*global define*/
 /*jshint maxlen:125*/
 define('ext.wikia.adEngine.slot.interactiveMaps', [

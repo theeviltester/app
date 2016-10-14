@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/c_cpp.js');
 ace.define('ace/snippets/c_cpp', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

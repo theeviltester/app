@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/imageServing.js');
 /*
  * @define wikia.imageServing
  * module used to handle

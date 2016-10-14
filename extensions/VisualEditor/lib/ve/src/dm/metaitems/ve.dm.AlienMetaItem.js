@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/dm/metaitems/ve.dm.AlienMetaItem.js');
 /*!
  * VisualEditor DataModel AlienMetaItem class.
  *

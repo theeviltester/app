@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/signal.js');
 /*==================================================
  *  This file is used to detect that all outstanding
  *  javascript files have been loaded. You can put

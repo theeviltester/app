@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/oasis/js/GlobalModal.js');
 /**
  * Global Modal helper
  * if query parameter contains "modal=XYZ", it will execute "showXYZ()" if the function exists

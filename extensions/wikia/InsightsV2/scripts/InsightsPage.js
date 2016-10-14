@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/InsightsV2/scripts/InsightsPage.js');
 require(['wikia.tracker'],
 	function (tracker) {
 		'use strict';

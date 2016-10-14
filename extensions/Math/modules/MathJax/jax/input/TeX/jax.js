@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Math/modules/MathJax/jax/input/TeX/jax.js');
 /*************************************************************
  *
  *  MathJax/jax/input/TeX/jax.js

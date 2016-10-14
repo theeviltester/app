@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/provider/monetizationService.js');
 define('ext.wikia.adEngine.provider.monetizationService', [
 	'ext.wikia.adEngine.adContext',
 	'wikia.loader',

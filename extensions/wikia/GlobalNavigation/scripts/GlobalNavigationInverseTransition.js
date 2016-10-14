@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/GlobalNavigation/scripts/GlobalNavigationInverseTransition.js');
 /*global require*/
 require([
 	'jquery',

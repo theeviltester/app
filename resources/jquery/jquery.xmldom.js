@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.xmldom.js');
 /*!
  * jQuery xmlDOM Plugin v1.0
  * http://outwestmedia.com/jquery-plugins/xmldom/

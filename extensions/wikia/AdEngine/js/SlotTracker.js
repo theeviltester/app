@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/SlotTracker.js');
 /*global setTimeout, define*/
 /*jshint camelcase:false, maxparams:5*/
 

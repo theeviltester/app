@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/dm/annotations/ve.dm.MWNowikiAnnotation.js');
 /*!
  * VisualEditor DataModel MWNowikiAnnotation class.
  *

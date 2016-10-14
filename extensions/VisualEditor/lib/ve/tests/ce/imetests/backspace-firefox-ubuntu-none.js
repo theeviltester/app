@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/ce/imetests/backspace-firefox-ubuntu-none.js');
 /*!
  * VisualEditor IME backspace test for Firefox on Ubuntu.
  *

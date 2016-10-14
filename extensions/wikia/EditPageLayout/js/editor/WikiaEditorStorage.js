@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPageLayout/js/editor/WikiaEditorStorage.js');
 var WikiaEditorStorage = function() {};
 
 WikiaEditorStorage.prototype = {

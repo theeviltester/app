@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/freebase/freebase-extension.js');
 /*==================================================
  *  Simile Exhibit Freebase Extension
  *==================================================

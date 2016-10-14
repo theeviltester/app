@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/init/ve.init.Platform.test.js');
 /*!
  * VisualEditor initialization tests.
  *

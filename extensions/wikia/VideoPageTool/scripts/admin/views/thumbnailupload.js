@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/admin/views/thumbnailupload.js');
 define('videopageadmin.views.thumbnailupload', [
 	'jquery',
 	'wikia.window',

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Maps/includes/services/GoogleMaps3/ext.maps.googlemaps3.js');
 /**
  * JavaScript for Google Maps v3 maps in the Maps extension.
  * @see https://www.mediawiki.org/wiki/Extension:Maps

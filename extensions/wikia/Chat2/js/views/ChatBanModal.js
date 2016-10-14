@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Chat2/js/views/ChatBanModal.js');
 var ChatBanModal = function (title, okCallback, options) {
 	'use strict';
 

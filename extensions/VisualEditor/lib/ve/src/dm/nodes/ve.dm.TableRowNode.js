@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/dm/nodes/ve.dm.TableRowNode.js');
 /*!
  * VisualEditor DataModel TableRowNode class.
  *

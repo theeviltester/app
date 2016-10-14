@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/order/t0.js');
 function test(){ 
 	var test= new Y.Test.Case({ 
 		name: "Script Load Ordering ", 

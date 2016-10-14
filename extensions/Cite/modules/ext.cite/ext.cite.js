@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Cite/modules/ext.cite/ext.cite.js');
 ( function($) {
 	$( function() {
 		$('.biblio-cite-link,sup.reference a').tooltip({

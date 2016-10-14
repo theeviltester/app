@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/tests/ve.test.utils.js');
 /*!
  * VisualEditor MediaWiki test utilities.
  *

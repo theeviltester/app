@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EmbeddableDiscussions/scripts/ext.embeddableDiscussions.js');
 require([
 	'jquery',
 	'wikia.tracker',

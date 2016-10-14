@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SiteWideMessages/js/SiteWideMessages.anon.js');
 (function ($, mw, window) {
 	'use strict';
 

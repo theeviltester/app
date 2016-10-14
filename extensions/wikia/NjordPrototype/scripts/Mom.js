@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/NjordPrototype/scripts/Mom.js');
 (function (window, $) {
 	'use strict';
 

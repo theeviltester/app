@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/spec/events.spec.js');
 describe("Event module", function() {
 
 	it("should init with touch events", function() {

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticForms/libs/SF_collapsible.js');
 /**
  * SF_collapsible.js
  *

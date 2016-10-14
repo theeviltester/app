@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/curate/scripts/change-list.js');
 //=============================================================================
 // ChangeListView
 // Tracks changes made to Exhibit items through item changing interfaces, and

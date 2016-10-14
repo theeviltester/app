@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ui/actions/ve.ui.ContentAction.js');
 /*!
  * VisualEditor UserInterface ContentAction class.
  *

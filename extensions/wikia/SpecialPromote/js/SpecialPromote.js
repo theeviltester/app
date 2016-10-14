@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialPromote/js/SpecialPromote.js');
 var SpecialPromote = function () {
 	'use strict';
 

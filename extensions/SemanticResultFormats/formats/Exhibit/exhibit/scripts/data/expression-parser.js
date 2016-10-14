@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/expression-parser.js');
 /*==================================================
  *  Exhibit.ExpressionParser
  *  http://simile.mit.edu/wiki/Exhibit/API/ExpressionParser

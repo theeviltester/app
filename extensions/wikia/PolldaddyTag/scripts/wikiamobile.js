@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/PolldaddyTag/scripts/wikiamobile.js');
 $('a[data-wikia-widget=polldaddy]').each(function () {
 	var id = this.getAttribute('data-id');
 	$(this).replaceWith('<a name="pd_a_' + id + '" style="display:inline;padding:0;margin:0;"></a>' +

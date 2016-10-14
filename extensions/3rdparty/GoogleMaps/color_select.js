@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/3rdparty/GoogleMaps/color_select.js');
 // This code is originally from www.daltonlp.com,
 // with slight modifications by EMM to make it suck less.
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery-migrate-browser.js');
 /**
  * A piece of code taken from http://code.jquery.com/jquery-migrate-1.2.1.js
  */

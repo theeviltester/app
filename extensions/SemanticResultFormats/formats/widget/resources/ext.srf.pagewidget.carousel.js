@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/widget/resources/ext.srf.pagewidget.carousel.js');
 /**
  * JavaScript for SRF PageWidget format
  * @see http://www.semantic-mediawiki.org/wiki/Help:Pagewidget format

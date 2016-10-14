@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoHandlers/js/handlers/Anyclip.js');
 define('wikia.videohandler.anyclip', ['wikia.window'], function Anyclip(window) {
 	'use strict';
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/nodeFinder.js');
 define('wikia.nodeFinder', function () {
 	'use strict';
 

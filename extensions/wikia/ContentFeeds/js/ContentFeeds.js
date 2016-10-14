@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ContentFeeds/js/ContentFeeds.js');
 var ContentFeeds = {
 	linkUrlRegExp: /((ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?)/gi,
 	linkUserRegExp: /[\@]+([A-Za-z0-9-_]+)/gi,

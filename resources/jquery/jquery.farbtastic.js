@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.farbtastic.js');
 /**
  * Farbtastic Color Picker 1.2
  * © 2008 Steven Wittens

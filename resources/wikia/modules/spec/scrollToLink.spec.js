@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/scrollToLink.spec.js');
 describe("scrollToLink", function() {
 	"use strict";
 

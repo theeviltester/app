@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/en/scripts/ui/views/view-panel-l10n.js');
 /*==================================================
  *  Exhibit.ViewPanel English localization
  *==================================================

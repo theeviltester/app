@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/resources/jquery.jqplot/excanvas.js');
 // Memory Leaks patch from http://explorercanvas.googlecode.com/svn/trunk/ 
 //  svn : r73
 // ------------------------------------------------------------------

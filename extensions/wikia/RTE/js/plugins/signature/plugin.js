@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/signature/plugin.js');
 CKEDITOR.plugins.add('rte-signature',
 {
 	init: function(editor) {

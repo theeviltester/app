@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/ext-options.js');
 define('ace/ext/options', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/flot/jquery.flot.threshold.js');
 /*
 Flot plugin for thresholding data. Controlled through the option
 "threshold" in either the global series options

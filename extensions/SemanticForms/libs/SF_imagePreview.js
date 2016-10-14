@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticForms/libs/SF_imagePreview.js');
 /**
  * JavaScript for the Semantic Forms MediaWiki extension.
  *

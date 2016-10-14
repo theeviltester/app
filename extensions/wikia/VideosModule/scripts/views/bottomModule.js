@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideosModule/scripts/views/bottomModule.js');
 // Old code to instantiate the bottom module. We're keeping it around just in case we decide to switch
 // to the bottom position later on.
 

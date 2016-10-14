@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/provider/gpt/adSizeConverter.spec.js');
 /*global describe, it, expect, modules*/
 describe('ext.wikia.adEngine.provider.gpt.adSizeConverter', function () {
 	'use strict';

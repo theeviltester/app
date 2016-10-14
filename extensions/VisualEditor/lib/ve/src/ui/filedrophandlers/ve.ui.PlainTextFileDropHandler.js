@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ui/filedrophandlers/ve.ui.PlainTextFileDropHandler.js');
 /*!
  * VisualEditor UserInterface plain text file drop handler class.
  *

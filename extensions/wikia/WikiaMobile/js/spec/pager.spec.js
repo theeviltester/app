@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/spec/pager.spec.js');
 /*global describe, it, expect*/
 describe('Pager module', function () {
 	'use strict';

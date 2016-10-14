@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/protobuf.js');
 ace.define('ace/snippets/protobuf', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

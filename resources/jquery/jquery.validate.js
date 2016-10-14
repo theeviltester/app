@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.validate.js');
 /**
  * jQuery Validation Plugin 1.8.1
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/admin/models/datepicker.js');
 /**
  * @description Generalized model for jQuery.ui Datepicker, based/refactored from SpecialEditHub implementation
  * @dependencies Model datepicker

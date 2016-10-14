@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/homepage/views/carousel.js');
 /**
  * View for carousel wrapper.  Data is category display title and thumbs list
  */

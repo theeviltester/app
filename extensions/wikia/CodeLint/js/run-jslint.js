@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CodeLint/js/run-jslint.js');
 /**
  * JS script performing lint check over JS files. It should be run using nodejs.
  *

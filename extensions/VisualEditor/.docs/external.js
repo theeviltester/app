@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/.docs/external.js');
 /**
  * Provided by VisualEditorDataModule.php for the MediaWiki environment.
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CommunityPage/scripts/firstEditModal.js');
 require([
 	'jquery',
 	'wikia.ui.factory',

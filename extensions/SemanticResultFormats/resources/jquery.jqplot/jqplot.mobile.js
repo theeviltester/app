@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.mobile.js');
 /**
  * jqplot.jquerymobile plugin
  * jQuery Mobile virtual event support.

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/wikia/modules/ve/init/ve.init.wikia.js');
 /*!
  * VisualEditor Wikia Initialization namespace.
  */

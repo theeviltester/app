@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/sv/exhibit-sv-bundle.js');
 
 
 /* database-l10n.js */

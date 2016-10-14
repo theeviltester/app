@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/admin/views/dashboard.js');
 /**
  * This view is the entry point for the VideoPageTool admin form.
  */

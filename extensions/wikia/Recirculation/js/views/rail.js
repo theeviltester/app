@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Recirculation/js/views/rail.js');
 define('ext.wikia.recirculation.views.rail', [
 	'jquery',
 	'wikia.window',

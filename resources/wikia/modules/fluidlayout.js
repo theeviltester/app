@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/fluidlayout.js');
 /**
  * Helper module defining the fluid layout properties.
  *

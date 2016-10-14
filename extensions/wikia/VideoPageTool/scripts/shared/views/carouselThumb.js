@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/shared/views/carouselThumb.js');
 /**
  * view for individual carousel thumbs. Data is thumbnail and video title
  */

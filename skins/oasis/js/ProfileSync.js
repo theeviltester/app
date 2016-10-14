@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/oasis/js/ProfileSync.js');
 var ProfileSync = {
 	init: function() {
 		ProfileSync.attachListeners();

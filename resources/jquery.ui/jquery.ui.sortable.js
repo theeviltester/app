@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/jquery.ui.sortable.js');
 /*!
  * jQuery UI Sortable 1.8.23
  *

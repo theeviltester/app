@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.expandableField.js');
 /**
  * This plugin provides functionality to expand a text box on focus to double it's current width
  *

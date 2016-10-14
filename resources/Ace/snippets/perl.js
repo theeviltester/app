@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/perl.js');
 ace.define('ace/snippets/perl', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

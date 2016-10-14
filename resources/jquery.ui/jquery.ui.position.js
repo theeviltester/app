@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/jquery.ui.position.js');
 /*
  * jQuery UI Position 1.8.17
  *

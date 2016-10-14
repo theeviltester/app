@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki.language/languages/uk.js');
 /*!
  * Ukrainian (Українська) language functions
  */

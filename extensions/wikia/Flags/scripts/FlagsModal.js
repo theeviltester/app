@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Flags/scripts/FlagsModal.js');
 require(
 	['jquery', 'wikia.document', 'wikia.loader', 'wikia.nirvana', 'wikia.mustache', 'mw', 'wikia.tracker'],
 	function ($, document, loader, nirvana, mustache, mw, tracker)

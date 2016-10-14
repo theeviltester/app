@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialEditHub/js/EditHub.js');
 (function (window, $) {
 	'use strict';
 

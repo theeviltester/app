@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Flags/specials/scripts/FlagEditForm.js');
 define ('ext.wikia.Flags.FlagEditForm',
 	['jquery', 'mw', 'wikia.loader', 'wikia.cache', 'wikia.nirvana', 'wikia.mustache', 'BannerNotification'],
 	function ($, mw, loader, cache, nirvana, mustache, BannerNotification) {

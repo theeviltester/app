@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MonetizationModule/scripts/MonetizationModule.js');
 /**
  * JS file for Monetization Module.
  */

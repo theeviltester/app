@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPageLayout/js/plugins/TemplateClassificationEditorPlugin.js');
 /**
  * Editor plugin to force template classification type choose on publish if doesn't exist and break article submit
  *

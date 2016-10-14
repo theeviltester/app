@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/GlobalShortcuts/scripts/AddDefaultShortcuts.js');
 /**
  * A module for adding a set of default shortcut keys that are always available
  */

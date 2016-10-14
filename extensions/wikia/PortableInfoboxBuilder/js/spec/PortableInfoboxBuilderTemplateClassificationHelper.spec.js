@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/PortableInfoboxBuilder/js/spec/PortableInfoboxBuilderTemplateClassificationHelper.spec.js');
 describe('wikia.infoboxBuilder.templateClassificationHelper', function () {
 	var helper = null,
 		windowMock = {},

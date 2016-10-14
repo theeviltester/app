@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaHomePage/js/spec/WikiaHomePage.spec.js');
 describe('Wikia Home Page', function(){
 
 	it('remixing - default', function() {

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaIrcGateway/WikiaIrcGateway.js');
 function setrefercookie() {
    document.cookie = "referer="+document.referrer;
 }

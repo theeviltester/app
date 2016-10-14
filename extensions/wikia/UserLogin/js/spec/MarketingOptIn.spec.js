@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserLogin/js/spec/MarketingOptIn.spec.js');
 describe('UserLogin Marketing Opt In', function () {
 	'use strict';
 

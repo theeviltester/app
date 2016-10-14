@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Lightbox/scripts/Lightbox.js');
 /*global LightboxLoader:true, LightboxTracker, Geo, WikiaForm, wgTitle*/
 
 (function (window, $) {

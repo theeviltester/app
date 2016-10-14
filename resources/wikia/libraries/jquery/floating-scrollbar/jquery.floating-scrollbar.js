@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/floating-scrollbar/jquery.floating-scrollbar.js');
 /*!
  * jQuery Floating Scrollbar - v0.5 - 09/05/2013
  * http://benalman.com/

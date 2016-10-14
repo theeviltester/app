@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserRenameTool/js/NewUsernameUrlEncoder.js');
 var NewUsernameUrlEncoder = {
 
 	init: function() {

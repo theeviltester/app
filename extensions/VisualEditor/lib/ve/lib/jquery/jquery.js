@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/lib/jquery/jquery.js');
 /*!
  * jQuery JavaScript Library v1.8.2
  * http://jquery.com/

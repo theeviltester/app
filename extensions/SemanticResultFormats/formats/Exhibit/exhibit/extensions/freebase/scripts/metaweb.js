@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/freebase/scripts/metaweb.js');
 // provide SimileAjax's JSON library to Metaweb
 var JSON = SimileAjax.JSON;
 JSON.serialize = JSON.toJSONString;

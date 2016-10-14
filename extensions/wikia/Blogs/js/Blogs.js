@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Blogs/js/Blogs.js');
 var Blogs = {};
 
 Blogs.callback = function( data ) {

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/suites/resources/jquery/jquery.textSelection.test.js');
 module( 'jquery.textSelection', QUnit.newMwEnvironment() );
 
 test( '-- Initial check', function() {

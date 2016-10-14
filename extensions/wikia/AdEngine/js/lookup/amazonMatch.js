@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/lookup/amazonMatch.js');
 /*global define*/
 define('ext.wikia.adEngine.lookup.amazonMatch', [
 	'ext.wikia.adEngine.adContext',

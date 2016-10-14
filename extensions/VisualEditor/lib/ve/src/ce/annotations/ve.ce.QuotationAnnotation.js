@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ce/annotations/ve.ce.QuotationAnnotation.js');
 /*!
  * VisualEditor ContentEditable QuotationAnnotation class.
  *

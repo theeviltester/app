@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/focusNoScroll/jquery.focusNoScroll.js');
 /**
  * Yo Internet Explorer, stop scrolling all over the place on focus!
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/dialog/plugin.js');
 CKEDITOR.plugins.add('rte-dialog',
 {
         init: function(editor) {

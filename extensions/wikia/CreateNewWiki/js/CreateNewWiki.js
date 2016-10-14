@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CreateNewWiki/js/CreateNewWiki.js');
 require(['wikia.window', 'ext.createNewWiki.builder'], function (win, wikiBuilder) {
 	'use strict';
 	$(function() {

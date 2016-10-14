@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/wikia/modules/ve/dm/ve.dm.WikiaGalleryNode.js');
 /*!
  * VisualEditor DataModel WikiaGalleryNode class.
  */

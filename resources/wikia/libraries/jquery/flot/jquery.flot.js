@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/flot/jquery.flot.js');
 /*! Javascript plotting library for jQuery, v. 0.7.
  *
  * Released under the MIT license by IOLA, December 2007.

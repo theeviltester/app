@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/ce/imetests/input-chromium-ubuntu-ibus-malayalam-swanalekha.js');
 /*!
  * VisualEditor IME test for Chromium on Ubuntu in Malayalam using iBus Swanalekha.
  *

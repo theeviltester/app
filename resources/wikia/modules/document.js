@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/document.js');
 /**
  * AMD module wrapping document object
  */

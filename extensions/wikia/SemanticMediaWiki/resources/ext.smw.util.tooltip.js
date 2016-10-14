@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SemanticMediaWiki/resources/ext.smw.util.tooltip.js');
 /**
  * JavaScript for SMW tooltip functions
  * @see http://www.semantic-mediawiki.org/wiki/Help:Tooltip

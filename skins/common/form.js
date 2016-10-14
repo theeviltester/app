@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/common/form.js');
 $(function() {
 	//Highlight first formblock
 	$(".highlightform").find(".formblock:first").addClass("selected");

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Thumbnails/scripts/views/titleThumbnail.js');
 define('thumbnails.views.titleThumbnail', [
 	'thumbnails.templates.mustache',
 	'wikia.mustache'

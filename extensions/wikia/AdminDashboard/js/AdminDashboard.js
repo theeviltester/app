@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdminDashboard/js/AdminDashboard.js');
 require(['jquery', 'mw', 'wikia.nirvana'], function ($, mw, nirvana) {
 	var AdminDashboard = {
 		controls: {},

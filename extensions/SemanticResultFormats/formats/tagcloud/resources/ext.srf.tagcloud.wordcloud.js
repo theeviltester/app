@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/tagcloud/resources/ext.srf.tagcloud.wordcloud.js');
 /**
  * JavaScript for SRF wordcloud widget based on d3 and d3.layout.cloud.js
  * @see http://www.semantic-mediawiki.org/wiki/Help:Tagcloud format

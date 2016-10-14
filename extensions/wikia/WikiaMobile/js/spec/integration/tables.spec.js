@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/spec/integration/tables.spec.js');
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("Tables module", function () {
 	'use strict';

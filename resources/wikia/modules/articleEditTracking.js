@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/articleEditTracking.js');
 (function($, tracker, wikiaEditor) {
   var dataKey = 'keyup-tracked';
   var textBoxId = 'wpTextbox1';

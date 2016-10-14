@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery-1.8.1.js');
 /*!
  * jQuery JavaScript Library v1.8.1
  * http://jquery.com/

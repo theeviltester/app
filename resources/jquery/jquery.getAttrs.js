@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.getAttrs.js');
 /**
  * Utility to get all attributes of an element directy as an object.
  *

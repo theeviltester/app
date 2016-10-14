@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/TemplateClassification/scripts/TemplateClassificationModal.js');
 /**
  * TemplateClassificationModal module
  *

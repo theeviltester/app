@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/GlobalNavigation/scripts/GlobalNavigationSearch.js');
 require(['jquery', 'wikia.browserDetect', 'GlobalNavigationiOSScrollFix'], function ($, browserDetect, scrollFix) {
 	'use strict';
 	var $selectElement = $('#searchSelect'),

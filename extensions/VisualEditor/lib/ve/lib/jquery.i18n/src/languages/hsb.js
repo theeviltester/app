@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/lib/jquery.i18n/src/languages/hsb.js');
 /**
  * Upper Sorbian (Hornjoserbsce) language functions
  */

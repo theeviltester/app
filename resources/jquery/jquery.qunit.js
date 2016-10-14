@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.qunit.js');
 /**
  * QUnit v1.11.0 - A JavaScript Unit Testing Framework
  *

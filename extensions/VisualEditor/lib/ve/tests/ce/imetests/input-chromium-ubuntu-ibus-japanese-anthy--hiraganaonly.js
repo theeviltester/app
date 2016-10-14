@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/ce/imetests/input-chromium-ubuntu-ibus-japanese-anthy--hiraganaonly.js');
 /*!
  * VisualEditor IME test for Chromium on Ubuntu in Japanese using iBus Anthy.
  *

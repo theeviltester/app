@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/BannerNotifications/js/Gruntfile.js');
 module.exports = function( grunt ) {
 	'use strict';
 	grunt.loadNpmTasks( 'grunt-mustache' );

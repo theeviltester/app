@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/uicomponent.js');
 /**
  * JS version of Component.class.php - part of UI repo API for rendering components
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CategorySelect/js/CategorySelect.view.js');
 (function( window, $, mw ) {
 	var action = window.wgAction,
 		wgCategorySelect = window.wgCategorySelect;

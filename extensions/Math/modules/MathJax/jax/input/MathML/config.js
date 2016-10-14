@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Math/modules/MathJax/jax/input/MathML/config.js');
 /*************************************************************
  *
  *  MathJax/jax/input/MathML/config.js

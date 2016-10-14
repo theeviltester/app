@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/coffee.js');
 ace.define('ace/snippets/coffee', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

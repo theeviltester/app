@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ImageLazyLoad/spec/ImageLazyLoad.spec.js');
 /* jshint maxlen: 250 */
 describe('ImgLzy', function () {
 	'use strict';

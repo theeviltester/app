@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/startup.js');
 /**
  * This script provides a function which is run to evaluate whether or not to
  * continue loading the jquery and mediawiki modules. This code should work on

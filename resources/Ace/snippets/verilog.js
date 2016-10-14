@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/verilog.js');
 ace.define('ace/snippets/verilog', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

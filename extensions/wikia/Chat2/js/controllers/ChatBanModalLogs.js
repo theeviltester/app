@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Chat2/js/controllers/ChatBanModalLogs.js');
 var ChatBanLogController = function () {
 	$('.chat-change-ban').click(function (event) {
 		var title = mw.message('chat-ban-modal-change-ban-heading').escaped(),

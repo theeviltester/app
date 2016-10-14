@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobileEditor/js/preview.js');
 require( [
 	'modal',
 	'wikia.loader',

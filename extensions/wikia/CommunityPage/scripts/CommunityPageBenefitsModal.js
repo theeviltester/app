@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CommunityPage/scripts/CommunityPageBenefitsModal.js');
 /**
  * Modal containing Benefits of joining Community;
  * modal is an entry point for Community Page

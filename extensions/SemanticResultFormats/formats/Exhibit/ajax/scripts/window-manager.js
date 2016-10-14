@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/window-manager.js');
 /**
  * @fileOverview UI layers and window-wide dragging
  * @name SimileAjax.WindowManager

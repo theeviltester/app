@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/tests/dm/ve.dm.mwExample.js');
 /*!
  * VisualEditor DataModel MediaWiki-specific example data sets.
  *

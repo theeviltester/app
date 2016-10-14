@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/carousel/jquery.wikia.carousel.js');
 /*
  * Wikia Carousel jQuery plugin
  * Author Liz Lee, Hyun Lim

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CodeLint/js/jslint-deprecated.js');
 /**
  * This file contains functions and variables deprecated in MediaWiki 1.19
  *

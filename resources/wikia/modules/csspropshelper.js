@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/csspropshelper.js');
 /**
  * Helper module for checking if CSS3 property is supported by the browser and returning this property in JS
  * camel case style formatting. Useful when you set CSS properties in javascript.

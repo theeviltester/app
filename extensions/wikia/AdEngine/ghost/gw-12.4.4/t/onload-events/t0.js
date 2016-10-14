@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/onload-events/t0.js');
 function test(){ 
 	if(document.documentElement.doScroll) 
 		Y.Test.Runner.add(new Y.Test.Case({ 

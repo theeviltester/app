@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/run/mercury.run.js');
 /*global require*/
 require([
 	'ext.wikia.adEngine.adContext',

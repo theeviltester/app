@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ArticleComments/js/ArticleComments.js');
 /* global wgAfterContentAndJS, wgArticleId, wgPageName, wgScript, MiniEditor, skin */
 
 (function (window, $) {

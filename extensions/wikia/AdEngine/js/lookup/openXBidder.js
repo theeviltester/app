@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/lookup/openXBidder.js');
 /*global define*/
 /*jshint camelcase:false*/
 define('ext.wikia.adEngine.lookup.openXBidder', [

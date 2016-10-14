@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/AdDecoratorLegacyParamFormat.js');
 /*global define*/
 define('ext.wikia.adEngine.adDecoratorLegacyParamFormat', ['wikia.log'], function (log) {
 	'use strict';

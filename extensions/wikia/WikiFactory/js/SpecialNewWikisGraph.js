@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiFactory/js/SpecialNewWikisGraph.js');
 var SponsorshipDashboard = function(){
 	var self = this;
 

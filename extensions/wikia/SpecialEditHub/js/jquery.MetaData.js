@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialEditHub/js/jquery.MetaData.js');
 /*
  * Metadata - jQuery plugin for parsing metadata from elements
  *

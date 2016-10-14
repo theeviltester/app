@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/BannerNotifications/js/BannerNotifications.js');
 /* global require, define*/
 /*
  * Handles the color-coded notification messages that generally appear

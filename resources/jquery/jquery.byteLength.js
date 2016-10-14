@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.byteLength.js');
 /**
  * jQuery.byteLength
  *

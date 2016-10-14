@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CreateNewWiki/js/CreateNewWikiHelper.js');
 define(
 	'ext.createNewWiki.helper',
 	['wikia.stringhelper', 'wikia.querystring'],

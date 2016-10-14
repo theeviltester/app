@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/.docs/external.js');
 /**
  * @class jQuery
  * @source <http://api.jquery.com/>

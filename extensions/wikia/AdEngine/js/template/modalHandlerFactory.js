@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/template/modalHandlerFactory.js');
 /*global define, require*/
 define('ext.wikia.adEngine.template.modalHandlerFactory', [
 	'ext.wikia.adEngine.adContext',

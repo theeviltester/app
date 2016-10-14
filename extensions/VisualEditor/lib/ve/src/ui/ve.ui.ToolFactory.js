@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ui/ve.ui.ToolFactory.js');
 /*!
  * VisualEditor UserInterface ToolFactory class.
  *

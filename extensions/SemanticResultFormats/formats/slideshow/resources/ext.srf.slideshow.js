@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/slideshow/resources/ext.srf.slideshow.js');
 /**
  * File holding the slideshow plugin
  *

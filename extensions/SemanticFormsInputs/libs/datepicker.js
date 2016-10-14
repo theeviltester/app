@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticFormsInputs/libs/datepicker.js');
 /**
  * Javascript code to be used with input type datepicker.
  *

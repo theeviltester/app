@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/en/locale.js');
 /*==================================================
  *  English localization
  *  (also base and default localization)

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/resources/jquery.listnav/jquery.listnav.min-2.1.js');
 ﻿/*
 *
 * jQuery listnav plugin

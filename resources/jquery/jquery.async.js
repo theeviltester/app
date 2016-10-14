@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.async.js');
 /*
  * jQuery Asynchronous Plugin 1.0
  *

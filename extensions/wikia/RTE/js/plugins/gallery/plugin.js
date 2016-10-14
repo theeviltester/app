@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/gallery/plugin.js');
 CKEDITOR.plugins.add('rte-gallery',
 {
 	init: function(editor) {

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.json2.js');
 /*
     2010-11-01 Chris Leonello
     

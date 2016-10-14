@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/aim.js');
 /**
  * AJAX IFRAME METHOD (AIM) rewritten for jQuery
  * @see http://www.webtoolkit.info/

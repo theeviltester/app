@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/pager.js');
 /**
  * Handling of interactive swipeing of gallery/image modals
  *

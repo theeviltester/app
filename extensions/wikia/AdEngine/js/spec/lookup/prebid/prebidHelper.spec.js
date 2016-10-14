@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/lookup/prebid/prebidHelper.spec.js');
 /*global beforeEach, describe, it, modules, expect, spyOn*/
 describe('ext.wikia.adEngine.lookup.prebid.prebidHelper', function () {
 	'use strict';

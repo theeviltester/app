@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/sections.js');
 /*
  * @define sections
  * module used to handle sections on wikiamobile

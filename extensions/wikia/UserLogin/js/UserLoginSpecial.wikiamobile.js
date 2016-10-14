@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserLogin/js/UserLoginSpecial.wikiamobile.js');
 require(['jquery', 'wikia.window', 'wikia.loader', 'toast'], function ($, window, loader, toast) {
 	'use strict';
 

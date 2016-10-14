@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/uicomponent.spec.js');
 describe('UIComponent', function () {
 	'use strict';
 

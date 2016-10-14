@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/homepage/collections/featuredslides.js');
 define('videohomepage.collections.featuredslides', [], function () {
 	'use strict';
 

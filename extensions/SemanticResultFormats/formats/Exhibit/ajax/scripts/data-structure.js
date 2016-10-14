@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/data-structure.js');
 /**
  * A basic set (in the mathematical sense) data structure
  *

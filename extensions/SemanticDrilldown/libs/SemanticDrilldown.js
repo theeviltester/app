@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticDrilldown/libs/SemanticDrilldown.js');
 /**
  * SemanticDrilldown.js
  *

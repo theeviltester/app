@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/shared/views/switcher.js');
 /**
  * jQuery plugin Switcher:
  *

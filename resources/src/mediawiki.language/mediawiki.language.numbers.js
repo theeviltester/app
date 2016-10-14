@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki.language/mediawiki.language.numbers.js');
 /*
  * Number-related utilities for mediawiki.language.
  */

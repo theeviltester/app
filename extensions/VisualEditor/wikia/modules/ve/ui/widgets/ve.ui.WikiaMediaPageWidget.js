@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/wikia/modules/ve/ui/widgets/ve.ui.WikiaMediaPageWidget.js');
 
 /*!
  * VisualEditor UserInterface WikiaMediaPageWidget class.

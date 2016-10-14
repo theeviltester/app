@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/AdEngine2.spec.js');
 /*global describe,modules,it,expect,spyOn,jasmine*/
 /*jshint maxlen:200*/
 /*jslint unparam:true*/

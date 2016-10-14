@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Maps/includes/services/GoogleMaps3/geoxml3/ZipFile.complete.js');
 // ZipFile.complete.js
 //
 // 2/17/2012

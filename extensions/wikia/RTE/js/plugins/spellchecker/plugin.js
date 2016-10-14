@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/spellchecker/plugin.js');
 CKEDITOR.plugins.add('rte-spellchecker',
 {
 	// show suggestions as the first items in context menu

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Math/modules/TeX-AMS-texvc_HTML.js');
 /*
  *  /MathJax/config/TeX-AMS-texvc_HTML.js
  *

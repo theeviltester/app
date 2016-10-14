@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MiniEditor/js/MiniEditor.js');
 (function(window, $, undefined) {
 
 // This file is included globally.

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserLogin/js/UserLogin.js');
 /*global WikiaEditor:true, UserLoginModal */
 (function () {
 	'use strict';

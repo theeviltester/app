@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/en/scripts/util/views-l10n.js');
 /*==================================================
  *  Exhibit.ViewUtilities English localization
  *==================================================

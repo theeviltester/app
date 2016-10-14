@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/suites/resources/mediawiki/mediawiki.util.test.js');
 module( 'mediawiki.util', QUnit.newMwEnvironment() );
 
 test( '-- Initial check', function() {

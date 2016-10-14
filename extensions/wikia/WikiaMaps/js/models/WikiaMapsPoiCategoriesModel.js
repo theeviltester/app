@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMaps/js/models/WikiaMapsPoiCategoriesModel.js');
 define('wikia.maps.poiCategories.model',
 	[
 		'jquery',

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/getResources/jquery.wikia.getResources.js');
 (function (window, $) {
 	'use strict';
 

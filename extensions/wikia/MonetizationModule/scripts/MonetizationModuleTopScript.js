@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MonetizationModule/scripts/MonetizationModuleTopScript.js');
 /**
  * NOTE: This script must run before the page is rendered
  * in order to properly set the 'fromsearch' variable. Otherwise,

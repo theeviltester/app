@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/store/jquery.store.js');
 /*
  * jQuery store - Plugin for persistent data storage using localStorage, userData (and window.name)
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/Ponto/ponto.js');
 /**
  * Ponto JavaScript implementation for WebViews
  *

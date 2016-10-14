@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Math/modules/MathJax/jax/output/NativeMML/jax.js');
 /*************************************************************
  *
  *  MathJax/jax/output/NativeMML/jax.js

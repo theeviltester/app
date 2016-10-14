@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMaps/js/WikiaMapsCreateMap.js');
 require(['jquery', 'wikia.loader'], function ($, loader) {
 	'use strict';
 

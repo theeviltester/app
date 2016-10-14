@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki.libs/CLDRPluralRuleParser.js');
 /* This is CLDRPluralRuleParser v1.1, ported to MediaWiki ResourceLoader */
 
 /**

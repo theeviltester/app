@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/suites/resources/jquery/jquery.localize.test.js');
 module( 'jquery.localize', QUnit.newMwEnvironment() );
 
 test( '-- Initial check', function() {

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/navigation.wiki.js');
 require(['wikia.window', 'wikia.nirvana', 'track', 'wikia.cache'],
 	function (window, nirvana, track, cache) {
 		'use strict';

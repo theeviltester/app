@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/ce/imetests/backspace-ie-win-none.js');
 /*!
  * VisualEditor IME backspace test for Internet Explorer on Windows.
  *

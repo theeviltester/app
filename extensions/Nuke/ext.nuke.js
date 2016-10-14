@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Nuke/ext.nuke.js');
 /**
  * JavaScript for the Nuke MediaWiki extension.
  * @see https://www.mediawiki.org/wiki/Extension:Nuke

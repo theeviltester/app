@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/resources/jquery.fullcalendar/gcal.js');
 /*
  * FullCalendar v1.5.4 Google Calendar Plugin
  *

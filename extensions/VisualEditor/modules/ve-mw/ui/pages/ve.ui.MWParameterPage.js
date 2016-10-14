@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/ui/pages/ve.ui.MWParameterPage.js');
 /*!
  * VisualEditor user interface MWParameterPage class.
  *

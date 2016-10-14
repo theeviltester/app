@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/imageServing.spec.js');
 describe('Image Serving', function () {
 	'use strict';
 

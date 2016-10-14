@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ImageReview/js/jquery.onImagesLoad.js');
 /**
  * jQuery 'onImagesLoaded' plugin v1.2.0 (Updated December 1, 2011)
  * Fires callback functions when images have loaded within a particular selector.

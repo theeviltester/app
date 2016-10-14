@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Places/js/Places.js');
 /*global google: true, WikiaMobile: true, PlacesEditor: true*/
 var Places = Places || (function(){
 	/** @private **/

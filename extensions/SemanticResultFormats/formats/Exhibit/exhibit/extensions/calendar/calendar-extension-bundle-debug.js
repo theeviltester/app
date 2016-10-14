@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/calendar/calendar-extension-bundle-debug.js');
 
 
 /* calendar-view.js */

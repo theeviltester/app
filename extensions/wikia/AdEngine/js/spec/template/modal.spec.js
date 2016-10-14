@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/template/modal.spec.js');
 /*global describe, it, expect, modules, spyOn, beforeEach*/
 describe('ext.wikia.adEngine.template.modal', function () {
 	'use strict';

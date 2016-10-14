@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserProfilePageV3/js/UserProfilePage.js');
 var UserProfilePage = {
 	// TODO: use $.nirvana.getJSON instead
 	ajaxEntryPoint: '/wikia.php?controller=UserProfilePage&format=json',

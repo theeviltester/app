@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ImageReview/js/ImageReview.js');
 $(function() {
 	// cycle through radio fields on each image click
 	var images = $('#ImageReviewForm div.img-container');

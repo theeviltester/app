@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MediaGallery/scripts/views/media.js');
 define('mediaGallery.views.media', [
 	'mediaGallery.views.caption',
 	'mediaGallery.templates.mustache'

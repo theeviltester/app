@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki.action/mediawiki.action.view.dblClickEdit.js');
 /**
  * This module enables double-click-to-edit functionality
  */

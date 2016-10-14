@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/geo.spec.js');
 /*
  @test-require-asset /resources/wikia/libraries/define.mock.js
  @test-require-asset /resources/wikia/modules/geo.js

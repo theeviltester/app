@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/ext/planning/scripts/ether-painters.js');
 /*==================================================
  *  Planning Ether Painter
  *==================================================

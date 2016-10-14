@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.effects/jquery.effects.pulsate.js');
 /*
  * jQuery UI Effects Pulsate 1.8.17
  *

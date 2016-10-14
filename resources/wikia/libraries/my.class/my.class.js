@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/my.class/my.class.js');
 /*global my: true */
 (function() {
   my = {};

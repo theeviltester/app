@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/scripts/ext/japanese-eras.js');
 /*==================================================
  *  Japanese Era Date Labeller
  *==================================================

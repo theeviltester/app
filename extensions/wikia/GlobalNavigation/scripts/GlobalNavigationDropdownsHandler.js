@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/GlobalNavigation/scripts/GlobalNavigationDropdownsHandler.js');
 define('wikia.globalNavigationDropdowns', ['wikia.window', 'jquery'], function(win, $) {
 	'use strict';
 

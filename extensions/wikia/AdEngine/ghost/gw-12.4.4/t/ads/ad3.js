@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/ads/ad3.js');
 var OX_c4a07e8a = '';
 OX_c4a07e8a += "<"+"script type=\"text/javascript\">\n";
 OX_c4a07e8a += "RD = window.location.href.substr(7,window.location.href.indexOf(\'/\',7)-7);\n";

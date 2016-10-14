@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ArticleComments/js/ArticleComments.wikiamobile.js');
 /**
  * Article Comments JS code for the WikiaMobile skin
  *

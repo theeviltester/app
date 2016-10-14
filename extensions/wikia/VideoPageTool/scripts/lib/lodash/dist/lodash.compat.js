@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/lib/lodash/dist/lodash.compat.js');
 /**
  * @license
  * Lo-Dash 2.2.1 (Custom Build) <http://lodash.com/>

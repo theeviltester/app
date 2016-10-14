@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/PaidAssetDrop/js/spec/paidAssetDrop.spec.js');
 /*global describe, it, expect, modules, jasmine, spyOn*/
 describe('ext.wikia.paidAssetDrop.paidAssetDrop', function () {
 	'use strict';

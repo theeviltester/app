@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/utils/AdLogicZoneParams.spec.js');
 /*global describe, it, expect, modules, beforeEach*/
 describe('ext.wikia.adEngine.utils.adLogicZoneParams', function () {
 	'use strict';

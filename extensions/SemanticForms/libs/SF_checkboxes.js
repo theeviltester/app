@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticForms/libs/SF_checkboxes.js');
 /**
  * Javascript handler for the checkboxes input type
  *

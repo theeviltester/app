@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/dm/nodes/ve.dm.MWBlockImageNode.js');
 /*!
  * VisualEditor DataModel MWBlockImageNode class.
  *

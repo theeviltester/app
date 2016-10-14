@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki/mediawiki.user.js');
 /*
  * Implementation for mediaWiki.user
  */

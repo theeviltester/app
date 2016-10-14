@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/AdLogicPageDimensions.spec.js');
 /*global describe, expect, it, modules*/
 /*jshint maxlen: 200*/
 /*jshint onevar: false*/

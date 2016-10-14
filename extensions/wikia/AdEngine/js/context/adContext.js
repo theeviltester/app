@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/context/adContext.js');
 /*global define*/
 /**
  * The AMD module to hold all the context needed for the client-side scripts to run.

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/jqplot/resources/ext.srf.jqplot.chart.js');
 /**
  * JavaScript for SRF jqPlot chart/series module
  * @see http://www.semantic-mediawiki.org/wiki/Help:Jqplotchart format

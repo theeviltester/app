@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialManageWikiaHome/js/CollectionsNavigation.js');
 var CollectionsNavigation = function(modulesSelector) {
 	var turnOnButtons = function() {
 		var nav = $(modulesSelector).find('.navigation');

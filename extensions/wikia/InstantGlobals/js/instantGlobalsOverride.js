@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/InstantGlobals/js/instantGlobalsOverride.js');
 /**
  * Method for overriding boolean InstantGlobals
  * based on querystring params

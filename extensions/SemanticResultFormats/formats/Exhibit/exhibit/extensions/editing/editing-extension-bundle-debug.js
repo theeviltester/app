@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/editing/editing-extension-bundle-debug.js');
 
 
 /* editing-backend.js */

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/resources/jquery.flot/jquery.flot.selection.js');
 /*
 Flot plugin for selecting regions.
 

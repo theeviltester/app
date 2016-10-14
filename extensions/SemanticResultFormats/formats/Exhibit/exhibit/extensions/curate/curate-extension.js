@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/curate/curate-extension.js');
 /*==================================================
  *  Simile Exhibit Curate Extension
  *==================================================

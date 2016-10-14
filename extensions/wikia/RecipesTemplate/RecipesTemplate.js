@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RecipesTemplate/RecipesTemplate.js');
 var RecipesTemplate = {
 	// send AJAX request to extension's ajax dispatcher in MW
 	ajax: function(method, params, callback) {

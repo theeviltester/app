@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EmergencyBroadcastSystem/js/EmergencyBroadcastSystem.js');
 ( function ($) {
 	'use strict';
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/ui/commands/ve.ui.MWUseExistingReferenceCommand.js');
 /*!
  * VisualEditor UserInterface MediaWiki UseExistingReferenceCommand class.
  *

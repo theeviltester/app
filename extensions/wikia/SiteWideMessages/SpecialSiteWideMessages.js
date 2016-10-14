@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SiteWideMessages/SpecialSiteWideMessages.js');
 (function( window ) {
 	var track = Wikia.Tracker.buildTrackingFunction({
 		category: 'sitewidemessages',

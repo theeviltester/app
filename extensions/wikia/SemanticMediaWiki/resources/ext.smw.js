@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SemanticMediaWiki/resources/ext.smw.js');
 /**
  * JavaScript for Semantic MediaWiki.
  * @see http://semantic-mediawiki.org/

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Math/modules/MathJax/jax/output/HTML-CSS/autoload/ms.js');
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/autoload/ms.js

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CuratedContent/js/CuratedContentToolModal.js');
 define(
 	'curatedContentTool.modal',
 	['wikia.ui.factory', 'curatedContentTool.pontoBridge', 'JSMessages'],

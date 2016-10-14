@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/DOMwriter/domwriter.js');
 /**
  * DOM Writer: binds document.write calls to an HTMLElement to preserve the
  * content of the page after the DOM has already been processed while maintaining

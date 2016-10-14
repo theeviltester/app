@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/InsightsV2/scripts/LoopNotification.js');
 /*
  * Script for adding BannerNotification that encourages user to continue working
  * on issues reported by Insights feature

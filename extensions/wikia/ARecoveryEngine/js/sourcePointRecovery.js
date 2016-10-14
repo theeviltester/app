@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ARecoveryEngine/js/sourcePointRecovery.js');
 /*global define*/
 define('ext.wikia.aRecoveryEngine.recovery.sourcePointRecovery', [
 	'ext.wikia.adEngine.adContext',

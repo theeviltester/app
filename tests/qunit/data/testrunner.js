@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/data/testrunner.js');
 /*global CompletenessTest, sinon */
 /*jshint evil: true */
 ( function ( $, mw, QUnit ) {

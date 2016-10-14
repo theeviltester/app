@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/toolbar/plugin.js');
 CKEDITOR.plugins.add('rte-toolbar', {
 	// register separator item
 	beforeInit : function(editor) {

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/jquery.ui.droppable.js');
 /*
  * jQuery UI Droppable 1.8.17
  *

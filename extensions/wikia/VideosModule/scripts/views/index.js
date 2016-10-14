@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideosModule/scripts/views/index.js');
 define('videosmodule.views.index', [
 	'sloth',
 	'videosmodule.views.titleThumbnail',

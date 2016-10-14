@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPreview/js/preview.js');
 /**
  * Preview for the editor, this should be moved to /resources/wikia/modules once we want to use it for several skins
  */

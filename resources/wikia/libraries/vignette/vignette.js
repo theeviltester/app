@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/vignette/vignette.js');
 /**
  * Helper module to generate the URL to a thumbnail of specific size from JS
  */

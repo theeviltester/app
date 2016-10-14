@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/wikia/modules/ve/ui/dialogs/ve.ui.WikiaMediaInsertDialog.js');
 /*!
  * VisualEditor user interface WikiaMediaInsertDialog class.
  */

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Scribunto/modules/ext.scribunto.js');
 ( function ( $, mw ) {
 
 	mw.scribunto = {

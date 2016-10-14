@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/uifactory.spec.js');
 describe('UIFactory', function () {
 	'use strict';
 

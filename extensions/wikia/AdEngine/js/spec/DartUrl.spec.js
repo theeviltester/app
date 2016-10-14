@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/DartUrl.spec.js');
 describe('DartUrl', function(){
 	it('constructor', function() {
 		var domain = 'example.com',

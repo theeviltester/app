@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialVideos/scripts/SpecialVideos.js');
 /* global BannerNotification */
 
 /**

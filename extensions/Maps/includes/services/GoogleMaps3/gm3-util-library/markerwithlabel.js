@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Maps/includes/services/GoogleMaps3/gm3-util-library/markerwithlabel.js');
 /**
  * @name MarkerWithLabel for V3
  * @version 1.1.5 [July 11, 2011]

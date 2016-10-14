@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/CustomAdsLoader.js');
 /*global require*/
 /*jshint maxlen:200*/
 define('ext.wikia.adEngine.customAdsLoader', ['wikia.log'], function (log) {

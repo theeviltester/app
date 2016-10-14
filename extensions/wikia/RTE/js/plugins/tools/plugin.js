@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/tools/plugin.js');
 // "fake" CK plugin with RTE helper methods
 CKEDITOR.plugins.add('rte-tools', {});
 

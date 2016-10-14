@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/AdLogicDartSubdomain.spec.js');
 describe('AdLogicDartSubdomain', function(){
 	it('Geo discovery', function() {
 		var geoMock = {getCountryCode: function() {return 'XX';}},

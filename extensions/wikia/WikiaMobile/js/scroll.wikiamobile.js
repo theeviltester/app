@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/scroll.wikiamobile.js');
 /*global getComputedStyle, WebKitCSSMatrix */
 
 /* !

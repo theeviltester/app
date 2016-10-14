@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/media/plugin.js');
 /* global CKEDITOR, RTE, WikiaEditor, UserLogin */
 CKEDITOR.plugins.add('rte-media', {
 	init: function (editor) {

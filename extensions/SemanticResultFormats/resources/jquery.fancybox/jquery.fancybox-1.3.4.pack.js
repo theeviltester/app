@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/resources/jquery.fancybox/jquery.fancybox-1.3.4.pack.js');
 /*
  * FancyBox - jQuery Plugin
  * Simple and fancy lightbox alternative

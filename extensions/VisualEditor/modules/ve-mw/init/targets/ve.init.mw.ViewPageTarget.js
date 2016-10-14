@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/init/targets/ve.init.mw.ViewPageTarget.js');
 /*!
  * VisualEditor MediaWiki Initialization ViewPageTarget class.
  *

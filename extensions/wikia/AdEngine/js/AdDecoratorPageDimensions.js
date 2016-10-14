@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/AdDecoratorPageDimensions.js');
 /*global define*/
 define('ext.wikia.adEngine.adDecoratorPageDimensions', [
 	'ext.wikia.adEngine.adLogicPageDimensions', 'wikia.log', 'ext.wikia.adEngine.eventDispatcher'

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/noscript/t0.js');
 function test(){ 
 	var testsuite= new Y.Test.Case({ 
 		name: "SCRIPT children of NOSCRIPT container", 

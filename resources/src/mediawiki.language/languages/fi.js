@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki.language/languages/fi.js');
 /*!
  * Finnish (Suomi) language functions
  * @author Santhosh Thottingal

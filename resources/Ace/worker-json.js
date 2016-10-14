@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/worker-json.js');
 "no use strict";
 ;(function(window) {
 if (typeof window.window != "undefined" && window.document) {

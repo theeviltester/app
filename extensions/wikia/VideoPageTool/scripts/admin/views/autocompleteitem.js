@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/admin/views/autocompleteitem.js');
 define('videopageadmin.views.autocompleteitem', [
 	'jquery',
 	'videopagetool.templates.mustache'

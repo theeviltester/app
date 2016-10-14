@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/json.js');
 /*
  *  Copied directly from http://www.json.org/json.js.
  */

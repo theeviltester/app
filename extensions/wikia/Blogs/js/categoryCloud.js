@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Blogs/js/categoryCloud.js');
 /**
  * Utility functions for managing a tag cloud of categories for the CreateBlogListing SpecialPage
  */

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/OggHandler/OggPlayer.js');
 // This is a global configuration object which can embed multiple video instances
 var wgOggPlayer = {
 	'detectionDone': false,

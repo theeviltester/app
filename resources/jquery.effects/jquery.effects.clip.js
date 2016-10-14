@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.effects/jquery.effects.clip.js');
 /*
  * jQuery UI Effects Clip 1.8.17
  *

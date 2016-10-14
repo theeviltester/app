@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/spec/homepage/collections/featuredslides.spec.js');
 /*global describe, it, expect, beforeEach, modules */
 describe('VideoPageAdmin FeaturedSlidesCollection ( Backbone ):', function () {
 	'use strict';

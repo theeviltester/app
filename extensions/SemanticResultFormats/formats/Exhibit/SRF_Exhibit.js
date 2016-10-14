@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/SRF_Exhibit.js');
 function createExhibit() {//overload Exhibit's autoCreate-functionality
 
   /*

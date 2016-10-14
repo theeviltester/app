@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Optimizely/scripts/OptimizelyBlocking.js');
 (function (window, document) {
 	'use strict';
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Recirculation/js/views/footer.js');
 define('ext.wikia.recirculation.views.footer', [
 	'jquery',
 	'wikia.window',

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/spec/integration/features.spec.js');
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("Features module", function () {
 	'use strict';

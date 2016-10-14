@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/dm/nodes/ve.dm.TextNode.test.js');
 /*!
  * VisualEditor DataModel TextNode tests.
  *

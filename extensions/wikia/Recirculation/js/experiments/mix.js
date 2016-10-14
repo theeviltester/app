@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Recirculation/js/experiments/mix.js');
 require([
 	'jquery',
 	'wikia.window',

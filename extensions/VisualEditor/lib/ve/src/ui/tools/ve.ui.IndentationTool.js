@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ui/tools/ve.ui.IndentationTool.js');
 /*!
  * VisualEditor UserInterface IndentationTool classes.
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/QuickTools/modules/ext.quickAdopt.js');
 /**
  * Ajax Quick Adopt
  * Adds a button to the contribs page that allows staff who handle adoption requests to give rights with one click.

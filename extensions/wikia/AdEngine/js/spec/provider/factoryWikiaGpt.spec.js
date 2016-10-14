@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/provider/factoryWikiaGpt.spec.js');
 /*global describe, it, expect, modules, spyOn*/
 describe('ext.wikia.adEngine.provider.factory.wikiaGpt', function () {
 	'use strict';

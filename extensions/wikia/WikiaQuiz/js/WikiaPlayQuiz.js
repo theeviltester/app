@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaQuiz/js/WikiaPlayQuiz.js');
 var WikiaQuiz = {
 	animationTiming: 400,
 	ui: {},

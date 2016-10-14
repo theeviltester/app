@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/GlobalShortcuts/scripts/GlobalShortcuts.js');
 /**
  * Module keeps list of shortcut keys and provides interface to add new ones or find existing ones.
  * It also initiates bind between key combination and function that handles it

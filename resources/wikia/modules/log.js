@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/log.js');
 /**
  * Logging utility extracted from Liftium's library and further modified
  *

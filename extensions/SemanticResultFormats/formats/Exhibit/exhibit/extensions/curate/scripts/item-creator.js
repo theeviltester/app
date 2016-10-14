@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/curate/scripts/item-creator.js');
 Exhibit.ItemCreator = function(elmt, uiContext, settings) {
     var db = uiContext.getDatabase();
 

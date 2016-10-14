@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/suites/resources/jquery/jquery.mwExtension.test.js');
 module( 'jquery.mwExtension', QUnit.newMwEnvironment() );
 
 test( 'String functions', 7, function() {

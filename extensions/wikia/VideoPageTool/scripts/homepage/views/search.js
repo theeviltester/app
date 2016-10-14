@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/homepage/views/search.js');
 define('videohomepage.views.search', [
 	'jquery',
 	'wikia.tracker'

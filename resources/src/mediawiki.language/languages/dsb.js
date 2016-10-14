@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki.language/languages/dsb.js');
 /*!
  * Lower Sorbian (Dolnoserbski) language functions
  */

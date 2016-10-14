@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Recirculation/js/helpers/CakeRelatedContentHelper.js');
 define('ext.wikia.recirculation.helpers.cakeRelatedContent', [
     'jquery',
     'wikia.window',

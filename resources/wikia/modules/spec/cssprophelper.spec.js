@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/cssprophelper.spec.js');
 describe('CSSPropsHelper', function () {
 	'use strict';
 

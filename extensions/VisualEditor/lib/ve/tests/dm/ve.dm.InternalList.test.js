@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/dm/ve.dm.InternalList.test.js');
 /*!
  * VisualEditor DataModel InternalList tests.
  *

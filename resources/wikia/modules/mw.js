@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/mw.js');
 /**
  * AMD wrapper for mw global object
  */

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ImageLazyLoad/js/ImageLazyLoad.js');
 /* Lazy loading for images inside articles (skips wikiamobile)
  * @author Piotr Bablok <pbablok@wikia-inc.com>
  */

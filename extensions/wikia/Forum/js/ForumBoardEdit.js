@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Forum/js/ForumBoardEdit.js');
 /* global WikiaForm */
 
 (function (window, $) {

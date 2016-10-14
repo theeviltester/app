@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Wall/js/WallMessageForm.js');
 /* global Wall:true, UserLoginAjaxForm, UserLoginModal, Observable */
 (function (window, $, mw) {
 	'use strict';

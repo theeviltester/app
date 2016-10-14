@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki/mediawiki.jqueryMsg.js');
 /*!
 * Experimental advanced wikitext parser-emitter.
 * See: https://www.mediawiki.org/wiki/Extension:UploadWizard/MessageParser for docs

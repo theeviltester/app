@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/demos/ve/demo.desktop.js');
 /*!
  * VisualEditor standalone desktop demo
  *

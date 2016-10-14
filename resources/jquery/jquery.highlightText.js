@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.highlightText.js');
 /**
  * Plugin that highlights matched word partials in a given element
  * TODO: add a function for restoring the previous text

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/fr/scripts/ui/formatter-l10n.js');
 /*==================================================
  *  Exhibit.Formatter French localization
  *==================================================

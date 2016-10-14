@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/tests/ce/ve.ce.Surface.test.js');
 /*!
  * VisualEditor ContentEditable MediaWiki-specific Surface tests.
  *

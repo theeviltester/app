@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/de/scripts/ui/ui-context-l10n.js');
 /*==================================================
  *  Exhibit.UIContext German localization
  *==================================================

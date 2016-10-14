@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Recirculation/js/helpers/DiscussionsHelper.js');
 define('ext.wikia.recirculation.helpers.discussions', [
 	'jquery',
 	'wikia.window',

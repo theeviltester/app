@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Recirculation/js/utils.js');
 /*global define*/
 define('ext.wikia.recirculation.utils', [
 	'jquery',

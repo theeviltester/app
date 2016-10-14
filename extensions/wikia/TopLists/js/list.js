@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/TopLists/js/list.js');
 var TopList = {
 	_canVote: false,
 	_mWrapper: null,

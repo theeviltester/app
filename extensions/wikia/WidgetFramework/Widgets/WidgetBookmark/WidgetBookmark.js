@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WidgetFramework/Widgets/WidgetBookmark/WidgetBookmark.js');
 function WidgetBookmarkDo(widgetId, cmd, id) {
 
 	$().log(cmd + ' "' + id + '"', 'WidgetBookmark');

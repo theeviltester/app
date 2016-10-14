@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/context/uapContext.spec.js');
 /*global beforeEach, describe, it, expect, modules, spyOn*/
 describe('ext.wikia.adEngine.context.uapContext', function () {
 	'use strict';

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/EventDispatcher.js');
 /*jslint nomen: true*/
 /*global define*/
 define('ext.wikia.adEngine.eventDispatcher', function () {

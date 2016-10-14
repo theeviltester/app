@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialEditHub/js/EditHubNavigation.js');
 var ModuleNavigation = function() {
 };
 

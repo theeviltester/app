@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Maps/includes/editor/js/mapeditor.iefixes.js');
 if (!Array.prototype.indexOf)
 {
     Array.prototype.indexOf = function(elt /*, from*/)

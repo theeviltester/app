@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/run/wikiamobile.run.js');
 /*global require*/
 require(
 	[

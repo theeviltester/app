@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/ellipses.js');
 /**
  * $.fn.ellipses
  * @author Liz Lee <lizlee at wikia dash inc dot com>

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/provider/taboola.js');
 /*global define*/
 /*jslint nomen: true*/
 /*jshint camelcase: false*/

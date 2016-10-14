@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VisualEditorTourExperiment/scripts/VisualEditorTourExperimentInitArticleEntry.js');
 require(['jquery', 'mw', 'VisualEditorTourExperimentInit', 'ext.wikia.spitfires.experiments.tracker'],
 	function ($, mw, veTourInit, tracker) {
 		'use strict';

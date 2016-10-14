@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialPromote/js/spec/integration/SpecialPromote.spec.js');
 describe("Module A", function(){
 
 	var orig$;

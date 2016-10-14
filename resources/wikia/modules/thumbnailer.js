@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/thumbnailer.js');
 /**
  * Helper module to generate the URL to a thumbnail of specific size from JS.
  * This file references and supports both the current thumbnailer, aka Vignette, and the legacy thumbnailer.

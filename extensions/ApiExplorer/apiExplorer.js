@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/ApiExplorer/apiExplorer.js');
 /**
  * @author Sean Colombo
  * @date 20110917

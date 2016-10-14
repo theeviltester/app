@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/category_page.js');
 /**
  * module used to handle category pages pagination
  *

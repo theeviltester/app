@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/dm/metaitems/ve.dm.MWTOCDisableMetaItem.js');
 /*!
  * VisualEditor DataModel MWTOCDisableMetaItem class.
  *

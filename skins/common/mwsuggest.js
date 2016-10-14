@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/common/mwsuggest.js');
 /*
  * OpenSearch ajax suggestion engine for MediaWiki
  *

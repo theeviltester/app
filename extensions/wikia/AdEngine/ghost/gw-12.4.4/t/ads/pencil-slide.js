@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/ads/pencil-slide.js');
 __ADTECH_CODE__ = "";
 __theDocument = document;
 __theWindow = window;

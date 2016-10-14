@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.form.js');
 /*!
  * jQuery Form Plugin
  * version: 2.84 (12-AUG-2011)

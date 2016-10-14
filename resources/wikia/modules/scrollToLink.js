@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/scrollToLink.js');
 /*
  * @define wikia.scrollToLink
  * module used to handle links inside the article (eg. #link)

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/ui/widgets/ve.ui.MWTitleInputWidget.js');
 /*!
  * VisualEditor UserInterface MWTitleInputWidget class.
  *

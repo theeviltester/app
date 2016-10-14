@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki.language/mediawiki.language.js');
 /*
  * Methods for transforming message syntax.
  */

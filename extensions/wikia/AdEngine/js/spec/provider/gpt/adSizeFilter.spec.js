@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/provider/gpt/adSizeFilter.spec.js');
 /*global describe, it, expect, modules, spyOn*/
 describe('ext.wikia.adEngine.provider.gpt.adSizeFilter', function () {
 	'use strict';

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticMaps/includes/services/GoogleMaps3/ext.sm.googlemapsinput.js');
 /**
  * JavaScript for the Google Maps v3 form input in the Semantic Maps extension.
  * @see https://www.mediawiki.org/wiki/Extension:Semantic_Maps

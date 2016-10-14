@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/PortableInfoboxBuilder/js/PortableInfoboxBuilderTemplateClassificationHelper.js');
 define('wikia.infoboxBuilder.templateClassificationHelper', ['wikia.window', 'jquery'], function (win, $) {
 	'use strict';
 

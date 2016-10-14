@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/tests/dm/nodes/ve.dm.MWTransclusionNode.test.js');
 /*!
  * VisualEditor DataModel MWTransclusionNode tests.
  *

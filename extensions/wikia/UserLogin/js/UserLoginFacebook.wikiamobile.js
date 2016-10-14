@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserLogin/js/UserLoginFacebook.wikiamobile.js');
 /* global wgScriptPath */
 require(['track', 'wikia.querystring', 'toast', 'wikia.nirvana', 'JSMessages', 'wikia.window'],
 	function (track, Qs, toast, nirvana, msg, window) {

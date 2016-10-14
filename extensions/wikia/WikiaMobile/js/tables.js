@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/tables.js');
 /* global Features */
 define( 'tables', ['events', 'track', 'wikia.window', 'jquery'], function ( ev, track, w, $ ) {
 	'use strict';

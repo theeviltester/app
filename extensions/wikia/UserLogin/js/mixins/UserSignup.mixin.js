@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserLogin/js/mixins/UserSignup.mixin.js');
 (function () {
 	'use strict';
 

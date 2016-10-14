@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./live_code_coverage/reporting/sorttable.js');
 /*
   SortTable
   version 2

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/404.js');
 $(function(){
 	var link = document.getElementById('wk404');
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/GlobalNavigation/scripts/SearchSuggestions.js');
 $(function() {
 	'use strict';
 

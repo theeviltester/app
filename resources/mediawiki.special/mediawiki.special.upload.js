@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki.special/mediawiki.special.upload.js');
 /*
  * JavaScript for Special:Upload
  * Note that additional code still lives in skins/common/upload.js

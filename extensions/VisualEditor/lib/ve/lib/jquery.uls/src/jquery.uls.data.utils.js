@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/lib/jquery.uls/src/jquery.uls.data.utils.js');
 /**
  * Utility functions for querying language data.
  *

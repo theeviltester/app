@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/WikiaDartHelper.spec.js');
 describe('WikiaDartHelper', function(){
 	it('getUrl returns whatever comes from dartUrl.urlBuilder.toString method', function() {
 		var logMock = function() {},

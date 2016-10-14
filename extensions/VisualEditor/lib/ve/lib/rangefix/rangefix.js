@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/lib/rangefix/rangefix.js');
 /*!
  * RangeFix v0.1.1
  * https://github.com/edg2s/rangefix

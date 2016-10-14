@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/location.js');
 /**
  * AMD module wrapping location
  */

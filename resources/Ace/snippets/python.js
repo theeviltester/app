@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/python.js');
 ace.define('ace/snippets/python', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

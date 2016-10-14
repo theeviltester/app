@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/events.js');
 /**
  * Consistent events on touch and touchless devices
  *

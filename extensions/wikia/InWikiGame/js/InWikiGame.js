@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/InWikiGame/js/InWikiGame.js');
 var InWikiGame = {
 	storageEntryPoint: null,
 	init: function(jsonObject) {

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/media.class.js');
 /**
  * This is a class used in media module to hold all necessary data about a media object
  */

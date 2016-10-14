@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WidgetFramework/Widgets/WidgetTips/WidgetTips.js');
 function WidgetTipsChange(widgetId, tipId, op) {
 	$('#widget_' + widgetId + '_content').html('').addClass('widget_loading');
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/create.js');
 /*======================================================================
  *  Exhibit auto-create
  *  Code to automatically create the database, load the data links in

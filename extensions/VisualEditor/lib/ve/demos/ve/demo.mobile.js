@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/demos/ve/demo.mobile.js');
 /*!
  * VisualEditor standalone mobile demo
  *

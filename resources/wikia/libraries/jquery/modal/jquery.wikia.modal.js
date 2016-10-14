@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/modal/jquery.wikia.modal.js');
 //Modal
 $.fn.extend({
 

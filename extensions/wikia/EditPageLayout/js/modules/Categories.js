@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPageLayout/js/modules/Categories.js');
 (function( window ) {
 
 var WikiaEditor = window.WikiaEditor,

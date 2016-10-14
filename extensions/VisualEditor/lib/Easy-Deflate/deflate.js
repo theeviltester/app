@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/Easy-Deflate/deflate.js');
 /*
  Copyright (c) 2013 Gildas Lormeau. All rights reserved.
 

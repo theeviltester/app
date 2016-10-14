@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/DesignSystem/i18n/build.js');
 var fs = require('fs'),
 	path = require('path'),
 	rootDir = process.cwd() + '/node_modules/design-system-i18n/i18n',

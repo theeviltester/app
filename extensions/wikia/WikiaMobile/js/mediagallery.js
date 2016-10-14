@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/mediagallery.js');
 /*global define  */
 /**
  * Handling of Gallery view of images on a page in a Lighbox

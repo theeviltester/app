@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/oasis/js/Search.js');
 WikiaSearchApp = (function() {
 
 	function WikiaSearchApp(id) {

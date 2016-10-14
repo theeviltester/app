@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.effects/jquery.effects.core.js');
 /*
  * jQuery UI Effects 1.8.17
  *

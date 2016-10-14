@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.effects/jquery.effects.fade.js');
 /*
  * jQuery UI Effects Fade 1.8.17
  *

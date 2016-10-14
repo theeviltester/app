@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/oasis/js/modules/InsightsModule.js');
 define('InsightsModule', ['wikia.tracker'],
 	function(tracker) {
 		'use strict';

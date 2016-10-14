@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/flot/jquery.flot.trendline.js');
 /*
 @author Ricardo Vega - "ricardoe" in the google mail system
 @author Marooned for Wikia, inc. - fixes to original plugin

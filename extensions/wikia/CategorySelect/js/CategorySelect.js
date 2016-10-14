@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CategorySelect/js/CategorySelect.js');
 /* global Mustache:true */
 (function( window, $, undefined ) {
 	'use strict';

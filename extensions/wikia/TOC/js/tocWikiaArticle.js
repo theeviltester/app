@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/TOC/js/tocWikiaArticle.js');
 require( ['jquery', 'wikia.toc', 'wikia.mustache'], function( $, toc, mustache ) {
 	'use strict';
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Search/js/SearchAbTest.DomUpdater.js');
 define( 'SearchAbTest.DomUpdater', ['jquery', 'wikia.log'], function( $, log ) {
 	'use strict';
 	var searchPaginationLinksSelector = '.wikia-paginator a.paginator-page, .search-tabs a, a.paginator-next, a.paginator-prev',

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/wikia/modules/ve/tests/ve.wikiaTest.utils.js');
 /*!
  * VisualEditor Wikia test utilities.
  *

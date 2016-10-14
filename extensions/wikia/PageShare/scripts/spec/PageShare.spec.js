@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/PageShare/scripts/spec/PageShare.spec.js');
 describe('pageShare', function () {
 	'use strict';
 

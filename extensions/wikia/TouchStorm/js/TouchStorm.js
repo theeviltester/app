@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/TouchStorm/js/TouchStorm.js');
 /* @desc Open the Lightbox when when TouchStorm videos are clicked
  * @see Lightbox extension
  * @author lizlux

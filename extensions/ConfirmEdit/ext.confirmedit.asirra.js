@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/ConfirmEdit/ext.confirmedit.asirra.js');
 /*======================================================================*\
 || #################################################################### ||
 || # Asirra module for ConfirmEdit by Bachsau                         # ||

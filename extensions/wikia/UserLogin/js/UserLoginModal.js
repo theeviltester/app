@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserLogin/js/UserLoginModal.js');
 (function () {
 	'use strict';
 

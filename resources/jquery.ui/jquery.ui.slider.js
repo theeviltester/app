@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/jquery.ui.slider.js');
 /*
  * jQuery UI Slider 1.8.17
  *

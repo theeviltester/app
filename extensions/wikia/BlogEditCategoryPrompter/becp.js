@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/BlogEditCategoryPrompter/becp.js');
 $(document).ready(function() {
 	$("#editform").submit(function(event) {
 		var categoriesInput = $("#categories").val();

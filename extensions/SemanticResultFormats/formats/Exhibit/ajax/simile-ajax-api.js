@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/ajax/simile-ajax-api.js');
 /*==================================================
  *  Simile Ajax API
  *==================================================

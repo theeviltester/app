@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideosModule/scripts/views/titleThumbnail.js');
 define('videosmodule.views.titleThumbnail', [
 	'thumbnails.views.titleThumbnail',
 	'wikia.tracker'

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CoppaTool/modules/ext.coppaTool.js');
 /**
  * Module to execute COPPA tool actions
  *

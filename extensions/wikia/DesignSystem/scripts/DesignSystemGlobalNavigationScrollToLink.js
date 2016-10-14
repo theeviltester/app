@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/DesignSystem/scripts/DesignSystemGlobalNavigationScrollToLink.js');
 /*global require*/
 require(
 	['wikia.scrollToLink', 'wikia.window', 'jquery', 'wikia.browserDetect'],

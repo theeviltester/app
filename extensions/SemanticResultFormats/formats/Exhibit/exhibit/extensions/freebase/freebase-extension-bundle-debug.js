@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/freebase/freebase-extension-bundle-debug.js');
 
 
 /* freebase-importer.js */

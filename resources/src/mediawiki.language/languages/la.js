@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki.language/languages/la.js');
 /*!
  * Latin (lingua Latina) language functions
  * @author Santhosh Thottingal

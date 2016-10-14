@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/link/plugin.js');
 CKEDITOR.plugins.add('rte-link',
 {
 	init: function(editor) {

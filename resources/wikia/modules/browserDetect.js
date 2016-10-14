@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/browserDetect.js');
 define('wikia.browserDetect', ['wikia.window'], function (win) {
 	'use strict';
 

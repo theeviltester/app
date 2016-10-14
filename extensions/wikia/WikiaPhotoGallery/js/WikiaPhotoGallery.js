@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaPhotoGallery/js/WikiaPhotoGallery.js');
 (function( window, $ ) {
 	var Wikia = window.Wikia;
 

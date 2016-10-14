@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki/mediawiki.htmlform.js');
 /**
  * Utility functions for jazzing up HTMLForm elements
  */

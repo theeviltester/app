@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/admin/models/validator.js');
 /*
  * Uses jQuery Validation Plugin for validating admin forms
  * @author lizlux

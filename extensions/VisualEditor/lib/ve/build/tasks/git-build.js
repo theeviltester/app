@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/build/tasks/git-build.js');
 /*!
  * Change the in-memory package version to contain the git HEAD
  */

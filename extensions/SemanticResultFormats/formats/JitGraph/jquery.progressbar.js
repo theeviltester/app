@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/JitGraph/jquery.progressbar.js');
 /*
  * jQuery Progress Bar plugin
  * Version 1.1.0 (06/20/2008)

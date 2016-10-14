@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki.action/mediawiki.action.edit.js');
 ( function ( $, mw ) {
 	var isReady, toolbar, currentFocused;
 

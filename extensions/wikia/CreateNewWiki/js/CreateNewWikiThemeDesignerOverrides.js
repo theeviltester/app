@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CreateNewWiki/js/CreateNewWikiThemeDesignerOverrides.js');
 /* global ThemeDesigner, themes */
 
 (function () {

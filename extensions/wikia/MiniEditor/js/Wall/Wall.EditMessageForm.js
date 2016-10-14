@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MiniEditor/js/Wall/Wall.EditMessageForm.js');
 /*global WikiaEditor, MiniEditor, Wall*/
 
 (function ($) {

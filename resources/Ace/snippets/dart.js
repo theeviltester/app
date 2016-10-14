@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/dart.js');
 ace.define('ace/snippets/dart', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

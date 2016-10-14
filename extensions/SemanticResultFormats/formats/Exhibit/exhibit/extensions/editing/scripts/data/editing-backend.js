@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/editing/scripts/data/editing-backend.js');
 Exhibit.EditingBackend = function() {
     this._nodeTree = {};
     this._dataTree = {};

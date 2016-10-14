@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/karma/karma.base.conf.js');
 /**
  * Karma base configuration
  *

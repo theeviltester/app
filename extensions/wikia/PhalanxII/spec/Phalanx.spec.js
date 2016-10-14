@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/PhalanxII/spec/Phalanx.spec.js');
 describe('Phalanx', function () {
 	'use strict';
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/lib/unicodejs/unicodejs.js');
 /*!
  * UnicodeJS v0.1.2
  * https://www.mediawiki.org/wiki/UnicodeJS

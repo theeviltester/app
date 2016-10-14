@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticForms/libs/ext.sf.select2.tokens.js');
 /*
  * ext.sf.select2.tokens.js
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/integration/mustache.spec.js');
 /*global describe, it, expect, Mustache*/
 describe('Mustache', function () {
 	'use strict';

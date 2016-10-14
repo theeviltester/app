@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/mode-rdoc.js');
 /*
  * rdoc.js
  *

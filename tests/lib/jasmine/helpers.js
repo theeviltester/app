@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/lib/jasmine/helpers.js');
 function getBody( html ){
 	var rand = (Math.random() * Math.random() + '').slice(2),
 		element = document.createElement('div');

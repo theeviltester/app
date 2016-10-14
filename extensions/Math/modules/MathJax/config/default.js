@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Math/modules/MathJax/config/default.js');
 /*************************************************************
  *
  *  MathJax/config/default.js

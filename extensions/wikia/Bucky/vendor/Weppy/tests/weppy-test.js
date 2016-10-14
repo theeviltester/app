@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Bucky/vendor/Weppy/tests/weppy-test.js');
 var async = QUnit.assert.async,
 	_console = window.console,
 	consoleMock = {},

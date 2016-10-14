@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/modernizr/modernizr-2.0.6.js');
 /*!
  * Modernizr v2.0.6
  * http://www.modernizr.com

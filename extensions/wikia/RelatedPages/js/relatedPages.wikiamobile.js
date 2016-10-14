@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RelatedPages/js/relatedPages.wikiamobile.js');
 /**
  * Module that handles related pages that are lazy loaded and added at the end of sections
  * that are longer than 1000px

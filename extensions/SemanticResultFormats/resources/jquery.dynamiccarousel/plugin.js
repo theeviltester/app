@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/resources/jquery.dynamiccarousel/plugin.js');
 /*! (c) Mat Marquis (@wilto). MIT License. http://wil.to/3a */
 
 (function( $, undefined ) {

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/JSMessages/js/spec/JSMessages.spec.js');
 describe('JSMessages', function () {
 	'use strict';
 

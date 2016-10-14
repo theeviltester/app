@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery-ui/jquery.ui.timepicker.js');
 /*
  * jQuery timepicker addon
  * By: Trent Richardson [http://trentrichardson.com]

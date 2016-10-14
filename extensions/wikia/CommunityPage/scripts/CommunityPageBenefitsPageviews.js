@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CommunityPage/scripts/CommunityPageBenefitsPageviews.js');
 require([
 	'wikia.pageviewsInSession',
 	'CommunityPageBenefitsModal',

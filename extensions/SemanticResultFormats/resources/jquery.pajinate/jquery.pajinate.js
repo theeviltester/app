@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/resources/jquery.pajinate/jquery.pajinate.js');
 ;(function($){
 /*******************************************************************************************/    
 // jquery.pajinate.js - version 0.4

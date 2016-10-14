@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/template/modal.js');
 /*global define*/
 define('ext.wikia.adEngine.template.modal', [
 	'ext.wikia.adEngine.adHelper',

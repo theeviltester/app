@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/integration/loader.spec.js');
 /*global describe, getBody, spyOn, modules*/
 describe('Loader Module', function () {
 	'use strict';

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.placeholder.js');
 /**
  * HTML5 placeholder emulation for jQuery plugin
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki.special/mediawiki.special.recentchanges.js');
 /* JavaScript for Special:RecentChanges */
 ( function( $ ) {
 

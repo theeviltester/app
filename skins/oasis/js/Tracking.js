@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/oasis/js/Tracking.js');
 /* global WikiaEditor, veTrack */
 /**
  * This file contains most of the tracking calls for the Oasis skin.

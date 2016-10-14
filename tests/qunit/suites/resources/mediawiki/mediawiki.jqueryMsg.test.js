@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/suites/resources/mediawiki/mediawiki.jqueryMsg.test.js');
 module( 'mediawiki.jqueryMsg' );
 
 test( '-- Initial check', function() {

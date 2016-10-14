@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ContentFeeds/js/FirstFewArticles.js');
 var FirstFewArticles = {
 	ErrorMessages : {
 		EmptyTitle : 'emptyTitleErrorMsg',

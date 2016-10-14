@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MediaGallery/scripts/views/gallery.js');
 define('mediaGallery.views.gallery', [
 	'mediaGallery.views.media',
 	'mediaGallery.views.toggler',

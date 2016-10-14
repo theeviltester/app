@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/slot/adUnitBuilder.spec.js');
 describe('ext.wikia.adEngine.slot.adUnitBuilder', function () {
 	'use strict';
 

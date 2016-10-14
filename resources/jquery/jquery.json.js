@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.json.js');
 /*
  * jQuery JSON Plugin
  * version: 2.1 (2009-08-14)

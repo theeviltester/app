@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/ui/tools/ve.ui.MWMetaDialogTool.js');
 /*!
  * VisualEditor MediaWiki UserInterface meta tool classes.
  *

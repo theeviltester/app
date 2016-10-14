@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticForms/libs/jquery.browser.js');
 /**
  * Copy of some code from jquery.migrate.js to provide the jquery.browser functionality
  * which was removed from recent jQuery versions

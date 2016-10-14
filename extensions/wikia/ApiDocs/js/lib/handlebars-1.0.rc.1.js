@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ApiDocs/js/lib/handlebars-1.0.rc.1.js');
 // lib/handlebars/base.js
 
 /*jshint eqnull:true*/

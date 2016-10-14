@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserLogin/js/spec/UserBaseAjaxForm.spec.js');
 /* global UserBaseAjaxForm */
 
 describe('Base class for User Ajax Forms', function () {

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VisitSource/scripts/VisitSource.js');
 $(function () {
 	'use strict';
 

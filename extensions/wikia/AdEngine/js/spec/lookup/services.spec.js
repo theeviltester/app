@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/lookup/services.spec.js');
 /*global describe, it, modules, expect, spyOn*/
 describe('Method ext.wikia.adEngine.lookup.services', function () {
 	'use strict';

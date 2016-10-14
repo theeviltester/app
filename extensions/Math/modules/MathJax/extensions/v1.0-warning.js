@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Math/modules/MathJax/extensions/v1.0-warning.js');
 /*************************************************************
  *
  *  MathJax/extension/v1.0-warning.js

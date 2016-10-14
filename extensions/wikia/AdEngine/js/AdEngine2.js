@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/AdEngine2.js');
 /*global define*/
 define('ext.wikia.adEngine.adEngine', [
 	'ext.wikia.adEngine.adDecoratorLegacyParamFormat',

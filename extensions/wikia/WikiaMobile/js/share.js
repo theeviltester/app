@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/share.js');
 /* global wgServer wgArticlePath wgPageName $*/
 
 /**

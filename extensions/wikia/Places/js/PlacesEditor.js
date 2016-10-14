@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Places/js/PlacesEditor.js');
 /*global google: true*/
 var PlacesEditor = {
 	map : false,

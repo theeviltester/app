@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ImageLazyLoad/js/ImgLzy.module.js');
 /*global syslogReport: true */
 /* jshint maxlen: 150 */
 /* Lazy loading for images inside articles (skips wikiamobile)

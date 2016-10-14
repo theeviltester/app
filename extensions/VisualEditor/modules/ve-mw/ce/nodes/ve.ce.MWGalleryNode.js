@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/ce/nodes/ve.ce.MWGalleryNode.js');
 /*!
  * VisualEditor ContentEditable MWGalleryNode class.
  *

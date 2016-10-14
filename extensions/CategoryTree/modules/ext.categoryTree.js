@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/CategoryTree/modules/ext.categoryTree.js');
 /*
  * JavaScript functions for the CategoryTree extension, an AJAX based gadget
  * to display the category structure of a wiki

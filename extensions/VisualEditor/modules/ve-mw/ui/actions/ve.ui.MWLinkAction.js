@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/ui/actions/ve.ui.MWLinkAction.js');
 /*!
  * VisualEditor UserInterface MWLinkAction class.
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.appear.js');
 /*
  * jQuery.appear
  * http://code.google.com/p/jquery-appear/

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPageLayout/js/modules/Insert.js');
 // Insert buttons for Main RTE
 (function(window){
 		var WE = window.WikiaEditor,

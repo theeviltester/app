@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Search/js/SearchAbTest.Context.js');
 /**
  * Provides ids of search related A/B test groups.
  */

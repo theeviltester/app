@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.color.js');
 /**
  * jQuery Color Animations
  * Copyright 2007 John Resig

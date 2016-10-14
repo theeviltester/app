@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.mwExtension.js');
 /*
  * JavaScript backwards-compatibility alternatives and other convenience functions
  */

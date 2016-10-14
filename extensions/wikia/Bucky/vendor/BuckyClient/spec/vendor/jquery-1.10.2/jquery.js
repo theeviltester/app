@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Bucky/vendor/BuckyClient/spec/vendor/jquery-1.10.2/jquery.js');
 /*!
  * jQuery JavaScript Library v1.10.2
  * http://jquery.com/

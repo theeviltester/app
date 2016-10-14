@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/ve.qunit.js');
 /*!
  * VisualEditor plugin for QUnit.
  *

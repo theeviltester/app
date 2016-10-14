@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/homepage/views/carouselThumb.js');
 define('videohomepage.views.carouselThumb', [
 	'shared.views.carouselThumb',
 	'wikia.tracker'

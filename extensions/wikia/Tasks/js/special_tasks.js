@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Tasks/js/special_tasks.js');
 require(['jquery', 'wikia.nirvana'], function($, nirvana) {
 	$(document).ready(function() {
 		var

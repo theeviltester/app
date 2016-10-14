@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VisualEditorTourExperiment/scripts/VisualEditorTourExperimentConfig.js');
 define('VisualEditorTourExperimentConfig', [], function () {
 	'use strict';
 

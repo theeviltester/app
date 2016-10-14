@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki/mediawiki.feedback.js');
 /**
  * mediawiki.Feedback
  *

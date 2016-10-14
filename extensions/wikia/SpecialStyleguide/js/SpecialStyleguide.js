@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialStyleguide/js/SpecialStyleguide.js');
 require([ 'jquery' ], function( $ ) {
 	'use strict';
 

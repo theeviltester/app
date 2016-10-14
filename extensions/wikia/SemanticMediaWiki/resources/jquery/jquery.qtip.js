@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SemanticMediaWiki/resources/jquery/jquery.qtip.js');
 /*! qTip2 - Pretty powerful tooltips - v2.0.0 - 2012-09-10
 * http://craigsworks.com/projects/qtip2/
 * Copyright (c) 2012 Craig Michael Thompson; Licensed MIT, GPL */

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/cookies/jquery.cookies.2.1.0.js');
 /**
  * Copyright (c) 2005 - 2009, James Auldridge
  * All rights reserved.

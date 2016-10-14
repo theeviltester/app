@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaHubsV3/js/WikiaHubsV3.js');
 define('wikia.hubs', ['wikia.window', 'jquery'], function wikiaHubs(window, $) {
 	'use strict';
 

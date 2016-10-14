@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/mustache/jquery.mustache.js');
 /*
  * Mustache integration for jQuery
  */

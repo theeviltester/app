@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/curate/scripts/scraper.js');
 Exhibit.Scraper = function(elmt, uiContext, settings) {
     if (!settings.scraperInput) {
         SimileAjax.Debug.warn('Scraper not given an input element!');

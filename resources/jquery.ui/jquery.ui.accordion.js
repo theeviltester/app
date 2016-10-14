@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/jquery.ui.accordion.js');
 /*
  * jQuery UI Accordion 1.8.17
  *

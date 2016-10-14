@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/scriptexec/t0.js');
 //preTest(); 
 //if(typeof HTMLScriptElement != 'undefined') 
 	//HTMLScriptElement.prototype.async= true; 

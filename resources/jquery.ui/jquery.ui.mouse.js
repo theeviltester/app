@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/jquery.ui.mouse.js');
 /*!
  * jQuery UI Mouse 1.8.17
  *

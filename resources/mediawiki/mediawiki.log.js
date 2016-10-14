@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki/mediawiki.log.js');
 /**
  * Logger for MediaWiki javascript.
  * Implements the stub left by the main 'mediawiki' module.

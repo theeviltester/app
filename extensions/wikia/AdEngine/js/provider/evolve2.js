@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/provider/evolve2.js');
 /*global define, require*/
 define('ext.wikia.adEngine.provider.evolve2', [
 	'ext.wikia.adEngine.adContext',

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/QuickTools/modules/ext.createUserPage.js');
 /**
  * Ajax User Page Creation
  * Attempts to create a user page if it does not already exist

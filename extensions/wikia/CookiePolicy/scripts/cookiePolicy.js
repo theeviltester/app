@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CookiePolicy/scripts/cookiePolicy.js');
 require([
 	'jquery',
 	'mw',

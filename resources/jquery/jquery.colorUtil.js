@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.colorUtil.js');
 /**
  * jQuery Color Utilities
  * Written by Krinkle in 2011

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.effects/jquery.effects.slide.js');
 /*
  * jQuery UI Effects Slide 1.8.17
  *

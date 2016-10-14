@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMaps/js/WikiaMapsCreateMapModal.js');
 define(
 	'wikia.maps.createMap.modal', [
 		'jquery',

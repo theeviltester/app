@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/dm/annotations/ve.dm.MWExternalLinkAnnotation.js');
 /*!
  * VisualEditor DataModel MWExternalLinkAnnotation class.
  *

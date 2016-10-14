@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki.language/languages/hsb.js');
 /*!
  * Upper Sorbian (Hornjoserbsce) language functions
  */

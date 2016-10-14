@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/common/img_success.js');
 var undefined;
 
 function getFirstNodeOfType(nodeType,parent) {

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/timeplot/timeplot-extension-bundle.js');
 
 
 /* timeplot-view.js */

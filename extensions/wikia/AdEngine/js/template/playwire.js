@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/template/playwire.js');
 /*global define*/
 define('ext.wikia.adEngine.template.playwire', [
 	'ext.wikia.adEngine.video.playwire',

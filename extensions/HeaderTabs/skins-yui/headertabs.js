@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/HeaderTabs/skins-yui/headertabs.js');
 // Tabs code
 if (typeof HeaderTabs == "undefined") {
     var HeaderTabs = { };

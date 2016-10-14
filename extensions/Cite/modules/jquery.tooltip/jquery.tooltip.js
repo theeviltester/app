@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Cite/modules/jquery.tooltip/jquery.tooltip.js');
 /*
  * jQuery Tooltip plugin 1.3
  *

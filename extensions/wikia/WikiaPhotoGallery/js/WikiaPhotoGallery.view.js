@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaPhotoGallery/js/WikiaPhotoGallery.view.js');
 /*global WikiaPhotoGallery */
 var WikiaPhotoGalleryView = {
 	log: function(msg) {

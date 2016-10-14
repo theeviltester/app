@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/ce/imetests/input-ie-win-welsh.js');
 /*!
  * VisualEditor IME test for Internet Explorer on Windows in Welsh.
  *

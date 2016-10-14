@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/MessageListener.spec.js');
 /*global describe, it, expect, modules, spyOn*/
 describe('Module ext.wikia.adEngine.messageListener', function () {
 	'use strict';

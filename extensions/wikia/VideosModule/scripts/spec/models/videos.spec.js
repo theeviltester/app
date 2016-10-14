@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideosModule/scripts/spec/models/videos.spec.js');
 describe('VideosModule -- sData Data: ', function () {
 	'use strict';
 	var VideosData,

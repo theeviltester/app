@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/iframeWriter.spec.js');
 /*global describe, it, modules, expect, spyOn*/
 describe('iframeWriter module', function () {
 	'use strict';

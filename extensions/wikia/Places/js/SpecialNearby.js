@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Places/js/SpecialNearby.js');
 require(['jquery', 'mw'], function($, mw) {
 	// @see https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/getCurrentPosition
 	function getLocation( callback ) {

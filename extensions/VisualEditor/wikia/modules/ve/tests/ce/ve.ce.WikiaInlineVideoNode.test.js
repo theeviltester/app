@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/wikia/modules/ve/tests/ce/ve.ce.WikiaInlineVideoNode.test.js');
 /*!
  * VisualEditor ContentEditable WikiaInlineVideoNode tests.
  */

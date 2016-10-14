@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/DesignSystem/scripts/DesignSystemGlobalNavigationNotifications.js');
 require(
 	['jquery', 'wikia.window', 'wikia.nirvana'],
 	function($, window, nirvana) {

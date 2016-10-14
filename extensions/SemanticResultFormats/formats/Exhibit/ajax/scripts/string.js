@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/string.js');
 /*==================================================
  *  String Utility Functions and Constants
  *==================================================

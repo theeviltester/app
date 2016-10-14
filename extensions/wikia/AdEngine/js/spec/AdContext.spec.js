@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/AdContext.spec.js');
 /*global describe, it, modules, expect, spyOn, beforeEach*/
 /*jshint maxlen:200*/
 describe('AdContext', function () {

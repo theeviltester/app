@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPageLayout/js/plugins/RestoreEdit.js');
 (function(window,$){
 
 require(['uniqueId'], function(uniqueId) {

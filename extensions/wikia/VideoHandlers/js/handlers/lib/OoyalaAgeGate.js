@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoHandlers/js/handlers/lib/OoyalaAgeGate.js');
 // Each custom module must be defined using OO.plugin method
 // The first parameter is the module name
 // The second parameter is a factory function that will be called by

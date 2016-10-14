@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/homepage/views/featured.js');
 define('videohomepage.views.featured', [
 	// lib deps
 	'jquery',

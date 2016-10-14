@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/init/ve.init.mw.trackSubscriber.js');
 /*!
  * VisualEditor MediaWiki event subscriber.
  *

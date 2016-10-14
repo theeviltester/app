@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.effects/jquery.effects.highlight.js');
 /*
  * jQuery UI Effects Highlight 1.8.17
  *

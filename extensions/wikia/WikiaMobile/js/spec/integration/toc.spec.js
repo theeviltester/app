@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/spec/integration/toc.spec.js');
 /*global describe, it, jasmine, getBody, expect*/
 describe('toc module', function () {
 	'use strict';

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/krux.spec.js');
 /*global describe, it, modules, expect, window, spyOn*/
 describe('Krux module', function () {
 	'use strict';

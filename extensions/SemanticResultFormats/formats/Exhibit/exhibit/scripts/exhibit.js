@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/exhibit.js');
 /*======================================================================
  *  Exhibit
  *  http://simile.mit.edu/wiki/Exhibit/API/Exhibit

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Forum/js/Forum.js');
 (function (window, $) {
 	'use strict';
 	var bucky = window.Bucky('Forum'),

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/cache.spec.js');
 describe("CacheTest", function(){
 	var localStorage = {
 			data: {},

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ScavengerHunt/js/scavenger-special.js');
 var SpecialScavengerHunt = {
 	inGameBox: null,
 	inGameBoxIndex: 0,

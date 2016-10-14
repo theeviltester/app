@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/ui_components/modal/js/modal.js');
 define('wikia.ui.modal', [
 	'jquery',
 	'wikia.window',

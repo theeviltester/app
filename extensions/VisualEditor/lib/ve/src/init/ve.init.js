@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/init/ve.init.js');
 /*!
  * VisualEditor Initialization namespace.
  *

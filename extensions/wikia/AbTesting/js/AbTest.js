@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AbTesting/js/AbTest.js');
 /**
  * Wikia A/B Testing Framework
  *

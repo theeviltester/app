@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaPhotoGallery/js/WikiaPhotoGallery.slider.mosaic.js');
 var WikiaMosaicSliderMasterControl = {
 	init: function() {
 		// cache DOM

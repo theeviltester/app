@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/GlobalNavigation/scripts/GlobalNavigationLazyLoad.js');
 define(
 	'wikia.globalnavigation.lazyload', ['jquery', 'wikia.nirvana', 'wikia.window'],
 	function lazyLoad($, nirvana, win) {

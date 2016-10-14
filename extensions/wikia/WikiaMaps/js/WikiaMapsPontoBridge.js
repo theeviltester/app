@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMaps/js/WikiaMapsPontoBridge.js');
 define(
 	'wikia.maps.pontoBridge',
 	[

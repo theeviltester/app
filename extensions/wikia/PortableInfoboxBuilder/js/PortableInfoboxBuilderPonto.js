@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/PortableInfoboxBuilder/js/PortableInfoboxBuilderPonto.js');
 'use strict';
 
 define('wikia.infoboxBuilder.ponto', ['wikia.window', 'ponto'], function (w, ponto) {

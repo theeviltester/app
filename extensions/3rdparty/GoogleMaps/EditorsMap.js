@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/3rdparty/GoogleMaps/EditorsMap.js');
 // almost-100% GUI Google Maps Builder for MediaWiki.
 // Copyright 2006-2008 Evan Miller, except as noted below.
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/encodeattrs/t0.js');
 
 document.write("<div data-stuff=' foo &amp; bar &quot;&quot;&#162;'><\/div>");
 var 

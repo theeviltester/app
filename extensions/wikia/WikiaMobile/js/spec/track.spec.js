@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/spec/track.spec.js');
 /*global describe, it, expect*/
 describe('Track module', function () {
 	'use strict';

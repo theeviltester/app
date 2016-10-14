@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Recirculation/js/helpers/CuratedContentHelper.js');
 define('ext.wikia.recirculation.helpers.curatedContent', [
 	'jquery',
 	'underscore',

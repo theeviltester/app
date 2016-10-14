@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/PaidAssetDrop/js/paidAssetDrop.js');
 /*global define*/
 define('ext.wikia.paidAssetDrop.paidAssetDrop', [
 	'wikia.instantGlobals',

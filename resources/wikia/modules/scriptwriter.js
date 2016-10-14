@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/scriptwriter.js');
 /**
  * document.write sucks and block the whole page downloading and rendering until it's complete.
  *

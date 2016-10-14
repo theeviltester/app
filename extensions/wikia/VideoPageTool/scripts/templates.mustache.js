@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/templates.mustache.js');
 define( 'videopagetool.templates.mustache', [], function() { 'use strict'; return {
     "adminCarousel" : '<span class="results-page-current">1</span> of <span class="results-page-count">{{ pages }}</span> pages <span class="results-total">(Total Videos: {{ total }})</span><div class="category-carousel"></div>',
     "autocompleteItem" : '<strong>{{ name }}</strong>',

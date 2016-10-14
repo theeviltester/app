@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/spec/integration/lazyload.spec.js');
 /*global describe, it, getBody, jasmine, expect*/
 
 'use strict';

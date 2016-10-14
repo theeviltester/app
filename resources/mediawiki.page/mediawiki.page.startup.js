@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki.page/mediawiki.page.startup.js');
 ( function ( mw, $ ) {
 
 	mw.page = {};

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Maps/includes/services/OpenLayers/jquery.openlayers.js');
 /**
  * JavaScript for OpenLayers maps in the Maps extension.
  * @see http://www.mediawiki.org/wiki/Extension:Maps

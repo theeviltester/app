@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/gallery/resources/ext.srf.gallery.slideshow.js');
 /**
  * JavaScript for SRF gallery slides module
  * @see http://www.semantic-mediawiki.org/wiki/Help:Gallery format

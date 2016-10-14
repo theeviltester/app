@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/yui/extra/yui-cookie.js');
 /**
  * The Cookie utility provides methods for reading and setting persistent
  * client-side cookies.

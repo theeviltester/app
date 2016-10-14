@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.collapsibleTabs.js');
 /*
  * Collapsible tabs jQuery Plugin
  */

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Bucky/vendor/Weppy/dist/weppy.amd.js');
 /// <reference path="../weppy.d.ts"/>
 define(["require", "exports"], function (require, exports) {
     var WeppyImpl;

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.effects/jquery.effects.explode.js');
 /*
  * jQuery UI Effects Explode 1.8.17
  *

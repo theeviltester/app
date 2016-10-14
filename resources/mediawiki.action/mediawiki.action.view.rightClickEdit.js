@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki.action/mediawiki.action.view.rightClickEdit.js');
 /*
  * JavaScript to enable right click edit functionality
  */

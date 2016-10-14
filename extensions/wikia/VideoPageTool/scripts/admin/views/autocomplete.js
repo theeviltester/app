@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/admin/views/autocomplete.js');
 /**
  * @name AutocompleteView
  * @description Backbone subview/module for generic autocomplete

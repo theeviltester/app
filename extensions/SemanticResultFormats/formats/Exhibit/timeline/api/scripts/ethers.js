@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/scripts/ethers.js');
 /*==================================================
  *  An "ether" is a object that maps date/time to pixel coordinates.
  *==================================================

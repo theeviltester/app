@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MiniEditor/js/Forum/Forum.NewMessageForm.js');
 (function($) {
 
 MiniEditor.Forum.NewMessageForm = $.createClass(Wall.settings.classBindings.newMessageForm, {

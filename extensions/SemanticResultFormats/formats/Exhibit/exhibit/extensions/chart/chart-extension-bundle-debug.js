@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/chart/chart-extension-bundle-debug.js');
 
 
 /* bar-chart-view.js */

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MediaGallery/scripts/views/toggler.js');
 define('mediaGallery.views.toggler', [
 	'mediaGallery.templates.mustache'
 ], function (templates) {

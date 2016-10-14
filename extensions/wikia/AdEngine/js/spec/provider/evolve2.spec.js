@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/provider/evolve2.spec.js');
 /*global beforeEach, describe, it, modules, expect, spyOn*/
 describe('Evolve2 Provider targeting', function () {
 	'use strict';

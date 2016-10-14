@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/ads/ad8.js');
 /*@cc_on@*/
 function adxsethtml(o, t) {
 	o.innerHTML = t

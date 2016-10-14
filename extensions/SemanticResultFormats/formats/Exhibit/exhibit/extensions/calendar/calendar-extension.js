@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/calendar/calendar-extension.js');
 /*==================================================
  *  Simile Exhibit Calendar Extension
  *==================================================

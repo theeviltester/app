@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/map/scripts/olmap-view.js');
 /*==================================================
  *  Exhibit.OLMapView
  *

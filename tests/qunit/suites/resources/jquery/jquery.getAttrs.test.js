@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/suites/resources/jquery/jquery.getAttrs.test.js');
 module( 'jquery.getAttrs', QUnit.newMwEnvironment() );
 
 test( '-- Initial check', function() {

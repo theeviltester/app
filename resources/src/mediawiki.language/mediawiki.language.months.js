@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki.language/mediawiki.language.months.js');
 /*
  * Transfer of month names from messages into mw.language.
  *

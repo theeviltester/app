@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki.action/mediawiki.action.view.metadata.js');
 // Exif metadata display for MediaWiki file uploads
 //
 // Add an expand/collapse link and collapse by default if set to

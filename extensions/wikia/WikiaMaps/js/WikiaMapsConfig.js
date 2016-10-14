@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMaps/js/WikiaMapsConfig.js');
 define('wikia.maps.config', [], function () {
 	'use strict';
 

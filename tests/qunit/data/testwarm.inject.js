@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/data/testwarm.inject.js');
 /*
 	Copyright (c) 2009 John Resig
 	

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/AdLogicPageParams.js');
 /*jshint camelcase:false*/
 /*global define, require*/
 define('ext.wikia.adEngine.adLogicPageParams', [

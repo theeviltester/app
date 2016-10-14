@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MediaGallery/scripts/controllers/galleries.js');
 require(['mediaGallery.views.gallery'], function (Gallery) {
 	'use strict';
 

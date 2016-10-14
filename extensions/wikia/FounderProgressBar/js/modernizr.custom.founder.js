@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/FounderProgressBar/js/modernizr.custom.founder.js');
 /* Modernizr 2.0.4 (Custom Build) | MIT & BSD
  * Contains: csstransforms | csstransitions | canvas | testprop | testallprops | domprefixes
  */

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js');
 /* global MiniEditor:true */
 (function () {
 	'use strict';

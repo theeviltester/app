@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/dm/ve.dm.Model.test.js');
 /*!
  * VisualEditor DataModel Model tests.
  *

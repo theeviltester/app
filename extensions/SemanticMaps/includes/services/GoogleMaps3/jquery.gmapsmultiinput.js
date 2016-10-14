@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticMaps/includes/services/GoogleMaps3/jquery.gmapsmultiinput.js');
 /**
  * JavaScript for the Google Maps v3 form input of the Semantic Maps extension.
  * @see http://www.mediawiki.org/wiki/Extension:Semantic_Maps

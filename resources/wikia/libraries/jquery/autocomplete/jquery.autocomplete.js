@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/autocomplete/jquery.autocomplete.js');
 /*
 *  Ajax Autocomplete for jQuery, version 1.0.6
 *  (c) 2009 Tomas Kirda

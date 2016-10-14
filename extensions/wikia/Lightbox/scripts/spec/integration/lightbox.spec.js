@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Lightbox/scripts/spec/integration/lightbox.spec.js');
 describe('Lightbox', function () {
 	'use strict';
 

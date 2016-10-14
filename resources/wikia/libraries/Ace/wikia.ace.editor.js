@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/Ace/wikia.ace.editor.js');
 define( 'wikia.ace.editor', ['wikia.window', 'jquery'], function(win, $){
 	'use strict';
 

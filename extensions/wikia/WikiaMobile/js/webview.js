@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/webview.js');
 (function(context){
 	var topbar = context.document.getElementById( 'wkTopNav' );
 

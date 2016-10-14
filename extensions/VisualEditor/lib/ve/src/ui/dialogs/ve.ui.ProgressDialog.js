@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ui/dialogs/ve.ui.ProgressDialog.js');
 /*!
  * VisualEditor UserInterface ProgressDialog class.
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AssetsManager/js/AssetsManager.js');
 /**
  * Implements Wikia.getMultiTypePackage function for fetching JS/CSS/HTML
  * and JS messages in a single request (as JSON object)

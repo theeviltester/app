@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/HeaderTabs/skins-jquery/ext.headertabs.core.js');
 /**
  * Javascript code for Header Tabs extension for MW 1.17+
  *

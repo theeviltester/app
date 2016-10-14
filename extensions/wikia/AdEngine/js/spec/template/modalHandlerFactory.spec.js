@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/template/modalHandlerFactory.spec.js');
 /*global describe, it, expect, modules, beforeEach*/
 describe('ext.wikia.adEngine.template.modalHandlerFactory', function () {
 	'use strict';

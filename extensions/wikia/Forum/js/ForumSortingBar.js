@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Forum/js/ForumSortingBar.js');
 (function(window, $) {
 
 Forum.SortingBar = $.createClass(Wall.SortingBar, {

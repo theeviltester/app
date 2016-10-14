@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/mode-luapage.js');
 ace.define('ace/mode/luapage', ['require', 'exports', 'module' , 'ace/lib/oop', 'ace/mode/html', 'ace/mode/lua', 'ace/tokenizer', 'ace/mode/luapage_highlight_rules'], function(require, exports, module) {
 
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki.libs/mediawiki.libs.jpegmeta.js');
 /* This is JsJpegMeta 1.0, ported to MediaWiki ResourceLoader by Bryan Tong Minh */
 /* The following lines where changed with respect to the original: 54, 625-627 */
 

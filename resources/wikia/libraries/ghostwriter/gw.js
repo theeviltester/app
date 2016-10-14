@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/ghostwriter/gw.js');
 /* 
  * 
  * @preserve Copyright(c) 2010-2011 Digital Fulrcum, LLC 

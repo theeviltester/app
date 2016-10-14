@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.qunit.completenessTest.js');
 /**
  * jQuery QUnit CompletenessTest 0.3
  *

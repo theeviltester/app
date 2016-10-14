@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Search/js/WikiaSearch.wikiamobile.js');
 /**
  * Search results JS code for the WikiaMobile skin
  *

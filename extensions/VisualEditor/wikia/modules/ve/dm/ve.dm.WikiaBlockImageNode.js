@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/wikia/modules/ve/dm/ve.dm.WikiaBlockImageNode.js');
 /*!
  * VisualEditor DataModel WikiaBlockImageNode class.
  * @license The MIT License (MIT); see LICENSE.txt

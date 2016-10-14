@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMaps/js/WikiaMapsParserTag.js');
 require([
 	'jquery',
 	'wikia.mustache',

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/mode-dot.js');
 ace.define('ace/mode/dot', ['require', 'exports', 'module' , 'ace/lib/oop', 'ace/mode/text', 'ace/tokenizer', 'ace/mode/matching_brace_outdent', 'ace/mode/dot_highlight_rules', 'ace/mode/folding/cstyle'], function(require, exports, module) {
 
 

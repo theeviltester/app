@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/AdLogicPageDimensions.js');
 /*jshint camelcase:false, maxdepth:4*/
 /*global define*/
 define('ext.wikia.adEngine.adLogicPageDimensions', [

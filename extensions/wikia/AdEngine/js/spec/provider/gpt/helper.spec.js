@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/provider/gpt/helper.spec.js');
 /*global describe, it, expect, modules, spyOn, beforeEach*/
 describe('ext.wikia.adEngine.provider.gpt.helper', function () {
 	'use strict';

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/lookup/prebid/adapters/appnexus.js');
 /*global define*/
 define('ext.wikia.adEngine.lookup.prebid.adapters.appnexus',[
 	'ext.wikia.adEngine.lookup.prebid.adapters.appnexusPlacements',

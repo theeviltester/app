@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/admin/views/categoryforms.js');
 define('videopageadmin.views.categoryforms', [
 	'jquery',
 	'videopageadmin.views.autocomplete',

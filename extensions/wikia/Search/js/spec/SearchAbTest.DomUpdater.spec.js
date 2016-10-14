@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Search/js/spec/SearchAbTest.DomUpdater.spec.js');
 /**
  * Updates all links related to search to contain specified parameters.
  */

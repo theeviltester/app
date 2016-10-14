@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/dm/ve.dm.DocumentSynchronizer.test.js');
 /*!
  * VisualEditor DataModel DocumentSynchronizer tests.
  *

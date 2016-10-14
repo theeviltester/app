@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/ads/ad1.js');
 rubicon_cb = Math.random();
 rubicon_rurl = document.referrer;
 if(top.location==document.location){rubicon_rurl = document.location;}

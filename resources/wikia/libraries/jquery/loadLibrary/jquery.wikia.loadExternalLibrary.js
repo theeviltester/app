@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/loadLibrary/jquery.wikia.loadExternalLibrary.js');
 /*global jQuery, Wikia*/
 (function ($) {
 	'use strict';

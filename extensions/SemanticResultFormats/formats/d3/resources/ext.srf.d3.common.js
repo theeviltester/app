@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/d3/resources/ext.srf.d3.common.js');
 /**
  * JavaSript for SRF color schemes
  *

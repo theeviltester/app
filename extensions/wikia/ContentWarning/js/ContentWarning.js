@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ContentWarning/js/ContentWarning.js');
 /*global jQuery, window*/
 jQuery(function ($) {
 	'use strict';

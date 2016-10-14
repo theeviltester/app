@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ApiDocs/js/doc.js');
 $(function() {
 
 	// Helper function for vertically aligning DOM elements

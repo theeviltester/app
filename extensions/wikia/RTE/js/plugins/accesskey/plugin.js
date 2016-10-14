@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/accesskey/plugin.js');
 CKEDITOR.plugins.add('rte-accesskey',
 {
 	init: function(editor) {

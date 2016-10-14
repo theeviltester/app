@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialManageWikiaHome/js/CollectionsSetup.js');
 var CollectionsSetup = function() {};
 
 CollectionsSetup.prototype = {

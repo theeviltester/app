@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/shared/scripts/transparent-out.js');
 ( function( $ ) {
 	'use strict';
 

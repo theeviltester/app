@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/editing/scripts/extra.js');
 
 /**
  * Makes the span for a single value that can be edited.

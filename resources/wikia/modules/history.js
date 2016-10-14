@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/history.js');
 /*
  * @define wikia.history
  * module used to handle history state

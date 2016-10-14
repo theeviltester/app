@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditorSurvey/js/EditorSurvey.js');
 ( function( window, $ ) {
 	if ( !window.wgEditorSurveyEnabled ) {
 		return;

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki.special/mediawiki.special.search.js');
 /*
  * JavaScript for Special:Search
  */

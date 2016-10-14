@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/resources/jquery.fullcalendar/fullcalendar.js');
 /**
  * @preserve
  * FullCalendar v1.5.4

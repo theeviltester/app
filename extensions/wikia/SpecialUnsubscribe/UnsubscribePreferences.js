@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialUnsubscribe/UnsubscribePreferences.js');
 $(function() {
 	var toggle = $('#mw-input-unsubscribed');
 	var form = toggle.closest( 'form' );

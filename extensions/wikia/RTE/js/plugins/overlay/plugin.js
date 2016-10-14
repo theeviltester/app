@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/overlay/plugin.js');
 CKEDITOR.plugins.add('rte-overlay',
 {
 	// overlays container

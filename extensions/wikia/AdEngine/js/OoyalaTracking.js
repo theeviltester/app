@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/OoyalaTracking.js');
 /*global require*/
 require(['wikia.window', 'wikia.tracker'], function (window, tracker) {
 	'use strict';

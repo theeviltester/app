@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/dm/annotations/ve.dm.BoldAnnotation.js');
 /*!
  * VisualEditor DataModel BoldAnnotation class.
  *

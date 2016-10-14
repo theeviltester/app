@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ui/inspectors/ve.ui.LanguageInspector.js');
 /*!
  * VisualEditor UserInterface LanguageInspector class.
  *

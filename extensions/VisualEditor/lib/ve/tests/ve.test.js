@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/ve.test.js');
 /*!
  * VisualEditor Base method tests.
  *

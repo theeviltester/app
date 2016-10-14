@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Bucky/vendor/BuckyClient/spec/vendor/sinon-1.7.3/sinon.js');
 /**
  * Sinon.JS 1.7.3, 2013/06/20
  *

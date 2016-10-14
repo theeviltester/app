@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki.language/languages/ru.js');
 /*!
  * Russian (Русский) language functions
  */

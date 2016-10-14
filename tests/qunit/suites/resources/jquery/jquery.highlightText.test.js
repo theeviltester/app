@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/suites/resources/jquery/jquery.highlightText.test.js');
 ( function ( $ ) {
 	QUnit.module( 'jquery.highlightText', QUnit.newMwEnvironment() );
 

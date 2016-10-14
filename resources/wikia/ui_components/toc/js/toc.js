@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/ui_components/toc/js/toc.js');
 define('wikia.ui.toc', ['jquery', 'wikia.window'], function($, w) {
 	"use strict";
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/tagcloud/resources/ext.srf.tagcloud.sphere.js');
 /**
  * JavaScript for SRF tagcloud module using the tagcanvas plug-in
  * @see http://www.semantic-mediawiki.org/wiki/Help:Tagcloud format

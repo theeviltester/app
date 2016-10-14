@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/integration/cookies.spec.js');
 describe("Cookies", function () {
 	'use strict';
 

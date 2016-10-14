@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/tests/jQueryWikiaTest.js');
 /*
  // Include jQuery and jQuery.wikia
  @test-require-asset /resources/wikia/libraries/modil/modil.js

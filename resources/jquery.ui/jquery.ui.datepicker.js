@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/jquery.ui.datepicker.js');
 /*
  * jQuery UI Datepicker 1.8.17
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/resources/jquery.listmenu/jquery.listmenu.min-1.1.js');
 ﻿/*
 *
 * jQuery listmenu plugin

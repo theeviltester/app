@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/3rdparty/LyricWiki/LyricFind/js/spec/tracker.spec.js');
 describe("LyricFind.Tracker", function () {
 	'use strict';
 

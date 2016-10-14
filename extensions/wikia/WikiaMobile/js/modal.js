@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/modal.js');
 /*global Features, WikiaMobile */
 /**
  * Full screen modal in Wikia Mobile

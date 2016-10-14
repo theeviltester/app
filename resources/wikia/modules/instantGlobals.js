@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/instantGlobals.js');
 /**
  * AMD module exporting Wikia.InstantGlobals object
  */

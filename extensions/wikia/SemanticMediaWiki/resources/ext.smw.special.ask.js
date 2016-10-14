@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SemanticMediaWiki/resources/ext.smw.special.ask.js');
 /**
  * JavaScript for supporting functionality in Special:Ask
  *

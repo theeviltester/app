@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/lua.js');
 ace.define('ace/snippets/lua', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

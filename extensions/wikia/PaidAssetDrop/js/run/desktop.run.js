@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/PaidAssetDrop/js/run/desktop.run.js');
 /*global require*/
 require([
 	'ext.wikia.paidAssetDrop.paidAssetDrop',

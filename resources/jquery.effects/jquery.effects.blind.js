@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.effects/jquery.effects.blind.js');
 /*
  * jQuery UI Effects Blind 1.8.17
  *

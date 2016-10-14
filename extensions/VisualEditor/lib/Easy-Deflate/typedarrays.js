@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/Easy-Deflate/typedarrays.js');
 /**
 Copyright (c) 2013, Specialisterne.
 All rights reserved.

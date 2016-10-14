@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Search/js/spec/SearchAbTest.Context.spec.js');
 // unit tests
 describe('SearchAbTest.Context', function() {
 	var logMock = function() {};

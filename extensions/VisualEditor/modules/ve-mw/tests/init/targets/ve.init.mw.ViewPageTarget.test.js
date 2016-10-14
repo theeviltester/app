@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/tests/init/targets/ve.init.mw.ViewPageTarget.test.js');
 /*!
  * VisualEditor MediaWiki Initialization ViewPageTarget tests.
  *

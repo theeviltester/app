@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/slot/slotTargeting.spec.js');
 /*global describe, it, expect, modules*/
 describe('ext.wikia.adEngine.slot.slotTargeting', function () {
 	'use strict';

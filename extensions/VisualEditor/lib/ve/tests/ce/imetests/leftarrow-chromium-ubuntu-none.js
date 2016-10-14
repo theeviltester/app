@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/ce/imetests/leftarrow-chromium-ubuntu-none.js');
 /*!
  * VisualEditor IME left arrow test for Chromium on Ubuntu.
  *

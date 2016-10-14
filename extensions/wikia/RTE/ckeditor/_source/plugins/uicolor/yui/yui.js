@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/ckeditor/_source/plugins/uicolor/yui/yui.js');
 /*jsl:ignoreall*/
 /*
 Copyright (c) 2009, Yahoo! Inc. All rights reserved.

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Math/modules/MathJax/config/MML_HTMLorMML-full.js');
 /*
  *  /MathJax/unpacked/config/MML_HTMLorMML-full.js
  *  

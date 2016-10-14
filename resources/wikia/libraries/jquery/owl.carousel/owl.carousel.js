@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/owl.carousel/owl.carousel.js');
 /*
  *	jQuery OwlCarousel v1.31
  *

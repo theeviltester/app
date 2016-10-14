@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/jquery.ui.widget.js');
 /*!
  * jQuery UI Widget 1.8.17
  *

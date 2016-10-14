@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/WikiaMobile.js');
 require( ['wikia.querystring', require.optional( 'wikia.cookies' ), 'track', 'wikia.window', 'jquery' ], function ( qs, cookies, track, window, $ ) {
 	'use strict';
 

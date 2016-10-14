@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/scripts/ethers.js');
 /*==================================================
  *  Linear Ether
  *==================================================

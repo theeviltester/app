@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.effects/jquery.effects.bounce.js');
 /*
  * jQuery UI Effects Bounce 1.8.17
  *

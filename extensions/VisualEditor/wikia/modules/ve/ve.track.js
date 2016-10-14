@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/wikia/modules/ve/ve.track.js');
 /*!
  * VisualEditor tracking for Wikia
  */

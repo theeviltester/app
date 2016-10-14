@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Bucky/vendor/Weppy/dist/weppy.cjs.js');
 /// <reference path="../weppy.d.ts"/>
 var WeppyImpl;
 (function (WeppyImpl) {

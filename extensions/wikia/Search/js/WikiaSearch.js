@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Search/js/WikiaSearch.js');
 (function($, window) {
 
 var WikiaSearch = {

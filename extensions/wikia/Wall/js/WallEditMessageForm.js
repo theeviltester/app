@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Wall/js/WallEditMessageForm.js');
 (function(window, $) {
 
 Wall.EditMessageForm = $.createClass(Wall.MessageForm, {

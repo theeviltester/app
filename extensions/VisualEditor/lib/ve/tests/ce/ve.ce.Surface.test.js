@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/ce/ve.ce.Surface.test.js');
 /*!
  * VisualEditor ContentEditable Surface tests.
  *

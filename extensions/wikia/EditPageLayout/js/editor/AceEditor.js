@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPageLayout/js/editor/AceEditor.js');
 define(
 	'wikia.editpage.ace.editor',
 	['wikia.ace.editor', 'editpage.events', 'wikia.window'],

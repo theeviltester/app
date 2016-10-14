@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/chart/scripts/bar-chart-view.js');
 /**==================================================
  *  Exhibit.BarChartView
  *  Creates a bar graph with the items going down the y-axis

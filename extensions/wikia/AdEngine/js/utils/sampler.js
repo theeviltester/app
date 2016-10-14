@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/utils/sampler.js');
 define('ext.wikia.adEngine.utils.sampler', function () {
 	'use strict';
 

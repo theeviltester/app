@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/timeline/resources/ext.srf.timeline.js');
 /**
  * A script for scraping Simile Timeline suitable data from HTML, and
  * for inserting the required Simile scripts if needed.

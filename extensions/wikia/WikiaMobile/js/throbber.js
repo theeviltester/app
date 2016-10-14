@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/throbber.js');
 /**
  * Module that shows throbber in a given container
  *

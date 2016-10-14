@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Math/modules/MathJax/jax/element/mml/optable/Latin1Supplement.js');
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/optable/Latin1Supplement.js

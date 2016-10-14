@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialVideos/scripts/mobile/collections/video.js');
 define('specialVideos.mobile.collections.videos', [
 	'wikia.nirvana'
 ], function (nirvana) {

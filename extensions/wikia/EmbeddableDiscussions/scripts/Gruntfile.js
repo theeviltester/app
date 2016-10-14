@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EmbeddableDiscussions/scripts/Gruntfile.js');
 /* jshint ignore: start */
 module.exports = function (grunt) {
 	'use strict';

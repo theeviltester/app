@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Recirculation/js/helpers/GoogleMatchHelper.js');
 /*global define*/
 define('ext.wikia.recirculation.helpers.googleMatch', [
 	'jquery',

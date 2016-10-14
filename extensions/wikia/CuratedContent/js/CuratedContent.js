@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CuratedContent/js/CuratedContent.js');
 /* global Ponto */
 (function($html, window){
 	'use strict';

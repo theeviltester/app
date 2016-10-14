@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ScavengerHunt/js/sprite.js');
 /*
  * Object helper for managing and displaying sprites, parts of big image
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/widget/resources/ext.srf.listwidget.js');
 /**
  * JavaScript for SRF ListWidget module
  * @see http://www.semantic-mediawiki.org/wiki/Help:Listwidget format

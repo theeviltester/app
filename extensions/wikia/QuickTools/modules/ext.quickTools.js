@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/QuickTools/modules/ext.quickTools.js');
 /**
  * Module to execute quick tool actions from a popup menu
  *

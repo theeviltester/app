@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/video/vastBuilder.spec.js');
 /*global describe, it, expect, modules, beforeEach, spyOn*/
 describe('ext.wikia.adEngine.video.vastBuilder', function () {
 	'use strict';

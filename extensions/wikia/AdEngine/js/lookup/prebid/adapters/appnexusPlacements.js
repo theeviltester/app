@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/lookup/prebid/adapters/appnexusPlacements.js');
 define('ext.wikia.adEngine.lookup.prebid.adapters.appnexusPlacements', [
 	'ext.wikia.adEngine.adContext',
 	'wikia.instantGlobals',

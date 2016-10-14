@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/linksuggest/plugin.js');
 CKEDITOR.plugins.add('rte-linksuggest', {
 	init: function(editor) {
 		if (typeof jQuery.fn.linksuggest === 'function') {

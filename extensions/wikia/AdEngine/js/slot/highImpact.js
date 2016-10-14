@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/slot/highImpact.js');
 /*global define*/
 define('ext.wikia.adEngine.slot.highImpact', [
 	'ext.wikia.adEngine.adContext',

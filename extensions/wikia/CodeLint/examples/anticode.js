@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CodeLint/examples/anticode.js');
 /**
  * This is an example of JS code full of antipatterns
  * and other things you should avoid in JavaScript

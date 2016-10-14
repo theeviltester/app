@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/RefreshSpecial/RefreshSpecial.js');
 /**
  * JavaScript helper function for RefreshSpecial extension
  */

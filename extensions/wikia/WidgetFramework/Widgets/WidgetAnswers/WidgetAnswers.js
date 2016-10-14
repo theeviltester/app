@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WidgetFramework/Widgets/WidgetAnswers/WidgetAnswers.js');
 function WidgetAnswers_load(data) {
 	if (data.query == "undefined") { return; }
 	if(data.query.categoriesonanswers) {

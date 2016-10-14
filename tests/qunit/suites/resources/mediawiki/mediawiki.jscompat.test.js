@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/suites/resources/mediawiki/mediawiki.jscompat.test.js');
 /* Some misc JavaScript compatibility tests, just to make sure the environments we run in are consistent */
 
 module( 'mediawiki.jscompat', QUnit.newMwEnvironment() );

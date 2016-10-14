@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/JSSnippets/js/JSSnippets.js');
 /* global JSSnippetsStack: true, wgCdnRootUrl, wgResourceBasePath, wgAssetsManagerQuery, wgStyleVersion */
 /**
  * JSSnippets client-side API

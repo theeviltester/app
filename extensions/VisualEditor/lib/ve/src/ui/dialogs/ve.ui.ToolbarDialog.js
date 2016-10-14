@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ui/dialogs/ve.ui.ToolbarDialog.js');
 /*!
  * VisualEditor UserInterface ToolbarDialog class.
  *

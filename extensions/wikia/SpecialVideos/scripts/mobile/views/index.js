@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialVideos/scripts/mobile/views/index.js');
 define('specialVideos.mobile.views.index', [
 	'wikia.mustache',
 	'media',

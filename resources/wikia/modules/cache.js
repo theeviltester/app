@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/cache.js');
 /**
  * Memcache-like API based on localStorage using JS global namespace as a fallback
  *

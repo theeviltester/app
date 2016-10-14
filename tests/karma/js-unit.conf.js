@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/karma/js-unit.conf.js');
 /**
  * Karma configuration
  *

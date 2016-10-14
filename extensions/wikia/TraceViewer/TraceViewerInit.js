@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/TraceViewer/TraceViewerInit.js');
 (function(window,$) {
 	function openTrace() {
 		mw.loader.using(['wikia.ext.traceviewer'],function(){

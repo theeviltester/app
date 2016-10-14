@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialCategoryIntersection/CategoryAutoComplete.js');
 CategoryAutoComplete = {
 	FORM_ID: "CategoryAutoComplete",
 	NS_CATEGORY: 14, // TODO: is there a more programmatic way to get this?

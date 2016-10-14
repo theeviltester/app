@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Rail/scripts/Rail.js');
 $(function () {
 	'use strict';
 

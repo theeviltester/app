@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/oasis/js/WikiHeader.js');
 (function ( window, $ ) {
 	'use strict';
 

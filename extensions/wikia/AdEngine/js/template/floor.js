@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/template/floor.js');
 /*global define*/
 define('ext.wikia.adEngine.template.floor', [
 	'ext.wikia.adEngine.adContext',

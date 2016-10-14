@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CreateNewWiki/js/WikiWelcome.js');
 /* global define, require, Mustache */
 
 /**

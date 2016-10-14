@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/demos/trigger/trigger.js');
 /*!
  * VisualEditor trigger demo
  *

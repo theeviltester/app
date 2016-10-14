@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/3rdparty/LyricWiki/LyricFind/js/modules/LyricFind.Tracker.js');
 define('LyricFindTracker', ['wikia.window', 'jquery'], function(window, $) {
 	function track(amgId, gracenoteId, title) {
 		var img = new Image(),

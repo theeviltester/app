@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/erlang.js');
 ace.define('ace/snippets/erlang', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

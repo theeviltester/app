@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/map/locales/de/map-locale.js');
 /*==================================================
  *  Exhibit Map Extension German localization
  *==================================================

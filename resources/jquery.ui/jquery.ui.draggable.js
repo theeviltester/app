@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/jquery.ui.draggable.js');
 /*
  * jQuery UI Draggable 1.8.17
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Math/modules/MathJax/jax/output/HTML-CSS/fonts/STIX/fontdata.js');
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/font/STIX/fontdata.js

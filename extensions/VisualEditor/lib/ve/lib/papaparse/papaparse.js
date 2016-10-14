@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/lib/papaparse/papaparse.js');
 /*
 	Papa Parse
 	v4.0.6-edg2s

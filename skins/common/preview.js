@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/common/preview.js');
 /**
  * Live preview script for MediaWiki
  */

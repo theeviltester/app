@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMiniUpload/js/WMU.js');
 /*
  * Author: Inez Korczynski, Bartek Lapinski
  * Converted from YUI to jQuery by Hyun (except for the slider)

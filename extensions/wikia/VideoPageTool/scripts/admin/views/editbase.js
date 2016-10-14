@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/admin/views/editbase.js');
 /**
  * This is the base view class for all edit forms in the VPT admin
  */

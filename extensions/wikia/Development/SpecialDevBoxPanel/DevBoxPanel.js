@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Development/SpecialDevBoxPanel/DevBoxPanel.js');
 var DevBoxPanel = {
 	init: function() {
 		$(".tabs").find("li").click(function() { DevBoxPanel.switchTab($(this)); });

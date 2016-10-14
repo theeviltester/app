@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ApiDocs/js/lib/handlebars-1.0.0.js');
 /*
 
  Copyright (C) 2011 by Yehuda Katz

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/overlay_ad.js');
 var displayOverlayAd = function(){
 		var OverlayAd = {
 			settings: {

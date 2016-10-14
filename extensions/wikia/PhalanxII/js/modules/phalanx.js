@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/PhalanxII/js/modules/phalanx.js');
 define('phalanx', ['jquery', 'wikia.nirvana'], function($, nirvana) {
 	'use strict';
 

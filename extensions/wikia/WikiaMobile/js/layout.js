@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/layout.js');
 /* global Features */
 /**
  * @requires section, media, cache, wikia.loader, lazyload, jquery, sloth

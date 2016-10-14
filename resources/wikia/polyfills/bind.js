@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/polyfills/bind.js');
 /**
  * Polyfill for `Function.prototype.bind` because PhantomJS 1.9.8 doesn't support it
  * Should only need to use this for unit tests, as all Wikia's supported browsers support bind.

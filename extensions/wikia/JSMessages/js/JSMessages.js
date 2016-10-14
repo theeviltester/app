@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/JSMessages/js/JSMessages.js');
 (function(context){
 	var shift = Array.prototype.shift,
 		join = Array.prototype.join;

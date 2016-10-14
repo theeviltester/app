@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WDACReview/js/WDACReview.js');
 $(function() {
 
 	$( '#wdac-approve-all' ).bind( 'click', function() {

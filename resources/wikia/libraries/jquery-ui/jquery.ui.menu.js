@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery-ui/jquery.ui.menu.js');
 /*
  * jQuery UI Menu (not officially released)
  * 

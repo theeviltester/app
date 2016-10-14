@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/scripts/util/graphics.js');
 /*==================================================
  *  Graphics Utility Functions and Constants
  *==================================================

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery-ui/jquery-ui-1.8.14.custom.js');
 /*!
  * jQuery UI 1.8.14
  *

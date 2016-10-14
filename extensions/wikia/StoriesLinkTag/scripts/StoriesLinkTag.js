@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/StoriesLinkTag/scripts/StoriesLinkTag.js');
 'use strict';
 
 var StoriesLinkTag = {

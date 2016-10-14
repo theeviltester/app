@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaQuiz/js/CreateWikiaQuizArticle.js');
 var CreateWikiaQuizArticle = {
 
 	init: function() {

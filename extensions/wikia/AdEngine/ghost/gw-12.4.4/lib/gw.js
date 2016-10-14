@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/lib/gw.js');
 /* 
  * 
  * @preserve Copyright(c) 2010-2011 Digital Fulrcum, LLC 

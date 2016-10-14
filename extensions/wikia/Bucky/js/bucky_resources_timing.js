@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Bucky/js/bucky_resources_timing.js');
 /*
  * Provides ResourceTiming performance stats for Bucky reporting
  *

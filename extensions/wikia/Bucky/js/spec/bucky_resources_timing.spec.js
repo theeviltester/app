@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Bucky/js/spec/bucky_resources_timing.spec.js');
 /*global describe,it,expect,modules*/
 /*jshint maxlen: 200*/
 describe('BuckyResourcesTiming', function () {

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ContentReview/scripts/contentReviewSpecialPage.js');
 define(
     'ext.wikia.contentReview.special.page',
     ['jquery', 'mw', 'wikia.loader', 'wikia.nirvana', 'BannerNotification'],

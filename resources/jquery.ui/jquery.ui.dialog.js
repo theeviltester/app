@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/jquery.ui.dialog.js');
 /*
  * jQuery UI Dialog 1.8.17
  *

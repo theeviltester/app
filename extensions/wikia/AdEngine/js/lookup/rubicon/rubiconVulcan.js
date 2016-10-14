@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/lookup/rubicon/rubiconVulcan.js');
 /*global define*/
 define('ext.wikia.adEngine.lookup.rubicon.rubiconVulcan', [
 	'ext.wikia.adEngine.lookup.lookupFactory',

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/actionscript.js');
 ace.define('ace/snippets/actionscript', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

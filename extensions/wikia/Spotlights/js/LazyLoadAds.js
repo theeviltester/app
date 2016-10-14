@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Spotlights/js/LazyLoadAds.js');
 (function( window, $ ) {
 
 var $window = $( window ),

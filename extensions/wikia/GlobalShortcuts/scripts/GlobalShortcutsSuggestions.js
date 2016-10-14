@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/GlobalShortcuts/scripts/GlobalShortcutsSuggestions.js');
 define('GlobalShortcutsSuggestions',
 	['mw', 'wikia.nirvana', 'PageActions', 'GlobalShortcuts', 'GlobalShortcuts.RenderKeys', 'GlobalShortcutsTracking'],
 	function (mw, nirvana, PageActions, GlobalShortcuts, RenderKeys, tracker) {

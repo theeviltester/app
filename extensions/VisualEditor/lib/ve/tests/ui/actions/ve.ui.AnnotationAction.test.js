@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/ui/actions/ve.ui.AnnotationAction.test.js');
 /*!
  * VisualEditor UserInterface Actions AnnotationAction tests.
  *

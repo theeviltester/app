@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Chat2/js/emoticons.js');
 /**
  * @author Sean Colombo
  * @date 20110902

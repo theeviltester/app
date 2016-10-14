@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/tests/ui/actions/ve.ui.FormatAction.test.js');
 /*!
  * VisualEditor UserInterface Actions FormatAction tests.
  *

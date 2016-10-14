@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CreatePage/js/CreatePage.js');
 /* global $ */
 var CreatePage = {
 	pageLayout: null,

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/nirvana.spec.js');
 /*global describe, it, expect, dump, afterEach */
 describe('Nirvana', function () {
 	'use strict';

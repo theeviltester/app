@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/sessionStorage.js');
 /**
  * A set of AMD modules wrapping session storage API
  */

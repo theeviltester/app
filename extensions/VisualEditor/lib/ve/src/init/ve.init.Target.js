@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/init/ve.init.Target.js');
 /*!
  * VisualEditor Initialization Target class.
  *

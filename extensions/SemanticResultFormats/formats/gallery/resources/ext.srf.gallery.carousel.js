@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/gallery/resources/ext.srf.gallery.carousel.js');
 /**
  * JavaScript for SRF Gallery jcarousel module
  * @see http://www.semantic-mediawiki.org/wiki/Help:Gallery format

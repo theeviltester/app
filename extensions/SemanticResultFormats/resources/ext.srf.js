@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/resources/ext.srf.js');
 /**
  * JavaScript for SRF namespace placeholder
  * @see http://www.semantic-mediawiki.org/wiki/Writing_result_printers

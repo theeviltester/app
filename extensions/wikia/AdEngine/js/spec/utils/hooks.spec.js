@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/utils/hooks.spec.js');
 /*global describe, it, expect, modules, beforeEach, spyOn*/
 describe('ext.wikia.adEngine.utils.hooks', function () {
 	'use strict';

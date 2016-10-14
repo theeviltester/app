@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserLogin/js/FacebookFormConnectUser.js');
 /* global UserBaseAjaxForm */
 (function () {
 	'use strict';

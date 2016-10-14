@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/admin/views/index.js');
 /**
  * @description This is a replacement 'router' or 'controller' file used to instantiate Backbone views.
  * Since we aren't using Backbone's router ATM due to time limitations and this just being an exploratory

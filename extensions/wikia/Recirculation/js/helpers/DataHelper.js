@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Recirculation/js/helpers/DataHelper.js');
 define('ext.wikia.recirculation.helpers.data', [
 	'jquery',
 	'wikia.window',

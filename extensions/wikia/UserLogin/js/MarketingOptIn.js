@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserLogin/js/MarketingOptIn.js');
 define('usersignup.marketingOptIn', ['wikia.geo'], function (geo) {
 	'use strict';
 

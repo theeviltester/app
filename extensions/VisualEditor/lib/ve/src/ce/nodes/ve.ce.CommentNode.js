@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ce/nodes/ve.ce.CommentNode.js');
 /*!
  * VisualEditor ContentEditable CommentNode class.
  *

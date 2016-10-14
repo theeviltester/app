@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/provider/gpt/googleSlots.js');
 define('ext.wikia.adEngine.provider.gpt.googleSlots', function() {
 	var slots = {};
 

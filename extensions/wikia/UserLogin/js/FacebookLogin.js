@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserLogin/js/FacebookLogin.js');
 /* global UserLoginModal, wgScriptPath, BannerNotification, UserSignupAjaxValidation */
 
 /**

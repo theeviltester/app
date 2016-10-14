@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/lib/oojs/oojs.jquery.js');
 /*!
  * OOjs v1.1.3 optimised for jQuery
  * https://www.mediawiki.org/wiki/OOjs

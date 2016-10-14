@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MyHome/ActivityFeedTag.js');
 var ActivityFeedTag = {};
 
 ActivityFeedTag.loadFreshData = function(id, params, timestamp) {

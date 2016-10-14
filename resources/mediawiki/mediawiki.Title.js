@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki/mediawiki.Title.js');
 /*!
  * @author Neil Kandalgaonkar, 2010
  * @author Timo Tijhof, 2011-2013

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/markdown.js');
 ace.define('ace/snippets/markdown', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/php.js');
 ace.define('ace/snippets/php', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

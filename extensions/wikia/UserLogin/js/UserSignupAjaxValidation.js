@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserLogin/js/UserSignupAjaxValidation.js');
 /* global wgWikiaMaxNameChars, wgMinimalPasswordLength */
 (function () {
 	'use strict';

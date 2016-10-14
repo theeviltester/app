@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPageLayout/js/plugins/Autoresizer.js');
 (function(window, $) {
 
 	var $window = $( window );

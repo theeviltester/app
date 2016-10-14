@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Lightbox/scripts/LightboxLoader.js');
 /*global Lightbox:true */
 
 (function (window, $) {

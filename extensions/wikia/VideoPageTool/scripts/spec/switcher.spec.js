@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/spec/switcher.spec.js');
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe('Form box switcher', function () {
 	'use strict';

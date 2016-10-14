@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WidgetFramework/Widgets/WidgetCommunity/WidgetCommunity.js');
 function WidgetCommunity_init(id, widget) {
 	var loadFreshData = function(id, timestamp) {
 		var params = {},

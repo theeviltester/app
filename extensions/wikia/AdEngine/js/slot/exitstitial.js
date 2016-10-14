@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/slot/exitstitial.js');
 // TODO: replace with template/modal.js?
 
 /*global define, setTimeout*/

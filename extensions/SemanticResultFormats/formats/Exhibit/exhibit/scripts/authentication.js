@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/authentication.js');
 Exhibit.Authentication = {};
 
 // global flag for whether exhibit is authenticated

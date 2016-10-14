@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/sinonjs/sinon-ie-1.9.0.js');
 /**
  * Sinon.JS 1.9.0, 2014/03/05
  *

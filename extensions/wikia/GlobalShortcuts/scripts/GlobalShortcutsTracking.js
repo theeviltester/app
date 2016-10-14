@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/GlobalShortcuts/scripts/GlobalShortcutsTracking.js');
 define('GlobalShortcutsTracking', ['wikia.tracker'], function(tracker){
 	'use strict';
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/delayed-hover/js-delayed-hover.js');
 /**
  * JS delayed hover is module that enable fires event when you
  * hover over element and move your mouse slow enough.

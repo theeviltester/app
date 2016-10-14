@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AchievementsII/js/achievements.js');
 /*
  *  This file is being used for Special:AchievementsCustomize
  *  There is also skins/oasis/js/Achievements.js

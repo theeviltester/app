@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/ui_components/modal/js/modal_sample.js');
 require(['jquery', 'wikia.ui.factory'], function ($, uiFactory) {
 	'use strict';
 	uiFactory.init('modal').then(function (uiModal) {

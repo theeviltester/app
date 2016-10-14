@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/views/view-panel.js');
 /*======================================================================
  *  Exhibit.ViewPanel
  *  http://simile.mit.edu/wiki/Exhibit/API/ViewPanel

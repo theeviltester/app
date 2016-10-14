@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaNewFiles/scripts/uploadPhotosDialog.js');
 var UploadPhotos = {
 	d: false,
 	destfile: false,

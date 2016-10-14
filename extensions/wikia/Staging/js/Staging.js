@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Staging/js/Staging.js');
 if ( window.wgStagingEnvironment ) {
 	(function( document ){
 		'use strict';

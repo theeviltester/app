@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/provider/gpt/adDetect.spec.js');
 /*global describe, it, expect, modules, spyOn*/
 describe('Method ext.wikia.adEngine.provider.gpt.adDetect.onAdLoad', function () {
 	'use strict';

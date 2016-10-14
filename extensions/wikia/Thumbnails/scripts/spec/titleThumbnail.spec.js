@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Thumbnails/scripts/spec/titleThumbnail.spec.js');
 describe('titleThumbnail module', function () {
 	'use strict';
 

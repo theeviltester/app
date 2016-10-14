@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki.language/mediawiki.language.init.js');
 ( function ( mw ) {
 	/**
 	 * Base language object with methods related to language support, attempting to mirror some of the

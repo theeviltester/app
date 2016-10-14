@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/AbuseFilter/modules/ext.abuseFilter.examine.js');
 /**
  * Filter checking for examine
  */

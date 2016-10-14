@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/tests/ce/imetests/input-firefox-win-welsh.js');
 /*!
  * VisualEditor IME test for Firefox on Windows in Welsh.
  *

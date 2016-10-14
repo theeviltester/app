@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/slot/bottomLeaderboard.js');
 /*global define*/
 define('ext.wikia.adEngine.slot.bottomLeaderboard', [
 	'ext.wikia.adEngine.adHelper',

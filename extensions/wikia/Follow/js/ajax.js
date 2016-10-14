@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Follow/js/ajax.js');
 (function (window, $, mw) {
 
 	var follow = {

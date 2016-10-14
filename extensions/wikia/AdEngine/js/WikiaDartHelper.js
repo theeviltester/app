@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/WikiaDartHelper.js');
 // TODO: This file is only used by JWPlayer. Remove it when JWPlayer is removed
 /*global define*/
 define('ext.wikia.adEngine.dartHelper', [

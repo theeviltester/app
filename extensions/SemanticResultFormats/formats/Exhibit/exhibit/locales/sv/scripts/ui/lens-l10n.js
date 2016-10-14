@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/sv/scripts/ui/lens-l10n.js');
 /*==================================================
  *  Exhibit.Lens Swedish localization
  *==================================================

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ThemeDesigner/js/ThemeDesignerPreview.js');
 var ThemeDesignerPreview = {
 	init: function() {
 		$(".portable-infobox h2")

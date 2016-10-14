@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/ads/ad2.js');
 var 
 strCreative=''
  + '<!-- Template file for Flash ads -->\n' 

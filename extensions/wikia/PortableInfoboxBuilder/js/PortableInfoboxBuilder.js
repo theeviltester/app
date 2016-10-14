@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/PortableInfoboxBuilder/js/PortableInfoboxBuilder.js');
 'use strict';
 
 require(['ponto', 'jquery'], function (ponto, $) {

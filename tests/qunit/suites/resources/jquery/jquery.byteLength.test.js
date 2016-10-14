@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/suites/resources/jquery/jquery.byteLength.test.js');
 module( 'jquery.byteLength', QUnit.newMwEnvironment() );
 
 test( '-- Initial check', function() {

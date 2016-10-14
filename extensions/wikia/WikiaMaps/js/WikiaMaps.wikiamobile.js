@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMaps/js/WikiaMaps.wikiamobile.js');
 require([
 	'wikia.window',
 	'wikia.maps.pontoBridge'

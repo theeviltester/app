@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/lib/jquery/jquery.visibleText.js');
 /**
  * jQuery visibleText plugin 0.1.0
  * https://github.com/Krinkle/jquery-visibleText

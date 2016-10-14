@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/browserDetect.spec.js');
 /* global describe, modules, expect, it */
 describe('browserDetect', function () {
 	'use strict';

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/dm/ve.dm.MW.js');
 /*!
  * VisualEditor DataModel MediaWiki configuration.
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/provider/remnantGptMobile.js');
 /*global define*/
 define('ext.wikia.adEngine.provider.remnantGptMobile', [
 	'ext.wikia.adEngine.provider.factory.wikiaGpt'

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/GlobalShortcuts/scripts/GlobalShortcutsSearch.js');
 define('GlobalShortcutsSearch', ['mw', 'wikia.loader', 'wikia.nirvana', 'wikia.throbber', 'GlobalShortcutsSuggestions'],
 	function (mw, loader, nirvana, throbber, GlobalShortcutsSuggestions) {
 	'use strict';

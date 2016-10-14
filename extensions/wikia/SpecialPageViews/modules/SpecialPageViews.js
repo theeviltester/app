@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialPageViews/modules/SpecialPageViews.js');
 var SponsorshipDashboard = function(){
 	var self = this;
 

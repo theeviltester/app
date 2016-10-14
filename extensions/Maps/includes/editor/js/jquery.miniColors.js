@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Maps/includes/editor/js/jquery.miniColors.js');
 /*
  * jQuery miniColors: A small color selector
  *

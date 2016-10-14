@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.footHovzer.js');
 /**
  * Utility to stack stuff in an overlay fixed on the bottom of the page.
  *

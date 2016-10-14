@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/provider/gpt/adDetect.js');
 /*global define, setTimeout, clearTimeout*/
 /*jshint camelcase:false, maxlen:127*/
 /*jslint regexp:true*/

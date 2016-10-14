@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoHandlers/js/handlers/Youtube.js');
 /**
  * Use Youtube's iframe API to play and track videos
  * Uses player events to track video views

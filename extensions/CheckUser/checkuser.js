@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/CheckUser/checkuser.js');
 /* -- (c) Aaron Schulz 2009 */
 
 var showResults = function(size, cidr) {

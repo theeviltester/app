@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPageLayout/js/extras/Buttons.js');
 /* global WikiaEditor, WMU_show, WikiaPhotoGallery, insertTags, wmu_imagebutton */
 (function (window, $) {
 	'use strict';

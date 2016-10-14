@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Math/modules/MathJax/config/Accessible.js');
 /*
  *  /MathJax/unpacked/config/Accessible.js
  *  

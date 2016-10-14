@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/NjordPrototype/scripts/jquery.caret.js');
 (function($) {
   $.fn.caret = function(pos) {
     var target = this[0];

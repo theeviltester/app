@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AchievementsII/js/SpecialLeaderboard.js');
 var AchievementsLeaderboard = {
 	init: function() {
 		//Set correct initial state of page intro (visible or hidden)

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Bucky/vendor/Weppy/gulpfile.js');
 var gulp = require('gulp'),
 	qunit = require('gulp-qunit'),
 	rename = require('gulp-rename'),

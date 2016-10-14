@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Places/js/GeoEnableButton.js');
 var GeoEnableButton = {
 	offButton: null,
 	onButton: null,

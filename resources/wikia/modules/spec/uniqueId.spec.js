@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/uniqueId.spec.js');
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("uniqueId", function () {
 	'use strict';

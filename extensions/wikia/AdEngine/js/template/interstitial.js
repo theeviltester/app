@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/template/interstitial.js');
 /*global define*/
 define('ext.wikia.adEngine.template.interstitial', [
 	'ext.wikia.adEngine.slotTweaker',

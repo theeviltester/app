@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/ext-modelist.js');
 ace.define('ace/ext/modelist', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/PowerUser/js/pageViewTracking.js');
 define(
 	'ext.wikia.powerUser.pageViewTracking',
 	[

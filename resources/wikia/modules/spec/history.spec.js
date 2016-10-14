@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/history.spec.js');
 describe("History", function () {
 	"use strict";
 

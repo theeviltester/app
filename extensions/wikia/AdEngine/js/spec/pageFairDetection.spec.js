@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/pageFairDetection.spec.js');
 /*global describe, it, expect, modules, spyOn*/
 describe('Module ext.wikia.adEngine.pageFairDetection', function () {
 	'use strict';

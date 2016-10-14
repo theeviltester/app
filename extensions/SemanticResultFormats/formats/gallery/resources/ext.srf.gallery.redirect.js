@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/gallery/resources/ext.srf.gallery.redirect.js');
 /**
  * JavaScript for SRF gallery overlay/fancybox module
  * @see http://www.semantic-mediawiki.org/wiki/Help:Gallery format

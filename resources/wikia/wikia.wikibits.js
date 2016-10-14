@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/wikia.wikibits.js');
 (function( window, $ ) {
 
 /**

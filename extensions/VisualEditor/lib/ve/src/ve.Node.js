@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ve.Node.js');
 /*!
  * VisualEditor Node class.
  *

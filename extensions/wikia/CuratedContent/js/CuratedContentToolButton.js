@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CuratedContent/js/CuratedContentToolButton.js');
 require(['jquery', 'curatedContentTool.modal', 'JSMessages'], function ($, curatedContentToolModal, msg) {
 		'use strict';
 		$('#CuratedContentTool').click(function () {

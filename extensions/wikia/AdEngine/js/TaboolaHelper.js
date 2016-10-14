@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/TaboolaHelper.js');
 /*global define*/
 define('ext.wikia.adEngine.taboolaHelper', [
 	'ext.wikia.adEngine.adContext',

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/libraries/jquery/expirystorage/jquery.expirystorage.js');
 /**
  * LOCAL STORAGE WITH EXPIRATION (cookie simulation)
  * NOTE: the simulation is not a true cookie. Unlike

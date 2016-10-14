@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/EventDispatcher.spec.js');
 /*global describe,it,expect,modules,spyOn,beforeEach */
 /*jslint nomen: true*/
 describe('EventDispatcher', function () {

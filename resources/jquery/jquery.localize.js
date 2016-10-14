@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.localize.js');
 /**
  * Simple Placeholder-based Localization
  *

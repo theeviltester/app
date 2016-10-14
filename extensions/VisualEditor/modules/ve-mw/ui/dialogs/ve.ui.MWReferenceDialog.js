@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/ui/dialogs/ve.ui.MWReferenceDialog.js');
 /*!
  * VisualEditor UserInterface MediaWiki MWReferenceDialog class.
  *

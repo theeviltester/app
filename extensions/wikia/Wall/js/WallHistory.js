@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Wall/js/WallHistory.js');
 $(document).ready(function() {
 	var wallHistory = new WallHistory();
 });

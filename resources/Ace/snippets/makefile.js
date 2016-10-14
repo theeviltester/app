@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/makefile.js');
 ace.define('ace/snippets/makefile', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

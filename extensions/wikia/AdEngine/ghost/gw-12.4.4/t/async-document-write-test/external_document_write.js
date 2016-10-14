@@ -1,1 +1,2 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/async-document-write-test/external_document_write.js');
 document.write("<span style=\'background:#aaf\'>Written via nested document.write (external script)</span>");

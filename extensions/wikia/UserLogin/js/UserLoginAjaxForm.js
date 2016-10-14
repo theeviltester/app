@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserLogin/js/UserLoginAjaxForm.js');
 /*global wgScriptPath, UserBaseAjaxForm */
 (function () {
 	'use strict';

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WAMPage/js/WAMPage.js');
 var WAMPage = function () {};
 
 WAMPage.prototype = {

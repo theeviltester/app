@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/GlobalShortcuts/scripts/AddDiscussionsShortcuts.js');
 /**
  * A module for adding shortcut key to GlobalShortcuts extension for opening discussions page
  */

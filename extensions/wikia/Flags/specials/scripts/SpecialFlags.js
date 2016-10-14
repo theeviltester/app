@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Flags/specials/scripts/SpecialFlags.js');
 require(
 	['jquery', 'mw', 'wikia.nirvana', 'wikia.loader', 'ext.wikia.Flags.FlagEditForm', 'BannerNotification'],
 	function ($, mw, nirvana, loader, FlagEditForm, BannerNotification) {

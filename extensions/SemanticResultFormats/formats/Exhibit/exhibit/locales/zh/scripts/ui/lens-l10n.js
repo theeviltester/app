@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/zh/scripts/ui/lens-l10n.js');
 /*==================================================
  *  Exhibit.Lens Chinese localization
  *==================================================

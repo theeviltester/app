@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/suites/resources/jquery/jquery.autoEllipsis.test.js');
 ( function ( $ ) {
 
 	QUnit.module( 'jquery.autoEllipsis', QUnit.newMwEnvironment() );

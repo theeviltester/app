@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/editing/scripts/ui/editing-formatter.js');
 Exhibit.Formatter._ListFormatter.prototype.formatList = function(values, count, valueType, appender, editing) {
     var uiContext = this._uiContext;
     var self = this;

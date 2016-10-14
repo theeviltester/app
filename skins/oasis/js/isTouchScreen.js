@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/oasis/js/isTouchScreen.js');
 (function (window) {
 	'use strict';
 

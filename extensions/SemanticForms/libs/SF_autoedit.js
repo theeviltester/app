@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticForms/libs/SF_autoedit.js');
 /**
  * Javascript handler for the autoedit parser function
  *

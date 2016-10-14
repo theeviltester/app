@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/build/tasks/copy.js');
 /*!
  * Build a distribution file
  *

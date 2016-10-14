@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/polyfills/array.js');
 /**
  * Polyfills for Array methods
  *

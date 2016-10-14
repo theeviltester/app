@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.mw-jump.js');
 /**
  * JavaScript to show jump links to motor-impaired users when they are focused.
  */

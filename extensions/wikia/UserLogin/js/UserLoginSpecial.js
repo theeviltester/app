@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserLogin/js/UserLoginSpecial.js');
 $(function() {
 	var form = $('.UserLogin'),
 		formGroup = form.find('.input-group'),

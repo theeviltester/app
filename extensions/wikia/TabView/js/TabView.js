@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/TabView/js/TabView.js');
 // ********************************
 //
 // Depends on skins/oasis/js/tab.js

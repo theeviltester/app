@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/Maps/includes/ext.maps.common.js');
 /**
  * JavaScript for  the Maps extension.
  * @see http://www.mediawiki.org/wiki/Extension:Maps

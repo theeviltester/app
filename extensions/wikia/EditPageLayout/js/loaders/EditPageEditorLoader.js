@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPageLayout/js/loaders/EditPageEditorLoader.js');
 (function($, window) {
 
 	/**

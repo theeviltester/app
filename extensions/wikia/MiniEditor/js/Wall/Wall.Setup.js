@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MiniEditor/js/Wall/Wall.Setup.js');
 (function($) {
 
 // Create a namespace for the Wall

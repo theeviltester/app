@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/editing/scripts/ui/lens.js');
 
 Exhibit.LensRegistry.prototype.createLens = function(itemID, div, uiContext, editing) {
     var lensTemplate = this.getLens(itemID, uiContext);

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/ext-chromevox.js');
 ace.define('ace/ext/chromevox', ['require', 'exports', 'module' , 'ace/editor', 'ace/config'], function(require, exports, module) {
 var cvoxAce = {};
 cvoxAce.SpeechProperty;

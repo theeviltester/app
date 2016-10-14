@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/jquery.ui.tabs.js');
 /*
  * jQuery UI Tabs 1.8.17
  *

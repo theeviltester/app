@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPageLayout/js/modules/ButtonsList.js');
 (function(window){
 
 	var WE = window.WikiaEditor;

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/config/desktop.js');
 /*global define,require*/
 define('ext.wikia.adEngine.config.desktop', [
 	// regular dependencies

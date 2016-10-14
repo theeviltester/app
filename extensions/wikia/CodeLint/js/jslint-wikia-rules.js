@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CodeLint/js/jslint-wikia-rules.js');
 /**
  * This file contains Wikia specific rules for JS lint
  */

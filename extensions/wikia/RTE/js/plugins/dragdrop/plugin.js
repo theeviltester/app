@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/dragdrop/plugin.js');
 CKEDITOR.plugins.add('rte-dragdrop',
 {
 	// delay re-init of editor area when drag&drop is finished (in ms)

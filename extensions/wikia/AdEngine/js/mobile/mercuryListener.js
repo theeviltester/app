@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/mobile/mercuryListener.js');
 /*global define*/
 define('ext.wikia.adEngine.mobile.mercuryListener', [
 	'wikia.lazyqueue',

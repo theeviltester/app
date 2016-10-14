@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/mode-mushcode_high_rules.js');
 /*
  * MUSHCodeMode
  */

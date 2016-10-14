@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/dm/ve.dm.ClassAttributeNode.js');
 /*!
  * VisualEditor DataModel ClassAttribute class.
  *

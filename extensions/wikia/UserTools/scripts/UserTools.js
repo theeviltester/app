@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/UserTools/scripts/UserTools.js');
 /* global define */
 define('wikia.toolsCustomization', [
 	'wikia.window',

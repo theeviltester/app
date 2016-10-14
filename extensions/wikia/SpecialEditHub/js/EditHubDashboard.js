@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialEditHub/js/EditHubDashboard.js');
 var EditHub = function() {};
 
 EditHub.prototype = {

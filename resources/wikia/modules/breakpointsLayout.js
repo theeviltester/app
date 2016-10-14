@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/breakpointsLayout.js');
 define('wikia.breakpointsLayout',  function() {
 	'use strict';
 

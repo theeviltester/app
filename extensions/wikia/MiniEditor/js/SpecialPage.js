@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MiniEditor/js/SpecialPage.js');
 jQuery(function($) {
 
 	// New Message and Reply

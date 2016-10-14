@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/polyfills/jquery.wikia.placeholder.js');
 /**
  * @author Federico "Lox" Lucignano <federico@wikia-inc.com>
  *

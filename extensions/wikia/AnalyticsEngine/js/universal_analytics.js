@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AnalyticsEngine/js/universal_analytics.js');
 /*!
  * Google Universal Analytics
  *

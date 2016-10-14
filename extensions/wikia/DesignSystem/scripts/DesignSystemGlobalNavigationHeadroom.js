@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/DesignSystem/scripts/DesignSystemGlobalNavigationHeadroom.js');
 $(function() {
 	'use strict';
 

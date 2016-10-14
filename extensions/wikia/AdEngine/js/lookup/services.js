@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/lookup/services.js');
 /**
  * Module for getting information from "lookup" services such as Amazon Match
  *

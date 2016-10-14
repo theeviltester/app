@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/src/mediawiki.language/languages/he.js');
 /*!
  * Hebrew (עברית) language functions
  */

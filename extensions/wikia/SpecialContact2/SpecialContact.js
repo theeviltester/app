@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialContact2/SpecialContact.js');
 /**
  * Click tracking configuration for SpecialContact extension
  */

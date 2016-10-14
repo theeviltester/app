@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VKTag/js/VKTag.js');
 require(['jquery', 'wikia.loader'], function ($, loader) {
 	'use strict';
 

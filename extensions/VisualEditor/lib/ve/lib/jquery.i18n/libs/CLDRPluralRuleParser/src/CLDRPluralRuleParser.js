@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/lib/jquery.i18n/libs/CLDRPluralRuleParser/src/CLDRPluralRuleParser.js');
 /* This is cldrpluralparser 1.0, ported to MediaWiki ResourceLoader */
 
 /**

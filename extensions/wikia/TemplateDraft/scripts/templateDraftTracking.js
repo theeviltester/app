@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/TemplateDraft/scripts/templateDraftTracking.js');
 /**
  * Tracking for TemplateDraft extension
  * Module sends tracking record to google analytics and internal analytics

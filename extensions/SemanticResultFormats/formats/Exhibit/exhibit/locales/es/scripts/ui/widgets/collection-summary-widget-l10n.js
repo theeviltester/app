@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/es/scripts/ui/widgets/collection-summary-widget-l10n.js');
 /*==================================================
  *  Exhibit.CollectionSummaryWidget Spanish localization
  *==================================================

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoEmbedTool/js/VET_Loader.js');
 /* VET Loader
  *
  * @author Hyun Lim, Liz Lee

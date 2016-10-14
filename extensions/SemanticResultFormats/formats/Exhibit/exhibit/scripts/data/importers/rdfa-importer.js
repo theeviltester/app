@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/importers/rdfa-importer.js');
 /*==================================================
  *  Exhibit.RDFaImporter
  *  author: Keith Alexander (with the assistance of Johan Sundstr�m and Ben Adida)

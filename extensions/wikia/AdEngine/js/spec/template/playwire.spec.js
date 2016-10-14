@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/template/playwire.spec.js');
 /*global describe, it, expect, modules, beforeEach, spyOn*/
 describe('ext.wikia.adEngine.template.playwire', function () {
 	'use strict';

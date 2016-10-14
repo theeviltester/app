@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ui/dialogs/ve.ui.FindAndReplaceDialog.js');
 /*!
  * VisualEditor UserInterface FindAndReplaceDialog class.
  *

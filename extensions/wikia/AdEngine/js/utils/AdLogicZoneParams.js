@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/utils/AdLogicZoneParams.js');
 /*global define*/
 define('ext.wikia.adEngine.utils.adLogicZoneParams', [
 	'ext.wikia.adEngine.adContext',

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/loader.js');
 /*global define, require*/
 /**
  * Single place to call when you want to load something from server

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaHomePage/js/spec/WikiaHomePage.mocks.js');
 $.storage = {
 	get: function() {
 		return null;

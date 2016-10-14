@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/jquery.ui.button.js');
 /*
  * jQuery UI Button 1.8.17
  *

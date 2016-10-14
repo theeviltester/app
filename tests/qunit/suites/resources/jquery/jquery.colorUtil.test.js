@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/suites/resources/jquery/jquery.colorUtil.test.js');
 module( 'jquery.colorUtil', QUnit.newMwEnvironment() );
 
 test( '-- Initial check', function() {

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/WikiaAdHelper.js');
 /*global define, clearTimeout, setTimeout*/
 define('ext.wikia.adEngine.adHelper', function () {
 	'use strict';

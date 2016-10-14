@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AjaxPoll/js/AjaxPoll.js');
 var AjaxPoll = {
 	callback: function( answer ) {
 		// hide loading inicator & unblock submit button

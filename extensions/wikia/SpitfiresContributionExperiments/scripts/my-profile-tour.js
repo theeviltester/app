@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpitfiresContributionExperiments/scripts/my-profile-tour.js');
 require(['jquery', 'ext.wikia.spitfires.experiments.tracker', 'wikia.loader', 'wikia.nirvana', 'wikia.mustache', 'mw'],
 	function ($, tracker, loader, nirvana, mustache, mw) {
 		'use strict';

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/ScavengerHunt/js/scavenger-game.js');
 /*global Sprite:true */
 var ScavengerHunt = {
 	currentArticleIndex: null,

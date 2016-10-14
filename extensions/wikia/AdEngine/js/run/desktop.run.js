@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/run/desktop.run.js');
 /*global require*/
 /*jshint camelcase:false*/
 require([

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/MultiUpload/multiupload.js');
 var current;
 
 function licenseSelectorCheck() {

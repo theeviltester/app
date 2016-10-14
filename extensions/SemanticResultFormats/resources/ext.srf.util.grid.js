@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/resources/ext.srf.util.grid.js');
 /**
  * JavaScript for SRF GridView plugin
  * @see http://www.semantic-mediawiki.org/wiki/Help:Gridview

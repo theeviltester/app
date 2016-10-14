@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.effects/jquery.effects.shake.js');
 /*
  * jQuery UI Effects Shake 1.8.17
  *

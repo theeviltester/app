@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/ui/inspectors/ve.ui.MWLinkNodeInspector.js');
 /*!
  * VisualEditor UserInterface MWLinkNodeInspector class.
  *

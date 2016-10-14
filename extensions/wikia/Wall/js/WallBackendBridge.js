@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Wall/js/WallBackendBridge.js');
 /* global Wall:true, Observable */
 (function ($, mw) {
 	'use strict';

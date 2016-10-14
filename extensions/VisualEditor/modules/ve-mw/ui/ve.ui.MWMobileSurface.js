@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/ui/ve.ui.MWMobileSurface.js');
 /*!
  * VisualEditor UserInterface MediaWiki MobileSurface class.
  *

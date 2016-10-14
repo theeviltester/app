@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AbPerformanceTesting/js/FrontendDelay.js');
 /**
  * Introduce a delayed onDOMReady event to measure the impact of performance regressions
  *

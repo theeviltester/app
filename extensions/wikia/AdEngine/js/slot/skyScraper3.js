@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/slot/skyScraper3.js');
 /*global define*/
 define('ext.wikia.adEngine.slot.skyScraper3', [
 	'ext.wikia.adEngine.adContext',

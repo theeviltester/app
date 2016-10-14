@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideosModule/scripts/controllers/inContent.js');
 require([
 	'videosmodule.views.index',
 	'videosmodule.models.videos',

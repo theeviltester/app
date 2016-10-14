@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/wrappers/prebid.js');
 /*global define*/
 define('ext.wikia.adEngine.wrappers.prebid', [
 	'wikia.window'

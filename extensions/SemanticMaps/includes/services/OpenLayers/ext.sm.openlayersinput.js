@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticMaps/includes/services/OpenLayers/ext.sm.openlayersinput.js');
 /**
  * JavaScript for the OpenLayers form input in the Semantic Maps extension.
  * @see https://www.mediawiki.org/wiki/Extension:Semantic_Maps

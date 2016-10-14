@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/SpecialManageWikiaHome/js/ManageWikiaHome.js');
 $(function () {
 	'use strict';
 	var ManageWikiaHome = function () {

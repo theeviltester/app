@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/EditPreview/js/editpage.event.diff.js');
 define('editpage.event.diff', ['editpage.event.helper', 'wikia.window', 'jquery'], function (helper, win, $){
 	'use strict';
 

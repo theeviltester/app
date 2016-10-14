@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/DOMElementTweaker.spec.js');
 /*global describe, it, modules, expect, spyOn, beforeEach*/
 describe('DOMElementTweaker', function () {
 	'use strict';

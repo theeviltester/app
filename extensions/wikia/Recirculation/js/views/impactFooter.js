@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Recirculation/js/views/impactFooter.js');
 define('ext.wikia.recirculation.views.impactFooter', [
 	'jquery',
 	'wikia.window',

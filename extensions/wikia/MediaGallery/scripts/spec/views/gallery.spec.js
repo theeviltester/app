@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MediaGallery/scripts/spec/views/gallery.spec.js');
 /* global modules */
 describe('MediaGalleries gallery', function () {
 	'use strict';

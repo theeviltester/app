@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/template/skin.js');
 /*global define, require*/
 define('ext.wikia.adEngine.template.skin', [
 	'ext.wikia.adEngine.adContext',

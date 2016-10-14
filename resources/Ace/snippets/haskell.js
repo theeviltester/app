@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/Ace/snippets/haskell.js');
 ace.define('ace/snippets/haskell', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

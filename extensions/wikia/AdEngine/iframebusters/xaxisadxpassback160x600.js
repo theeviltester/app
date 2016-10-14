@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/iframebusters/xaxisadxpassback160x600.js');
 document.write("<script type=\"text\/javascript\"><!--");
 document.write("google_ad_client = \"ca-pub-7983542246824243\";");
 document.write("\/* Passback Xaxis *\/");

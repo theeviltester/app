@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./tests/qunit/suites/resources/jquery/jquery.delayedBind.test.js');
 test('jquery.delayedBind with data option', function() {
 	var $fixture = $('<div>').appendTo('#qunit-fixture'),
 		data = { magic: "beeswax" },

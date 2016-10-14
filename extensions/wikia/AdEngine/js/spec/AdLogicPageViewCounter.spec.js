@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/AdLogicPageViewCounter.spec.js');
 /*global describe, it, expect, modules, spyOn*/
 describe('AdLogicPageViewCounter', function () {
 	'use strict';

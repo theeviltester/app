@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/boilerplate/resources/ext.srf.boilerplate.simple.js');
 /**
  * JavaScript for SRF boilerplate format
  * @see http://www.semantic-mediawiki.org/wiki/Help:Boilerplate format

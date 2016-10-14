@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/ui/widgets/ve.ui.MWTocItemWidget.js');
 /*!
  * VisualEditor UserInterface MWTocItemWidget class.
  *

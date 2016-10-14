@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/ajax/loader.js');
 (function() {
     if ("SimileWidgets_styles" in window) {
         var head = document.getElementsByTagName("head")[0];

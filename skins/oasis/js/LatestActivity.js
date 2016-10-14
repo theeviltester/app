@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/oasis/js/LatestActivity.js');
 var LatestActivity = {
 	wikiaRecentActivityContainer: null,
 	init: function() {

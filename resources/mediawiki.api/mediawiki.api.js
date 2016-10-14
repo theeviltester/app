@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki.api/mediawiki.api.js');
 /* mw.Api objects represent the API of a particular MediaWiki server. */
 
 ( function( $, mw, undefined ) {

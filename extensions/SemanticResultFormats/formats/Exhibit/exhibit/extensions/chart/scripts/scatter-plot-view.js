@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/chart/scripts/scatter-plot-view.js');
 /*==================================================
  *  Exhibit.ScatterPlotView
  *==================================================

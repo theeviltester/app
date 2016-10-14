@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/jquery.ui.progressbar.js');
 /*
  * jQuery UI Progressbar 1.8.17
  *

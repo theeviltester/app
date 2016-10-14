@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/views/tabular-view.js');
 /*==================================================
  *  Exhibit.TabularView
  *==================================================

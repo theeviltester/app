@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticForms/libs/jquery.fancybox.js');
 /*
  * FancyBox - jQuery Plugin
  * Simple and fancy lightbox alternative

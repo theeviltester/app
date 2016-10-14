@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Blogs/js/BlogsPager.js');
 if (!window.blogInitialized) {
 	window.blogInitialized = true;
 

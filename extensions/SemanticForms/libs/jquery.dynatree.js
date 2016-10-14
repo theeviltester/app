@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticForms/libs/jquery.dynatree.js');
 /*************************************************************************
 	jquery.dynatree.js
 	Dynamic tree view control, with support for lazy loading of branches.

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/modules/ve-mw/tests/dm/ve.dm.Transaction.test.js');
 /*!
  * VisualEditor DataModel MediaWiki-specific Transaction tests.
  *

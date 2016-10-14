@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/SmartBanner/smartbanner.js');
 /**
  * Smart Banner by Jakub Olek
  *

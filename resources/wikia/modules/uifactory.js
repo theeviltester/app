@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/uifactory.js');
 /**
  * JS version of Factory.class.php - part of UI repo API for rendering components
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/cookies.js');
 /**
  * Pure JS implementation of a cookie setter/getter to use in generic components
  * that shouldn't rely on jQuery's cookie plugin (e.g. AdEngine, A)

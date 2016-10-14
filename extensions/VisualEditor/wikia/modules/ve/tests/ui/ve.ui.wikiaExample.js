@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/wikia/modules/ve/tests/ui/ve.ui.wikiaExample.js');
 /*!
  * VisualEditor UesrInterface Wikia example data sets.
  */

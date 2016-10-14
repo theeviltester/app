@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/stickyElement.js');
 /**
  * Module wikia.stickyElement
  *

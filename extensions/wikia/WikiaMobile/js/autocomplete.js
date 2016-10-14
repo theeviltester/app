@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/WikiaMobile/js/autocomplete.js');
 define( 'autocomplete', ['jquery'], function ( $ ) {
 	'use strict';
 

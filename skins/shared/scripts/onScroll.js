@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./skins/shared/scripts/onScroll.js');
 /**
  * Interface for applying handlers to the single scroll event on window
  */

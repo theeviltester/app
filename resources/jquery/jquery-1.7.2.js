@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery-1.7.2.js');
 /*!
  * jQuery JavaScript Library v1.7.2
  * http://jquery.com/

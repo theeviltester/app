@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/dm/nodes/ve.dm.AlienNode.js');
 /*!
  * VisualEditor DataModel AlienNode, AlienBlockNode and AlienInlineNode classes.
  *

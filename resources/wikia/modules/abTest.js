@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/abTest.js');
 /**
  * AMD module exporting Wikia.AbTest object
  */

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/dom.spec.js');
 /* global describe, modules, expect, it */
 describe('wikia.dom', function () {
 	'use strict';

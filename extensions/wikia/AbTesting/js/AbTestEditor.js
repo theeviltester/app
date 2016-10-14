@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AbTesting/js/AbTestEditor.js');
 (function(window, $, undefined) {
 	var mw = window.mw,
 		templates = {

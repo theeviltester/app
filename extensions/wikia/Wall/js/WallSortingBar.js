@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Wall/js/WallSortingBar.js');
 (function(window, $) {
 
 Wall.SortingBar = $.createClass(Observable, {

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/ads/ad15.js');
 document.write('<div id=\'btrll_loader_div\'></div><img width="0" height="0" src="http://altfarm.mediaplex.com/ad/tr/14559-122713-28895-7?mpt=1303973619.859"/>\n');
 
 var btrll_flash = {

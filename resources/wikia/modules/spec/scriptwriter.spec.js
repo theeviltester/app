@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/spec/scriptwriter.spec.js');
 /*global describe, expect, it, jasmine, modules, spyOn*/
 describe('wikia.scriptwriter', function () {
 	'use strict';

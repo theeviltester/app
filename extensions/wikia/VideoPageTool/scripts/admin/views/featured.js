@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/admin/views/featured.js');
 /**
  * View file for the featured video form
  * @extends 'videopageadmin.views.editbase'

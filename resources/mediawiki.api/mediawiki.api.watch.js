@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki.api/mediawiki.api.watch.js');
 /**
  * Additional mw.Api methods to assist with (un)watching wiki pages.
  * @since 1.19

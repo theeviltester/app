@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/importers/json-importer.js');
 Exhibit.jsonImporter = { };
 
 Exhibit.importers["application/general-json"] = Exhibit.jsonImporter;

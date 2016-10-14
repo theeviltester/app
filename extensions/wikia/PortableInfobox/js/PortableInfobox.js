@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/PortableInfobox/js/PortableInfobox.js');
 (function (window, $) {
 	'use strict';
 

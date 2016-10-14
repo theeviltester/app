@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/RTE.preferences.js');
 $(function() {
 	$().log('setting up user preferences', 'RTE');
 

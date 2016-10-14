@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/wikia/modules/tracker.js');
 /**
  * Event tracking for GA and our internal datawarehouse.
  * This file depends on "resources/modules/tracker.stub.js" and serves

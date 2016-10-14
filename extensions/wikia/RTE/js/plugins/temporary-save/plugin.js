@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/temporary-save/plugin.js');
 CKEDITOR.plugins.add('rte-temporary-save',
 {
 	init: function(editor) {

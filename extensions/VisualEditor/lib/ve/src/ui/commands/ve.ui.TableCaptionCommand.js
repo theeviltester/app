@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ui/commands/ve.ui.TableCaptionCommand.js');
 /*!
  * VisualEditor UserInterface TableCaptionCommand class.
  *

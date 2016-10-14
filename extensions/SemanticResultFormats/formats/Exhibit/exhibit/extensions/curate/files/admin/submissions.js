@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/curate/files/admin/submissions.js');
 [
     {
         "sub_id": "102c7417fe54459081a7d1957c2ff126", 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/lookup/rubicon/rubiconFastlane.js');
 /*global define*/
 define('ext.wikia.adEngine.lookup.rubicon.rubiconFastlane', [
 	'ext.wikia.adEngine.adContext',

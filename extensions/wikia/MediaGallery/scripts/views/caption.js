@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/MediaGallery/scripts/views/caption.js');
 define('mediaGallery.views.caption', [], function () {
 	'use strict';
 

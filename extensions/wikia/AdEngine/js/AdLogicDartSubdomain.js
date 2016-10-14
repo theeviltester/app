@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/AdLogicDartSubdomain.js');
 /*global define*/
 define('ext.wikia.adEngine.adLogicDartSubdomain', ['wikia.geo'], function (Geo) {
 	'use strict';

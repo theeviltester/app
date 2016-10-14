@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/VideoPageTool/scripts/spec/autocomplete.spec.js');
 /*global describe, it, expect, afterEach, beforeEach, modules */
 describe('VideoPageTool: Admin AutocompleteView ( Backbone ):', function () {
 	'use strict';

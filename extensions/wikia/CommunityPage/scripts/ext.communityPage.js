@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/CommunityPage/scripts/ext.communityPage.js');
 require([
 	'jquery',
 	'wikia.ui.factory',

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/mediawiki.api/mediawiki.api.titleblacklist.js');
 /**
  * Additional mw.Api methods to assist with API calls to the API module of the TitleBlacklist extension.
  */

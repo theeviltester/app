@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/wikia/modules/ve/tests/ui/ve.ui.WikiaInfoboxInsertDialog.test.js');
 /*!
  * VisualEditor UserInterface WikiaInfoboxInsertDialog tests.
  */

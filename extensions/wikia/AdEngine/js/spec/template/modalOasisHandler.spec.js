@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/spec/template/modalOasisHandler.spec.js');
 /*global describe, it, expect, modules, spyOn, beforeEach*/
 describe('ext.wikia.adEngine.template.modalOasisHandler', function () {
 	'use strict';

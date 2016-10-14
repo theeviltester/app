@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Recirculation/js/spec/utils.spec.js');
 describe('ext.wikia.recirculation.utils', function () {
 	'use strict';
 

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/GlobalNavigation/scripts/GlobalNavigationTracking.js');
 $(function ($) {
 	'use strict';
 	var searchSuggestionsShowed, track, $globalNavigation, $globalNavigationSearch;

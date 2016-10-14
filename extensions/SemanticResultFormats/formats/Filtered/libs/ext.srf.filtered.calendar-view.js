@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/SemanticResultFormats/formats/Filtered/libs/ext.srf.filtered.calendar-view.js');
 /**
  * File holding the calendar-view plugin
  *

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.arrowSteps.js');
 /**
  * jQuery arrowSteps plugin
  * Copyright Neil Kandalgaonkar, 2010

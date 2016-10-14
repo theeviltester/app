@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery.ui/i18n/jquery.ui.datepicker-pt.js');
 /* Portuguese initialisation for the jQuery UI date picker plugin. */
 jQuery(function($){
 	$.datepicker.regional['pt'] = {

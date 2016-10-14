@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/lib/ve/src/ui/widgets/ve.ui.ContextOptionWidget.js');
 /*!
  * VisualEditor Context Item widget class.
  *

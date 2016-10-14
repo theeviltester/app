@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./resources/jquery/jquery.suggestions.js');
 /**
  * This plugin provides a generic way to add suggestions to a text box.
  *

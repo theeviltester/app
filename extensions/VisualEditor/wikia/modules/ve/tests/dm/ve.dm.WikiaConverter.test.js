@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/wikia/modules/ve/tests/dm/ve.dm.WikiaConverter.test.js');
 /*!
  * VisualEditor DataModel Wikia Converter tests.
  */

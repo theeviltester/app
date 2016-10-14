@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/AdEngine/js/context/uapContext.js');
 /*global define*/
 define('ext.wikia.adEngine.context.uapContext', [
 	'ext.wikia.adEngine.utils.eventDispatcher',

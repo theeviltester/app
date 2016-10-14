@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/VisualEditor/Gruntfile.js');
 /*!
  * Grunt file
  *

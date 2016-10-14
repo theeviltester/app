@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Wall/js/MessageTopic.js');
 (function($) {
 	var MessageTopic = function(el, options) {
 		this.el = el;

@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/RTE/js/plugins/entities/plugin.js');
 CKEDITOR.plugins.add('rte-entities',
 {
 	insideEntitySpan: false,

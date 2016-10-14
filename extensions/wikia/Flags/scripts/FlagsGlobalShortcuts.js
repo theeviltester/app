@@ -1,3 +1,4 @@
+window.rhfs=window.rhfs||[];rhfs.push('./extensions/wikia/Flags/scripts/FlagsGlobalShortcuts.js');
 /**
  * Flags module for adding shortcut key to GlobalShortcuts extension
  */

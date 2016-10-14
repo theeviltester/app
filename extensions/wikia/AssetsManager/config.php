@@ -208,16 +208,16 @@ $config['adengine2_tracking_js'] = [
 	'type' => AssetsManager::TYPE_JS,
 	'skin' => [ 'oasis', 'wikiamobile' ],
 	'assets' => [
-		'//extensions/wikia/AdEngine/js/AdLogicPageParams.js',
-		'//extensions/wikia/AdEngine/js/AdLogicPageViewCounter.js',
-		'//extensions/wikia/AdEngine/js/AdTracker.js',
-		'//extensions/wikia/AdEngine/js/utils/sampler.js',
-		'//extensions/wikia/AdEngine/js/context/adContext.js',
-		'//extensions/wikia/AdEngine/js/lookup/lookupFactory.js',
-		'//extensions/wikia/AdEngine/js/slot/adSlot.js',
-		'//extensions/wikia/AdEngine/js/utils/AdLogicZoneParams.js',
-		'//extensions/wikia/ARecoveryEngine/js/helper.js',
-		'//resources/wikia/modules/krux.js'
+//		'//extensions/wikia/AdEngine/js/AdLogicPageParams.js',
+//		'//extensions/wikia/AdEngine/js/AdLogicPageViewCounter.js',
+//		'//extensions/wikia/AdEngine/js/AdTracker.js',
+//		'//extensions/wikia/AdEngine/js/utils/sampler.js',
+//		'//extensions/wikia/AdEngine/js/context/adContext.js',
+//		'//extensions/wikia/AdEngine/js/lookup/lookupFactory.js',
+//		'//extensions/wikia/AdEngine/js/slot/adSlot.js',
+//		'//extensions/wikia/AdEngine/js/utils/AdLogicZoneParams.js',
+//		'//extensions/wikia/ARecoveryEngine/js/helper.js',
+//		'//resources/wikia/modules/krux.js'
 	],
 ];
 
@@ -311,7 +311,7 @@ $config['oasis_noads_extensions_js'] = [
 $config['oasis_blocking'] = [
 	'type' => AssetsManager::TYPE_JS,
 	'assets' => [
-		'//resources/wikia/modules/lazyqueue.js',
+//		'//resources/wikia/modules/lazyqueue.js',
 	],
 ];
 
@@ -319,7 +319,7 @@ $config['abtesting'] = [
 	'type' => AssetsManager::TYPE_JS,
 	'skin' => [ 'oasis', 'wikiamobile' ],
 	'assets' => [
-		'//extensions/wikia/AbTesting/js/AbTest.js',
+//		'//extensions/wikia/AbTesting/js/AbTest.js',
 	],
 ];
 
@@ -1793,7 +1793,7 @@ $config['universal_analytics_js'] = [
 	'type' => AssetsManager::TYPE_JS,
 	'skin' => [ 'wikiamobile' ],
 	'assets' => [
-		'//extensions/wikia/AnalyticsEngine/js/universal_analytics.js',
+//		'//extensions/wikia/AnalyticsEngine/js/universal_analytics.js',
 	],
 ];
 

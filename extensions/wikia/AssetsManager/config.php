@@ -4,9 +4,48 @@ $config = [];
 
 /********* Shared libraries and assets ********/
 
+$config['mediawiki_core_js'] = [
+	'type' => AssetsManager::TYPE_JS,
+	'assets' => [
+		'//extensions/wikia/InstantGlobals/js/instantGlobalsOverride.js',
+		'//resources/startup.js',
+		'//resources/jquery/jquery-1.8.2.js',
+		'//resources/mediawiki/mediawiki.js',
+		'//resources/jquery/jquery.byteLength.js',
+		'//resources/jquery/jquery.checkboxShiftClick.js',
+		'//resources/jquery/jquery.client.js',
+		'//resources/jquery/jquery.cookie.js',
+		'//resources/jquery/jquery.makeCollapsible.js',
+		'//resources/jquery/jquery.messageBox.js',
+		'//resources/jquery/jquery.mw-jump.js',
+		'//resources/jquery/jquery.mwExtension.js',
+		'//resources/mediawiki/mediawiki.user.js',
+		'//resources/mediawiki/mediawiki.Title.js',
+		'//resources/src/mediawiki.language/mediawiki.language.init.js',
+		'//resources/src/mediawiki.libs/CLDRPluralRuleParser.js',
+		'//resources/src/mediawiki.language/mediawiki.cldr.js',
+		'//resources/mediawiki.page/mediawiki.page.ready.js',
+		'//resources/mediawiki.page/mediawiki.page.startup.js',
+		'//resources/wikia/libraries/underscore/underscore-min.js',
+		'//resources/wikia/modules/importScript.js',
+		'//resources/wikia/modules/importScriptHelper.js',
+		'//skins/common/wikibits.js',
+		'//resources/wikia/wikia.wikibits.js',
+		'//resources/wikia/modules/mw.js',
+		'//resources/wikia/modules/throbber.js',
+		'//extensions/VisualEditor/lib/ve/src/ve.js',
+		'//extensions/VisualEditor/lib/ve/src/ve.track.js',
+		'//extensions/VisualEditor/wikia/modules/ve/init/ve.init.wikia.ViewPageTarget.init.js',
+		'//resources/src/mediawiki.language/mediawiki.language.js',
+		'//resources/src/mediawiki.language/mediawiki.language.numbers.js',
+		'//resources/src/mediawiki/mediawiki.jqueryMsg.js',
+	],
+];
+
 $config['oasis_shared_core_js'] = [
 	'type' => AssetsManager::TYPE_JS,
 	'assets' => [
+		'#group_mediawiki_core_js',
 		'#group_oasis_wikia_js',
 		'//resources/wikia/libraries/sloth/sloth.js',
 		'//resources/wikia/libraries/mustache/mustache.js',

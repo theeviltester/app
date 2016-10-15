@@ -393,7 +393,7 @@ class OasisController extends WikiaController {
 		// generate direct script tags
 		foreach ($assets as $url) {
 			$url = htmlspecialchars( $url );
-			$jsLoader .= "<script src=\"{$url}\"></script>\n";
+			$jsLoader .= "<script async src=\"{$url}\"></script>\n";
 		}
 
 		$tpl = $this->app->getSkinTemplateObj();
@@ -404,6 +404,7 @@ class OasisController extends WikiaController {
 		$remove[ ] = $this->topScripts;
 		array_walk( $remove, 'trim' );
 		$headScripts = str_replace( $remove, '', $tpl->data[ 'headscripts' ] );
+		$headScripts = '';
 
 		$this->jsFiles = $headScripts . $jsLoader . $this->jsFiles;
 

@@ -19,7 +19,6 @@ jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Bucky/js/bucky_init.js"]=569;
 		var config = $.extend({}, context.wgWeppyConfig, {
 			'context': context.wgTransactionContext
 		});
-		Weppy.setOptions(config);
 		$(context).on('load', function () {
 			setTimeout(function () {
 				Weppy.sendPagePerformance();

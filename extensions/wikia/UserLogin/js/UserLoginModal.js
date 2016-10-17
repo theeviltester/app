@@ -9,7 +9,6 @@ jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/UserLoginModal.js"
 		uiFactory: false,
 		packagesData: false,
 		$modal: false,
-		bucky: window.Bucky('UserLoginModal'),
 
 		initModal: function (options) {
 			var self = this;

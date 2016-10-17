@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/mediawiki.language.months.js"]=1744;
+
 /*
  * Transfer of month names from messages into mw.language.
  *

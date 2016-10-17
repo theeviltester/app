@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki/mediawiki.js"]=53981;
+
 /*
  * Core MediaWiki JavaScript Library
  */

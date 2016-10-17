@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/mode-curly.js"]=91877;
+
 /* ***** BEGIN LICENSE BLOCK *****
  * Distributed under the BSD license:
  *

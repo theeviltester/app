@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/mode-toml.js"]=5533;
+
 /* ***** BEGIN LICENSE BLOCK *****
  * Distributed under the BSD license:
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/template/floatingRail.js"]=2762;
+
 /*global define*/
 define('ext.wikia.adEngine.template.floatingRail', [
 	'ext.wikia.adEngine.adContext',

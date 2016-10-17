@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/BannerNotifications/js/BannerNotifications.js"]=9258;
+
 /* global require, define*/
 /*
  * Handles the color-coded notification messages that generally appear

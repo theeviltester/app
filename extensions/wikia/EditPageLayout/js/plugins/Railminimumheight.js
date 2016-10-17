@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/plugins/Railminimumheight.js"]=1222;
+
 (function(window,$){
 
 	var WE = window.WikiaEditor = window.WikiaEditor || (new Observable());

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/ckeditor/_source/plugins/specialchar/lang/en.js"]=3099;
+
 
 CKEDITOR.plugins.setLang( 'specialchar', 'en',
 {

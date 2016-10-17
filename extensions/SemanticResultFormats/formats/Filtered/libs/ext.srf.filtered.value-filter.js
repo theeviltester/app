@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Filtered/libs/ext.srf.filtered.value-filter.js"]=7933;
+
 /**
  * File holding the value-filter plugin
  *

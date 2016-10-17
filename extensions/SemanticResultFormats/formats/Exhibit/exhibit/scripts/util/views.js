@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/util/views.js"]=4157;
+
 /*==================================================
  *  Exhibit.ViewUtilities
  *

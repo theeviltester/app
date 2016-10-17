@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/fonts/TeX/Size1/Regular/Main.js"]=3746;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/fonts/TeX/Size1/Regular/Main.js

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RecentChanges/js/RecentChanges.js"]=1228;
+
 jQuery(function($) {
 	//Used by AjaxRC
 	window.Wikia = window.Wikia || {};

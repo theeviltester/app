@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/freebase/scripts/freebase-importer.js"]=2212;
+
 /*==================================================
  *  Exhibit.FreebaseImporter
  *==================================================

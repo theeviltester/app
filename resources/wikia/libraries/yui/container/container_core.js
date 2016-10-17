@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/yui/container/container_core.js"]=145655;
+
 /*
 Copyright (c) 2008, Yahoo! Inc. All rights reserved.
 Code licensed under the BSD License:

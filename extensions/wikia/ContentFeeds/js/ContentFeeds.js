@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ContentFeeds/js/ContentFeeds.js"]=1644;
+
 var ContentFeeds = {
 	linkUrlRegExp: /((ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?)/gi,
 	linkUserRegExp: /[\@]+([A-Za-z0-9-_]+)/gi,

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/WikiaAdHelper.js"]=628;
+
 /*global define, clearTimeout, setTimeout*/
 define('ext.wikia.adEngine.adHelper', function () {
 	'use strict';

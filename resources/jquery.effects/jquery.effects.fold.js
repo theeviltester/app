@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.effects/jquery.effects.fold.js"]=1906;
+
 /*
  * jQuery UI Effects Fold 1.8.17
  *

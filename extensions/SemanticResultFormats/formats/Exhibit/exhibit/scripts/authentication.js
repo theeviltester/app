@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/authentication.js"]=2257;
+
 Exhibit.Authentication = {};
 
 // global flag for whether exhibit is authenticated

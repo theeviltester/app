@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/ext-statusbar.js"]=1512;
+
 ace.define('ace/ext/statusbar', ['require', 'exports', 'module' , 'ace/lib/dom', 'ace/lib/lang'], function(require, exports, module) {
 var dom = require("ace/lib/dom");
 var lang = require("ace/lib/lang");

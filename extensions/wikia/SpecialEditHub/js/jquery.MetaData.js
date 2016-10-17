@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialEditHub/js/jquery.MetaData.js"]=3928;
+
 /*
  * Metadata - jQuery plugin for parsing metadata from elements
  *

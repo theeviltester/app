@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/QuickTools/modules/ext.quickTools.js"]=4571;
+
 /**
  * Module to execute quick tool actions from a popup menu
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/scripts/overview-painter.js"]=8463;
+
 /*==================================================
  *  Overview Event Painter
  *==================================================

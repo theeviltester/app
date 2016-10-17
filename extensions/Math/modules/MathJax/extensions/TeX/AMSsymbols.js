@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/extensions/TeX/AMSsymbols.js"]=15045;
+
 /*************************************************************
  *
  *  MathJax/extensions/TeX/AMSsymbols.js

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/scroll.wikiamobile.js"]=7837;
+
 /*global getComputedStyle, WebKitCSSMatrix */
 
 /* !

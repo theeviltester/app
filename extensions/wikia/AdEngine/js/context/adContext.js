@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/context/adContext.js"]=6203;
+
 /*global define*/
 /**
  * The AMD module to hold all the context needed for the client-side scripts to run.

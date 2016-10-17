@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/tools/ve.ui.MWLinkInspectorTool.js"]=1084;
+
 /*!
  * VisualEditor UserInterface MediaWiki LinkInspectorTool classes.
  *

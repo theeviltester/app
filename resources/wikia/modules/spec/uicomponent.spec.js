@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/uicomponent.spec.js"]=4003;
+
 describe('UIComponent', function () {
 	'use strict';
 

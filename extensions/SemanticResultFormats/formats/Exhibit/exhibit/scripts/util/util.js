@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/util/util.js"]=2811;
+
 /*==================================================
  *  Exhibit Utility Functions
  *==================================================

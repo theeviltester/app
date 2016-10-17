@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/worker-coffee.js"]=339321;
+
 "no use strict";
 ;(function(window) {
 if (typeof window.window != "undefined" && window.document) {

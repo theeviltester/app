@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/3rdparty/LyricWiki/LyricFind/js/spec/tracker.spec.js"]=893;
+
 describe("LyricFind.Tracker", function () {
 	'use strict';
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/widgets/ve.ui.WikiaDropTargetWidget.js"]=2560;
+
 /*!
  * VisualEditor UserInterface WikiaMediaOptionWidget class.
  *

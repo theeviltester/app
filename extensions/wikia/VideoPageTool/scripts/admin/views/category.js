@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/admin/views/category.js"]=1536;
+
 /**
  * View file for the category (aka latest videos) form
  * @extends 'videopageadmin.views.editbase'

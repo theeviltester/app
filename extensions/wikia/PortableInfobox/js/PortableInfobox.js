@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/PortableInfobox/js/PortableInfobox.js"]=1214;
+
 (function (window, $) {
 	'use strict';
 

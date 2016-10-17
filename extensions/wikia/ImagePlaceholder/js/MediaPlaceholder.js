@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ImagePlaceholder/js/MediaPlaceholder.js"]=3864;
+
 /*
  * @author Liz Lee
  *

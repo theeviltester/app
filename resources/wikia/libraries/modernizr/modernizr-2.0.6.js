@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/modernizr/modernizr-2.0.6.js"]=43117;
+
 /*!
  * Modernizr v2.0.6
  * http://www.modernizr.com

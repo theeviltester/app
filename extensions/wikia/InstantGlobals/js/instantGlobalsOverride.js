@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/InstantGlobals/js/instantGlobalsOverride.js"]=509;
+
 /**
  * Method for overriding boolean InstantGlobals
  * based on querystring params

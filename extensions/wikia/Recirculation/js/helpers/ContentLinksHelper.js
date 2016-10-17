@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/helpers/ContentLinksHelper.js"]=2875;
+
 define('ext.wikia.recirculation.helpers.contentLinks', [
 	'jquery',
 	'wikia.window',

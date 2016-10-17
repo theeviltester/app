@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/slot/revcontentSlots.js"]=1314;
+
 /*global define*/
 define('ext.wikia.adEngine.slot.revcontentSlots', [
 	'ext.wikia.aRecoveryEngine.recovery.helper',

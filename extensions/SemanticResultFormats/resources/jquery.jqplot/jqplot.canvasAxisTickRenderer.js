@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.canvasAxisTickRenderer.js"]=9604;
+
 /**
  * jqPlot
  * Pure JavaScript plotting plugin using jQuery

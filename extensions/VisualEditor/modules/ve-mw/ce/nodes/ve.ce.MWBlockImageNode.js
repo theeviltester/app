@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ce/nodes/ve.ce.MWBlockImageNode.js"]=8793;
+
 /*!
  * VisualEditor ContentEditable MWBlockImageNode class.
  *

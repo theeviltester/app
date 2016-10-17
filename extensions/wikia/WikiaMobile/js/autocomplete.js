@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/autocomplete.js"]=3130;
+
 define( 'autocomplete', ['jquery'], function ( $ ) {
 	'use strict';
 

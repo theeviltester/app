@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/fonts/STIX/SizeFiveSym/Regular/All.js"]=2613;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/fonts/STIX/SizeFiveSym/Regular/All.js

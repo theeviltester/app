@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.localize.js"]=2461;
+
 /**
  * Simple Placeholder-based Localization
  *

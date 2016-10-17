@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticForms/libs/ext.sf.select2.combobox.js"]=9723;
+
 /*
  * ext.sf.select2.comboboxjs
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/ext.srf.util.grid.js"]=6645;
+
 /**
  * JavaScript for SRF GridView plugin
  * @see http://www.semantic-mediawiki.org/wiki/Help:Gridview

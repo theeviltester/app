@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/PortableInfoboxBuilder/js/PortableInfoboxBuilder.js"]=408;
+
 'use strict';
 
 require(['ponto', 'jquery'], function (ponto, $) {

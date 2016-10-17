@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.page/mediawiki.page.ready.js"]=1094;
+
 /* wikia change begin - modified patch from mw 1.23 (UC-68) */
 ( function ( mw ) {
 	'use strict';

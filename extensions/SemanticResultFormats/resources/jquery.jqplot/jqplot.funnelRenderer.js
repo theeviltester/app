@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.funnelRenderer.js"]=39777;
+
 /**
  * jqPlot
  * Pure JavaScript plotting plugin using jQuery

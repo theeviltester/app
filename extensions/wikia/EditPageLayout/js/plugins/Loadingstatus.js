@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/plugins/Loadingstatus.js"]=2106;
+
 (function(window, $) {
 	var WE = window.WikiaEditor = window.WikiaEditor || (new Observable());
 

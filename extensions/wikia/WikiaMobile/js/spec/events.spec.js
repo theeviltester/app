@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/events.spec.js"]=973;
+
 describe("Event module", function() {
 
 	it("should init with touch events", function() {

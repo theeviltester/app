@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/fonts/STIX/General/Bold/LatinExtendedA.js"]=10722;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/fonts/STIX/General/Bold/LatinExtendedA.js

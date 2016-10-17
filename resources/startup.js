@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/startup.js"]=906;
+
 /**
  * This script provides a function which is run to evaluate whether or not to
  * continue loading the jquery and mediawiki modules. This code should work on

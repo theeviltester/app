@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoHandlers/js/handlers/Anyclip.js"]=673;
+
 define('wikia.videohandler.anyclip', ['wikia.window'], function Anyclip(window) {
 	'use strict';
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/theme-merbivore.js"]=4194;
+
 /* ***** BEGIN LICENSE BLOCK *****
  * Distributed under the BSD license:
  *

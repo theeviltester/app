@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Maps/includes/services/GoogleMaps3/gm3-util-library/markerwithlabel.js"]=24283;
+
 /**
  * @name MarkerWithLabel for V3
  * @version 1.1.5 [July 11, 2011]

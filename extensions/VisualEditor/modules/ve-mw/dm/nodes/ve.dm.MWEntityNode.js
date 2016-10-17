@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/nodes/ve.dm.MWEntityNode.js"]=1311;
+
 /*!
  * VisualEditor DataModel MWEntityNode class.
  *

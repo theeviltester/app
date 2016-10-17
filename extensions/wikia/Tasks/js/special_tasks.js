@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Tasks/js/special_tasks.js"]=3791;
+
 require(['jquery', 'wikia.nirvana'], function($, nirvana) {
 	$(document).ready(function() {
 		var

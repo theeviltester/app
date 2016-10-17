@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/metaitems/ve.dm.MWDefaultSortMetaItem.js"]=1464;
+
 /*!
  * VisualEditor DataModel MWDefaultSortMetaItem class.
  *

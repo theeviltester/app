@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/es/scripts/ui/lens-l10n.js"]=212;
+
 /*==================================================
  *  Exhibit.Lens Spanish localization
  *==================================================

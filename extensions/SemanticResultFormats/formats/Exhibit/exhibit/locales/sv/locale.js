@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/sv/locale.js"]=1461;
+
 /*==================================================
  *  Swedish localization
  *

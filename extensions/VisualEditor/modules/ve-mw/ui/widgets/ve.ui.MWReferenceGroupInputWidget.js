@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/widgets/ve.ui.MWReferenceGroupInputWidget.js"]=1736;
+
 /*!
  * VisualEditor UserInterface MWReferenceGroupInput class.
  *

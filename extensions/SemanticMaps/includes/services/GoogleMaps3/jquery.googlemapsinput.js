@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticMaps/includes/services/GoogleMaps3/jquery.googlemapsinput.js"]=1882;
+
 /**
  * JavaScript for the Google Maps v3 form input of the Semantic Maps extension.
  * @see http://www.mediawiki.org/wiki/Extension:Semantic_Maps

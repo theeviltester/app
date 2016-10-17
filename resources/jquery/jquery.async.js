@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.async.js"]=1829;
+
 /*
  * jQuery Asynchronous Plugin 1.0
  *

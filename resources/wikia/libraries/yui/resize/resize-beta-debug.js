@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/yui/resize/resize-beta-debug.js"]=63581;
+
 /*
 Copyright (c) 2008, Yahoo! Inc. All rights reserved.
 Code licensed under the BSD License:

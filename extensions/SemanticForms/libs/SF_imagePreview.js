@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticForms/libs/SF_imagePreview.js"]=1486;
+
 /**
  * JavaScript for the Semantic Forms MediaWiki extension.
  *

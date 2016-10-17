@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/ext/geochrono/scripts/l10n/en/labellers.js"]=531;
+
 /*==================================================
  *  Localization of Geochrono Labeller
  *==================================================

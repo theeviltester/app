@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.validate.js"]=37326;
+
 /**
  * jQuery Validation Plugin 1.8.1
  *

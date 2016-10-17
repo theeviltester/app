@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/pages/ve.ui.MWLanguagesPage.js"]=5010;
+
 /*!
  * VisualEditor user interface MWLanguagesPage class.
  *

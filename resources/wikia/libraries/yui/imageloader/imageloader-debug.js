@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/yui/imageloader/imageloader-debug.js"]=16759;
+
 /*
 Copyright (c) 2008, Yahoo! Inc. All rights reserved.
 Code licensed under the BSD License:

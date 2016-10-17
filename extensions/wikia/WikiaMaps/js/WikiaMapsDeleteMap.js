@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/js/WikiaMapsDeleteMap.js"]=2533;
+
 define(
 	'wikia.maps.deleteMap',
 	[

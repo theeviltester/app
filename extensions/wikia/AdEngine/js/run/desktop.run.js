@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/run/desktop.run.js"]=3903;
+
 /*global require*/
 /*jshint camelcase:false*/
 require([

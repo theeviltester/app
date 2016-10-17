@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/html_completions.js"]=185;
+
 ace.define('ace/snippets/html_completions', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

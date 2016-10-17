@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/tagcloud/resources/ext.srf.tagcloud.wordcloud.js"]=3263;
+
 /**
  * JavaScript for SRF wordcloud widget based on d3 and d3.layout.cloud.js
  * @see http://www.semantic-mediawiki.org/wiki/Help:Tagcloud format

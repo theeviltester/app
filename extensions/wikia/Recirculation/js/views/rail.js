@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/views/rail.js"]=1265;
+
 define('ext.wikia.recirculation.views.rail', [
 	'jquery',
 	'wikia.window',

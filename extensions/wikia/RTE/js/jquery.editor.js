@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/jquery.editor.js"]=907;
+
 // get meta data from given node
 jQuery.fn.getData = function() {
 	var json = this.attr('data-rte-meta');

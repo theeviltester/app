@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/scripts/labellers.js"]=3103;
+
 /*==================================================
  *  Gregorian Date Labeller
  *==================================================

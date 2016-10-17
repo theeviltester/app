@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/feature-detects/overflow.wikiamobile.js"]=2774;
+
 /**
  * The following attempts to determine whether the browser has native overflow support
  * so we can enable it but not polyfill

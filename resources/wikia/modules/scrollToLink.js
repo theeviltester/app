@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/scrollToLink.js"]=1696;
+
 /*
  * @define wikia.scrollToLink
  * module used to handle links inside the article (eg. #link)

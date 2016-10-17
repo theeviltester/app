@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/InteractiveMaps/ads.js"]=1352;
+
 /*global window, define, require, document*/
 /*jshint camelcase:false*/
 var ads = (function (window, document) {

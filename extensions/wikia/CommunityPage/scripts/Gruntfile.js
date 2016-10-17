@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CommunityPage/scripts/Gruntfile.js"]=644;
+
 /* jshint ignore: start */
 module.exports = function (grunt) {
 	'use strict';

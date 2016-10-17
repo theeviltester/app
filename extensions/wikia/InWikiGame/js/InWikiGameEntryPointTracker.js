@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/InWikiGame/js/InWikiGameEntryPointTracker.js"]=974;
+
 var InWikiGameEntryPointTracker = {
 	ENTRY_POINT_STORAGE_KEY: 'IN_WIKI_GAME_ENTRY_POINT',
 	init: function() {

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/browserDetect.js"]=1676;
+
 define('wikia.browserDetect', ['wikia.window'], function (win) {
 	'use strict';
 

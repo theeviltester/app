@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/feature-detects/positionfixed.wikiamobile.js"]=1548;
+
 /**
  * Position fixed availability for mobile platforms
  * @see https://github.com/jquery/jquery-mobile/blob/master/js/jquery.mobile.fixedToolbar.js

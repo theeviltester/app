@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/languages/he.js"]=836;
+
 /*!
  * Hebrew (עברית) language functions
  */

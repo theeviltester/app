@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/fonts/TeX/SansSerif/Regular/BasicLatin.js"]=6237;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/fonts/TeX/SansSerif/Regular/BasicLatin.js

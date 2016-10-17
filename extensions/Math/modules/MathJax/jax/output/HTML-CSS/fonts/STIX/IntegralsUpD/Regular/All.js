@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/fonts/STIX/IntegralsUpD/Regular/All.js"]=2797;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/fonts/STIX/IntegralsUpD/Regular/All.js

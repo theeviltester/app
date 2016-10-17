@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ApiDocs/js/doc.js"]=5573;
+
 $(function() {
 
 	// Helper function for vertically aligning DOM elements

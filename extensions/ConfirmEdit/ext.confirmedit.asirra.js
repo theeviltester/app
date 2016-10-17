@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/ConfirmEdit/ext.confirmedit.asirra.js"]=1696;
+
 /*======================================================================*\
 || #################################################################### ||
 || # Asirra module for ConfirmEdit by Bachsau                         # ||

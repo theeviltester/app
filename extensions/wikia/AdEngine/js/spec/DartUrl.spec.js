@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/DartUrl.spec.js"]=6337;
+
 describe('DartUrl', function(){
 	it('constructor', function() {
 		var domain = 'example.com',

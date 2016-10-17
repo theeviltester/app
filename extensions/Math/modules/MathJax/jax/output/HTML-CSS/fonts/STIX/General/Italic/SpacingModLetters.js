@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/fonts/STIX/General/Italic/SpacingModLetters.js"]=2779;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/fonts/STIX/General/Italic/SpacingModLetters.js

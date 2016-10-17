@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/FirefoxFindFix.js"]=1727;
+
 (function($) {
 	var FirefoxFindFix = {
 

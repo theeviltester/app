@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/DesignSystem/scripts/DesignSystemTracking.js"]=774;
+
 $(function ($) {
 	'use strict';
 

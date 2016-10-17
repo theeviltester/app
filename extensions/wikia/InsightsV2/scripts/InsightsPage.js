@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/InsightsV2/scripts/InsightsPage.js"]=1522;
+
 require(['wikia.tracker'],
 	function (tracker) {
 		'use strict';

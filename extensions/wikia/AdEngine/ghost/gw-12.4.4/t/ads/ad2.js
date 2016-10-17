@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/ads/ad2.js"]=6869;
+
 var 
 strCreative=''
  + '<!-- Template file for Flash ads -->\n' 

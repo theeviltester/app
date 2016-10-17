@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ContentReview/scripts/contentReviewSpecialPage.js"]=2471;
+
 define(
     'ext.wikia.contentReview.special.page',
     ['jquery', 'mw', 'wikia.loader', 'wikia.nirvana', 'BannerNotification'],

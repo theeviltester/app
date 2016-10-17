@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/integration/sections.spec.js"]=2930;
+
 /*global describe, it, runs, waitsFor, expect, require, document*/
 xdescribe("Sections module", function () {
 	'use strict';

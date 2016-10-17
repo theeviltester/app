@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.footHovzer.js"]=1038;
+
 /**
  * Utility to stack stuff in an overlay fixed on the bottom of the page.
  *

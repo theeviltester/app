@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/lazyqueue.spec.js"]=1978;
+
 'use strict';
 
 describe('LazyQueue', function () {

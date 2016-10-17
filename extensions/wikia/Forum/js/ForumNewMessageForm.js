@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Forum/js/ForumNewMessageForm.js"]=2605;
+
 /* global Forum, Wall */
 
 (function (window, $) {

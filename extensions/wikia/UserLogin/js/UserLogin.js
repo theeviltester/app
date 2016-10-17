@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/UserLogin.js"]=938;
+
 /*global WikiaEditor:true, UserLoginModal */
 (function () {
 	'use strict';

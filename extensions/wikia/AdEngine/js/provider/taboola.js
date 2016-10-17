@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/provider/taboola.js"]=3192;
+
 /*global define*/
 /*jslint nomen: true*/
 /*jshint camelcase: false*/

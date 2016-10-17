@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/scripts/band.js"]=30149;
+
 /*=================================================
  *
  * Coding standards:

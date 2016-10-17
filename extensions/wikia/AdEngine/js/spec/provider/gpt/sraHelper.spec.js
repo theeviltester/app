@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/provider/gpt/sraHelper.spec.js"]=810;
+
 /*global describe, it, expect, modules, spyOn*/
 describe('ext.wikia.adEngine.provider.gpt.sraHelper', function () {
 	'use strict';

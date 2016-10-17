@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalShortcuts/scripts/GlobalShortcutsHelp.js"]=3590;
+
 define('GlobalShortcutsHelp',
 	['mw', 'wikia.nirvana', 'wikia.mustache', 'GlobalShortcuts', 'PageActions', 'GlobalShortcutsTracking'],
 	function (mw, nirvana, mustache, GlobalShortcuts, PageActions, tracker) {

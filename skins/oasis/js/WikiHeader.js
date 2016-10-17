@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/WikiHeader.js"]=12554;
+
 (function ( window, $ ) {
 	'use strict';
 

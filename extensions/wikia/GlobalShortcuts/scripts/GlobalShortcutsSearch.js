@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalShortcuts/scripts/GlobalShortcutsSearch.js"]=2065;
+
 define('GlobalShortcutsSearch', ['mw', 'wikia.loader', 'wikia.nirvana', 'wikia.throbber', 'GlobalShortcutsSuggestions'],
 	function (mw, loader, nirvana, throbber, GlobalShortcutsSuggestions) {
 	'use strict';

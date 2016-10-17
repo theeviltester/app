@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/dm/ve.dm.WikiaInfoboxSpecModel.js"]=6067;
+
 /*!
  * VisualEditor DataModel WikiaInfoboxSpecModel class.
  */

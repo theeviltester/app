@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/widgets/legend-widget.js"]=4659;
+
 /*==================================================
  *  Exhibit.LegendWidget
  *==================================================

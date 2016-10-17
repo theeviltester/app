@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideosModule/scripts/models/videos.js"]=634;
+
 define('videosmodule.models.videos', [
 	'wikia.nirvana',
 	'wikia.geo',

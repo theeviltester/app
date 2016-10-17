@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/sql.js"]=1031;
+
 ace.define('ace/snippets/sql', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

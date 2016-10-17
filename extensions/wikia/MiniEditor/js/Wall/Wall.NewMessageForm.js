@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MiniEditor/js/Wall/Wall.NewMessageForm.js"]=2968;
+
 /* global MiniEditor:true, Wall:true */
 (function ($) {
 	'use strict';

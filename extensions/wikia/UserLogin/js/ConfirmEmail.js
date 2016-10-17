@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/ConfirmEmail.js"]=739;
+
 var ConfirmEmail = {
 	init: function() {
 		ConfirmEmail.emailForm = $('.ConfirmEmail .email-form');

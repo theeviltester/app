@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/bug-8/t0.js"]=1009;
+
 function test(){ 
 	var theTest = new Y.Test.Case({ 
 		name: "Anchor Removal Test", 

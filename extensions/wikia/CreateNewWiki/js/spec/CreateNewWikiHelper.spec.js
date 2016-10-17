@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CreateNewWiki/js/spec/CreateNewWikiHelper.spec.js"]=1594;
+
 describe('ext.createNewWiki.helper', function () {
 	'use strict';
 	it('sanitizeWikiName', function () {

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/plugins/WikitextSyntaxHighlighter.js"]=18976;
+
 /**
  * Wikitext Syntax highlighter
  * http://www.mediawiki.org/wiki/User:Remember_the_dot/Syntax_highlighter

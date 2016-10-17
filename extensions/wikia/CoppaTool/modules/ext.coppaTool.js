@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CoppaTool/modules/ext.coppaTool.js"]=1799;
+
 /**
  * Module to execute COPPA tool actions
  *

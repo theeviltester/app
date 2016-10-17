@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/importers/exhibit-json-importer.js"]=1342;
+
 /*==================================================
  *  Exhibit.ExhibitJSONImporter
  *==================================================

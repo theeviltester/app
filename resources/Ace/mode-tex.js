@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/mode-tex.js"]=6591;
+
 /*
  * tex.js
  *

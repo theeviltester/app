@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/pageFairDetection.js"]=1676;
+
 define('ext.wikia.adEngine.pageFairDetection', [
 	'ext.wikia.adEngine.utils.scriptLoader',
 	'wikia.browserDetect',

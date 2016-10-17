@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/chart/locales/de/chart-locale.js"]=609;
+
 /*==================================================
  *  Exhibit Chart Extension German localization
  *==================================================

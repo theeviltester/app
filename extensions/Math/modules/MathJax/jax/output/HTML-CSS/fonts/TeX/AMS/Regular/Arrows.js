@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/Arrows.js"]=3667;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/Arrows.js

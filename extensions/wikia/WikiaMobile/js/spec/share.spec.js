@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/share.spec.js"]=1540;
+
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("Share module", function () {
 	'use strict';

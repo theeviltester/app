@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/UserLoginModal.js"]=5282;
+
 (function () {
 	'use strict';
 

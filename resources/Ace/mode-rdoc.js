@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/mode-rdoc.js"]=7514;
+
 /*
  * rdoc.js
  *

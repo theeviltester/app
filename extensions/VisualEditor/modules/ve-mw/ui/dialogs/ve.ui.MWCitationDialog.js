@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/dialogs/ve.ui.MWCitationDialog.js"]=6890;
+
 /*
  * VisualEditor user interface MWCitationDialog class.
  *

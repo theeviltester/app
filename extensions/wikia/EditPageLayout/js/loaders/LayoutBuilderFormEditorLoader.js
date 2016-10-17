@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/loaders/LayoutBuilderFormEditorLoader.js"]=664;
+
 (function($, window) {
 	var LayoutBuilderFormEditorLoader = $.createClass(Object,{
 

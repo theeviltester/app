@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/spec/WikiaMapsPoiCategories.spec.js"]=3032;
+
 describe('wikia.maps.poiCategories', function () {
 	'use strict';
 

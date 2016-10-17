@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.core.js"]=9120;
+
 /*!
  * jQuery UI 1.8.23
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/platform.js"]=3540;
+
 /*==================================================
  *  Platform Utility Functions and Constants
  *==================================================

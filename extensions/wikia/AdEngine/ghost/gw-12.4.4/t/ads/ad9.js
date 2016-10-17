@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/ads/ad9.js"]=47999;
+
 document.write('');
 
 if(typeof(dartCallbackObjects) == "undefined")

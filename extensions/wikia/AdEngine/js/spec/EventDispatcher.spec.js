@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/EventDispatcher.spec.js"]=3239;
+
 /*global describe,it,expect,modules,spyOn,beforeEach */
 /*jslint nomen: true*/
 describe('EventDispatcher', function () {

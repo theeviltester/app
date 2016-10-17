@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/element/mml/optable/Arrows.js"]=6656;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/optable/Arrows.js

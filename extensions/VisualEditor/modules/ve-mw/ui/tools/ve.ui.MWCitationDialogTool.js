@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/tools/ve.ui.MWCitationDialogTool.js"]=1815;
+
 /*!
  * VisualEditor MediaWiki UserInterface citation dialog tool class.
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/curate/scripts/item-creator.js"]=4211;
+
 Exhibit.ItemCreator = function(elmt, uiContext, settings) {
     var db = uiContext.getDatabase();
 

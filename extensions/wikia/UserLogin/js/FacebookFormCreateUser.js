@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/FacebookFormCreateUser.js"]=1609;
+
 /* global UserBaseAjaxForm, UserSignupMixin */
 (function () {
 	'use strict';

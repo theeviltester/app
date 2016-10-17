@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/mediagallery.js"]=5478;
+
 /*global define  */
 /**
  * Handling of Gallery view of images on a page in a Lighbox

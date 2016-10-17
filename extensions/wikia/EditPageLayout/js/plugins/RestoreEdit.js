@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/plugins/RestoreEdit.js"]=6060;
+
 (function(window,$){
 
 require(['uniqueId'], function(uniqueId) {

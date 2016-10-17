@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/views/html-view.js"]=1093;
+
 /*==================================================
  *  Exhibit.HTMLView
  *==================================================

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/jqplot/resources/ext.srf.jqplot.chart.pie.js"]=2083;
+
 /**
  * JavaSript for SRF jqPlot pie module
  *

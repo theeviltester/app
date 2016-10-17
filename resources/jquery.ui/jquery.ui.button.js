@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.button.js"]=11340;
+
 /*
  * jQuery UI Button 1.8.17
  *

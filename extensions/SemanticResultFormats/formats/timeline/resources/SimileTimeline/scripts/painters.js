@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/scripts/painters.js"]=13259;
+
 /*==================================================
  *  Duration Event Painter
  *==================================================

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticForms/libs/jquery.dynatree.js"]=105424;
+
 /*************************************************************************
 	jquery.dynatree.js
 	Dynamic tree view control, with support for lazy loading of branches.

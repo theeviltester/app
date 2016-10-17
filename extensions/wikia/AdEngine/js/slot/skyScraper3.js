@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/slot/skyScraper3.js"]=1494;
+
 /*global define*/
 define('ext.wikia.adEngine.slot.skyScraper3', [
 	'ext.wikia.adEngine.adContext',

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/date-time.js"]=14879;
+
 /**
  * @fileOverview A collection of date/time utility functions
  * @name SimileAjax.DateTime

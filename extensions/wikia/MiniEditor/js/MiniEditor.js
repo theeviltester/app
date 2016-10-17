@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MiniEditor/js/MiniEditor.js"]=9733;
+
 (function(window, $, undefined) {
 
 // This file is included globally.

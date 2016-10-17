@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Maps/includes/services/GoogleMaps3/ext.maps.googlemaps3.js"]=593;
+
 /**
  * JavaScript for Google Maps v3 maps in the Maps extension.
  * @see https://www.mediawiki.org/wiki/Extension:Maps

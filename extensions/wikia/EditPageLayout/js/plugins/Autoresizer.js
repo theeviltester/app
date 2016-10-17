@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/plugins/Autoresizer.js"]=3939;
+
 (function(window, $) {
 
 	var $window = $( window );

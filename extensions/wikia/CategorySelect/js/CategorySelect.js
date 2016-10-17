@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CategorySelect/js/CategorySelect.js"]=20684;
+
 /* global Mustache:true */
 (function( window, $, undefined ) {
 	'use strict';

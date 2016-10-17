@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/debug.js"]=2688;
+
 /*==================================================
  *  Debug Utility Functions
  *==================================================

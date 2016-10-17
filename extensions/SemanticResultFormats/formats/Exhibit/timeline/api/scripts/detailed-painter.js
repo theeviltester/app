@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/scripts/detailed-painter.js"]=25561;
+
 /*==================================================
  *  Detailed Event Painter
  *==================================================

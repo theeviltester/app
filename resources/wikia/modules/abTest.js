@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/abTest.js"]=226;
+
 /**
  * AMD module exporting Wikia.AbTest object
  */

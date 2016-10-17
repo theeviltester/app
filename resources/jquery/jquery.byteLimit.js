@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.byteLimit.js"]=9011;
+
 /**
  * @class jQuery.plugin.byteLimit
  */

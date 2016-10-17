@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.colorUtil.js"]=5732;
+
 /**
  * jQuery Color Utilities
  * Written by Krinkle in 2011

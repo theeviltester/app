@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.special/mediawiki.special.changeemail.js"]=1248;
+
 /*
  * JavaScript for Special:ChangeEmail
  */

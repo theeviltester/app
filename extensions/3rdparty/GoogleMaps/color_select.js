@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/3rdparty/GoogleMaps/color_select.js"]=23534;
+
 // This code is originally from www.daltonlp.com,
 // with slight modifications by EMM to make it suck less.
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/importers/tsv-csv-importer.js"]=8232;
+
 Exhibit.TsvCsvImporter = {
 };
 

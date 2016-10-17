@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ArticleComments/js/ArticleComments_init.wikiamobile.js"]=1971;
+
 /**
  * Article Comments initialization for the WikiaMobile skin
  * This is loaded on any page that supports commenting and will load the full ArticleComments

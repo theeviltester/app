@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/instantGlobals.js"]=270;
+
 /**
  * AMD module exporting Wikia.InstantGlobals object
  */

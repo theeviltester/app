@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/ajax/loader.js"]=1099;
+
 (function() {
     if ("SimileWidgets_styles" in window) {
         var head = document.getElementsByTagName("head")[0];

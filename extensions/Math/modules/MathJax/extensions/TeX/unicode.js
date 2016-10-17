@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/extensions/TeX/unicode.js"]=4925;
+
 /*************************************************************
  *
  *  MathJax/extensions/TeX/unicode.js

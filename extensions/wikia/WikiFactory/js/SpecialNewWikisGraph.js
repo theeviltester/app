@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiFactory/js/SpecialNewWikisGraph.js"]=15852;
+
 var SponsorshipDashboard = function(){
 	var self = this;
 

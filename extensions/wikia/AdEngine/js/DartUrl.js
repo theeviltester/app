@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/DartUrl.js"]=2674;
+
 /**
  * DartUrl - a module to help generating DART URLs
  *

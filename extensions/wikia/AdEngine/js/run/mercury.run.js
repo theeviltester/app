@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/run/mercury.run.js"]=1522;
+
 /*global require*/
 require([
 	'ext.wikia.adEngine.adContext',

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/views/thumbnail-view.js"]=10140;
+
 /*==================================================
  *  Exhibit.ThumbnailView
  *==================================================

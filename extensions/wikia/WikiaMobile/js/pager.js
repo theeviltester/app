@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/pager.js"]=8356;
+
 /**
  * Handling of interactive swipeing of gallery/image modals
  *

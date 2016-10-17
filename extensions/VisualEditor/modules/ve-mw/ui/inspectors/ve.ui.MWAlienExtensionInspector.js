@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/inspectors/ve.ui.MWAlienExtensionInspector.js"]=3131;
+
 /*!
  * VisualEditor UserInterface MWAlienExtensionInspector class.
  *

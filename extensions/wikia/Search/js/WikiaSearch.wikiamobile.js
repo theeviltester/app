@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Search/js/WikiaSearch.wikiamobile.js"]=3249;
+
 /**
  * Search results JS code for the WikiaMobile skin
  *

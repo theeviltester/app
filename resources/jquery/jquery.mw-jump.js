@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.mw-jump.js"]=449;
+
 /**
  * JavaScript to show jump links to motor-impaired users when they are focused.
  */

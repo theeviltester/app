@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Filtered/libs/ext.srf.filtered.distance-filter.js"]=3086;
+
 /**
  * File holding the distance-filter plugin
  * 

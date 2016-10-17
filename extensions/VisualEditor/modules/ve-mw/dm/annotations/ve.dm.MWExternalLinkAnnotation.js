@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/annotations/ve.dm.MWExternalLinkAnnotation.js"]=1823;
+
 /*!
  * VisualEditor DataModel MWExternalLinkAnnotation class.
  *

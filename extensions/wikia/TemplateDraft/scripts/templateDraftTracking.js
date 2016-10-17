@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/TemplateDraft/scripts/templateDraftTracking.js"]=934;
+
 /**
  * Tracking for TemplateDraft extension
  * Module sends tracking record to google analytics and internal analytics

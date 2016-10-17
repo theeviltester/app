@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ContentReview/scripts/contentReviewDiffPage.js"]=2300;
+
 define(
 	'ext.wikia.contentReview.diff.page',
 	['BannerNotification', 'wikia.querystring', 'jquery', 'mw', 'wikia.loader', 'wikia.nirvana'],

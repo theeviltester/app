@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/editor/WikiaEditorStorage.js"]=3218;
+
 var WikiaEditorStorage = function() {};
 
 WikiaEditorStorage.prototype = {

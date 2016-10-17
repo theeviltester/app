@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/extensions/TeX/noUndefined.js"]=2028;
+
 /*************************************************************
  *
  *  MathJax/extensions/TeX/noUndefined.js

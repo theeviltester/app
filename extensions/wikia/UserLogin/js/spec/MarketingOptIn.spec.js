@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/spec/MarketingOptIn.spec.js"]=1994;
+
 describe('UserLogin Marketing Opt In', function () {
 	'use strict';
 

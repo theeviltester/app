@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/widgets/ve.ui.WikiaMapOptionWidget.js"]=856;
+
 /*!
  * VisualEditor UserInterface WikiaMapOptionWidget class.
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.flot/jquery.flot.selection.js"]=12018;
+
 /*
 Flot plugin for selecting regions.
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/js/WikiaMapsPontoBridge.js"]=4443;
+
 define(
 	'wikia.maps.pontoBridge',
 	[

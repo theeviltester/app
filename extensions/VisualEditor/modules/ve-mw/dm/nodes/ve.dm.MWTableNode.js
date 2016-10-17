@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/nodes/ve.dm.MWTableNode.js"]=1864;
+
 /*!
  * VisualEditor DataModel MWTable class.
  *

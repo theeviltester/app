@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/lazyload.js"]=1857;
+
 /**
  * @define lazyload
  *

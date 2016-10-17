@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/dm/ve.dm.WikiaGalleryItemNode.js"]=1751;
+
 /*!
  * VisualEditor DataModel WikiaGalleryItemNode class.
  */

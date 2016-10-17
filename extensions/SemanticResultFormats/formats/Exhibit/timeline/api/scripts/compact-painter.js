@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/scripts/compact-painter.js"]=39431;
+
 /*==================================================
  *  Compact Event Painter
  *==================================================

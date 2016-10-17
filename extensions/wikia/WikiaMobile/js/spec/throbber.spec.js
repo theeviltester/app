@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/throbber.spec.js"]=2518;
+
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("throbber module", function () {
 	'use strict';

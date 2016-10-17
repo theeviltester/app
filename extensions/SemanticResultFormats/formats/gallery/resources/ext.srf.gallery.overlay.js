@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/gallery/resources/ext.srf.gallery.overlay.js"]=3909;
+
 /**
  * JavaScript for SRF gallery overlay/fancybox module
  * @see http://www.semantic-mediawiki.org/wiki/Help:Gallery format

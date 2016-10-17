@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/pages/ve.ui.MWTemplatePlaceholderPage.js"]=3433;
+
 /*!
  * VisualEditor user interface MWTemplatePlaceholderPage class.
  *

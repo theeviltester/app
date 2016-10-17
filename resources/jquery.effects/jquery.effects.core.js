@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.effects/jquery.effects.core.js"]=23339;
+
 /*
  * jQuery UI Effects 1.8.17
  *

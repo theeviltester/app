@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CodeLint/examples/anticode.js"]=3781;
+
 /**
  * This is an example of JS code full of antipatterns
  * and other things you should avoid in JavaScript

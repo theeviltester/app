@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/shared/views/carouselThumb.js"]=821;
+
 /**
  * view for individual carousel thumbs. Data is thumbnail and video title
  */

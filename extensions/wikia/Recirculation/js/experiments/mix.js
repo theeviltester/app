@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/experiments/mix.js"]=3501;
+
 require([
 	'jquery',
 	'wikia.window',

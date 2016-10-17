@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/AdLogicPageViewCounter.js"]=1184;
+
 /*global define*/
 define('ext.wikia.adEngine.adLogicPageViewCounter', [
 	'wikia.cache',

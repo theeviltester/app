@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/cache.js"]=5457;
+
 /**
  * Memcache-like API based on localStorage using JS global namespace as a fallback
  *

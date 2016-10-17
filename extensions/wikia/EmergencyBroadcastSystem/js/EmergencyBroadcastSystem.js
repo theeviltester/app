@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EmergencyBroadcastSystem/js/EmergencyBroadcastSystem.js"]=506;
+
 ( function ($) {
 	'use strict';
 

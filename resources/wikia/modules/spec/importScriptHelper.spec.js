@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/importScriptHelper.spec.js"]=3349;
+
 describe('ImportScriptHelper', function(){
 	'use strict';
 

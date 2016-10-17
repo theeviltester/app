@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/homepage/views/featured.js"]=8234;
+
 define('videohomepage.views.featured', [
 	// lib deps
 	'jquery',

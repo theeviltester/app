@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/template/modal.spec.js"]=2598;
+
 /*global describe, it, expect, modules, spyOn, beforeEach*/
 describe('ext.wikia.adEngine.template.modal', function () {
 	'use strict';

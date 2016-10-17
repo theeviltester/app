@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/UserSignupAjaxValidation.js"]=3917;
+
 /* global wgWikiaMaxNameChars, wgMinimalPasswordLength */
 (function () {
 	'use strict';

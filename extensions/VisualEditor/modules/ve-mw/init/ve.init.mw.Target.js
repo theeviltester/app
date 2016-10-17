@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/init/ve.init.mw.Target.js"]=48540;
+
 /*!
  * VisualEditor MediaWiki Initialization Target class.
  *

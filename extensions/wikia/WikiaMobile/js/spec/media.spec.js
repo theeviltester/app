@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/media.spec.js"]=2229;
+
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("Media module", function () {
 	'use strict';

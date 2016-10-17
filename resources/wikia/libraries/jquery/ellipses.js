@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/ellipses.js"]=3123;
+
 /**
  * $.fn.ellipses
  * @author Liz Lee <lizlee at wikia dash inc dot com>

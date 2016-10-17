@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/.docs/external.js"]=571;
+
 /**
  * Provided by VisualEditorDataModule.php for the MediaWiki environment.
  *

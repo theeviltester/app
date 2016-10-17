@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RecipesTemplate/RecipesTemplate.js"]=11734;
+
 var RecipesTemplate = {
 	// send AJAX request to extension's ajax dispatcher in MW
 	ajax: function(method, params, callback) {

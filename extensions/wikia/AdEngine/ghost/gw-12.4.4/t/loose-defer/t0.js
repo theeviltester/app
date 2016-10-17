@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/loose-defer/t0.js"]=339;
+
 function test(){ 
 	var test= new Y.Test.Case({ 
 		name: "Loose Deferscript", 

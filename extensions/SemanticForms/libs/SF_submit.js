@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticForms/libs/SF_submit.js"]=5142;
+
 /**
 * Javascript handler for the save-and-continue button
 *

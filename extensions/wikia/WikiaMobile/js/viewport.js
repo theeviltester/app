@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/viewport.js"]=1941;
+
 /**
  * A window event fired when the viewport size is changed
  * it tries to get viewport size correctly

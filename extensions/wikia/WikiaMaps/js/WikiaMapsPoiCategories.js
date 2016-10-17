@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/js/WikiaMapsPoiCategories.js"]=12939;
+
 define('wikia.maps.poiCategories',
 	[
 		'jquery',

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Bucky/vendor/Weppy/dist/weppy.amd.js"]=16752;
+
 /// <reference path="../weppy.d.ts"/>
 define(["require", "exports"], function (require, exports) {
     var WeppyImpl;

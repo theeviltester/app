@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Flags/scripts/FlagsGlobalShortcuts.js"]=964;
+
 /**
  * Flags module for adding shortcut key to GlobalShortcuts extension
  */

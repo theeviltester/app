@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalShortcuts/scripts/GlobalShortcutsRenderKeys.js"]=3322;
+
 define('GlobalShortcuts.RenderKeys',
 	['mw', 'wikia.nirvana', 'wikia.mustache'],
 	function (mw, nirvana, mustache) {

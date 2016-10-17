@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/buttons.js"]=2037;
+
 var WikiaButtons = {
 	settings: {
 		delay: 350

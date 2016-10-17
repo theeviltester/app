@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/scripts/sources.js"]=15176;
+
 /*==================================================
  *  Default Event Source
  *==================================================

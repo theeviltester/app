@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/3rdparty/LyricWiki/LyricFind/js/tracking.js"]=826;
+
 Wikia.Tracker.ACTIONS.VIEW_LYRIC = 'view_lyric';
 
 require(['jquery','LyricFindTracker', 'wikia.log'], function($, tracker, log) {

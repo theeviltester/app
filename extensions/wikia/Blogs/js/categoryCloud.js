@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Blogs/js/categoryCloud.js"]=4818;
+
 /**
  * Utility functions for managing a tag cloud of categories for the CreateBlogListing SpecialPage
  */

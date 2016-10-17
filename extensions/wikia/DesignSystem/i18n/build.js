@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/DesignSystem/i18n/build.js"]=1629;
+
 var fs = require('fs'),
 	path = require('path'),
 	rootDir = process.cwd() + '/node_modules/design-system-i18n/i18n',

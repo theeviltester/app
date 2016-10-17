@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.effects/jquery.effects.highlight.js"]=1196;
+
 /*
  * jQuery UI Effects Highlight 1.8.17
  *

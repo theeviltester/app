@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/facets/image-facet.js"]=17336;
+
 /*==================================================
  *  Exhibit.ImageFacet
  *==================================================

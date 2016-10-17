@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/DesignSystem/scripts/DesignSystemGlobalNavigationSearchSuggestions.js"]=2894;
+
 $(function () {
 	'use strict';
 

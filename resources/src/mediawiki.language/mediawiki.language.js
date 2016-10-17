@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/mediawiki.language.js"]=4086;
+
 /*
  * Methods for transforming message syntax.
  */

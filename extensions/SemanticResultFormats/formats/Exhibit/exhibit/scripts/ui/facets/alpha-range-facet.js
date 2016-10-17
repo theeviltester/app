@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/facets/alpha-range-facet.js"]=12785;
+
 /*==================================================
  *  Exhibit.AlphaRangeFacet
  *==================================================

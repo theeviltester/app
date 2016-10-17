@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/map/locales/es/map-locale.js"]=339;
+
 /*==================================================
  *  Exhibit Map Extension Spanish localization
  *==================================================

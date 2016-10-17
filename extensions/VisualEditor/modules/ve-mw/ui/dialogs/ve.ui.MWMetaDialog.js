@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/dialogs/ve.ui.MWMetaDialog.js"]=3997;
+
 /*!
  * VisualEditor user interface MWMetaDialog class.
  *

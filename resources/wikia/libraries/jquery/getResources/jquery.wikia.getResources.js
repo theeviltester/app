@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/getResources/jquery.wikia.getResources.js"]=2886;
+
 (function (window, $) {
 	'use strict';
 

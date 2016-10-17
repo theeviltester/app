@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/provider/evolve2.spec.js"]=4702;
+
 /*global beforeEach, describe, it, modules, expect, spyOn*/
 describe('Evolve2 Provider targeting', function () {
 	'use strict';

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/dialogs/ve.ui.WikiaTransclusionDialog.js"]=10425;
+
 /*
  * VisualEditor user interface WikiaTransclusionDialog class.
  *

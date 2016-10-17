@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/TaboolaHelper.js"]=1099;
+
 /*global define*/
 define('ext.wikia.adEngine.taboolaHelper', [
 	'ext.wikia.adEngine.adContext',

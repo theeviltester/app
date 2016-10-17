@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/ve.ui.WikiaCommandRegistry.js"]=1638;
+
 /*!
  * VisualEditor Wikia CommandRegistry class.
  *

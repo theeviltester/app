@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki/mediawiki.util.js"]=19123;
+
 /**
  * Implements mediaWiki.util library
  */

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AchievementsII/js/achievements.js"]=3748;
+
 /*
  *  This file is being used for Special:AchievementsCustomize
  *  There is also skins/oasis/js/Achievements.js

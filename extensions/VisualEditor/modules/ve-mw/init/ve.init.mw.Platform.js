@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/init/ve.init.mw.Platform.js"]=3058;
+
 /*!
  * VisualEditor MediaWiki Initialization Platform class.
  *

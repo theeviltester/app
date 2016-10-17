@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/shared/scripts/onScroll.js"]=1174;
+
 /**
  * Interface for applying handlers to the single scroll event on window
  */

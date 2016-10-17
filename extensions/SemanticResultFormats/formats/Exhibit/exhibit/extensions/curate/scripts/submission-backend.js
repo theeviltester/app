@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/curate/scripts/submission-backend.js"]=4148;
+
 Exhibit.SubmissionBackend = {};
 
 Exhibit.SubmissionBackend.formatChanges = function(itemChanges, submissionProperties) {

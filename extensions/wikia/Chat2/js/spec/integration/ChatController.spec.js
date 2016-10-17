@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Chat2/js/spec/integration/ChatController.spec.js"]=7834;
+
 describe("ChatView Test", function(){
 	var origwgServer,
 		origwgArticlePath,

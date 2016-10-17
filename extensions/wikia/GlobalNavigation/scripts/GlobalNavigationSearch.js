@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalNavigation/scripts/GlobalNavigationSearch.js"]=1860;
+
 require(['jquery', 'wikia.browserDetect', 'GlobalNavigationiOSScrollFix'], function ($, browserDetect, scrollFix) {
 	'use strict';
 	var $selectElement = $('#searchSelect'),

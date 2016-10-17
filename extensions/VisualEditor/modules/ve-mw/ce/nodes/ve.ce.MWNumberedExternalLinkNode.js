@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ce/nodes/ve.ce.MWNumberedExternalLinkNode.js"]=2085;
+
 /*!
  * VisualEditor ContentEditable MWNumberedExternalLinkNode class.
  *

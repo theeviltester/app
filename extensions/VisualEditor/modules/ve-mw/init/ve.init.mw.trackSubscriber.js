@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/init/ve.init.mw.trackSubscriber.js"]=3544;
+
 /*!
  * VisualEditor MediaWiki event subscriber.
  *

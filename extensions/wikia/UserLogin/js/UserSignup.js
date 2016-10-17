@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/UserSignup.js"]=2454;
+
 /* global WikiaForm, UserSignupAjaxValidation, UserSignupMixin */
 (function () {
 	'use strict';

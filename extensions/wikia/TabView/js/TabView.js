@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/TabView/js/TabView.js"]=3710;
+
 // ********************************
 //
 // Depends on skins/oasis/js/tab.js

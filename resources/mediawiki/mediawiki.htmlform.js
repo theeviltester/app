@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki/mediawiki.htmlform.js"]=1574;
+
 /**
  * Utility functions for jazzing up HTMLForm elements
  */

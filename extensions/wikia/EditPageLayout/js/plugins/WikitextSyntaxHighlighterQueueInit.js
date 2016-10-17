@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/plugins/WikitextSyntaxHighlighterQueueInit.js"]=2221;
+
 /**
  * Simple script to queue run of WikiTextSyntaxHighlighter for source mode editor
  *

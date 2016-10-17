@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqgrid/grid.locale-en.js"]=6362;
+
 ;(function($){
 /**
  * jqGrid English Translation

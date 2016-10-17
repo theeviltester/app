@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/AbuseFilter/modules/ext.abuseFilter.edit.js"]=5228;
+
 /**
  * AbuseFilter editing stuff
  */

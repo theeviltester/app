@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/js/WikiaMapsParserTag.wikiamobile.js"]=860;
+
 require([
 	'jquery',
 	'sloth'

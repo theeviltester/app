@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/UserLoginAjaxForm.js"]=4683;
+
 /*global wgScriptPath, UserBaseAjaxForm */
 (function () {
 	'use strict';

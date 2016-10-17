@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/TraceViewer/TraceViewerInit.js"]=573;
+
 (function(window,$) {
 	function openTrace() {
 		mw.loader.using(['wikia.ext.traceviewer'],function(){

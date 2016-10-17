@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/format-parser.js"]=18299;
+
 /*==================================================
  *  Exhibit.FormatParser
  *  http://simile.mit.edu/wiki/Exhibit/API/FormatParser

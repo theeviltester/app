@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/models/ve.dm.MWImageModel.js"]=32092;
+
 /*!
  * VisualEditor DataModel MWImageModel class.
  *

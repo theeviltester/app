@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/PaidAssetDrop/js/run/desktop.run.js"]=1045;
+
 /*global require*/
 require([
 	'ext.wikia.paidAssetDrop.paidAssetDrop',

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/recovery/gcs.js"]=2246;
+
 /*global define*/
 /*jshint camelcase:false*/
 define('ext.wikia.adEngine.recovery.gcs', [

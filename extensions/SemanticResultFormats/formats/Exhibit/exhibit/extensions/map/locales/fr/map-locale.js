@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/map/locales/fr/map-locale.js"]=336;
+
 /*==================================================
  *  Exhibit Map Extension French localization
  *==================================================

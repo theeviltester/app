@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SemanticMediaWiki/resources/ext.smw.js"]=943;
+
 /**
  * JavaScript for Semantic MediaWiki.
  * @see http://semantic-mediawiki.org/

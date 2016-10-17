@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/provider/remnantGpt.js"]=1797;
+
 /*global define*/
 define('ext.wikia.adEngine.provider.remnantGpt', [
 	'ext.wikia.adEngine.context.uapContext',

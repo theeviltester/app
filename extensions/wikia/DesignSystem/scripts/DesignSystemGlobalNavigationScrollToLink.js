@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/DesignSystem/scripts/DesignSystemGlobalNavigationScrollToLink.js"]=1132;
+
 /*global require*/
 require(
 	['wikia.scrollToLink', 'wikia.window', 'jquery', 'wikia.browserDetect'],

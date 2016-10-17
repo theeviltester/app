@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.tipsy/jquery.tipsy.js"]=8174;
+
 // tipsy, facebook style tooltips for jquery
 // version 1.0.0a*
 // (c) 2008-2010 jason frame [jason@onehackoranother.com]

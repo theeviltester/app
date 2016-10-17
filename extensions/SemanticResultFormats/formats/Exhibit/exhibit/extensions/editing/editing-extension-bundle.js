@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/editing/editing-extension-bundle.js"]=34002;
+
 
 
 /* editing-backend.js */

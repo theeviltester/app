@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/map/map-extension-bundle-debug.js"]=55869;
+
 
 
 /* map-view.js */

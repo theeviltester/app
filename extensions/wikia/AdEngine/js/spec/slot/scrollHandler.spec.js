@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/slot/scrollHandler.spec.js"]=4026;
+
 /*global describe, it, expect, modules, spyOn, beforeEach*/
 describe('ext.wikia.adEngine.slot.scrollHandler', function () {
 	'use strict';

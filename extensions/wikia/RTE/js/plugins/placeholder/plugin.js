@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/placeholder/plugin.js"]=12336;
+
 CKEDITOR.plugins.add('rte-placeholder',
 {
 	previews: false,

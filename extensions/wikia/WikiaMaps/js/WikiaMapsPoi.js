@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/js/WikiaMapsPoi.js"]=11427;
+
 define(
 	'wikia.maps.poi',
 	[

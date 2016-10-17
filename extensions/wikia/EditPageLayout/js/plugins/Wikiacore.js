@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/plugins/Wikiacore.js"]=736;
+
 (function(window,$){
 
 	var WE = window.WikiaEditor = window.WikiaEditor || (new Observable()),

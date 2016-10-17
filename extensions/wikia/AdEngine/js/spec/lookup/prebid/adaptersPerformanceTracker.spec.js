@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/lookup/prebid/adaptersPerformanceTracker.spec.js"]=6752;
+
 /*global beforeEach, describe, it, modules, expect, spyOn*/
 describe('ext.wikia.adEngine.lookup.prebid.adaptersPerformanceTracker', function () {
 	'use strict';

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/FacebookLogin.js"]=9722;
+
 /* global UserLoginModal, wgScriptPath, BannerNotification, UserSignupAjaxValidation */
 
 /**

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Flags/specials/scripts/SpecialFlags.js"]=3941;
+
 require(
 	['jquery', 'mw', 'wikia.nirvana', 'wikia.loader', 'ext.wikia.Flags.FlagEditForm', 'BannerNotification'],
 	function ($, mw, nirvana, loader, FlagEditForm, BannerNotification) {

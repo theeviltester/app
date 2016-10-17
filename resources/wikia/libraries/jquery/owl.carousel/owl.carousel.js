@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/owl.carousel/owl.carousel.js"]=37908;
+
 /*
  *	jQuery OwlCarousel v1.31
  *

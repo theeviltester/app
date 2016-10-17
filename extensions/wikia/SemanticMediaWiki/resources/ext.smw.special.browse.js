@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SemanticMediaWiki/resources/ext.smw.special.browse.js"]=550;
+
 /**
  * JavaScript for Special:Browse related functions
  *

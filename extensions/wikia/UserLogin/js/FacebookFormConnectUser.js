@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/FacebookFormConnectUser.js"]=724;
+
 /* global UserBaseAjaxForm */
 (function () {
 	'use strict';

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/editor/WikiaEditor.js"]=30099;
+
 (function(window,$){
 	var WE = window.WikiaEditor = window.WikiaEditor || (new Observable()),
 		slice = [].slice;

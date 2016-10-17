@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/js/WikiaMapsCreateMap.js"]=535;
+
 require(['jquery', 'wikia.loader'], function ($, loader) {
 	'use strict';
 

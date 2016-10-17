@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ArticleComments/js/ArticleComments.wikiamobile.js"]=8115;
+
 /**
  * Article Comments JS code for the WikiaMobile skin
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/autoload/menclose.js"]=12157;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/autoload/menclose.js

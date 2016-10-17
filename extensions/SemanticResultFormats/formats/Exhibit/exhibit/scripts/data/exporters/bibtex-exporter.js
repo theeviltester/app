@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/exporters/bibtex-exporter.js"]=2435;
+
 /*==================================================
  *  Exhibit.BibtexExporter
  *==================================================

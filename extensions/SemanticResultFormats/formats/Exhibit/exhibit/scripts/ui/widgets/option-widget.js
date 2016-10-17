@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/widgets/option-widget.js"]=2721;
+
 /*==================================================
  *  Exhibit.OptionWidget
  *==================================================

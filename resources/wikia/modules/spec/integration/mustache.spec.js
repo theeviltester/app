@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/integration/mustache.spec.js"]=1146;
+
 /*global describe, it, expect, Mustache*/
 describe('Mustache', function () {
 	'use strict';

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/slot/highImpact.spec.js"]=1000;
+
 /*global describe, it, expect, modules, beforeEach*/
 describe('ext.wikia.adEngine.slot.highImpact', function () {
 	'use strict';

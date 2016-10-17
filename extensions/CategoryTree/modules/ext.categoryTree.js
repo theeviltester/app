@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/CategoryTree/modules/ext.categoryTree.js"]=4387;
+
 /*
  * JavaScript functions for the CategoryTree extension, an AJAX based gadget
  * to display the category structure of a wiki

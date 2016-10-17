@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ce/ve.ce.MWResizableNode.js"]=1212;
+
 /*!
  * VisualEditor ContentEditable MWResizableNode class.
  *

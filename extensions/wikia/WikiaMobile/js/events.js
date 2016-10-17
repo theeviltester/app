@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/events.js"]=661;
+
 /**
  * Consistent events on touch and touchless devices
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.mobile.js"]=2047;
+
 /**
  * jqplot.jquerymobile plugin
  * jQuery Mobile virtual event support.

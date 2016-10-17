@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/compile-epilog.js"]=425;
+
 (function() {
     var f = null;
     if ("SimileWidgets_onLoad" in window) {

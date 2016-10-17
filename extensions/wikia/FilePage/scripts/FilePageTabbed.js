@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/FilePage/scripts/FilePageTabbed.js"]=6523;
+
 $(function () {
 	'use strict';
 

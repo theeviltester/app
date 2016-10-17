@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Wall/js/WallNewMessageForm.js"]=7076;
+
 /* global Wall:true, WikiaButtons */
 (function (window, $) {
 	'use strict';

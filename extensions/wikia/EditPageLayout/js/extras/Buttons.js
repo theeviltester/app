@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/extras/Buttons.js"]=4912;
+
 /* global WikiaEditor, WMU_show, WikiaPhotoGallery, insertTags, wmu_imagebutton */
 (function (window, $) {
 	'use strict';

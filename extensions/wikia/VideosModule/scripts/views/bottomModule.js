@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideosModule/scripts/views/bottomModule.js"]=3266;
+
 // Old code to instantiate the bottom module. We're keeping it around just in case we decide to switch
 // to the bottom position later on.
 

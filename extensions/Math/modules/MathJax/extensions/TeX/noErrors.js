@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/extensions/TeX/noErrors.js"]=7739;
+
 /*************************************************************
  *
  *  MathJax/extensions/TeX/noErrors.js

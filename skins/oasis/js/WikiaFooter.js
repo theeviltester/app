@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/WikiaFooter.js"]=9346;
+
 /**
 * global ToolbarCustomize:true
 * global require

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/Ponto/ponto.js"]=14413;
+
 /**
  * Ponto JavaScript implementation for WebViews
  *

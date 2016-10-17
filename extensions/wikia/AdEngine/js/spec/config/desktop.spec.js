@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/config/desktop.spec.js"]=6444;
+
 /*global describe, it, expect, modules, spyOn*/
 describe('ext.wikia.adEngine.config.desktop', function () {
 	'use strict';

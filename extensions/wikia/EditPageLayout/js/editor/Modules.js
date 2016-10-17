@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/editor/Modules.js"]=2469;
+
 (function(window,$){
 
 	var WE = window.WikiaEditor = window.WikiaEditor || (new Observable());

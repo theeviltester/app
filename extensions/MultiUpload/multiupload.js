@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/MultiUpload/multiupload.js"]=11233;
+
 var current;
 
 function licenseSelectorCheck() {

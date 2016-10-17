@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.libs/CLDRPluralRuleParser.js"]=12034;
+
 /* This is CLDRPluralRuleParser v1.1, ported to MediaWiki ResourceLoader */
 
 /**

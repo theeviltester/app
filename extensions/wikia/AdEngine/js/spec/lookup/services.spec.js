@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/lookup/services.spec.js"]=5457;
+
 /*global describe, it, modules, expect, spyOn*/
 describe('Method ext.wikia.adEngine.lookup.services', function () {
 	'use strict';

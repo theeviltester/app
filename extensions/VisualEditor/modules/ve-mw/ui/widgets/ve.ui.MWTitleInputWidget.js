@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/widgets/ve.ui.MWTitleInputWidget.js"]=3520;
+
 /*!
  * VisualEditor UserInterface MWTitleInputWidget class.
  *

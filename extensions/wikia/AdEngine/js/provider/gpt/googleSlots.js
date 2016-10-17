@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/provider/gpt/googleSlots.js"]=457;
+
 define('ext.wikia.adEngine.provider.gpt.googleSlots', function() {
 	var slots = {};
 

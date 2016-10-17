@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/de/scripts/util/coders-l10n.js"]=365;
+
 /*==================================================
  *  Exhibit.Coders German localization
  *==================================================

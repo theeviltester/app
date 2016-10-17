@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/ProfileSync.js"]=493;
+
 var ProfileSync = {
 	init: function() {
 		ProfileSync.attachListeners();

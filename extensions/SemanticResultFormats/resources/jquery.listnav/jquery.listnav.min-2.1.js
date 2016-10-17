@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.listnav/jquery.listnav.min-2.1.js"]=5658;
+
 ﻿/*
 *
 * jQuery listnav plugin

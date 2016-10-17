@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/shared/scripts/scrollableTables.js"]=1624;
+
 /* global define */
 define('scrollableTables', ['wikia.window', 'wikia.dom'], function (win, dom) {
 	'use strict';

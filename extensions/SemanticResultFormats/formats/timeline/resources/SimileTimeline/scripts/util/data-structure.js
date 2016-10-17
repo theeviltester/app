@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/scripts/util/data-structure.js"]=6547;
+
 /*==================================================
  *  Sorted Array
  *==================================================

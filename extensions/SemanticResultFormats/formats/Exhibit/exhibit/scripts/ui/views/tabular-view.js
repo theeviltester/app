@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/views/tabular-view.js"]=21530;
+
 /*==================================================
  *  Exhibit.TabularView
  *==================================================

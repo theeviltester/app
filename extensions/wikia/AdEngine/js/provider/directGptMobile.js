@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/provider/directGptMobile.js"]=947;
+
 /*global define*/
 define('ext.wikia.adEngine.provider.directGptMobile', [
 	'ext.wikia.adEngine.provider.factory.wikiaGpt'

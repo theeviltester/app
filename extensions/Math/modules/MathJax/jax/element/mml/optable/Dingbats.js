@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/element/mml/optable/Dingbats.js"]=1043;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/optable/Dingbats.js

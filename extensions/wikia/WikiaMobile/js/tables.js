@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/tables.js"]=2392;
+
 /* global Features */
 define( 'tables', ['events', 'track', 'wikia.window', 'jquery'], function ( ev, track, w, $ ) {
 	'use strict';

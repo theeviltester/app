@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/TOC/js/modules/spec/toc.spec.js"]=7665;
+
 describe( 'TOC', function() {
 	'use strict';
 

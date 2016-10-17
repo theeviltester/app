@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/js/WikiaMapsParserTag.js"]=3976;
+
 require([
 	'jquery',
 	'wikia.mustache',

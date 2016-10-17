@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/scripts/ethers.js"]=10099;
+
 /*==================================================
  *  An "ether" is a object that maps date/time to pixel coordinates.
  *==================================================

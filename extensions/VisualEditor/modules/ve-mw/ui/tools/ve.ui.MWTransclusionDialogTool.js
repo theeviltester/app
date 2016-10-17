@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/tools/ve.ui.MWTransclusionDialogTool.js"]=1911;
+
 /*!
  * VisualEditor MediaWiki UserInterface transclusion tool classes.
  *

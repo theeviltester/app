@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.makeCollapsible.js"]=12407;
+
 /**
  * jQuery makeCollapsible
  *

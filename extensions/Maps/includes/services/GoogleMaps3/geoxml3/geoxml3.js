@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Maps/includes/services/GoogleMaps3/geoxml3/geoxml3.js"]=70967;
+
 /**
  * @fileOverview Renders KML on the Google Maps JavaScript API Version 3
  * @name GeoXML3

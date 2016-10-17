@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/integration/features.spec.js"]=1007;
+
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("Features module", function () {
 	'use strict';

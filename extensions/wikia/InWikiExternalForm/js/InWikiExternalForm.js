@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/InWikiExternalForm/js/InWikiExternalForm.js"]=273;
+
 var InWikiExternalForm = {
 	init: function() {
 		Wikia.Tracker.track({

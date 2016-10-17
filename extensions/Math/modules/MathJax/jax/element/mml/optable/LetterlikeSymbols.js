@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/element/mml/optable/LetterlikeSymbols.js"]=1339;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/optable/LetterlikeSymbols.js

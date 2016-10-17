@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SponsorshipDashboard/js/SponsorshipDashboardChart.js"]=8956;
+
 var SponsorshipDashboard = function(){
 	var self = this;
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/nodeFinder.js"]=1931;
+
 define('wikia.nodeFinder', function () {
 	'use strict';
 

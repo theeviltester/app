@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/d3/resources/ext.srf.d3.chart.bubble.js"]=3872;
+
 /**
  * JavaScript for SRF D3 chart bubble module using d3 v2
  * @see http://www.semantic-mediawiki.org/wiki/Help:D3chart format

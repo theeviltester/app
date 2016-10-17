@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.listmenu/jquery.listmenu.min-1.1.js"]=7140;
+
 ﻿/*
 *
 * jQuery listmenu plugin

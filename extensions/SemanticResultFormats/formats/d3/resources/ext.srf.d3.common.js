@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/d3/resources/ext.srf.d3.common.js"]=26725;
+
 /**
  * JavaSript for SRF color schemes
  *

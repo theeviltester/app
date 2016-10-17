@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.meterGaugeRenderer.js"]=42865;
+
 /**
  * jqPlot
  * Pure JavaScript plotting plugin using jQuery

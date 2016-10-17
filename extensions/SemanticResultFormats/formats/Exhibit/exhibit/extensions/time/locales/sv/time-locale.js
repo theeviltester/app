@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/time/locales/sv/time-locale.js"]=352;
+
 /*==================================================
  *  Exhibit Time Extension Swedish localization
  *==================================================

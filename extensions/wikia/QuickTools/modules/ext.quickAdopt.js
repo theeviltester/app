@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/QuickTools/modules/ext.quickAdopt.js"]=2820;
+
 /**
  * Ajax Quick Adopt
  * Adds a button to the contribs page that allows staff who handle adoption requests to give rights with one click.

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticForms/libs/SF_autoedit.js"]=2446;
+
 /**
  * Javascript handler for the autoedit parser function
  *

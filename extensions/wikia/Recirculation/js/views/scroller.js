@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/views/scroller.js"]=1605;
+
 define('ext.wikia.recirculation.views.scroller', [
 	'jquery',
 	'wikia.window',

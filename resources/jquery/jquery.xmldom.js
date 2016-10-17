@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.xmldom.js"]=1212;
+
 /*!
  * jQuery xmlDOM Plugin v1.0
  * http://outwestmedia.com/jquery-plugins/xmldom/

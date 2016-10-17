@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SemanticMediaWiki/resources/ext.smw.special.ask.js"]=5944;
+
 /**
  * JavaScript for supporting functionality in Special:Ask
  *

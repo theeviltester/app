@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/actions/ve.ui.MWLinkAction.js"]=1310;
+
 /*!
  * VisualEditor UserInterface MWLinkAction class.
  *

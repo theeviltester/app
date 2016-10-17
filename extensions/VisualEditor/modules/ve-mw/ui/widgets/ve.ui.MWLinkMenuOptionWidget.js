@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/widgets/ve.ui.MWLinkMenuOptionWidget.js"]=831;
+
 /*!
  * VisualEditor UserInterface MWLinkMenuOptionWidget class
  *

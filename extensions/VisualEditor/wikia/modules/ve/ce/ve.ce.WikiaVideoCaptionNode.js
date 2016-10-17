@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ce/ve.ce.WikiaVideoCaptionNode.js"]=1806;
+
 /*!
  * VisualEditor ContentEditable WikiaVideoCaptionNode class.
  *

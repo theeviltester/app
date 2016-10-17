@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/html.js"]=8470;
+
 /*==================================================
  *  HTML Utility Functions
  *==================================================

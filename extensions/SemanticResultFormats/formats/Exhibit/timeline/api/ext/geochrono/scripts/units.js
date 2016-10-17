@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/ext/geochrono/scripts/units.js"]=2154;
+
 /*==================================================
  *  Geochrono Unit
  *==================================================

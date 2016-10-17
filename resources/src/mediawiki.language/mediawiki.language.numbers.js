@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/mediawiki.language.numbers.js"]=7073;
+
 /*
  * Number-related utilities for mediawiki.language.
  */

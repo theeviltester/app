@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/spec/switcher.spec.js"]=1879;
+
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe('Form box switcher', function () {
 	'use strict';

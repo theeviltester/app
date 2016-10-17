@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalNavigation/scripts/GlobalNavigationDropdownsHandler.js"]=2649;
+
 define('wikia.globalNavigationDropdowns', ['wikia.window', 'jquery'], function(win, $) {
 	'use strict';
 

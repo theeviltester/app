@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WDACReview/js/WDACReview.js"]=575;
+
 $(function() {
 
 	$( '#wdac-approve-all' ).bind( 'click', function() {

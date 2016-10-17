@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/utils/domCalculator.js"]=295;
+
 /*global define*/
 define('ext.wikia.adEngine.utils.domCalculator', [
 ], function () {

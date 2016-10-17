@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WidgetFramework/Widgets/WidgetAnswers/WidgetAnswers.js"]=2254;
+
 function WidgetAnswers_load(data) {
 	if (data.query == "undefined") { return; }
 	if(data.query.categoriesonanswers) {

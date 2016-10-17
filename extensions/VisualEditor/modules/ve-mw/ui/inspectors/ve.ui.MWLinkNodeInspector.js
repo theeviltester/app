@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/inspectors/ve.ui.MWLinkNodeInspector.js"]=5152;
+
 /*!
  * VisualEditor UserInterface MWLinkNodeInspector class.
  *

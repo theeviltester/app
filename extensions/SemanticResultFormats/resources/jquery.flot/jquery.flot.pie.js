@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.flot/jquery.flot.pie.js"]=21839;
+
 /*
 Flot plugin for rendering pie charts. The plugin assumes the data is 
 coming is as a single data value for each series, and each of those 

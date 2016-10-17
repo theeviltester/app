@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Wall/js/WallPagination.js"]=1515;
+
 (function($) {
 
 Wall.Pagination = $.createClass(Observable, {

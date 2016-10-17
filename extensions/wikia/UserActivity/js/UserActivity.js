@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserActivity/js/UserActivity.js"]=1348;
+
 require([
 	'jquery',
 	'wikia.querystring'

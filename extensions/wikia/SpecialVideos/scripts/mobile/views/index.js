@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialVideos/scripts/mobile/views/index.js"]=4083;
+
 define('specialVideos.mobile.views.index', [
 	'wikia.mustache',
 	'media',

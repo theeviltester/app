@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/SlotTracker.js"]=3638;
+
 /*global setTimeout, define*/
 /*jshint camelcase:false, maxparams:5*/
 

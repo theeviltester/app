@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/languages/fi.js"]=1003;
+
 /*!
  * Finnish (Suomi) language functions
  * @author Santhosh Thottingal

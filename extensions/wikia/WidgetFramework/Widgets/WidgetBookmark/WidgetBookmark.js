@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WidgetFramework/Widgets/WidgetBookmark/WidgetBookmark.js"]=519;
+
 function WidgetBookmarkDo(widgetId, cmd, id) {
 
 	$().log(cmd + ' "' + id + '"', 'WidgetBookmark');

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/dom.js"]=3648;
+
 /* global define */
 define('wikia.dom', ['wikia.document'], function (doc) {
 	'use strict';

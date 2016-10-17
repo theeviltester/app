@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/importers/html-table-importer.js"]=6440;
+
 /*==================================================
  *  Exhibit.HtmlTableImporter
  *==================================================

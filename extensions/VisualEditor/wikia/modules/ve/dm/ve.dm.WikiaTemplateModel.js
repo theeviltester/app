@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/dm/ve.dm.WikiaTemplateModel.js"]=2138;
+
 /*!
  * VisualEditor DataModel WikiaTemplateModel class.
  * @license The MIT License (MIT); see LICENSE.txt

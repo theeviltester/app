@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalNavigation/scripts/GlobalNavigationAccountNavigation.js"]=3555;
+
 require([
 	'jquery',
 	'GlobalNavigationiOSScrollFix',

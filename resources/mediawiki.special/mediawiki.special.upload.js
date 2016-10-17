@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.special/mediawiki.special.upload.js"]=8828;
+
 /*
  * JavaScript for Special:Upload
  * Note that additional code still lives in skins/common/upload.js

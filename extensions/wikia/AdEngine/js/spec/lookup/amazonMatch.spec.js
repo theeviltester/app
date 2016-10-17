@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/lookup/amazonMatch.spec.js"]=6149;
+
 /*global describe, it, modules, expect, spyOn*/
 describe('Method ext.wikia.adEngine.lookup.amazonMatch', function () {
 	'use strict';

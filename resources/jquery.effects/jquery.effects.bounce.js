@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.effects/jquery.effects.bounce.js"]=3062;
+
 /*
  * jQuery UI Effects Bounce 1.8.17
  *

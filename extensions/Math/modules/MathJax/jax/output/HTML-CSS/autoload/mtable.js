@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/autoload/mtable.js"]=18765;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/autoload/mtable.js

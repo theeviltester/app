@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VisualEditorTourExperiment/scripts/VisualEditorTourExperimentConfig.js"]=10914;
+
 define('VisualEditorTourExperimentConfig', [], function () {
 	'use strict';
 

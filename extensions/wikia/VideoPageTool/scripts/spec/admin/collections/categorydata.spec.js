@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/spec/admin/collections/categorydata.spec.js"]=2684;
+
 /*global describe, it, expect, beforeEach, modules, spyOn */
 describe('VideoPageTool: Admin CategoryData Collection ( Backbone ):', function () {
 	'use strict';

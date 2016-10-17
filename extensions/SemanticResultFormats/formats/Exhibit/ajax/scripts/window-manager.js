@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/window-manager.js"]=16905;
+
 /**
  * @fileOverview UI layers and window-wide dragging
  * @name SimileAjax.WindowManager

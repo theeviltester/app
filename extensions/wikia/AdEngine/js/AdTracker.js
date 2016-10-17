@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/AdTracker.js"]=3651;
+
 /*global define*/
 /*jshint camelcase:false*/
 define('ext.wikia.adEngine.adTracker', ['wikia.tracker', 'wikia.window', 'wikia.log'], function (tracker, window, log) {

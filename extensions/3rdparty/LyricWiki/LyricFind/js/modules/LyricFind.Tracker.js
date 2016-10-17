@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/3rdparty/LyricWiki/LyricFind/js/modules/LyricFind.Tracker.js"]=492;
+
 define('LyricFindTracker', ['wikia.window', 'jquery'], function(window, $) {
 	function track(amgId, gracenoteId, title) {
 		var img = new Image(),

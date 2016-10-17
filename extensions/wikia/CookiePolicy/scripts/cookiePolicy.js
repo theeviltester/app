@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CookiePolicy/scripts/cookiePolicy.js"]=1820;
+
 require([
 	'jquery',
 	'mw',

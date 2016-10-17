@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Captcha/scripts/Captcha.js"]=1850;
+
 $(function () {
 	'use strict';
 

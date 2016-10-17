@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/metaitems/ve.dm.MWCategoryMetaItem.js"]=2483;
+
 /*!
  * VisualEditor DataModel MWCategoryMetaItem class.
  *

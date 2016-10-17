@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.expandableField.js"]=3659;
+
 /**
  * This plugin provides functionality to expand a text box on focus to double it's current width
  *

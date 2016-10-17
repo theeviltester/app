@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Search/js/SearchAbTest.DomUpdater.js"]=2305;
+
 define( 'SearchAbTest.DomUpdater', ['jquery', 'wikia.log'], function( $, log ) {
 	'use strict';
 	var searchPaginationLinksSelector = '.wikia-paginator a.paginator-page, .search-tabs a, a.paginator-next, a.paginator-prev',

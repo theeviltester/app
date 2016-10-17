@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideosModule/scripts/controllers/inContent.js"]=1906;
+
 require([
 	'videosmodule.views.index',
 	'videosmodule.models.videos',

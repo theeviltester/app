@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/AdLogicPageParams.spec.js"]=9260;
+
 /*global describe, it, expect, modules*/
 /*jshint camelcase:false*/
 /*jshint maxlen:200*/

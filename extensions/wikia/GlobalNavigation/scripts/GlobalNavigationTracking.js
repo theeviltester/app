@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalNavigation/scripts/GlobalNavigationTracking.js"]=4180;
+
 $(function ($) {
 	'use strict';
 	var searchSuggestionsShowed, track, $globalNavigation, $globalNavigationSearch;

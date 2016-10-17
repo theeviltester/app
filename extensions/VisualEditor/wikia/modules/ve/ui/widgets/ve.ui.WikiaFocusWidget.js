@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/widgets/ve.ui.WikiaFocusWidget.js"]=8200;
+
 /*!
  * VisualEditor UserInterface WikiaFocusWidget class.
  */

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.fullcalendar/fullcalendar.js"]=124631;
+
 /**
  * @preserve
  * FullCalendar v1.5.4

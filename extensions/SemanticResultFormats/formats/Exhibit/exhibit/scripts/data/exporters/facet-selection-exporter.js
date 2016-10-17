@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/exporters/facet-selection-exporter.js"]=797;
+
 /*==================================================
  *  Exhibit.FacetSelectionExporter
  *==================================================

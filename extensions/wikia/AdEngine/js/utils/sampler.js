@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/utils/sampler.js"]=291;
+
 define('ext.wikia.adEngine.utils.sampler', function () {
 	'use strict';
 

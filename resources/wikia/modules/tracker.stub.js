@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/tracker.stub.js"]=5933;
+
 /**
  * This is a stub for the tracker implementation, it contains all public
  * methods and properties that will exist for the tracker API but acts only

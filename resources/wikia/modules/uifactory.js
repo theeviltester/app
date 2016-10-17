@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/uifactory.js"]=4622;
+
 /**
  * JS version of Factory.class.php - part of UI repo API for rendering components
  *

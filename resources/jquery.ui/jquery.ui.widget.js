@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.widget.js"]=7003;
+
 /*!
  * jQuery UI Widget 1.8.17
  *

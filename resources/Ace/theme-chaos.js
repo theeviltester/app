@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/theme-chaos.js"]=4459;
+
 /* ***** BEGIN LICENSE BLOCK *****
  * Distributed under the BSD license:
  * 

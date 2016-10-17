@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ContentWarning/js/ContentWarning.js"]=1224;
+
 /*global jQuery, window*/
 jQuery(function ($) {
 	'use strict';

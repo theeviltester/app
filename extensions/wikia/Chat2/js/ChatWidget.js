@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Chat2/js/ChatWidget.js"]=6907;
+
 /*global UserLoginModal*/
 
 var ChatWidget = {

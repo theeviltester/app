@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalShortcuts/scripts/Mousetrap.js"]=26086;
+
 /*global define:false */
 /**
  * Copyright 2015 Craig Campbell

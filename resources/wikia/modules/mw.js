@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/mw.js"]=118;
+
 /**
  * AMD wrapper for mw global object
  */

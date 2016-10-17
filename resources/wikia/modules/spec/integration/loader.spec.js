@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/integration/loader.spec.js"]=3940;
+
 /*global describe, getBody, spyOn, modules*/
 describe('Loader Module', function () {
 	'use strict';

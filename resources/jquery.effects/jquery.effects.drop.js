@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.effects/jquery.effects.drop.js"]=1662;
+
 /*
  * jQuery UI Effects Drop 1.8.17
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/parallel-load/t0.js"]=1442;
+
 function test(){ 
 	var theTest = new Y.Test.Case({ 
 		 name: "Parallel Loading Test"

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/JSMessages/js/spec/JSMessages.spec.js"]=4166;
+
 describe('JSMessages', function () {
 	'use strict';
 

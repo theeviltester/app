@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/imageServing.js"]=1480;
+
 /*
  * @define wikia.imageServing
  * module used to handle

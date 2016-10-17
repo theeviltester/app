@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/ajax/simile-ajax-api.js"]=7772;
+
 /*==================================================
  *  Simile Ajax API
  *==================================================

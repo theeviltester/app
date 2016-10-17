@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/tabs.js"]=1363;
+
 
 /**
  * @author Sean Colombo, Christian Williams

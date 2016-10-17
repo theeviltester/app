@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/languages/dsb.js"]=452;
+
 /*!
  * Lower Sorbian (Dolnoserbski) language functions
  */

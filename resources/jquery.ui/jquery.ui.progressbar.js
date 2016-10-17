@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.progressbar.js"]=2374;
+
 /*
  * jQuery UI Progressbar 1.8.17
  *

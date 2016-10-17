@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.pieRenderer.js"]=35500;
+
 /**
  * jqPlot
  * Pure JavaScript plotting plugin using jQuery

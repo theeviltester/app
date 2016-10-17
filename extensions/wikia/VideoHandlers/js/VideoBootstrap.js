@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoHandlers/js/VideoBootstrap.js"]=4155;
+
 /**
  * Initialize a new video instance
  * Important: If an init function is specified, it must handle it's own tracking

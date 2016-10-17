@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RelatedPages/js/relatedPages.wikiamobile.js"]=5829;
+
 /**
  * Module that handles related pages that are lazy loaded and added at the end of sections
  * that are longer than 1000px

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaStyleGuide/js/Form.js"]=5438;
+
 (function () {
 	'use strict';
 

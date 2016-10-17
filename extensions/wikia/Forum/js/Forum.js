@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Forum/js/Forum.js"]=1851;
+
 (function (window, $) {
 	'use strict';
 	var bucky = window.Bucky('Forum'),

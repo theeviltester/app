@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/modules/License.js"]=985;
+
 (function(window){
 
 	var WE = window.WikiaEditor;

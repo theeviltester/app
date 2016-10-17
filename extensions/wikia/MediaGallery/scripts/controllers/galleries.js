@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MediaGallery/scripts/controllers/galleries.js"]=1728;
+
 require(['mediaGallery.views.gallery'], function (Gallery) {
 	'use strict';
 

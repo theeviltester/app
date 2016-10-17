@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/shared/views/owlcarousel.js"]=625;
+
 define('shared.views.owlcarousel', [], function () {
 	'use strict';
 	var OwlCarouselView = Backbone.View.extend({

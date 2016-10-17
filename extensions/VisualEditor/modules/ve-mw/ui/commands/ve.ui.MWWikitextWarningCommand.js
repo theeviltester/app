@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/commands/ve.ui.MWWikitextWarningCommand.js"]=1354;
+
 /*!
  * VisualEditor UserInterface MediaWiki WikitextWarningCommand class.
  *

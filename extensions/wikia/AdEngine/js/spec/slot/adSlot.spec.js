@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/slot/adSlot.spec.js"]=585;
+
 /*global describe, it, expect, modules*/
 describe('ext.wikia.adEngine.slot.adSlot', function () {
 	'use strict';

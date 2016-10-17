@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/dialogs/ve.ui.WikiaMapInsertDialog.js"]=6172;
+
 /*!
  * VisualEditor user interface WikiaMapInsertDialog class.
  */

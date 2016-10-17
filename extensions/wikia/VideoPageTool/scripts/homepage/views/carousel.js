@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/homepage/views/carousel.js"]=3589;
+
 /**
  * View for carousel wrapper.  Data is category display title and thumbs list
  */

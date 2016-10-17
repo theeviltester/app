@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideosModule/scripts/spec/models/videos.spec.js"]=1183;
+
 describe('VideosModule -- sData Data: ', function () {
 	'use strict';
 	var VideosData,

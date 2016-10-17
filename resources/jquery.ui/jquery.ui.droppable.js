@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.droppable.js"]=10171;
+
 /*
  * jQuery UI Droppable 1.8.17
  *

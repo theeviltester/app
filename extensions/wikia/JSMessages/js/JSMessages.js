@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/JSMessages/js/JSMessages.js"]=9233;
+
 (function(context){
 	var shift = Array.prototype.shift,
 		join = Array.prototype.join;

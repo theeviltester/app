@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/rhtml.js"]=163;
+
 ace.define('ace/snippets/rhtml', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

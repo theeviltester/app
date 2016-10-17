@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/delayedHover.js"]=199;
+
 define('wikia.delayedhover', ['wikia.window'], function(win) {
 	'use strict';
 

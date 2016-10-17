@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/expression.js"]=15907;
+
 /*==================================================
  *  Exhibit.Expression
  *  http://simile.mit.edu/wiki/Exhibit/API/Expression

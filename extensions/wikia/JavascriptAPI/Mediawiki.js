@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/JavascriptAPI/Mediawiki.js"]=28243;
+
 /* Javascript API for interacting with Mediawiki. The Mediawiki API for PHP is great, and it allows
  * for JSON responses. This Javascript API allows for interacting with that API from a web browser.
  * Why use an intermediary scripting layer, just call the Mediawiki api right on the page. Probably

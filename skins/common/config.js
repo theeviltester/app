@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/common/config.js"]=3335;
+
 (function( $ ) {
 	$( document ).ready( function() {
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/cookies/jquery.cookies.2.1.0.js"]=10893;
+
 /**
  * Copyright (c) 2005 - 2009, James Auldridge
  * All rights reserved.

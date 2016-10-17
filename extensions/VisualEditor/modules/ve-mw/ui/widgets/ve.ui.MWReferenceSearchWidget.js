@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/widgets/ve.ui.MWReferenceSearchWidget.js"]=6459;
+
 /*!
  * VisualEditor UserInterface MWReferenceSearchWidget class.
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/spec/autocomplete.spec.js"]=1018;
+
 /*global describe, it, expect, afterEach, beforeEach, modules */
 describe('VideoPageTool: Admin AutocompleteView ( Backbone ):', function () {
 	'use strict';

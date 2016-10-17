@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/tools/ve.ui.WikiaInfoboxDialogTool.js"]=1133;
+
 /**
  * MediaWiki UserInterface transclusion tool.
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/provider/rubiconFastlane.spec.js"]=3470;
+
 /*global beforeEach, describe, it, modules, expect, spyOn*/
 describe('Rubicon Fastlane provider', function () {
 	'use strict';

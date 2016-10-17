@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CreateNewWiki/js/WikiBuilder.js"]=15328;
+
 /*global WikiBuilderCfg, ThemeDesigner */
 
 define('ext.createNewWiki.builder', ['ext.createNewWiki.helper', 'wikia.tracker'], function (helper, tracker) {

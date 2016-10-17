@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/views/impactFooter.js"]=4814;
+
 define('ext.wikia.recirculation.views.impactFooter', [
 	'jquery',
 	'wikia.window',

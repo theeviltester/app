@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/DesignSystem/scripts/DesignSystemGlobalNavigationNotifications.js"]=10942;
+
 require(
 	['jquery', 'wikia.window', 'wikia.nirvana'],
 	function($, window, nirvana) {

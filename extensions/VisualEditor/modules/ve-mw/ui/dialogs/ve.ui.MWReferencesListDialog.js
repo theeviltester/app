@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/dialogs/ve.ui.MWReferencesListDialog.js"]=4879;
+
 /*!
  * VisualEditor user interface MWReferencesListDialog class.
  *

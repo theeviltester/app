@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/template/playwire.js"]=977;
+
 /*global define*/
 define('ext.wikia.adEngine.template.playwire', [
 	'ext.wikia.adEngine.video.playwire',

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpitfiresContributionExperiments/scripts/experiments-tracker.js"]=1497;
+
 /*global define*/
 define('ext.wikia.spitfires.experiments.tracker', [
 	'wikia.tracker',

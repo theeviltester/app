@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ce/nodes/ve.ce.MWHeadingNode.js"]=1301;
+
 /*!
  * VisualEditor ContentEditable MWHeadingNode class.
  *

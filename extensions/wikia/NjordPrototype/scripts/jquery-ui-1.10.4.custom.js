@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/NjordPrototype/scripts/jquery-ui-1.10.4.custom.js"]=84787;
+
 /*! jQuery UI - v1.10.4 - 2015-02-02
 * http://jqueryui.com
 * Includes: jquery.ui.core.js, jquery.ui.widget.js, jquery.ui.mouse.js, jquery.ui.position.js, jquery.ui.draggable.js, jquery.ui.droppable.js

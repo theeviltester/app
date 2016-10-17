@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ce/annotations/ve.ce.MWInternalLinkAnnotation.js"]=1891;
+
 /*!
  * VisualEditor ContentEditable MWInternalLinkAnnotation class.
  *

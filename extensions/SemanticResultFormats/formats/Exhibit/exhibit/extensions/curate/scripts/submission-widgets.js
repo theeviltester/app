@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/curate/scripts/submission-widgets.js"]=2735;
+
 Exhibit.Submission = {};
 
 Exhibit.Submission.submissionWidgets = ['submission-property', 'submission-button'];

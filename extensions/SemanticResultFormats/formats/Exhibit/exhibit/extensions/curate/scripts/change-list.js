@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/curate/scripts/change-list.js"]=5113;
+
 //=============================================================================
 // ChangeListView
 // Tracks changes made to Exhibit items through item changing interfaces, and

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/spec/WikiaMapsUtils.spec.js"]=1971;
+
 describe('wikia.maps.utils', function () {
 	'use strict';
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/yui/extra/carousel-min.js"]=29270;
+
 /**
  * Copyright (c) 2006-2007, Bill W. Scott. All rights reserved.
  * This work is licensed under the Creative Commons Attribution 2.5 License. To view a copy 

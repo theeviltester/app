@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/helpers/DataHelper.js"]=1143;
+
 define('ext.wikia.recirculation.helpers.data', [
 	'jquery',
 	'wikia.window',

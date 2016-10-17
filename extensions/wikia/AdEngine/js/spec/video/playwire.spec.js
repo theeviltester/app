@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/video/playwire.spec.js"]=2033;
+
 /*global describe, it, expect, modules, beforeEach, spyOn*/
 describe('ext.wikia.adEngine.video.playwire', function () {
 	'use strict';

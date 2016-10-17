@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/mixins/UserSignup.mixin.js"]=535;
+
 (function () {
 	'use strict';
 

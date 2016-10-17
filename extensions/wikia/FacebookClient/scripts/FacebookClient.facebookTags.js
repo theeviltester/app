@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/FacebookClient/scripts/FacebookClient.facebookTags.js"]=637;
+
 /* global FB */
 
 /**

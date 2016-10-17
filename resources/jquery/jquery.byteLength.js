@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.byteLength.js"]=730;
+
 /**
  * jQuery.byteLength
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/discussions.js"]=1260;
+
 define('ext.wikia.recirculation.discussions', [
 	'jquery',
 	'wikia.window',

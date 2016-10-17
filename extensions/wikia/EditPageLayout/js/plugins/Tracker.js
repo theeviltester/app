@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/plugins/Tracker.js"]=5648;
+
 /**
  * Tracking for the editor.
  */

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaQuiz/js/CreateWikiaQuiz.js"]=3768;
+
 var CreateWikiaQuiz = {
 
 	init: function() {

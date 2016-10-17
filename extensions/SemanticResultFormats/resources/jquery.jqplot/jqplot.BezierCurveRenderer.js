@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.BezierCurveRenderer.js"]=14475;
+
 /**
  * jqPlot
  * Pure JavaScript plotting plugin using jQuery

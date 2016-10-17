@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/mode-luapage.js"]=104853;
+
 ace.define('ace/mode/luapage', ['require', 'exports', 'module' , 'ace/lib/oop', 'ace/mode/html', 'ace/mode/lua', 'ace/tokenizer', 'ace/mode/luapage_highlight_rules'], function(require, exports, module) {
 
 

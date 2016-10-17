@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.effects/jquery.effects.transfer.js"]=1131;
+
 /*
  * jQuery UI Effects Transfer 1.8.17
  *

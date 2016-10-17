@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Maps/includes/services/OpenLayers/jquery.openlayers.js"]=19609;
+
 /**
  * JavaScript for OpenLayers maps in the Maps extension.
  * @see http://www.mediawiki.org/wiki/Extension:Maps

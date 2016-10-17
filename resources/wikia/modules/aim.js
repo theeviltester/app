@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/aim.js"]=1995;
+
 /**
  * AJAX IFRAME METHOD (AIM) rewritten for jQuery
  * @see http://www.webtoolkit.info/

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Lightbox/scripts/spec/integration/lightbox.spec.js"]=1787;
+
 describe('Lightbox', function () {
 	'use strict';
 

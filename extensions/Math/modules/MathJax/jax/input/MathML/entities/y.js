@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/input/MathML/entities/y.js"]=1200;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/entities/y.js

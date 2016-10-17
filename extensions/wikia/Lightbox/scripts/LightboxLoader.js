@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Lightbox/scripts/LightboxLoader.js"]=13342;
+
 /*global Lightbox:true */
 
 (function (window, $) {

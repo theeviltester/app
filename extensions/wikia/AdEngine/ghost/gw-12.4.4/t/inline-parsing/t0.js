@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/inline-parsing/t0.js"]=731;
+
 function test(Y){
 var inlineWriteHandlerTest = new Y.Test.Case({ 
 	name: "Inline Document.write tests", 

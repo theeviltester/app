@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/TemplateClassification/scripts/TemplateClassificationLabeling.js"]=2701;
+
 /**
  * TemplateClassificationLabeling module
  *

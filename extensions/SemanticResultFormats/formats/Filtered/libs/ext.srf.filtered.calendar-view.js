@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Filtered/libs/ext.srf.filtered.calendar-view.js"]=7146;
+
 /**
  * File holding the calendar-view plugin
  *

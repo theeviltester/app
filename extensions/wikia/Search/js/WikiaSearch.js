@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Search/js/WikiaSearch.js"]=2805;
+
 (function($, window) {
 
 var WikiaSearch = {

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/ArticleLengthAbTesting.js"]=749;
+
 require(['jquery', 'wikia.window', 'wikia.tracker'], function($, win, tracker) {
 	'use strict';
 

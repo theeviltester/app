@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.checkboxShiftClick.js"]=898;
+
 /**
  * jQuery checkboxShiftClick
  *

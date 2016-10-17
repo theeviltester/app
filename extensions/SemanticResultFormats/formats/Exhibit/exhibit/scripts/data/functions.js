@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/functions.js"]=10838;
+
 /*==================================================
  *  Exhibit.Functions
  *  http://simile.mit.edu/wiki/Exhibit/API/Functions

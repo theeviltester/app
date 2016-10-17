@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/lookup/rubicon/rubiconVulcan.js"]=4502;
+
 /*global define*/
 define('ext.wikia.adEngine.lookup.rubicon.rubiconVulcan', [
 	'ext.wikia.adEngine.lookup.lookupFactory',

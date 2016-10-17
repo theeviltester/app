@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/metaitems/ve.dm.MWAlienMetaItem.js"]=1034;
+
 /*!
  * VisualEditor DataModel MWAlienMetaItem class.
  *

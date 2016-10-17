@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/InsightsV2/scripts/InsightsLoopNotificationTracking.js"]=2015;
+
 /**
  * LoopNotificationTracking for Insights extension
  * Module sends tracking record to google analytics and internal analytics

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EmbeddableDiscussions/scripts/sharing.js"]=2339;
+
 /**
  * Functionality for social network sharing for Embeddable Discussions extension
  */

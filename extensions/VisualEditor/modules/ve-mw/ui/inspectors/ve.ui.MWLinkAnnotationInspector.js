@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/inspectors/ve.ui.MWLinkAnnotationInspector.js"]=4011;
+
 /*!
  * VisualEditor UserInterface LinkInspector class.
  *

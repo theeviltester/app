@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/flot/jquery.flot.threshold.js"]=3380;
+
 /*
 Flot plugin for thresholding data. Controlled through the option
 "threshold" in either the global series options

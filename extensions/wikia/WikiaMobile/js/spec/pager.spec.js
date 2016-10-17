@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/pager.spec.js"]=1621;
+
 /*global describe, it, expect*/
 describe('Pager module', function () {
 	'use strict';

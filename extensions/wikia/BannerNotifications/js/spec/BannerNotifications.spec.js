@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/BannerNotifications/js/spec/BannerNotifications.spec.js"]=2247;
+
 /*global describe, it, expect, BannerNotification*/
 describe('Banner Notification', function () {
 	'use strict';

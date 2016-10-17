@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticMaps/includes/services/OpenLayers/jquery.openlayersinput.js"]=3282;
+
 /**
  * JavaScript for the OpenLayers form input of the Semantic Maps extension.
  * @see http://www.mediawiki.org/wiki/Extension:Semantic_Maps

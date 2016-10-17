@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/HeaderTabs/skins-yui/headertabs.js"]=2567;
+
 // Tabs code
 if (typeof HeaderTabs == "undefined") {
     var HeaderTabs = { };

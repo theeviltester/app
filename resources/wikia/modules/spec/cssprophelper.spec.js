@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/cssprophelper.spec.js"]=1469;
+
 describe('CSSPropsHelper', function () {
 	'use strict';
 

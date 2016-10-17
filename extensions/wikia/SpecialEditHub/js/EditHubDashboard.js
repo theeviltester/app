@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialEditHub/js/EditHubDashboard.js"]=2364;
+
 var EditHub = function() {};
 
 EditHub.prototype = {

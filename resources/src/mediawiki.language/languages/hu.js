@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/languages/hu.js"]=449;
+
 /*!
  * Hungarian language functions
  * @author Santhosh Thottingal

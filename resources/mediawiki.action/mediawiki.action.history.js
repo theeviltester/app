@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.action/mediawiki.action.history.js"]=3993;
+
 /**
  * JavaScript for History action
  */

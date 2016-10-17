@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/WikiaDartHelper.js"]=2523;
+
 // TODO: This file is only used by JWPlayer. Remove it when JWPlayer is removed
 /*global define*/
 define('ext.wikia.adEngine.dartHelper', [

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/provider/gpt/adSizeConverter.spec.js"]=485;
+
 /*global describe, it, expect, modules*/
 describe('ext.wikia.adEngine.provider.gpt.adSizeConverter', function () {
 	'use strict';

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.cursor.js"]=46088;
+
 /**
  * jqPlot
  * Pure JavaScript plotting plugin using jQuery

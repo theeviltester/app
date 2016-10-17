@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/element/mml/optable/CombDiactForSymbols.js"]=1081;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/optable/CombDiactForSymbols.js

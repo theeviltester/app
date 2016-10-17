@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/loader.js"]=14190;
+
 /*global define, require*/
 /**
  * Single place to call when you want to load something from server

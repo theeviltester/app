@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/FlowTracking/scripts/createPageTracking.js"]=1638;
+
 define(
 	'ext.wikia.flowTracking.createPageTracking',
 	['wikia.flowTracking', 'wikia.querystring', 'mw', 'wikia.document', 'wikia.window'],

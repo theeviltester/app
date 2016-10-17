@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MiniEditor/js/Wall/Wall.ReplyMessageForm.js"]=2612;
+
 (function($) {
 
 MiniEditor.Wall = MiniEditor.Wall || {};

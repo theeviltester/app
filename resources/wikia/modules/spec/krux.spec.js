@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/krux.spec.js"]=4396;
+
 /*global describe, it, modules, expect, window, spyOn*/
 describe('Krux module', function () {
 	'use strict';

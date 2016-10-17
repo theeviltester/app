@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/dm/ve.dm.WikiaBlockMediaNode.js"]=1008;
+
 /*!
  * VisualEditor DataModel WikiaBlockMediaNode class.
  * @license The MIT License (MIT); see LICENSE.txt

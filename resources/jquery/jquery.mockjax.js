@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.mockjax.js"]=11964;
+
 /*!
  * MockJax - jQuery Plugin to Mock Ajax requests
  *

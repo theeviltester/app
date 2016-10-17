@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/ui_components/drawer/js/drawer.js"]=4241;
+
 define('wikia.ui.drawer', ['jquery', 'wikia.window'], function ($, w) {
 	'use strict';
 

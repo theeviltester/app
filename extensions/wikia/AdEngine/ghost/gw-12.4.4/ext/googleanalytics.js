@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/ext/googleanalytics.js"]=6361;
+
 /* 
  * 
  * @preserve Copyright(c) 2010-2011 Digital Fulrcum, LLC 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/freebase/freebase-extension-bundle-debug.js"]=2493;
+
 
 
 /* freebase-importer.js */

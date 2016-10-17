@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/thumbnailer.js"]=6987;
+
 /**
  * Helper module to generate the URL to a thumbnail of specific size from JS.
  * This file references and supports both the current thumbnailer, aka Vignette, and the legacy thumbnailer.

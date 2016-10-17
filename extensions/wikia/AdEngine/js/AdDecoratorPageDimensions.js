@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/AdDecoratorPageDimensions.js"]=1087;
+
 /*global define*/
 define('ext.wikia.adEngine.adDecoratorPageDimensions', [
 	'ext.wikia.adEngine.adLogicPageDimensions', 'wikia.log', 'ext.wikia.adEngine.eventDispatcher'

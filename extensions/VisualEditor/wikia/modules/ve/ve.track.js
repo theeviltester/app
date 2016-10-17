@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ve.track.js"]=6744;
+
 /*!
  * VisualEditor tracking for Wikia
  */

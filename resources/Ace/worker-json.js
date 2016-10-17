@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/worker-json.js"]=67245;
+
 "no use strict";
 ;(function(window) {
 if (typeof window.window != "undefined" && window.document) {

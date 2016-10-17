@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoEmbedTool/js/VET_Loader.js"]=3988;
+
 /* VET Loader
  *
  * @author Hyun Lim, Liz Lee

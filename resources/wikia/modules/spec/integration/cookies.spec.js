@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/integration/cookies.spec.js"]=1595;
+
 describe("Cookies", function () {
 	'use strict';
 

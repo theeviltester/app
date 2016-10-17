@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/exporters/rdf-xml-exporter.js"]=3303;
+
 /*==================================================
  *  Exhibit.RdfXmlExporter
  *==================================================

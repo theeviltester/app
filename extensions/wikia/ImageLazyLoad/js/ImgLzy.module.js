@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ImageLazyLoad/js/ImgLzy.module.js"]=5480;
+
 /*global syslogReport: true */
 /* jshint maxlen: 150 */
 /* Lazy loading for images inside articles (skips wikiamobile)

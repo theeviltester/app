@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/python.js"]=4084;
+
 ace.define('ace/snippets/python', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

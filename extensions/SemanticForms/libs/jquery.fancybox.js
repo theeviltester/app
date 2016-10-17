@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticForms/libs/jquery.fancybox.js"]=28205;
+
 /*
  * FancyBox - jQuery Plugin
  * Simple and fancy lightbox alternative

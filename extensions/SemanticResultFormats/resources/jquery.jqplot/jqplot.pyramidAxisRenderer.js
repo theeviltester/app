@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.pyramidAxisRenderer.js"]=29618;
+
 /**
  * jqPlot
  * Pure JavaScript plotting plugin using jQuery

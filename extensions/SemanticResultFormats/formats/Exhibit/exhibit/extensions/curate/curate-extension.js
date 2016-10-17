@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/curate/curate-extension.js"]=2074;
+
 /*==================================================
  *  Simile Exhibit Curate Extension
  *==================================================

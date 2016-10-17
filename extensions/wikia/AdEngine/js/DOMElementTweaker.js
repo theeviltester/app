@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/DOMElementTweaker.js"]=1971;
+
 /*global define*/
 define('ext.wikia.adEngine.domElementTweaker', [
 	'wikia.log',

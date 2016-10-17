@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/js/WikiaMapsCreateMapTileSet.js"]=8084;
+
 define(
 	'wikia.maps.createMap.tileSet',
 	[

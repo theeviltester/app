@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticMaps/includes/forminputs/jquery.mapforminput.js"]=3409;
+
 /**
  * JavaScript for the form inputs of the Semantic Maps extension.
  * @see http://www.mediawiki.org/wiki/Extension:Semantic_Maps

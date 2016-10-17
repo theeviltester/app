@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/WikiaDartHelper.spec.js"]=10224;
+
 describe('WikiaDartHelper', function(){
 	it('getUrl returns whatever comes from dartUrl.urlBuilder.toString method', function() {
 		var logMock = function() {},

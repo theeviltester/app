@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ThemeDesigner/js/ThemeDesigner.js"]=30611;
+
 /* global $ */
 (function (window) {
 	'use strict';

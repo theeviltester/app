@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/store/jquery.store.js"]=8340;
+
 /*
  * jQuery store - Plugin for persistent data storage using localStorage, userData (and window.name)
  *

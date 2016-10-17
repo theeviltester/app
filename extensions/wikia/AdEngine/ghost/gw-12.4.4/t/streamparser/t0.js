@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/streamparser/t0.js"]=9406;
+
 window.HTMLParser= ghostwriter.htmlstreamparser
 function test(Y){
 

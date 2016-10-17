@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/AdLogicDartSubdomain.js"]=703;
+
 /*global define*/
 define('ext.wikia.adEngine.adLogicDartSubdomain', ['wikia.geo'], function (Geo) {
 	'use strict';

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/ext/geochrono/scripts/geochrono.js"]=10846;
+
 /*==================================================
  *  Geochrono
  *==================================================

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Maps/includes/services/OpenLayers/OSM/OpenStreetMap.js"]=3816;
+
 /**
  * Namespace: Util.OSM
  */

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/slot/bottomLeaderboard.js"]=1254;
+
 /*global define*/
 define('ext.wikia.adEngine.slot.bottomLeaderboard', [
 	'ext.wikia.adEngine.adHelper',

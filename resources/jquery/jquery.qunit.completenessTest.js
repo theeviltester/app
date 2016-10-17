@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.qunit.completenessTest.js"]=7442;
+
 /**
  * jQuery QUnit CompletenessTest 0.3
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/overlay/plugin.js"]=7314;
+
 CKEDITOR.plugins.add('rte-overlay',
 {
 	// overlays container

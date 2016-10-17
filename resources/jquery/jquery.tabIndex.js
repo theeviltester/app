@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.tabIndex.js"]=1362;
+
 /**
  * jQuery tabIndex
  */

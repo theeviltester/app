@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.logAxisRenderer.js"]=21630;
+
 /**
  * jqPlot
  * Pure JavaScript plotting plugin using jQuery

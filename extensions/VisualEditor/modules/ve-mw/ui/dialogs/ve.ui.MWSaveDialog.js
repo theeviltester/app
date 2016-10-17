@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/dialogs/ve.ui.MWSaveDialog.js"]=15418;
+
 /*!
  * VisualEditor UserInterface MWSaveDialog class.
  *

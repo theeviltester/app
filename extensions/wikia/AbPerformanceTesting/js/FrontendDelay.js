@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AbPerformanceTesting/js/FrontendDelay.js"]=3479;
+
 /**
  * Introduce a delayed onDOMReady event to measure the impact of performance regressions
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki/mediawiki.log.js"]=2379;
+
 /**
  * Logger for MediaWiki javascript.
  * Implements the stub left by the main 'mediawiki' module.

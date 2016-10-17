@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/integration/modal.spec.js"]=4859;
+
 /*global describe, it, afterEach, getBody, expect, jasmine, document*/
 describe('Modal module', function () {
 	'use strict';

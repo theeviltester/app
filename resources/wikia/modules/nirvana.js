@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/nirvana.js"]=3626;
+
 /**
  * Helper module for making AJAX requests to Nirvana controllers
  */

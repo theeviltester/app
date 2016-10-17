@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Search/js/spec/SearchAbTest.Context.spec.js"]=3561;
+
 // unit tests
 describe('SearchAbTest.Context', function() {
 	var logMock = function() {};

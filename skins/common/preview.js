@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/common/preview.js"]=3819;
+
 /**
  * Live preview script for MediaWiki
  */

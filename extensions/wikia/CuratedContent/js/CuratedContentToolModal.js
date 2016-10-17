@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CuratedContent/js/CuratedContentToolModal.js"]=1075;
+
 define(
 	'curatedContentTool.modal',
 	['wikia.ui.factory', 'curatedContentTool.pontoBridge', 'JSMessages'],

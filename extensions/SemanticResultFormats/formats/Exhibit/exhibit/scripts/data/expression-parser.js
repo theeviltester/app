@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/expression-parser.js"]=12129;
+
 /*==================================================
  *  Exhibit.ExpressionParser
  *  http://simile.mit.edu/wiki/Exhibit/API/ExpressionParser

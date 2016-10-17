@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/no/scripts/ui/views/view-panel-l10n.js"]=922;
+
 /*==================================================
  *  Exhibit.ViewPanel Norwegian localization
  *==================================================

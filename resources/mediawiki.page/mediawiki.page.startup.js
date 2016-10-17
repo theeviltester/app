@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.page/mediawiki.page.startup.js"]=1306;
+
 ( function ( mw, $ ) {
 
 	mw.page = {};

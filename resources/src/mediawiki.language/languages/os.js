@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/languages/os.js"]=1892;
+
 /*!
  * Ossetian (Ирон) language functions
  * @author Santhosh Thottingal

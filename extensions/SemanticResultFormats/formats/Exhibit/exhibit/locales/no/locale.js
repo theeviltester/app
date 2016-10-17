@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/no/locale.js"]=1473;
+
 /*==================================================
  *  Norwegian (bokmål) localization
  *

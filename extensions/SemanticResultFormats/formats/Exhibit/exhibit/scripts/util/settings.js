@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/util/settings.js"]=13160;
+
 /*==================================================
  *  Exhibit.SettingsUtilities
  *

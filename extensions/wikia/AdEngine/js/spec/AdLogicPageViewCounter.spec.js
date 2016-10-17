@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/AdLogicPageViewCounter.spec.js"]=2820;
+
 /*global describe, it, expect, modules, spyOn*/
 describe('AdLogicPageViewCounter', function () {
 	'use strict';

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/exhibit.js"]=12494;
+
 /*======================================================================
  *  Exhibit
  *  http://simile.mit.edu/wiki/Exhibit/API/Exhibit

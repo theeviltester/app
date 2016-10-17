@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/GlobalModal.js"]=1336;
+
 /**
  * Global Modal helper
  * if query parameter contains "modal=XYZ", it will execute "showXYZ()" if the function exists

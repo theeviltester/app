@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/infobox.js"]=1766;
+
 require(['jquery', 'wikia.window'], function($, window){
 	'use strict';
 

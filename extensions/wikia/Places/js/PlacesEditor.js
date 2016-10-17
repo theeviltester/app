@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Places/js/PlacesEditor.js"]=5641;
+
 /*global google: true*/
 var PlacesEditor = {
 	map : false,

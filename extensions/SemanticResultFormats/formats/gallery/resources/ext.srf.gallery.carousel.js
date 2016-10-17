@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/gallery/resources/ext.srf.gallery.carousel.js"]=1919;
+
 /**
  * JavaScript for SRF Gallery jcarousel module
  * @see http://www.semantic-mediawiki.org/wiki/Help:Gallery format

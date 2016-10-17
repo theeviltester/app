@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Bucky/js/spec/bucky_resources_timing.spec.js"]=2614;
+
 /*global describe,it,expect,modules*/
 /*jshint maxlen: 200*/
 describe('BuckyResourcesTiming', function () {

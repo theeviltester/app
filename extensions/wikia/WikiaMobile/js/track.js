@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/track.js"]=927;
+
 /**
  * Module for consistent tracking on WikiaMobile
  *

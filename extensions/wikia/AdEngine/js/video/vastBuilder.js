@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/video/vastBuilder.js"]=1756;
+
 /*global define*/
 define('ext.wikia.adEngine.video.vastBuilder', [
 	'ext.wikia.adEngine.adContext',

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideosModule/scripts/views/index.js"]=5882;
+
 define('videosmodule.views.index', [
 	'sloth',
 	'videosmodule.views.titleThumbnail',

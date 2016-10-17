@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/modules/Container.js"]=3547;
+
 (function(window){
 
 	var WE = window.WikiaEditor;

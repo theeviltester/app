@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/media.js"]=18932;
+
 /*global define, Features */
 /**
  * Media handling in Wikia Mobile

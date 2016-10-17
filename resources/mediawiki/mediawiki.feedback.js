@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki/mediawiki.feedback.js"]=8116;
+
 /**
  * mediawiki.Feedback
  *

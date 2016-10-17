@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/widgets/ve.ui.MWNoParametersResultWidget.js"]=983;
+
 /*!
  * VisualEditor UserInterface MWNoParametersResultWidget class.
  *

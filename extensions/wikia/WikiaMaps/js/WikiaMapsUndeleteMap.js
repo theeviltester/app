@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/js/WikiaMapsUndeleteMap.js"]=1043;
+
 define(
 	'wikia.maps.undeleteMap',
 	[

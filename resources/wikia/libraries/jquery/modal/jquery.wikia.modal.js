@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/modal/jquery.wikia.modal.js"]=9194;
+
 //Modal
 $.fn.extend({
 

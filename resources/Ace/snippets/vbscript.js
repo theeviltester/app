@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/vbscript.js"]=169;
+
 ace.define('ace/snippets/vbscript', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Bucky/vendor/Weppy/gulpfile.js"]=1210;
+
 var gulp = require('gulp'),
 	qunit = require('gulp-qunit'),
 	rename = require('gulp-rename'),

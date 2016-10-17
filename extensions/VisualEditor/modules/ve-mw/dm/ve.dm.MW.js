@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/ve.dm.MW.js"]=245;
+
 /*!
  * VisualEditor DataModel MediaWiki configuration.
  *

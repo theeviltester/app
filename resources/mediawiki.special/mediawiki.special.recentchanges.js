@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.special/mediawiki.special.recentchanges.js"]=2132;
+
 /* JavaScript for Special:RecentChanges */
 ( function( $ ) {
 

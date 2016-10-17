@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/shared/scripts/transparent-out.js"]=705;
+
 ( function( $ ) {
 	'use strict';
 

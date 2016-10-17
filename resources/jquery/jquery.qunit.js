@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.qunit.js"]=56908;
+
 /**
  * QUnit v1.11.0 - A JavaScript Unit Testing Framework
  *

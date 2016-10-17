@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/multi-insert/t0.js"]=1257;
+
 function startTest(){ 
 	var hookTest= new Y.Test.Case({ 
 		 name: "Multi-call loadscripts"

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobileEditor/js/preview.js"]=3876;
+
 require( [
 	'modal',
 	'wikia.loader',

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Qualaroo/scripts/Qualaroo.js"]=2971;
+
 ( function ( window ) {
 	'use strict';
 	var _kiq = [],

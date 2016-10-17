@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/AbuseFilter/modules/ext.abuseFilter.examine.js"]=1958;
+
 /**
  * Filter checking for examine
  */

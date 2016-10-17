@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/FacebookClient/scripts/preferences.js"]=4790;
+
 /* global jQuery, mediaWiki */
 (function (window, $, mw) {
 	'use strict';

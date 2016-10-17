@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/throbber.js"]=821;
+
 /**
  * Module that shows throbber in a given container
  *

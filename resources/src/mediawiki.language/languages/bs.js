@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/languages/bs.js"]=441;
+
 /*!
  * Bosnian (bosanski) language functions
  */

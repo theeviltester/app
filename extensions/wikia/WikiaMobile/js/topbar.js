@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/topbar.js"]=5977;
+
 /**
  * Module used to control topbar on wikiamobile
  * has to be run onload event

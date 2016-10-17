@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/de/scripts/util/views-l10n.js"]=736;
+
 /*==================================================
  *  Exhibit.ViewUtilities German localization
  *==================================================

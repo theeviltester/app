@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/json.js"]=3570;
+
 /*
  *  Copied directly from http://www.json.org/json.js.
  */

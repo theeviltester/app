@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Wall/js/WallMessageForm.js"]=2884;
+
 /* global Wall:true, UserLoginAjaxForm, UserLoginModal, Observable */
 (function (window, $, mw) {
 	'use strict';

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ce/ve.ce.WikiaBlockVideoNode.js"]=1007;
+
 /*!
  * VisualEditor ContentEditable WikiaBlockVideoNode class.
  *

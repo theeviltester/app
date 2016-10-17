@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CreatePage/js/focus.js"]=257;
+
 $(function() {
     $("#postTitle").keydown(function (e) {
     	if(e.keyCode == 9){

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/nl/scripts/ui/widgets/collection-summary-widget-l10n.js"]=1054;
+
 /*==================================================
  *  Exhibit.CollectionSummaryWidget English localization
  *==================================================

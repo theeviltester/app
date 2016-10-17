@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/tools/ve.ui.MWReferenceDialogTool.js"]=3167;
+
 /*!
  * VisualEditor MediaWiki Reference dialog tool classes.
  *

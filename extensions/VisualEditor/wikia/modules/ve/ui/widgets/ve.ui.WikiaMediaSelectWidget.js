@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/widgets/ve.ui.WikiaMediaSelectWidget.js"]=1099;
+
 /*!
  * VisualEditor UserInterface WikiaMediaSelectWidget class.
  */

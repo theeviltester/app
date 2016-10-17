@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MediaGallery/scripts/views/gallery.js"]=7105;
+
 define('mediaGallery.views.gallery', [
 	'mediaGallery.views.media',
 	'mediaGallery.views.toggler',

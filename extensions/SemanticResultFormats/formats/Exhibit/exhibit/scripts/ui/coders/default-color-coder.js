@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/coders/default-color-coder.js"]=2447;
+
 /*==================================================
  *  Exhibit.DefaultColorCoder
  *==================================================

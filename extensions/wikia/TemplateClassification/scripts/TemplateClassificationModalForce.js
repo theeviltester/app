@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/TemplateClassification/scripts/TemplateClassificationModalForce.js"]=940;
+
 /**
  * Extension provides a method to force TemplateClassification
  * if both New and Current templateClassificationType hidden fields in #editform are not filled

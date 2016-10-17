@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/haskell.js"]=2166;
+
 ace.define('ace/snippets/haskell', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

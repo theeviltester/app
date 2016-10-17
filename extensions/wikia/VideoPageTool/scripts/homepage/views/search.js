@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/homepage/views/search.js"]=519;
+
 define('videohomepage.views.search', [
 	'jquery',
 	'wikia.tracker'

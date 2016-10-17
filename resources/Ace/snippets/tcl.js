@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/tcl.js"]=1911;
+
 ace.define('ace/snippets/tcl', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

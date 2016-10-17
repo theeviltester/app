@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/editing/scripts/extra.js"]=19139;
+
 
 /**
  * Makes the span for a single value that can be edited.

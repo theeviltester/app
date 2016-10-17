@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/element/mml/optable/GeometricShapes.js"]=2840;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/optable/GeometricShapes.js

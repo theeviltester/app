@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/wikia.wikibits.js"]=4990;
+
 (function( window, $ ) {
 
 /**

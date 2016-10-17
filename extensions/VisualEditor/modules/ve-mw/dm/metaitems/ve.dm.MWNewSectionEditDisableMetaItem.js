@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/metaitems/ve.dm.MWNewSectionEditDisableMetaItem.js"]=1438;
+
 /*!
  * VisualEditor DataModel MWNewSectionEditDisableMetaItem class.
  *

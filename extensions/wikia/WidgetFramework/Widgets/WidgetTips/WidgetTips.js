@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WidgetFramework/Widgets/WidgetTips/WidgetTips.js"]=471;
+
 function WidgetTipsChange(widgetId, tipId, op) {
 	$('#widget_' + widgetId + '_content').html('').addClass('widget_loading');
 

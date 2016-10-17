@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/widgets/ve.ui.WikiaPhotoOptionWidget.js"]=1027;
+
 /*!
  * VisualEditor UserInterface WikiaPhotoOptionWidget class.
  *

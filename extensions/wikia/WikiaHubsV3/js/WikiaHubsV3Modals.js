@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaHubsV3/js/WikiaHubsV3Modals.js"]=3341;
+
 (function (window, $) {
 	'use strict';
 

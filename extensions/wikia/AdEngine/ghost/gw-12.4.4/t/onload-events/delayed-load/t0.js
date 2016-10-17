@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/onload-events/delayed-load/t0.js"]=1020;
+
 function test(){ 
 	var theTest = new Y.Test.Case({ 
 		 name: "Refire DOM Load Events"

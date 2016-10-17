@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticForms/libs/jquery.browser.js"]=1129;
+
 /**
  * Copy of some code from jquery.migrate.js to provide the jquery.browser functionality
  * which was removed from recent jQuery versions

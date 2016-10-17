@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalShortcuts/scripts/GlobalShortcutsTracking.js"]=458;
+
 define('GlobalShortcutsTracking', ['wikia.tracker'], function(tracker){
 	'use strict';
 

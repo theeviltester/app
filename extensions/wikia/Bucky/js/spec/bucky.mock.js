@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Bucky/js/spec/bucky.mock.js"]=150;
+
 define('bucky.mock', [], function () {
 	'use strict';
 

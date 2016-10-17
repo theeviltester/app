@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/tools/ve.ui.MWMetaDialogTool.js"]=4812;
+
 /*!
  * VisualEditor MediaWiki UserInterface meta tool classes.
  *

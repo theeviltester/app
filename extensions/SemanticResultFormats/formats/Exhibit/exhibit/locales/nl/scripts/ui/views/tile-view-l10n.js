@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/nl/scripts/ui/views/tile-view-l10n.js"]=341;
+
 /*==================================================
  *  Exhibit.TileView Dutch localization
  *==================================================

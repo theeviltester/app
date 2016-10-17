@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/controls.js"]=3345;
+
 /*==================================================
  *  Exhibit.Controls
  *==================================================

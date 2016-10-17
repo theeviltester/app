@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/build/tasks/jsduckcatconfig.js"]=1805;
+
 /*!
  * Merge jsduck configuration files with a downstream one
  */

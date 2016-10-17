@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/scrollToLink.spec.js"]=3025;
+
 describe("scrollToLink", function() {
 	"use strict";
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/tools/ve.ui.MWEditModeTool.js"]=1802;
+
 /*!
  * VisualEditor MediaWiki UserInterface edit mode tool classes.
  *

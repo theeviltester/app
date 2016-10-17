@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/widgets/toolbox-widget.js"]=8634;
+
 /*==================================================
  *  Exhibit.ToolboxWidget
  *==================================================

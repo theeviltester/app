@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ImageReview/js/jquery.onImagesLoad.js"]=4256;
+
 /**
  * jQuery 'onImagesLoaded' plugin v1.2.0 (Updated December 1, 2011)
  * Fires callback functions when images have loaded within a particular selector.

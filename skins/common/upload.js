@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/common/upload.js"]=9067;
+
 ( function () {
 var	ajaxUploadDestCheck = mw.config.get( 'wgAjaxUploadDestCheck' ),
 	fileExtensions = mw.config.get( 'wgFileExtensions' );

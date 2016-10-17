@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/erlang.js"]=3943;
+
 ace.define('ace/snippets/erlang', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

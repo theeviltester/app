@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/scripts/event-utils.js"]=2390;
+
 /*==================================================
  *  Event Utils
  *==================================================

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideosModule/scripts/controllers/rail.js"]=1410;
+
 /**
  * Controller/entry point for Videos Module
  * Note: There's some commented code that would instantiate the videos module at the bottom of that page. We're going

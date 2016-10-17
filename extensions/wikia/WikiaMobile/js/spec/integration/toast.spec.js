@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/integration/toast.spec.js"]=1086;
+
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("Toast module", function () {
 	'use strict';

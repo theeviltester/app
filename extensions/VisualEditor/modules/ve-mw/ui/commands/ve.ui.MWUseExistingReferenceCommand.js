@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/commands/ve.ui.MWUseExistingReferenceCommand.js"]=1274;
+
 /*!
  * VisualEditor UserInterface MediaWiki UseExistingReferenceCommand class.
  *

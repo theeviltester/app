@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/dialog/plugin.js"]=2900;
+
 CKEDITOR.plugins.add('rte-dialog',
 {
         init: function(editor) {

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/AdLogicPageDimensions.spec.js"]=13727;
+
 /*global describe, expect, it, modules*/
 /*jshint maxlen: 200*/
 /*jshint onevar: false*/

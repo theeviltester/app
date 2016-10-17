@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/common/form.js"]=1324;
+
 $(function() {
 	//Highlight first formblock
 	$(".highlightform").find(".formblock:first").addClass("selected");

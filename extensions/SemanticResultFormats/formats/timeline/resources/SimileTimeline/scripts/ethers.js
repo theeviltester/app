@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/scripts/ethers.js"]=8303;
+
 /*==================================================
  *  Linear Ether
  *==================================================

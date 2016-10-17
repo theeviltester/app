@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/metaitems/ve.dm.MWRedirectMetaItem.js"]=1559;
+
 /*!
  * VisualEditor DataModel MWRedirectMetaItem class.
  *

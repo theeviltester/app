@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/mediawiki.cldr.js"]=655;
+
 ( function ( mw ) {
 	'use strict';
 

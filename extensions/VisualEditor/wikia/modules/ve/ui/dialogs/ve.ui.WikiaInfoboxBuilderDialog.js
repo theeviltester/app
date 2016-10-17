@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/dialogs/ve.ui.WikiaInfoboxBuilderDialog.js"]=3083;
+
 /* globals require */
 
 /*

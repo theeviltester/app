@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/init/targets/ve.init.mw.MobileViewTarget.js"]=3073;
+
 /*!
  * VisualEditor MediaWiki Initialization MobileViewTarget class.
  *

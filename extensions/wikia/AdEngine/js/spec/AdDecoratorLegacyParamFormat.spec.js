@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/AdDecoratorLegacyParamFormat.spec.js"]=1876;
+
 /*global describe,modules,it,expect,spyOn*/
 
 describe('ext.wikia.adEngine.adDecoratorLegacyParamFormat', function () {

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/clojure.js"]=2265;
+
 ace.define('ace/snippets/clojure', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

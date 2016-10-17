@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/toast.js"]=1001;
+
 /**
  * Show toast message
  *

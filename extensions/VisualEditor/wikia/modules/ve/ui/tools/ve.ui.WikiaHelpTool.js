@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/tools/ve.ui.WikiaHelpTool.js"]=853;
+
 /*global mw */
 
 /**

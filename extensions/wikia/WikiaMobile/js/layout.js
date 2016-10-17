@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/layout.js"]=1608;
+
 /* global Features */
 /**
  * @requires section, media, cache, wikia.loader, lazyload, jquery, sloth

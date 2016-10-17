@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/ui_components/modal/js/spec/modal.spec.js"]=9747;
+
 /* global getBody */
 describe('Modal module', function () {
 	'use strict';

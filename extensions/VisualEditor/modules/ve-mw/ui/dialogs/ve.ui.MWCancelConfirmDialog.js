@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/dialogs/ve.ui.MWCancelConfirmDialog.js"]=1447;
+
 /*
  * VisualEditor user interface MWCancelConfirmDialog class.
  *

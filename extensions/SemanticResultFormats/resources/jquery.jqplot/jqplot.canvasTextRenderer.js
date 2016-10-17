@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.canvasTextRenderer.js"]=24364;
+
 /**
  * jqPlot
  * Pure JavaScript plotting plugin using jQuery

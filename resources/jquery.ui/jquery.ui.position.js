@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.position.js"]=8744;
+
 /*
  * jQuery UI Position 1.8.17
  *

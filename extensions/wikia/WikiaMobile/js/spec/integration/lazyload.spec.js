@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/integration/lazyload.spec.js"]=1519;
+
 /*global describe, it, getBody, jasmine, expect*/
 
 'use strict';

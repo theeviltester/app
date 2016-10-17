@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/slot/highImpact.js"]=444;
+
 /*global define*/
 define('ext.wikia.adEngine.slot.highImpact', [
 	'ext.wikia.adEngine.adContext',

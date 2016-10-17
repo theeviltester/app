@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/extensions/TeX/boldsymbol.js"]=4275;
+
 /*************************************************************
  *
  *  MathJax/extensions/TeX/boldsymbol.js

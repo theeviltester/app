@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/integration/autocomplete.spec.js"]=2003;
+
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("Autocomplete module", function () {
 	'use strict';

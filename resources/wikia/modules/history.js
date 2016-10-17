@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/history.js"]=1999;
+
 /*
  * @define wikia.history
  * module used to handle history state

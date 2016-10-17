@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VKTag/js/VKTag.js"]=386;
+
 require(['jquery', 'wikia.loader'], function ($, loader) {
 	'use strict';
 

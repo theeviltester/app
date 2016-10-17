@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/signature/plugin.js"]=696;
+
 CKEDITOR.plugins.add('rte-signature',
 {
 	init: function(editor) {

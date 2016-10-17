@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MiniEditor/js/SpecialPage.js"]=784;
+
 jQuery(function($) {
 
 	// New Message and Reply

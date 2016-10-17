@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.ciParser.js"]=4129;
+
 /**
  * jqPlot
  * Pure JavaScript plotting plugin using jQuery

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/models/ve.dm.MWParameterModel.js"]=3368;
+
 /*!
  * VisualEditor DataModel MWParameterModel class.
  *

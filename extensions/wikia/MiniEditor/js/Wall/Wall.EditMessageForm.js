@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MiniEditor/js/Wall/Wall.EditMessageForm.js"]=4768;
+
 /*global WikiaEditor, MiniEditor, Wall*/
 
 (function ($) {

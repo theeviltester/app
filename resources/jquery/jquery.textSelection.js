@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.textSelection.js"]=17799;
+
 /**
  * These plugins provide extra functionality for interaction with textareas.
  */

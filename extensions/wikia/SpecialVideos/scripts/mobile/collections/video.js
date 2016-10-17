@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialVideos/scripts/mobile/collections/video.js"]=1374;
+
 define('specialVideos.mobile.collections.videos', [
 	'wikia.nirvana'
 ], function (nirvana) {

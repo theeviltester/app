@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.action/mediawiki.action.view.rightClickEdit.js"]=819;
+
 /*
  * JavaScript to enable right click edit functionality
  */

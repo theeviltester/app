@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideosModule/scripts/views/titleThumbnail.js"]=1220;
+
 define('videosmodule.views.titleThumbnail', [
 	'thumbnails.views.titleThumbnail',
 	'wikia.tracker'

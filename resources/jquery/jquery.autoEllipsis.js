@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.autoEllipsis.js"]=4201;
+
 /**
  * Plugin that automatically truncates the plain text contents of an element and adds an ellipsis
  */

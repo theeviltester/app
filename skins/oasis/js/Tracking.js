@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/Tracking.js"]=17322;
+
 /* global WikiaEditor, veTrack */
 /**
  * This file contains most of the tracking calls for the Oasis skin.

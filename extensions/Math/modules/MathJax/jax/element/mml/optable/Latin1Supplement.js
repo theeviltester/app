@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/element/mml/optable/Latin1Supplement.js"]=1149;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/optable/Latin1Supplement.js

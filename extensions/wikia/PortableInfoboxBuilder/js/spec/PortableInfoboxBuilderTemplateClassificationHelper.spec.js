@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/PortableInfoboxBuilder/js/spec/PortableInfoboxBuilderTemplateClassificationHelper.spec.js"]=3156;
+
 describe('wikia.infoboxBuilder.templateClassificationHelper', function () {
 	var helper = null,
 		windowMock = {},

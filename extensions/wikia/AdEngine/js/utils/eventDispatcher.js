@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/utils/eventDispatcher.js"]=498;
+
 /*global define*/
 define('ext.wikia.adEngine.utils.eventDispatcher', [
 	'wikia.document',

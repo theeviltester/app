@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticForms/libs/SF_collapsible.js"]=1069;
+
 /**
  * SF_collapsible.js
  *

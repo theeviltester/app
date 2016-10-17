@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/dialogs/ve.ui.MWTransclusionDialog.js"]=10461;
+
 /*
  * VisualEditor user interface MWTransclusionDialog class.
  *

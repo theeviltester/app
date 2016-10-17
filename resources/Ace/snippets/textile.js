@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/textile.js"]=639;
+
 ace.define('ace/snippets/textile', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

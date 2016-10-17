@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Wall/js/MessageTopic.js"]=4097;
+
 (function($) {
 	var MessageTopic = function(el, options) {
 		this.el = el;

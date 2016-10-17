@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/UserLogin.wikiamobile.js"]=248;
+
 (function () {
 	'use strict';
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/input/MathML/entities/p.js"]=2245;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/entities/p.js

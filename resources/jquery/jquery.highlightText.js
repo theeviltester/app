@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.highlightText.js"]=2649;
+
 /**
  * Plugin that highlights matched word partials in a given element
  * TODO: add a function for restoring the previous text

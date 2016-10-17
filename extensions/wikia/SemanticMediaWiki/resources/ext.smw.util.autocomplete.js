@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SemanticMediaWiki/resources/ext.smw.util.autocomplete.js"]=3444;
+
 /**
  * JavaScript for SMW autocomplete functionality
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Bucky/vendor/BuckyClient/spec/vendor/jquery-1.10.2/jquery.js"]=273199;
+
 /*!
  * jQuery JavaScript Library v1.10.2
  * http://jquery.com/

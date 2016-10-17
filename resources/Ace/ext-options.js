@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/ext-options.js"]=7247;
+
 define('ace/ext/options', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

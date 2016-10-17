@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/autoload/mglyph.js"]=4645;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/autoload/mglyph.js

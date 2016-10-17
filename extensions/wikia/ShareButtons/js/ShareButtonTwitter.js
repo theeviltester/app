@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ShareButtons/js/ShareButtonTwitter.js"]=806;
+
 (function( window, $) {
 'use strict';
 

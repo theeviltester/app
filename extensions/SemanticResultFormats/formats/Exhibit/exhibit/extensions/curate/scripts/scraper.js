@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/curate/scripts/scraper.js"]=6114;
+
 Exhibit.Scraper = function(elmt, uiContext, settings) {
     if (!settings.scraperInput) {
         SimileAjax.Debug.warn('Scraper not given an input element!');

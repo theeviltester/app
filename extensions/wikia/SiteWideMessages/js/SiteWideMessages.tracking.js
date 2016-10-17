@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SiteWideMessages/js/SiteWideMessages.tracking.js"]=1021;
+
 /**
  * Provides click tracking for the content of SiteWideMessages in Oasis
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/signal.js"]=1767;
+
 /*==================================================
  *  This file is used to detect that all outstanding
  *  javascript files have been loaded. You can put

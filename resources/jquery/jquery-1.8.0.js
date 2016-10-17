@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery-1.8.0.js"]=259837;
+
 /*!
  * jQuery JavaScript Library v1.8.0
  * http://jquery.com/

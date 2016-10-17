@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/en/scripts/ui/formatter-l10n.js"]=2387;
+
 /*==================================================
  *  Exhibit.Formatter English localization
  *==================================================

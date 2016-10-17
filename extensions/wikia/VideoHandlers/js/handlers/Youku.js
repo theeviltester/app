@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoHandlers/js/handlers/Youku.js"]=776;
+
 /**
  * NOTE: This file currently isn't being used, we're embedding videos with iframes for the
  * time being. The plan is to switch over to the javascript player in the future so we can

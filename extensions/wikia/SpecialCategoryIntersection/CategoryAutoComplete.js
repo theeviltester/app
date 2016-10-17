@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialCategoryIntersection/CategoryAutoComplete.js"]=1898;
+
 CategoryAutoComplete = {
 	FORM_ID: "CategoryAutoComplete",
 	NS_CATEGORY: 14, // TODO: is there a more programmatic way to get this?

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/TopLists/js/list.js"]=2773;
+
 var TopList = {
 	_canVote: false,
 	_mWrapper: null,

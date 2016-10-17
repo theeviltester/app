@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/NjordPrototype/scripts/jquery.caret.js"]=2089;
+
 (function($) {
   $.fn.caret = function(pos) {
     var target = this[0];

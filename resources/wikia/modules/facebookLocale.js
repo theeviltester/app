@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/facebookLocale.js"]=5691;
+
 /*global Geo*/
 (function (context) {
 	'use strict';

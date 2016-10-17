@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialEditHub/js/EditHubNavigation.js"]=3435;
+
 var ModuleNavigation = function() {
 };
 

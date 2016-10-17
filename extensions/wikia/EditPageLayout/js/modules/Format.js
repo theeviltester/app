@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/modules/Format.js"]=402;
+
 (function(window){
 
 	var WE = window.WikiaEditor;

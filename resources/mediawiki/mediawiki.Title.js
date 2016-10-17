@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki/mediawiki.Title.js"]=14881;
+
 /*!
  * @author Neil Kandalgaonkar, 2010
  * @author Timo Tijhof, 2011-2013

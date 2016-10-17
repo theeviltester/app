@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/provider/rubiconFastlane.js"]=3641;
+
 /*global define*/
 define('ext.wikia.adEngine.provider.rubiconFastlane', [
 	'ext.wikia.adEngine.slotTweaker',

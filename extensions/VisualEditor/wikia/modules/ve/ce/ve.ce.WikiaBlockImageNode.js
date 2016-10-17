@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ce/ve.ce.WikiaBlockImageNode.js"]=848;
+
 /*!
  * VisualEditor ContentEditable WikiaBlockImageNode class.
  *

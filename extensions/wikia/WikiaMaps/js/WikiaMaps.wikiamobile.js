@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/js/WikiaMaps.wikiamobile.js"]=502;
+
 require([
 	'wikia.window',
 	'wikia.maps.pontoBridge'

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/NjordPrototype/scripts/Njord.js"]=15150;
+
 (function (window, $) {
 	'use strict';
 

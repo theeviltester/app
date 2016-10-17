@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/django.js"]=4253;
+
 ace.define('ace/snippets/django', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

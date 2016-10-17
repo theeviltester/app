@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Bucky/js/bucky_resources_timing.js"]=5614;
+
 /*
  * Provides ResourceTiming performance stats for Bucky reporting
  *

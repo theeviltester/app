@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/integration/nodeFinder.spec.js"]=3345;
+
 describe('nodeFinder', function () {
 	'use strict';
 

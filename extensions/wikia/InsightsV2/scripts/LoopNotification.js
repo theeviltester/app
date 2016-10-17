@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/InsightsV2/scripts/LoopNotification.js"]=2872;
+
 /*
  * Script for adding BannerNotification that encourages user to continue working
  * on issues reported by Insights feature

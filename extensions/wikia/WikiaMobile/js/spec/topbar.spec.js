@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/topbar.spec.js"]=921;
+
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("Topbar module", function () {
 	'use strict';

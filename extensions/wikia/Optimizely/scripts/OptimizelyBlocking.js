@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Optimizely/scripts/OptimizelyBlocking.js"]=1059;
+
 (function (window, document) {
 	'use strict';
 

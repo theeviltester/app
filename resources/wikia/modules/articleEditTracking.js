@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/articleEditTracking.js"]=1029;
+
 (function($, tracker, wikiaEditor) {
   var dataKey = 'keyup-tracked';
   var textBoxId = 'wpTextbox1';

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GameGuides/js/GameGuides.js"]=5129;
+
 /* global Ponto */
 (function($html, window){
 	'use strict';

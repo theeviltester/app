@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/underscore.js"]=1897;
+
 /**
  * Module wikia.underscore
  *

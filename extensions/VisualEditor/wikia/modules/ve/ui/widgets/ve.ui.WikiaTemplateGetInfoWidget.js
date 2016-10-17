@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/widgets/ve.ui.WikiaTemplateGetInfoWidget.js"]=1307;
+
 /*!
  * VisualEditor UserInterface WikiaTemplateGetInfoWidget class.
  */

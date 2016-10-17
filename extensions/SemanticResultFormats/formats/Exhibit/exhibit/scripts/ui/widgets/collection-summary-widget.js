@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/widgets/collection-summary-widget.js"]=4624;
+
 /*==================================================
  *  Exhibit.CollectionSummaryWidget
  *==================================================

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/history.spec.js"]=2661;
+
 describe("History", function () {
 	"use strict";
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/AdSlotInteractiveMaps.js"]=1486;
+
 /*global define*/
 /*jshint maxlen:125*/
 define('ext.wikia.adEngine.slot.interactiveMaps', [

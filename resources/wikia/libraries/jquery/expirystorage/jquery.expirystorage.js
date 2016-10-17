@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/expirystorage/jquery.expirystorage.js"]=1133;
+
 /**
  * LOCAL STORAGE WITH EXPIRATION (cookie simulation)
  * NOTE: the simulation is not a true cookie. Unlike

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/PowerUser/js/pageViewTracking.js"]=1323;
+
 define(
 	'ext.wikia.powerUser.pageViewTracking',
 	[

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/calendar/resources/ext.srf.eventcalendar.js"]=6284;
+
 /**
  * JavaScript for SRF event calendar module using the fullcalendar library
  * @see http://arshaw.com/fullcalendar/docs/

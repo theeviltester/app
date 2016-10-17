@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.datepicker.js"]=76396;
+
 /*
  * jQuery UI Datepicker 1.8.17
  *

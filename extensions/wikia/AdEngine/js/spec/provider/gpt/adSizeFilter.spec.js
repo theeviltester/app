@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/provider/gpt/adSizeFilter.spec.js"]=5907;
+
 /*global describe, it, expect, modules, spyOn*/
 describe('ext.wikia.adEngine.provider.gpt.adSizeFilter', function () {
 	'use strict';

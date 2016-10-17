@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ContentReview/scripts/contentReviewModuleMonobook.run.js"]=5624;
+
 require(
 	['jquery', 'wikia.document', 'wikia.loader', 'wikia.nirvana', 'wikia.mustache', 'mw', 'wikia.tracker'],
 	function ($, document, loader, nirvana, mustache, mw, tracker)

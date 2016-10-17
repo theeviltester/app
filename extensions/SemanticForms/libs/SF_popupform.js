@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticForms/libs/SF_popupform.js"]=20306;
+
 /**
  * Javascript code to be used with extension SemanticForms for popup forms.
  *

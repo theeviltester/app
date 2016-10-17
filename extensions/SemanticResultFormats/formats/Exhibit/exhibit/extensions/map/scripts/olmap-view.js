@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/map/scripts/olmap-view.js"]=39508;
+
 /*==================================================
  *  Exhibit.OLMapView
  *

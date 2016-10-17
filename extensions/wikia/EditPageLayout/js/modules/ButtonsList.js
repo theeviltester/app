@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/modules/ButtonsList.js"]=544;
+
 (function(window){
 
 	var WE = window.WikiaEditor;

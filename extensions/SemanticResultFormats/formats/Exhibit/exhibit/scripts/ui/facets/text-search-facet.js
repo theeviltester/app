@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/facets/text-search-facet.js"]=9375;
+
 /*==================================================
  *  Exhibit.TextSearchFacet
  *==================================================

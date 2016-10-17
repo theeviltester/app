@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CommunityPage/scripts/entryPoint.js"]=496;
+
 require([
 	'jquery',
 	'wikia.tracker',

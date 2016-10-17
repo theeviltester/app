@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.api/mediawiki.api.titleblacklist.js"]=1815;
+
 /**
  * Additional mw.Api methods to assist with API calls to the API module of the TitleBlacklist extension.
  */

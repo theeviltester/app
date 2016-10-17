@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/fluidlayout.js"]=3346;
+
 /**
  * Helper module defining the fluid layout properties.
  *

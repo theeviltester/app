@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/polyfills/array.js"]=1858;
+
 /**
  * Polyfills for Array methods
  *

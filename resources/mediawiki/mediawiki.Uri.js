@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki/mediawiki.Uri.js"]=11354;
+
 /**
  * Library for simple URI parsing and manipulation.  Requires jQuery.
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/languages/hsb.js"]=454;
+
 /*!
  * Upper Sorbian (Hornjoserbsce) language functions
  */

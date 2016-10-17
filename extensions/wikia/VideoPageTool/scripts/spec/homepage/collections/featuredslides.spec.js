@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/spec/homepage/collections/featuredslides.spec.js"]=1081;
+
 /*global describe, it, expect, beforeEach, modules */
 describe('VideoPageAdmin FeaturedSlidesCollection ( Backbone ):', function () {
 	'use strict';

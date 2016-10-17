@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/provider/gptProviders.spec.js"]=7435;
+
 /*global beforeEach, describe, it, expect, modules, spyOn*/
 describe('ext.wikia.adEngine.provider.*', function () {
 	'use strict';

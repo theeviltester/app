@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/StoriesLinkTag/scripts/StoriesLinkTag.js"]=2000;
+
 'use strict';
 
 var StoriesLinkTag = {

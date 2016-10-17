@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/utils/AdLogicZoneParams.js"]=2956;
+
 /*global define*/
 define('ext.wikia.adEngine.utils.adLogicZoneParams', [
 	'ext.wikia.adEngine.adContext',

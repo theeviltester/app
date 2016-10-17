@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticDrilldown/libs/SemanticDrilldown.js"]=3443;
+
 /**
  * SemanticDrilldown.js
  *

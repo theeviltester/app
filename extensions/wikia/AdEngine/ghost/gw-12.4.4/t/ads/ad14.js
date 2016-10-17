@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/ads/ad14.js"]=6501;
+
 document.write('<!-- Copyright 2008 DoubleClick, a division of Google Inc. All rights reserved. -->\n<!-- Code auto-generated on Mon Jan 31 22:08:49 EST 2011 -->\n<script src=\"http://s0.2mdn.net/879366/flashwrite_1_2.js\"><\/script>');document.write('\n');
 
 function DCFlash(id,pVM){

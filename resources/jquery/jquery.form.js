@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.form.js"]=26751;
+
 /*!
  * jQuery Form Plugin
  * version: 2.84 (12-AUG-2011)

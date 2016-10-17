@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/freebase/scripts/metaweb.js"]=2590;
+
 // provide SimileAjax's JSON library to Metaweb
 var JSON = SimileAjax.JSON;
 JSON.serialize = JSON.toJSONString;

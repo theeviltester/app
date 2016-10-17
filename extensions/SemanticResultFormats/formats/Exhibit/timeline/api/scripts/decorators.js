@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/scripts/decorators.js"]=7078;
+
 /*==================================================
  *  Span Highlight Decorator
  *==================================================

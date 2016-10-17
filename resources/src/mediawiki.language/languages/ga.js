@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/languages/ga.js"]=811;
+
 /*!
  * Irish (Gaeilge) language functions
  */

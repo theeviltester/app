@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/template/dialogs/template.js"]=7620;
+
 /**
  *  Wikia template editor
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/iframeWriter.js"]=1401;
+
 /*global define*/
 define('wikia.iframeWriter', [
 	'wikia.document',

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Blogs/js/BlogsPager.js"]=1772;
+
 if (!window.blogInitialized) {
 	window.blogInitialized = true;
 

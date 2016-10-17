@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalShortcuts/scripts/PageActions.js"]=3781;
+
 /**
  * Module contains list of actions that can be performed.
  * (actions doesn't necessarily need to have shortcut keys assigned,

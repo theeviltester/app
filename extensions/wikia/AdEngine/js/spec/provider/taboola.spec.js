@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/provider/taboola.spec.js"]=4968;
+
 /*global beforeEach, describe, it, modules, expect, spyOn*/
 describe('Taboola ', function () {
 	'use strict';

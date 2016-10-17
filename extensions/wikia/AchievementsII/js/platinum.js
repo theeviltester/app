@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AchievementsII/js/platinum.js"]=5652;
+
 var SpecialCustomizePlatinum = {
 
 	init : function() {

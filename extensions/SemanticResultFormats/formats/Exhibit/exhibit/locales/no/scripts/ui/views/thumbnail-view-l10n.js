@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/no/scripts/ui/views/thumbnail-view-l10n.js"]=366;
+
 /*==================================================
  *  Exhibit.ThumbnailView Norwegian localization
  *==================================================

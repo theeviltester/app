@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.pointLabels.js"]=14531;
+
 /**
  * jqPlot
  * Pure JavaScript plotting plugin using jQuery

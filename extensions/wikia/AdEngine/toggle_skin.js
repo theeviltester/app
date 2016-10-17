@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/toggle_skin.js"]=4619;
+
 var displayToggleSkin = function(){
 	var ToggleSkin = {
 		settings: {

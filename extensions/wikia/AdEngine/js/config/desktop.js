@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/config/desktop.js"]=3246;
+
 /*global define,require*/
 define('ext.wikia.adEngine.config.desktop', [
 	// regular dependencies

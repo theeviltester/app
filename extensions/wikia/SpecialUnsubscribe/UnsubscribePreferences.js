@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialUnsubscribe/UnsubscribePreferences.js"]=987;
+
 $(function() {
 	var toggle = $('#mw-input-unsubscribed');
 	var form = toggle.closest( 'form' );

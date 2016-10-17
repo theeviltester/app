@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/spec/utils.spec.js"]=2702;
+
 describe('ext.wikia.recirculation.utils', function () {
 	'use strict';
 

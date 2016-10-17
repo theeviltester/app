@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/ajax/simile-ajax-bundle.js"]=117038;
+
 
 
 /* jquery-1.3.2.min.js */

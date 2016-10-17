@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ImageLazyLoad/spec/ImageLazyLoad.spec.js"]=3340;
+
 /* jshint maxlen: 250 */
 describe('ImgLzy', function () {
 	'use strict';

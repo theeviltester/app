@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/widgets/ve.ui.WikiaCartWidget.js"]=1075;
+
 /*!
  * VisualEditor UserInterface WikiaCartWidget class.
  */

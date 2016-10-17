@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/coders/size-coder.js"]=4121;
+
 /*==================================================
  *  Exhibit.SizeCoder
  *==================================================

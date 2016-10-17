@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/PortableInfoboxBuilder/js/PortableInfoboxBuilderPonto.js"]=1352;
+
 'use strict';
 
 define('wikia.infoboxBuilder.ponto', ['wikia.window', 'ponto'], function (w, ponto) {

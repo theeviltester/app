@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/entities/plugin.js"]=649;
+
 CKEDITOR.plugins.add('rte-entities',
 {
 	insideEntitySpan: false,

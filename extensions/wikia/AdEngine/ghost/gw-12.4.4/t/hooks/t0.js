@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/hooks/t0.js"]=5196;
+
 ghostwriter['handlers']= { 
 	check: function(tagName, attrObj){  
 		var src; 

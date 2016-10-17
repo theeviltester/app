@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Wall/js/WallSortingBar.js"]=894;
+
 (function(window, $) {
 
 Wall.SortingBar = $.createClass(Observable, {

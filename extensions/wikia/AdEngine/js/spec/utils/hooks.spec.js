@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/utils/hooks.spec.js"]=3529;
+
 /*global describe, it, expect, modules, beforeEach, spyOn*/
 describe('ext.wikia.adEngine.utils.hooks', function () {
 	'use strict';

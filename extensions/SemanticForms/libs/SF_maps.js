@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticForms/libs/SF_maps.js"]=5087;
+
 /**
  * @author Yaron Koren
  */

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/pages/ve.ui.MWParameterPage.js"]=6365;
+
 /*!
  * VisualEditor user interface MWParameterPage class.
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/dialogs/ve.ui.WikiaTemplateInsertDialog.js"]=6306;
+
 /*
  * VisualEditor user interface WikiaTemplateInsertDialog class.
  */

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/coders/color-coder.js"]=4713;
+
 /*==================================================
  *  Exhibit.ColorCoder
  *==================================================

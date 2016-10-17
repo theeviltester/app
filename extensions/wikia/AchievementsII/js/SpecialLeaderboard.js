@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AchievementsII/js/SpecialLeaderboard.js"]=818;
+
 var AchievementsLeaderboard = {
 	init: function() {
 		//Set correct initial state of page intro (visible or hidden)

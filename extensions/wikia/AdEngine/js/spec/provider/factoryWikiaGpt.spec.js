@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/provider/factoryWikiaGpt.spec.js"]=2936;
+
 /*global describe, it, expect, modules, spyOn*/
 describe('ext.wikia.adEngine.provider.factory.wikiaGpt', function () {
 	'use strict';

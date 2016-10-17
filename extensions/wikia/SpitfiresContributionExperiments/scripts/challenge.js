@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpitfiresContributionExperiments/scripts/challenge.js"]=3707;
+
 require([
 	'jquery',
 	'mw',

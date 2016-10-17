@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/boilerplate/resources/ext.srf.boilerplate.namespace.js"]=3348;
+
 /**
  * JavaScript for SRF boilerplate format using the semanticFormats namespace
  * @see http://www.semantic-mediawiki.org/wiki/Help:Boilerplate format

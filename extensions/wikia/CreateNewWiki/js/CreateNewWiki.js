@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CreateNewWiki/js/CreateNewWiki.js"]=482;
+
 require(['wikia.window', 'ext.createNewWiki.builder'], function (win, wikiBuilder) {
 	'use strict';
 	$(function() {

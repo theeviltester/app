@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/config/MML_HTMLorMML.js"]=616;
+
 /*
  *  /MathJax/unpacked/config/MML_HTMLorMML.js
  *  

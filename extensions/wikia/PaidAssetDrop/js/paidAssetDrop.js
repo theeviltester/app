@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/PaidAssetDrop/js/paidAssetDrop.js"]=3676;
+
 /*global define*/
 define('ext.wikia.paidAssetDrop.paidAssetDrop', [
 	'wikia.instantGlobals',

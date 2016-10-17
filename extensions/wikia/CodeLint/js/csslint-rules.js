@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CodeLint/js/csslint-rules.js"]=6339;
+
 /**
  * List of all CSS properties known to mankind
  *

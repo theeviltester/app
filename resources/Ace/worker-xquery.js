@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/worker-xquery.js"]=1158816;
+
 "no use strict";
 ;(function(window) {
 if (typeof window.window != "undefined" && window.document) {

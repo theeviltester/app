@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/jqplot/resources/ext.srf.jqplot.chart.bar.js"]=8747;
+
 /**
  * JavaSript for SRF jqPlot bar/line/scatter module
  *

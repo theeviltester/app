@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaHomePage/js/spec/WikiaHomePage.spec.js"]=7004;
+
 describe('Wikia Home Page', function(){
 
 	it('remixing - default', function() {

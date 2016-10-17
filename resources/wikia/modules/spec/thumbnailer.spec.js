@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/thumbnailer.spec.js"]=4285;
+
 describe('thumbnailer', function () {
 	'use strict';
 

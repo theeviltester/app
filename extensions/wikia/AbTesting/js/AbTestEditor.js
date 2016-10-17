@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AbTesting/js/AbTestEditor.js"]=10612;
+
 (function(window, $, undefined) {
 	var mw = window.mw,
 		templates = {

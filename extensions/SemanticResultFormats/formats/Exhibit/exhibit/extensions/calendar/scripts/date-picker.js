@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/calendar/scripts/date-picker.js"]=10479;
+
 Exhibit.DatePickerFacet.DatePicker = function(div, facet, date) {
     this._div = div;
     this._facet = facet;

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/UserBaseAjaxForm.js"]=5285;
+
 /*global WikiaForm */
 (function () {
 	'use strict';

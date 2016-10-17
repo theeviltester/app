@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ce/ve.ce.WikiaInfoboxTransclusionBlockNode.js"]=1029;
+
 /*!
  * VisualEditor ContentEditable WikiaInfoboxTransclusionBlockNode class.
  */

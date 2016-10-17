@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Wall/js/WallSetup.js"]=2568;
+
 jQuery(function($) {
 	$('#Wall').wikiaWall();
 });

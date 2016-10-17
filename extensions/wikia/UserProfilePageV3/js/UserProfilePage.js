@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserProfilePageV3/js/UserProfilePage.js"]=17410;
+
 var UserProfilePage = {
 	// TODO: use $.nirvana.getJSON instead
 	ajaxEntryPoint: '/wikia.php?controller=UserProfilePage&format=json',

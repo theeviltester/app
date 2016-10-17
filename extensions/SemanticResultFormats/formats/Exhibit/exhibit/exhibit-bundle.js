@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/exhibit-bundle.js"]=421546;
+
 
 
 /* authentication.js */

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/editing/scripts/ui/editing-formatter.js"]=7662;
+
 Exhibit.Formatter._ListFormatter.prototype.formatList = function(values, count, valueType, appender, editing) {
     var uiContext = this._uiContext;
     var self = this;

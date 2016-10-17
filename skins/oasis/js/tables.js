@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/tables.js"]=1682;
+
 jQuery(function( $ ) {
 	'use strict';
 

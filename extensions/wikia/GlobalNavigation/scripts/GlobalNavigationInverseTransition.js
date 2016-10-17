@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalNavigation/scripts/GlobalNavigationInverseTransition.js"]=612;
+
 /*global require*/
 require([
 	'jquery',

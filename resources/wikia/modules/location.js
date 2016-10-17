@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/location.js"]=131;
+
 /**
  * AMD module wrapping location
  */

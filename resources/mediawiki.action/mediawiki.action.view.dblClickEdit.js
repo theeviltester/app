@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.action/mediawiki.action.view.dblClickEdit.js"]=438;
+
 /**
  * This module enables double-click-to-edit functionality
  */

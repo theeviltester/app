@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/LatestActivity.js"]=773;
+
 var LatestActivity = {
 	wikiaRecentActivityContainer: null,
 	init: function() {

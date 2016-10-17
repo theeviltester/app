@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/common/protect.js"]=9155;
+
 
 window.ProtectionForm = {
 	'existingMatch': false,

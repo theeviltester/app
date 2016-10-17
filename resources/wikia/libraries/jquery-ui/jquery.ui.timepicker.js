@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery-ui/jquery.ui.timepicker.js"]=62062;
+
 /*
  * jQuery timepicker addon
  * By: Trent Richardson [http://trentrichardson.com]

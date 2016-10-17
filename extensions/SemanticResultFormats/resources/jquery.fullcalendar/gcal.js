@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.fullcalendar/gcal.js"]=2777;
+
 /*
  * FullCalendar v1.5.4 Google Calendar Plugin
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/languages/uk.js"]=1501;
+
 /*!
  * Ukrainian (Українська) language functions
  */

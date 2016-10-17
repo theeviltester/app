@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ce/nodes/ve.ce.MWImageCaptionNode.js"]=1682;
+
 /*!
  * VisualEditor ContentEditable ListItemNode class.
  *

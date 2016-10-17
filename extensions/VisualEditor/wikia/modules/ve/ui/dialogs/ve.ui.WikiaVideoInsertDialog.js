@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/dialogs/ve.ui.WikiaVideoInsertDialog.js"]=1171;
+
 /*!
  * VisualEditor user interface WikiaVideoInsertDialog class.
  */

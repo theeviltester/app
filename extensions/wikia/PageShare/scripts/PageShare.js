@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/PageShare/scripts/PageShare.js"]=2911;
+
 define('wikia.pageShare', [
 	'wikia.window',
 	'wikia.tracker',

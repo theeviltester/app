@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/dialogs/ve.ui.WikiaSingleMediaDialog.js"]=8019;
+
 /*!
  * VisualEditor user interface WikiaSingleMediaDialog class.
  */

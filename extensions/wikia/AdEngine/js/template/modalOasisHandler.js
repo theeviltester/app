@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/template/modalOasisHandler.js"]=1879;
+
 /*global define, require*/
 define('ext.wikia.adEngine.template.modalOasisHandler', [
 	'jquery',

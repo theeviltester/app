@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/extensions/TeX/AMSmath.js"]=15008;
+
 /*************************************************************
  *
  *  MathJax/extensions/TeX/AMSmath.js

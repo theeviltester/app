@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/scripts/ether-painters.js"]=20806;
+
 /*==================================================
  *  Gregorian Ether Painter
  *==================================================

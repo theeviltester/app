@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/languages/ru.js"]=2221;
+
 /*!
  * Russian (Русский) language functions
  */

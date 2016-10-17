@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/models/ve.dm.MWTemplatePlaceholderModel.js"]=662;
+
 /*!
  * VisualEditor DataModel MWTemplatePlaceholderModel class.
  *

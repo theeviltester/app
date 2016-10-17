@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MiniEditor/js/Forum/Forum.NewMessageForm.js"]=675;
+
 (function($) {
 
 MiniEditor.Forum.NewMessageForm = $.createClass(Wall.settings.classBindings.newMessageForm, {

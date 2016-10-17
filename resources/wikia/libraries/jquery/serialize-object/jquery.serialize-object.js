@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/serialize-object/jquery.serialize-object.js"]=3375;
+
 /**
  * jQuery serializeObject
  * @copyright 2014, macek <paulmacek@gmail.com>

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CategoryExhibition/js/CategoryExhibition.js"]=3286;
+
 var CategoryExhibition = {
 	lockTable: {},
 

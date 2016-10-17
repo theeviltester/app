@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/widget/resources/ext.srf.listwidget.js"]=2082;
+
 /**
  * JavaScript for SRF ListWidget module
  * @see http://www.semantic-mediawiki.org/wiki/Help:Listwidget format

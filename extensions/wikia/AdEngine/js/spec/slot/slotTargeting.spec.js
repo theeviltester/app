@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/slot/slotTargeting.spec.js"]=1819;
+
 /*global describe, it, expect, modules*/
 describe('ext.wikia.adEngine.slot.slotTargeting', function () {
 	'use strict';

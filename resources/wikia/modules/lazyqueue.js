@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/lazyqueue.js"]=2425;
+
 /**
  * LazyQueue module
  *

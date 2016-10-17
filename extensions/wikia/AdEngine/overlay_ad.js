@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/overlay_ad.js"]=14268;
+
 var displayOverlayAd = function(){
 		var OverlayAd = {
 			settings: {

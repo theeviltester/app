@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/polyfills/jquery.wikia.placeholder.js"]=1073;
+
 /**
  * @author Federico "Lox" Lucignano <federico@wikia-inc.com>
  *

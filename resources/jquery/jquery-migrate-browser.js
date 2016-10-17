@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery-migrate-browser.js"]=937;
+
 /**
  * A piece of code taken from http://code.jquery.com/jquery-migrate-1.2.1.js
  */

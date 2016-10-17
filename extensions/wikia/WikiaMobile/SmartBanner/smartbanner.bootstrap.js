@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/SmartBanner/smartbanner.bootstrap.js"]=2041;
+
 $(function () {
 	'use strict';
 

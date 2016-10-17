@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/isTouchScreen.js"]=385;
+
 (function (window) {
 	'use strict';
 

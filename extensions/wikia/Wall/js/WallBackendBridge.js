@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Wall/js/WallBackendBridge.js"]=6627;
+
 /* global Wall:true, Observable */
 (function ($, mw) {
 	'use strict';

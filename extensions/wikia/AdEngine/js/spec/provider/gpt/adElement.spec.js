@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/provider/gpt/adElement.spec.js"]=3322;
+
 /*global describe, it, beforeEach, expect, modules, spyOn, document*/
 describe('ext.wikia.adEngine.provider.gpt.adElement', function () {
 	'use strict';

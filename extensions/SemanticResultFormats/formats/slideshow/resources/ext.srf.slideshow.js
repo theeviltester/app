@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/slideshow/resources/ext.srf.slideshow.js"]=13424;
+
 /**
  * File holding the slideshow plugin
  *

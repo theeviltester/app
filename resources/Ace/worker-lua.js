@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/worker-lua.js"]=100265;
+
 "no use strict";
 ;(function(window) {
 if (typeof window.window != "undefined" && window.document) {

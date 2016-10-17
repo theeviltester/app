@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/widgets/legend-gradient-widget.js"]=6041;
+
 /*==================================================
  *  Exhibit.LegendGradientWidget
  *==================================================

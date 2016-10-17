@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MonetizationModule/scripts/MonetizationModule.js"]=2538;
+
 /**
  * JS file for Monetization Module.
  */

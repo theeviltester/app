@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Nuke/ext.nuke.js"]=529;
+
 /**
  * JavaScript for the Nuke MediaWiki extension.
  * @see https://www.mediawiki.org/wiki/Extension:Nuke

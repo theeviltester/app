@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/RTE.preferences.js"]=271;
+
 $(function() {
 	$().log('setting up user preferences', 'RTE');
 

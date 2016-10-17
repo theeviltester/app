@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/facets/hierarchical-facet.js"]=24328;
+
 /*==================================================
  *  Exhibit.HierarchicalFacet
  *==================================================

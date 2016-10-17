@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialPromote/js/SpecialPromote.js"]=17964;
+
 var SpecialPromote = function () {
 	'use strict';
 

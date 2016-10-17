@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MediaGallery/scripts/spec/views/gallery.spec.js"]=2805;
+
 /* global modules */
 describe('MediaGalleries gallery', function () {
 	'use strict';

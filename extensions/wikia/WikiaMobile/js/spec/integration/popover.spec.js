@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/integration/popover.spec.js"]=4245;
+
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("Popover module", function () {
 	'use strict';

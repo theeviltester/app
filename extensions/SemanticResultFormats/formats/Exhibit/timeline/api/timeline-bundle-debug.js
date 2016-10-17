@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/timeline-bundle-debug.js"]=157812;
+
 
 
 /* band.js */

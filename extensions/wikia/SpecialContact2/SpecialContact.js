@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialContact2/SpecialContact.js"]=2248;
+
 /**
  * Click tracking configuration for SpecialContact extension
  */

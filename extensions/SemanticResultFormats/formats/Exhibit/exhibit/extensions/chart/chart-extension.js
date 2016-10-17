@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/chart/chart-extension.js"]=2381;
+
 /*==================================================
  *  Simile Exhibit Chart Extension
  *==================================================

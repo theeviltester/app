@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/context/uapContext.spec.js"]=2566;
+
 /*global beforeEach, describe, it, expect, modules, spyOn*/
 describe('ext.wikia.adEngine.context.uapContext', function () {
 	'use strict';

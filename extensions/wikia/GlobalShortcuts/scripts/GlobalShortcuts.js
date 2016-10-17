@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalShortcuts/scripts/GlobalShortcuts.js"]=1248;
+
 /**
  * Module keeps list of shortcut keys and provides interface to add new ones or find existing ones.
  * It also initiates bind between key combination and function that handles it

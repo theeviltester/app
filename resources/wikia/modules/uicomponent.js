@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/uicomponent.js"]=4020;
+
 /**
  * JS version of Component.class.php - part of UI repo API for rendering components
  *

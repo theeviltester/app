@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/paste/plugin.js"]=5907;
+
 CKEDITOR.plugins.add('rte-paste',
 {
 	htmlBeforePaste: '',

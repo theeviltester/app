@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.effects/jquery.effects.slide.js"]=1660;
+
 /*
  * jQuery UI Effects Slide 1.8.17
  *

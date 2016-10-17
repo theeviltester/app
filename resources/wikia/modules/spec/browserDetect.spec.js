@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/browserDetect.spec.js"]=1974;
+
 /* global describe, modules, expect, it */
 describe('browserDetect', function () {
 	'use strict';

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/sessionStorage.js"]=222;
+
 /**
  * A set of AMD modules wrapping session storage API
  */

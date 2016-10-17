@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/dygraphs/resources/ext.srf.dygraphs.js"]=12246;
+
 /**
  * JavaScript for SRF dygraphs module
  * @see http://www.semantic-mediawiki.org/wiki/Help:Dygraphs format

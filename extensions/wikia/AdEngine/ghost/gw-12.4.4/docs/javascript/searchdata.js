@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/docs/javascript/searchdata.js"]=2172;
+
 var indexSectionsWithContent = {
    "General": {
       "Symbols": false,

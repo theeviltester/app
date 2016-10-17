@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/spec/UserBaseAjaxForm.spec.js"]=1593;
+
 /* global UserBaseAjaxForm */
 
 describe('Base class for User Ajax Forms', function () {

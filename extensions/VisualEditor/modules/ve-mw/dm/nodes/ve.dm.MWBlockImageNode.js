@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/nodes/ve.dm.MWBlockImageNode.js"]=7186;
+
 /*!
  * VisualEditor DataModel MWBlockImageNode class.
  *

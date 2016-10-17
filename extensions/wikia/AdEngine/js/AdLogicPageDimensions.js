@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/AdLogicPageDimensions.js"]=6277;
+
 /*jshint camelcase:false, maxdepth:4*/
 /*global define*/
 define('ext.wikia.adEngine.adLogicPageDimensions', [

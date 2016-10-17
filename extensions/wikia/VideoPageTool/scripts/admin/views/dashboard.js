@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/admin/views/dashboard.js"]=1523;
+
 /**
  * This view is the entry point for the VideoPageTool admin form.
  */

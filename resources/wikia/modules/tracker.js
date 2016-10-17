@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/tracker.js"]=10819;
+
 /**
  * Event tracking for GA and our internal datawarehouse.
  * This file depends on "resources/modules/tracker.stub.js" and serves

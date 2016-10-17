@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Search/js/SearchAbTest.js"]=1613;
+
 /**
  * This is workaround of fact that we have only front-end A/B testing platform at the moment.
  * This file contains modules responsible for passing A/B testing related parameters to php backend.

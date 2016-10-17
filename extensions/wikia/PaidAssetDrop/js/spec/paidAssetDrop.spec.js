@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/PaidAssetDrop/js/spec/paidAssetDrop.spec.js"]=6089;
+
 /*global describe, it, expect, modules, jasmine, spyOn*/
 describe('ext.wikia.paidAssetDrop.paidAssetDrop', function () {
 	'use strict';

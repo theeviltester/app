@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.api/mediawiki.api.parse.js"]=763;
+
 /**
  * Additional mw.Api methods to assist with API calls related to parsing wikitext.
  */

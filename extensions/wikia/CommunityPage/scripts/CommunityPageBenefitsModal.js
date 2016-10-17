@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CommunityPage/scripts/CommunityPageBenefitsModal.js"]=4459;
+
 /**
  * Modal containing Benefits of joining Community;
  * modal is an entry point for Community Page

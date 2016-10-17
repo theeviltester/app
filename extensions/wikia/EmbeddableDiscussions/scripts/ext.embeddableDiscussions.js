@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EmbeddableDiscussions/scripts/ext.embeddableDiscussions.js"]=5463;
+
 require([
 	'jquery',
 	'wikia.tracker',

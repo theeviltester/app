@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticFormsInputs/libs/timepicker.js"]=6295;
+
 /**
  * Javascript code to be used with input type timepicker.
  *

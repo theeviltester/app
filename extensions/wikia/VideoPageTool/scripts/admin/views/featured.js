@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/admin/views/featured.js"]=4544;
+
 /**
  * View file for the featured video form
  * @extends 'videopageadmin.views.editbase'

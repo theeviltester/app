@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/scripts/util/date-time.js"]=9782;
+
 /*==================================================
  *  Date/Time Utility Functions and Constants
  *==================================================

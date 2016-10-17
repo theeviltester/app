@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/common/IEFixes.js"]=3825;
+
 // IE fixes javascript
 
 window.isMSIE55 = ( window.showModalDialog && window.clipboardData && window.createPopup );

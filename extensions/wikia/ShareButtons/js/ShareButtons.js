@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ShareButtons/js/ShareButtons.js"]=1265;
+
 (function( window, $ ) {
 
 var callbacks = [],

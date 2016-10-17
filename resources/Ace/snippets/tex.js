@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/tex.js"]=4053;
+
 ace.define('ace/snippets/tex', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

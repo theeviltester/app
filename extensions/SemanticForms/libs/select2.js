@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticForms/libs/select2.js"]=142238;
+
 /*
 Copyright 2012 Igor Vaynberg
 

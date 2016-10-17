@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ThemeDesigner/js/ThemeDesignerPreview.js"]=1149;
+
 var ThemeDesignerPreview = {
 	init: function() {
 		$(".portable-infobox h2")

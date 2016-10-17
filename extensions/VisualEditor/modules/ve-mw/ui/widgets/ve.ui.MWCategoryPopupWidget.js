@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/widgets/ve.ui.MWCategoryPopupWidget.js"]=5048;
+
 /*!
  * VisualEditor UserInterface MWCategoryPopupWidget class.
  *

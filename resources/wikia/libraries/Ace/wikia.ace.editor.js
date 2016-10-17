@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/Ace/wikia.ace.editor.js"]=4018;
+
 define( 'wikia.ace.editor', ['wikia.window', 'jquery'], function(win, $){
 	'use strict';
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WallNotifications/scripts/WallNotifications.js"]=12291;
+
 var $window = $(window);
 var WallNotifications = $.createClass(Object, {
 	constructor: function() {

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/tools/ve.ui.MWAlienExtensionInspectorTool.js"]=1366;
+
 /*!
  * VisualEditor Experimental MediaWiki UserInterface alien extension tool class.
  *

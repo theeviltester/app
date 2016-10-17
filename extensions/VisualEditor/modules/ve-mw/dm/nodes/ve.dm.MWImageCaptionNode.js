@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/nodes/ve.dm.MWImageCaptionNode.js"]=983;
+
 /*!
  * VisualEditor DataModel MWImageCaptionNode class.
  *

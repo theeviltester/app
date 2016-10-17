@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AuthModal/js/AuthModal.js"]=3980;
+
 (function ($, window) {
 	'use strict';
 

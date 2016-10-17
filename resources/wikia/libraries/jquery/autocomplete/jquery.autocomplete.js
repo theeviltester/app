@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/autocomplete/jquery.autocomplete.js"]=14851;
+
 /*
 *  Ajax Autocomplete for jQuery, version 1.0.6
 *  (c) 2009 Tomas Kirda

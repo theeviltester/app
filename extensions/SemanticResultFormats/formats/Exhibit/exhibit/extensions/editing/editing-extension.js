@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/editing/editing-extension.js"]=2412;
+
 /*==================================================
  *  Simile Exhibit Editing Extension
  *==================================================

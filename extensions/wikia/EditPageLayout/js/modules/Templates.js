@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/modules/Templates.js"]=4245;
+
 (function(window){
 
 	var WE = window.WikiaEditor;

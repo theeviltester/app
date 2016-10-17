@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/element/mml/optable/MathOperators.js"]=12013;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/optable/MathOperators.js

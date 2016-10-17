@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.client.js"]=9728;
+
 /**
  * User-agent detection
  */

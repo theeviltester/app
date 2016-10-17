@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserRenameTool/js/NewUsernameUrlEncoder.js"]=1434;
+
 var NewUsernameUrlEncoder = {
 
 	init: function() {

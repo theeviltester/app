@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/focusNoScroll/jquery.focusNoScroll.js"]=339;
+
 /**
  * Yo Internet Explorer, stop scrolling all over the place on focus!
  *

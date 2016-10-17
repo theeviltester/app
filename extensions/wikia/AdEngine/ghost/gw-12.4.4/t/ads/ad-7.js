@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/ads/ad-7.js"]=5505;
+
 var iframeLoaded_6796=0;
 function dclkInjectIframe_6796(iframe, adsenseHtml) {
 if (iframeLoaded_6796) { return; }

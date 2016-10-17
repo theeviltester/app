@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaHomePage/js/spec/WikiaHomePage.mocks.js"]=266;
+
 $.storage = {
 	get: function() {
 		return null;

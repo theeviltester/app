@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MiniEditor/js/Wall/Wall.Setup.js"]=617;
+
 (function($) {
 
 // Create a namespace for the Wall

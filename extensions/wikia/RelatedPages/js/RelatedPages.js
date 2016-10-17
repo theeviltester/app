@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RelatedPages/js/RelatedPages.js"]=2699;
+
 require(['sloth', 'wikia.window', 'jquery'], function (sloth, w, $) {
 	'use strict';
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/lookup/prebid/adapters/appnexus.js"]=1147;
+
 /*global define*/
 define('ext.wikia.adEngine.lookup.prebid.adapters.appnexus',[
 	'ext.wikia.adEngine.lookup.prebid.adapters.appnexusPlacements',

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/time/scripts/timeline-view.js"]=19215;
+
 /*==================================================
  *  Exhibit.TimelineView
  *==================================================

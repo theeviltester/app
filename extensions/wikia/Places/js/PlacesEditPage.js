@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Places/js/PlacesEditPage.js"]=1099;
+
 /*global PlacesEditor: true*/
 if (window.mwCustomEditButtons && window.skin === 'oasis') {
 	window.mwCustomEditButtons.push({

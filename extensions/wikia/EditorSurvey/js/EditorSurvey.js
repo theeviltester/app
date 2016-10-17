@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditorSurvey/js/EditorSurvey.js"]=3208;
+
 ( function( window, $ ) {
 	if ( !window.wgEditorSurveyEnabled ) {
 		return;

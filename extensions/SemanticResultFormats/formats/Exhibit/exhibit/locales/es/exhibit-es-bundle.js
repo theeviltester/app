@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/es/exhibit-es-bundle.js"]=9982;
+
 
 
 /* database-l10n.js */

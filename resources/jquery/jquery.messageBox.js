@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.messageBox.js"]=3031;
+
 /**
  * jQuery messageBox
  *

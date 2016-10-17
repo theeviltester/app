@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/extensions/MathMenu.js"]=30954;
+
 /*************************************************************
  *
  *  MathJax/extensions/MathMenu.js

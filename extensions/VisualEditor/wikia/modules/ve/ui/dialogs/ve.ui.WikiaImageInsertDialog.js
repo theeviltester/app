@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/dialogs/ve.ui.WikiaImageInsertDialog.js"]=839;
+
 /*!
  * VisualEditor user interface WikiaImageInsertDialog class.
  */

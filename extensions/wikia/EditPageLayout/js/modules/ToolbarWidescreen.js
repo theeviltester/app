@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/modules/ToolbarWidescreen.js"]=374;
+
 (function(window){
 
 	var WE = window.WikiaEditor;

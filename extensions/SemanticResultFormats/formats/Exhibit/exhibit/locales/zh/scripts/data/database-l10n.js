@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/zh/scripts/data/database-l10n.js"]=2030;
+
 /*==================================================
  *  Exhibit.Database Chinese localization
  *==================================================

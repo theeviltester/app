@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/js/WikiaMapsCreateMapModal.js"]=2027;
+
 define(
 	'wikia.maps.createMap.modal', [
 		'jquery',

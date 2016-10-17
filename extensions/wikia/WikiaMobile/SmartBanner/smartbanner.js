@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/SmartBanner/smartbanner.js"]=3242;
+
 /**
  * Smart Banner by Jakub Olek
  *

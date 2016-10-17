@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/my.class/my.class.js"]=2016;
+
 /*global my: true */
 (function() {
   my = {};

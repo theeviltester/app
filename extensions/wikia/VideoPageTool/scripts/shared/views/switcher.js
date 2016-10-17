@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/shared/views/switcher.js"]=2705;
+
 /**
  * jQuery plugin Switcher:
  *

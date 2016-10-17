@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Wall/js/Wall.js"]=25256;
+
 (function (window, $, mw) {
 	'use strict';
 

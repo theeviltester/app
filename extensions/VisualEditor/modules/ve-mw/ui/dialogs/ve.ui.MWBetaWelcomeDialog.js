@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/dialogs/ve.ui.MWBetaWelcomeDialog.js"]=1504;
+
 /*!
  * VisualEditor user interface MWBetaWelcomeDialog class.
  *

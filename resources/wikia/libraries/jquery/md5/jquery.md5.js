@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/md5/jquery.md5.js"]=6486;
+
 
 /**
 *

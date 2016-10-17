@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Chat2/js/views/views.js"]=20296;
+
 //
 //Views
 //

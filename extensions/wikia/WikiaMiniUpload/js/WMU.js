@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMiniUpload/js/WMU.js"]=35521;
+
 /*
  * Author: Inez Korczynski, Bartek Lapinski
  * Converted from YUI to jQuery by Hyun (except for the slider)

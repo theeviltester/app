@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/scripts/util/platform.js"]=2859;
+
 /*==================================================
  *  Platform Utility Functions and Constants
  *==================================================

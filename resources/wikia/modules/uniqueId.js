@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/uniqueId.js"]=1446;
+
 
 /**
  * original by: Kevin van Zonneveld (http://kevin.vanzonneveld.net)

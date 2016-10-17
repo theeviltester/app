@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/autoload/multiline.js"]=4715;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/autoload/multiline.js

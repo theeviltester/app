@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/lookup/openXBidder.js"]=2828;
+
 /*global define*/
 /*jshint camelcase:false*/
 define('ext.wikia.adEngine.lookup.openXBidder', [

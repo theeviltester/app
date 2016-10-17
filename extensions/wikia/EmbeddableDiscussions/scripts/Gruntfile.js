@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EmbeddableDiscussions/scripts/Gruntfile.js"]=652;
+
 /* jshint ignore: start */
 module.exports = function (grunt) {
 	'use strict';

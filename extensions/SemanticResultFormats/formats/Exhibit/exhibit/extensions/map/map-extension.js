@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/map/map-extension.js"]=3134;
+
 /*==================================================
  *  Simile Exhibit Map Extension
  *==================================================

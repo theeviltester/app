@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/docs/javascript/prettify.js"]=64919;
+
 
 // This code comes from the December 2009 release of Google Prettify, which is Copyright © 2006 Google Inc.
 // Minor modifications are marked with "ND Change" comments.

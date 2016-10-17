@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/accesskey/plugin.js"]=554;
+
 CKEDITOR.plugins.add('rte-accesskey',
 {
 	init: function(editor) {

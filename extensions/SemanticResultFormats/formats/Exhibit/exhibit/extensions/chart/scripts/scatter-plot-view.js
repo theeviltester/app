@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/chart/scripts/scatter-plot-view.js"]=18609;
+
 /*==================================================
  *  Exhibit.ScatterPlotView
  *==================================================

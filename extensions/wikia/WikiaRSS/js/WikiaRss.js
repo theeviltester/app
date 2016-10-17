@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaRSS/js/WikiaRss.js"]=723;
+
 var WikiaRss = WikiaRss || (function(){
 	/** @private **/
 

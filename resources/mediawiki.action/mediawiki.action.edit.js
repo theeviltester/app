@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.action/mediawiki.action.edit.js"]=5577;
+
 ( function ( $, mw ) {
 	var isReady, toolbar, currentFocused;
 

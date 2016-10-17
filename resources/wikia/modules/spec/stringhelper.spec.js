@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/stringhelper.spec.js"]=1312;
+
 describe("Stringhelper", function () {
 	'use strict';
 

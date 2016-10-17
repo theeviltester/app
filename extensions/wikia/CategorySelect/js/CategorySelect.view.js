@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CategorySelect/js/CategorySelect.view.js"]=3381;
+
 (function( window, $, mw ) {
 	var action = window.wgAction,
 		wgCategorySelect = window.wgCategorySelect;

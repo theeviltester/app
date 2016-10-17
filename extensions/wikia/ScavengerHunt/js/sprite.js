@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ScavengerHunt/js/sprite.js"]=4958;
+
 /*
  * Object helper for managing and displaying sprites, parts of big image
  *

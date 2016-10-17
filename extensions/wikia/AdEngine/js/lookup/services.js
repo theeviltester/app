@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/lookup/services.js"]=2532;
+
 /**
  * Module for getting information from "lookup" services such as Amazon Match
  *

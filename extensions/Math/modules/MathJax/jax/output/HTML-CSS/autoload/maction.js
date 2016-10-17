@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/autoload/maction.js"]=7919;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/autoload/maction.js

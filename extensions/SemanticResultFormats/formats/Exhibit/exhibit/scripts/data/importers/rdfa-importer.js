@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/importers/rdfa-importer.js"]=5079;
+
 /*==================================================
  *  Exhibit.RDFaImporter
  *  author: Keith Alexander (with the assistance of Johan Sundstr�m and Ben Adida)

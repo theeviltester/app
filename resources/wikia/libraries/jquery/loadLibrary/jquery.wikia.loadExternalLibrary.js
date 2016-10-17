@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/loadLibrary/jquery.wikia.loadExternalLibrary.js"]=3771;
+
 /*global jQuery, Wikia*/
 (function ($) {
 	'use strict';

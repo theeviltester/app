@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaNewFiles/scripts/uploadPhotosDialog.js"]=6495;
+
 var UploadPhotos = {
 	d: false,
 	destfile: false,

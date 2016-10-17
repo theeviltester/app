@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Flags/specials/scripts/FlagEditForm.js"]=9476;
+
 define ('ext.wikia.Flags.FlagEditForm',
 	['jquery', 'mw', 'wikia.loader', 'wikia.cache', 'wikia.nirvana', 'wikia.mustache', 'BannerNotification'],
 	function ($, mw, loader, cache, nirvana, mustache, BannerNotification) {

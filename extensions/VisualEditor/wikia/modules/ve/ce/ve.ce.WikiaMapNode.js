@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ce/ve.ce.WikiaMapNode.js"]=1115;
+
 /*!
  * VisualEditor ContentEditable WikiaMapNode class.
  */

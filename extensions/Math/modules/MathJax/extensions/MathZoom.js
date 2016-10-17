@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/extensions/MathZoom.js"]=16047;
+
 /*************************************************************
  *
  *  MathJax/extensions/MathZoom.js

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Chat2/js/views/ChatBanModal.js"]=2031;
+
 var ChatBanModal = function (title, okCallback, options) {
 	'use strict';
 

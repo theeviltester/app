@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/facets/slider-facet.js"]=8979;
+
 /*==================================================
  *  Exhibit.SliderFacet
  *==================================================

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.api/mediawiki.api.watch.js"]=1756;
+
 /**
  * Additional mw.Api methods to assist with (un)watching wiki pages.
  * @since 1.19

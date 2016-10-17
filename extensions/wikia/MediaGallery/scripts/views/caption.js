@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MediaGallery/scripts/views/caption.js"]=2756;
+
 define('mediaGallery.views.caption', [], function () {
 	'use strict';
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/provider/turtle.js"]=1645;
+
 /*global define*/
 define('ext.wikia.adEngine.provider.turtle', [
 	'wikia.log',

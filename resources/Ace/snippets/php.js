@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/php.js"]=7566;
+
 ace.define('ace/snippets/php', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

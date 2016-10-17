@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/CheckUser/checkuser.js"]=7149;
+
 /* -- (c) Aaron Schulz 2009 */
 
 var showResults = function(size, cidr) {

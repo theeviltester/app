@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/importers/authenticated-importer.js"]=1636;
+
 Exhibit.AuthenticatedImporter = {
     _callbacks: {}
 };

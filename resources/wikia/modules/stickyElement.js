@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/stickyElement.js"]=3594;
+
 /**
  * Module wikia.stickyElement
  *

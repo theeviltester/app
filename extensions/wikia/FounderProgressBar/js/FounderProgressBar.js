@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/FounderProgressBar/js/FounderProgressBar.js"]=12843;
+
 var FounderProgressList = {
 	isHidden: true,
 	hoverHandle: false,

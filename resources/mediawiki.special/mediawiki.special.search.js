@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.special/mediawiki.special.search.js"]=1091;
+
 /*
  * JavaScript for Special:Search
  */

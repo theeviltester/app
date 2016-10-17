@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialManageWikiaHome/js/ManageWikiaHome.js"]=11347;
+
 $(function () {
 	'use strict';
 	var ManageWikiaHome = function () {

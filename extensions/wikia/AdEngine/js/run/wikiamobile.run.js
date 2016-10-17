@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/run/wikiamobile.run.js"]=2224;
+
 /*global require*/
 require(
 	[

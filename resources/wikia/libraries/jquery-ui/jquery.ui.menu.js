@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery-ui/jquery.ui.menu.js"]=5072;
+
 /*
  * jQuery UI Menu (not officially released)
  * 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/tools/ve.ui.MWGalleryInspectorTool.js"]=1071;
+
 /*!
  * VisualEditor MediaWiki UserInterface gallery tool class.
  *

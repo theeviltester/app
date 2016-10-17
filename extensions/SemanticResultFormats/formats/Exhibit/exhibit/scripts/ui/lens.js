@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/lens.js"]=35611;
+
 /*==================================================
  *  Exhibit.LensRegistry
  *==================================================

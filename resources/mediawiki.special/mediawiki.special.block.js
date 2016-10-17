@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.special/mediawiki.special.block.js"]=1365;
+
 /* JavaScript for Special:Block */
 
 jQuery( function( $ ) {

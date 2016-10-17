@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/TemplateClassification/scripts/TemplateClassificationGlobalShortcuts.js"]=1016;
+
 /**
  * TemplateClassification module for adding shortcut key to GlobalShortcuts extension
  */

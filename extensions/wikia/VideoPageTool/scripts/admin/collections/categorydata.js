@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/admin/collections/categorydata.js"]=1384;
+
 define('videopageadmin.collections.categorydata', [], function () {
 	'use strict';
 

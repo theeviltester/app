@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/importScript.js"]=1557;
+
 define('wikia.importScript', ['wikia.importScriptHelper', 'wikia.window'], function(importScriptHelper, window) {
 	'use strict';
 

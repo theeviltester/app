@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/pages/ve.ui.MWTransclusionContentPage.js"]=2430;
+
 /*!
  * VisualEditor user interface MWTransclusionContentPage class.
  *

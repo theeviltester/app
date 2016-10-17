@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/TeX-AMS-texvc_HTML.js"]=178444;
+
 /*
  *  /MathJax/config/TeX-AMS-texvc_HTML.js
  *

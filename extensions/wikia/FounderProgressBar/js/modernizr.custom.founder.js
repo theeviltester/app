@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/FounderProgressBar/js/modernizr.custom.founder.js"]=1376;
+
 /* Modernizr 2.0.4 (Custom Build) | MIT & BSD
  * Contains: csstransforms | csstransitions | canvas | testprop | testallprops | domprefixes
  */

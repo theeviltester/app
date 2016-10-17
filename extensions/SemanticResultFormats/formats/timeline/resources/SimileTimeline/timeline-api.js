@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/timeline-api.js"]=8172;
+
 /*==================================================
  *  Timeline API
  *

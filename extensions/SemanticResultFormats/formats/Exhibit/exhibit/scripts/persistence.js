@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/persistence.js"]=2508;
+
 /*======================================================================
  *  Persistence Utility Functions
  *======================================================================

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialPageViews/modules/SpecialPageViews.js"]=14236;
+
 var SponsorshipDashboard = function(){
 	var self = this;
 

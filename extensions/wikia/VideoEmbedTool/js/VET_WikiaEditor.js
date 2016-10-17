@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoEmbedTool/js/VET_WikiaEditor.js"]=3103;
+
 /* global WikiaEditor, RTE, insertTags */
 (function (window, $) {
 	'use strict';

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ce/nodes/ve.ce.MWPreformattedNode.js"]=820;
+
 /*!
  * VisualEditor ContentEditable MWPreformattedNode class.
  *

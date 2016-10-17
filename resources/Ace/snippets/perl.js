@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/perl.js"]=6244;
+
 ace.define('ace/snippets/perl', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

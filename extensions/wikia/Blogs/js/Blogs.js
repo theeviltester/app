@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Blogs/js/Blogs.js"]=4469;
+
 var Blogs = {};
 
 Blogs.callback = function( data ) {

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Search/js/WikiaSearchAds.js"]=1460;
+
 jQuery(function($) {
 	//$().log('start', 'WikiaSearchAds');
 

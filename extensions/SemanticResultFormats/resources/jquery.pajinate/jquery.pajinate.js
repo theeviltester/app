@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.pajinate/jquery.pajinate.js"]=10524;
+
 ;(function($){
 /*******************************************************************************************/    
 // jquery.pajinate.js - version 0.4

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/integration/toc.spec.js"]=4376;
+
 /*global describe, it, jasmine, getBody, expect*/
 describe('toc module', function () {
 	'use strict';

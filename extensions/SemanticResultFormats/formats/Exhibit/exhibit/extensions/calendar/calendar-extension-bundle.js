@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/calendar/calendar-extension-bundle.js"]=32650;
+
 
 
 /* calendar-view.js */

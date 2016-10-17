@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/bxslider/jquery.bxslider.js"]=49278;
+
 /**
  * BxSlider v4.1.1 - Fully loaded, responsive content slider
  * http://bxslider.com

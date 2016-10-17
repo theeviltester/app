@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/config/mobile.js"]=1947;
+
 /*global define,require*/
 define('ext.wikia.adEngine.config.mobile', [
 	'ext.wikia.adEngine.adContext',

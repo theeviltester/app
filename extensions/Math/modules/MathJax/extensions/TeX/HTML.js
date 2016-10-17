@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/extensions/TeX/HTML.js"]=2823;
+
 /*************************************************************
  *
  *  MathJax/extensions/TeX/HTML.js

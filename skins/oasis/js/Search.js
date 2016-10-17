@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/Search.js"]=2929;
+
 WikiaSearchApp = (function() {
 
 	function WikiaSearchApp(id) {

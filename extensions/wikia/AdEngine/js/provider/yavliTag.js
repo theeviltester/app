@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/provider/yavliTag.js"]=724;
+
 /*global define*/
 define('ext.wikia.adEngine.provider.yavliTag', [
 	'ext.wikia.adEngine.adContext',

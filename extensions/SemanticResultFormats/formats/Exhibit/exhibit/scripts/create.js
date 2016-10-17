@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/create.js"]=1257;
+
 /*======================================================================
  *  Exhibit auto-create
  *  Code to automatically create the database, load the data links in

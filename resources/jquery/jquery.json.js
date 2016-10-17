@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.json.js"]=5673;
+
 /*
  * jQuery JSON Plugin
  * version: 2.1 (2009-08-14)

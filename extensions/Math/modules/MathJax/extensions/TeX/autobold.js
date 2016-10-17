@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/extensions/TeX/autobold.js"]=1649;
+
 /*************************************************************
  *
  *  MathJax/extensions/TeX/autobold.js

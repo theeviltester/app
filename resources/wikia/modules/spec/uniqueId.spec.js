@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/uniqueId.spec.js"]=784;
+
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("uniqueId", function () {
 	'use strict';

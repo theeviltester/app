@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/WikiaDartVideoHelper.spec.js"]=2103;
+
 /* global describe, it, expect, modules */
 describe('WikiaDartVideoHelper', function () {
 	'use strict';

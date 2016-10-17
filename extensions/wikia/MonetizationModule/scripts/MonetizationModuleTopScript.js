@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MonetizationModule/scripts/MonetizationModuleTopScript.js"]=1665;
+
 /**
  * NOTE: This script must run before the page is rendered
  * in order to properly set the 'fromsearch' variable. Otherwise,

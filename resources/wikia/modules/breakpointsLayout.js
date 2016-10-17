@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/breakpointsLayout.js"]=2310;
+
 define('wikia.breakpointsLayout',  function() {
 	'use strict';
 

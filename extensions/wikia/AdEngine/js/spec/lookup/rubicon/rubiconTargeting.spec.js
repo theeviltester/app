@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/lookup/rubicon/rubiconTargeting.spec.js"]=1640;
+
 /*global beforeEach, describe, it, modules, expect, spyOn*/
 describe('ext.wikia.adEngine.lookup.rubicon.rubiconTargeting', function () {
 	'use strict';

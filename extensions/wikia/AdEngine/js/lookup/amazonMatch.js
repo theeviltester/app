@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/lookup/amazonMatch.js"]=3116;
+
 /*global define*/
 define('ext.wikia.adEngine.lookup.amazonMatch', [
 	'ext.wikia.adEngine.adContext',

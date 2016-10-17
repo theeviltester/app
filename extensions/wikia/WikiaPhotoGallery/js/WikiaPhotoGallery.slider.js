@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaPhotoGallery/js/WikiaPhotoGallery.slider.js"]=2575;
+
 var WikiaPhotoGallerySlider = {
 	sliderEnabled: true,
 

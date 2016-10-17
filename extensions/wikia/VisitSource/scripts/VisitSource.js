@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VisitSource/scripts/VisitSource.js"]=294;
+
 $(function () {
 	'use strict';
 

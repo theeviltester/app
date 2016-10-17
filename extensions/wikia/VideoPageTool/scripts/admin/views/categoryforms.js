@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/admin/views/categoryforms.js"]=1579;
+
 define('videopageadmin.views.categoryforms', [
 	'jquery',
 	'videopageadmin.views.autocomplete',

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/template/floorAdhesion.js"]=926;
+
 /*global define*/
 define('ext.wikia.adEngine.template.floorAdhesion', [
 	'ext.wikia.adEngine.adContext',

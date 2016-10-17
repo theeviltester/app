@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.effects/jquery.effects.scale.js"]=6947;
+
 /*
  * jQuery UI Effects Scale 1.8.17
  *

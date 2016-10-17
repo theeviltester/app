@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery-ui/jquery-ui-1.8.14.custom.js"]=163008;
+
 /*!
  * jQuery UI 1.8.14
  *

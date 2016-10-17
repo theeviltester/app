@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/modal.js"]=6267;
+
 /*global Features, WikiaMobile */
 /**
  * Full screen modal in Wikia Mobile

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/editing/scripts/data/editing-backend.js"]=3033;
+
 Exhibit.EditingBackend = function() {
     this._nodeTree = {};
     this._dataTree = {};

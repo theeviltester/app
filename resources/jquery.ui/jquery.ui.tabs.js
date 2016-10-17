@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.tabs.js"]=21245;
+
 /*
  * jQuery UI Tabs 1.8.17
  *

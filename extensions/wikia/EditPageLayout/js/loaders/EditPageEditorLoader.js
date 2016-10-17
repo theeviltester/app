@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/loaders/EditPageEditorLoader.js"]=4065;
+
 (function($, window) {
 
 	/**

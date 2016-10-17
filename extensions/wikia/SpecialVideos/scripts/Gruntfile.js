@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialVideos/scripts/Gruntfile.js"]=552;
+
 module.exports = function (grunt) {
 	'use strict';
 	grunt.loadNpmTasks('grunt-mustache');

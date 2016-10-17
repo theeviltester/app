@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/InWikiGame/js/InWikiGame.js"]=1531;
+
 var InWikiGame = {
 	storageEntryPoint: null,
 	init: function(jsonObject) {

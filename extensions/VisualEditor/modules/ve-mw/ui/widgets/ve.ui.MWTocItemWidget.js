@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/widgets/ve.ui.MWTocItemWidget.js"]=2398;
+
 /*!
  * VisualEditor UserInterface MWTocItemWidget class.
  *

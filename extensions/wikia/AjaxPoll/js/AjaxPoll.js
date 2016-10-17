@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AjaxPoll/js/AjaxPoll.js"]=2092;
+
 var AjaxPoll = {
 	callback: function( answer ) {
 		// hide loading inicator & unblock submit button

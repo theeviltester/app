@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaStyleGuide/js/MultiSelectDropdown.js"]=4613;
+
 (function(window, $) {
 
 var Wikia = window.Wikia || {};

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/exhibit-api.js"]=9829;
+
 /*==================================================
  *  Simile Exhibit API
  *

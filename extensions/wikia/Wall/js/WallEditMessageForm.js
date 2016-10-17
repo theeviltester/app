@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Wall/js/WallEditMessageForm.js"]=5968;
+
 (function(window, $) {
 
 Wall.EditMessageForm = $.createClass(Wall.MessageForm, {

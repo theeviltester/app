@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/template/plugin.js"]=17201;
+
 CKEDITOR.plugins.add('rte-template',
 {
 	init: function(editor) {

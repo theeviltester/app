@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/plugins/MiniEditor.js"]=6767;
+
 (function(window, $) {
 	var WE = window.WikiaEditor = window.WikiaEditor || (new Observable());
 

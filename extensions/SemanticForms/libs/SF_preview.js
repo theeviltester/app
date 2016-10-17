@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticForms/libs/SF_preview.js"]=5185;
+
 /**
  * Handles dynamic Page Preview for Semantic Forms.
  *

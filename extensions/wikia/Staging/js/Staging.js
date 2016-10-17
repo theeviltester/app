@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Staging/js/Staging.js"]=783;
+
 if ( window.wgStagingEnvironment ) {
 	(function( document ){
 		'use strict';

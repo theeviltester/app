@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/log.js"]=5332;
+
 /**
  * Logging utility extracted from Liftium's library and further modified
  *

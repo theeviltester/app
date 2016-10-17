@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/exporters/exhibit-json-exporter.js"]=2870;
+
 /*==================================================
  *  Exhibit.ExhibitJsonExporter
  *==================================================

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CreateNewWiki/js/CreateNewWikiThemeDesignerOverrides.js"]=1382;
+
 /* global ThemeDesigner, themes */
 
 (function () {

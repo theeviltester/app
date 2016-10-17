@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/metaitems/ve.dm.MWTransclusionMetaItem.js"]=1011;
+
 /*!
  * VisualEditor DataModel MWTransclusionMetaItem class.
  *

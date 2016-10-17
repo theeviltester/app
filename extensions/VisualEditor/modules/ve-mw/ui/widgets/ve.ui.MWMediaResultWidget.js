@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/widgets/ve.ui.MWMediaResultWidget.js"]=2708;
+
 /*!
  * VisualEditor UserInterface MWMediaResultWidget class.
  *

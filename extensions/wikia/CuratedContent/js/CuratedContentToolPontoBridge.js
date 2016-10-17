@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CuratedContent/js/CuratedContentToolPontoBridge.js"]=1062;
+
 define(
 	'curatedContentTool.pontoBridge',
 	['wikia.window','ponto'],

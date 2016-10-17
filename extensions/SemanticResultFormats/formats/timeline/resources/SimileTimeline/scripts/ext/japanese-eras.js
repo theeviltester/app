@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/scripts/ext/japanese-eras.js"]=25266;
+
 /*==================================================
  *  Japanese Era Date Labeller
  *==================================================

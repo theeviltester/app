@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/pageFairDetection.spec.js"]=2060;
+
 /*global describe, it, expect, modules, spyOn*/
 describe('Module ext.wikia.adEngine.pageFairDetection', function () {
 	'use strict';

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GameGuides/js/GameGuidesSponsored.js"]=5965;
+
 /* global mw, confirm */
 $(function () {
 	'use strict';

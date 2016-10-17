@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/modules/InsightsModule.js"]=567;
+
 define('InsightsModule', ['wikia.tracker'],
 	function(tracker) {
 		'use strict';

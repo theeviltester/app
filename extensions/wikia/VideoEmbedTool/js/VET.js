@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoEmbedTool/js/VET.js"]=30252;
+
 /* global BannerNotification */
 
 /*

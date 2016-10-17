@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/BlogEditCategoryPrompter/becp.js"]=425;
+
 $(document).ready(function() {
 	$("#editform").submit(function(event) {
 		var categoriesInput = $("#categories").val();

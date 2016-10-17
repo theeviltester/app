@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/editor/AceEditor.js"]=3913;
+
 define(
 	'wikia.editpage.ace.editor',
 	['wikia.ace.editor', 'editpage.events', 'wikia.window'],

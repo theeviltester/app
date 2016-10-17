@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/annotations/ve.dm.MWNowikiAnnotation.js"]=2503;
+
 /*!
  * VisualEditor DataModel MWNowikiAnnotation class.
  *

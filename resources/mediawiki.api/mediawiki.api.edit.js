@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.api/mediawiki.api.edit.js"]=3722;
+
 /**
  * Additional mw.Api methods to assist with API calls related to editing wiki pages.
  */

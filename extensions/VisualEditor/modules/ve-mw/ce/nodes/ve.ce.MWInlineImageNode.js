@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ce/nodes/ve.ce.MWInlineImageNode.js"]=2968;
+
 /*!
  * VisualEditor ContentEditable MWInlineImageNode class.
  *

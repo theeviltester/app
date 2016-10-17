@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/js/WikiaMaps.js"]=1428;
+
 require(
 	[
 		'jquery',

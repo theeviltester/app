@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/ajax.js"]=1511;
+
 /*==================================================
  *  General, miscellaneous SimileAjax stuff
  *==================================================

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.effects/jquery.effects.fade.js"]=691;
+
 /*
  * jQuery UI Effects Fade 1.8.17
  *

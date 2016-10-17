@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/vignette/vignette.js"]=9073;
+
 /**
  * Helper module to generate the URL to a thumbnail of specific size from JS
  */

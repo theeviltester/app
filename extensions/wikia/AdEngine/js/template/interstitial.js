@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/template/interstitial.js"]=904;
+
 /*global define*/
 define('ext.wikia.adEngine.template.interstitial', [
 	'ext.wikia.adEngine.slotTweaker',

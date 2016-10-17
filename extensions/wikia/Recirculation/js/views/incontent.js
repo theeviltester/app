@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/views/incontent.js"]=2322;
+
 define('ext.wikia.recirculation.views.incontent', [
 	'jquery',
 	'wikia.window',

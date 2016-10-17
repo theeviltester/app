@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Maps/includes/ext.maps.common.js"]=399;
+
 /**
  * JavaScript for  the Maps extension.
  * @see http://www.mediawiki.org/wiki/Extension:Maps

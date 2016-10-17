@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/krux.js"]=3146;
+
 /*global Krux, define, window*/
 window.Krux || ((Krux = function () {
 	Krux.q.push(arguments);

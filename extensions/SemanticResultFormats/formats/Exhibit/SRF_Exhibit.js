@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/SRF_Exhibit.js"]=5041;
+
 function createExhibit() {//overload Exhibit's autoCreate-functionality
 
   /*

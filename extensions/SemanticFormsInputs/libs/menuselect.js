@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticFormsInputs/libs/menuselect.js"]=6312;
+
 /**
  * Javascript code to be used with input type menuselect.
  *

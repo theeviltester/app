@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/AbuseFilter/modules/ext.abuseFilter.tools.js"]=1988;
+
 /**
  * AbuseFilter tools JS
  */

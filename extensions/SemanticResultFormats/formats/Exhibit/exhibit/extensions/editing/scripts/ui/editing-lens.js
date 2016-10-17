@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/editing/scripts/ui/editing-lens.js"]=28165;
+
 Exhibit.EditingLens = {};
 
 var NO_EDITING = 0;

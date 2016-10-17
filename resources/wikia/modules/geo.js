@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/geo.js"]=4015;
+
 /**
  * Geo-location utility used mainly for advertisement (e.g. AdConfig)
  */

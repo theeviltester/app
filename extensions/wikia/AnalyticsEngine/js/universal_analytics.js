@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AnalyticsEngine/js/universal_analytics.js"]=19136;
+
 /*!
  * Google Universal Analytics
  *

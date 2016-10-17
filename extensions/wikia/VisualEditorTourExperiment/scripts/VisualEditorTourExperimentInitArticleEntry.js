@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VisualEditorTourExperiment/scripts/VisualEditorTourExperimentInitArticleEntry.js"]=2251;
+
 require(['jquery', 'mw', 'VisualEditorTourExperimentInit', 'ext.wikia.spitfires.experiments.tracker'],
 	function ($, mw, veTourInit, tracker) {
 		'use strict';

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/scripts/l10n/vi/labellers.js"]=865;
+
 /*==================================================
  *  Localization of labellers.js
  *==================================================

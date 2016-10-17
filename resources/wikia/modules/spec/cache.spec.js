@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/cache.spec.js"]=3921;
+
 describe("CacheTest", function(){
 	var localStorage = {
 			data: {},

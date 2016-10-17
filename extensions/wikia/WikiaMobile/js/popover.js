@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/popover.js"]=2402;
+
 /**
  *
  * POPOVER

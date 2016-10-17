@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.donutRenderer.js"]=33910;
+
 /**
  * jqPlot
  * Pure JavaScript plotting plugin using jQuery

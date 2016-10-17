@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/admin/collections/category.js"]=2940;
+
 /**
  * CategoryCollection
  * @constructor

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/string.js"]=1360;
+
 /*==================================================
  *  String Utility Functions and Constants
  *==================================================

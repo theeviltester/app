@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/pageviewsInSession.js"]=3155;
+
 /**
  * Pageviews in session counter
  *

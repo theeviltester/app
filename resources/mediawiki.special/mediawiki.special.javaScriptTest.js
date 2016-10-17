@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.special/mediawiki.special.javaScriptTest.js"]=1018;
+
 /*
  * JavaScript for Special:JavaScriptTest
  */

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/admin/views/thumbnailupload.js"]=2189;
+
 define('videopageadmin.views.thumbnailupload', [
 	'jquery',
 	'wikia.window',

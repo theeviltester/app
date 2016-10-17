@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Maps/includes/editor/js/mapeditor.js"]=34778;
+
 var mapEditor = {
     __map:null,
     __drawingManager:null,

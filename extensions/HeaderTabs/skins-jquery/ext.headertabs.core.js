@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/HeaderTabs/skins-jquery/ext.headertabs.core.js"]=3499;
+
 /**
  * Javascript code for Header Tabs extension for MW 1.17+
  *

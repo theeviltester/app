@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/ads/pencil-slide.js"]=1749;
+
 __ADTECH_CODE__ = "";
 __theDocument = document;
 __theWindow = window;

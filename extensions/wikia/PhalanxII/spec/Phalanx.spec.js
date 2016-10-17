@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/PhalanxII/spec/Phalanx.spec.js"]=2521;
+
 describe('Phalanx', function () {
 	'use strict';
 

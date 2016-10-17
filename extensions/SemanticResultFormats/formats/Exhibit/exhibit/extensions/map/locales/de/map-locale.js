@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/map/locales/de/map-locale.js"]=352;
+
 /*==================================================
  *  Exhibit Map Extension German localization
  *==================================================

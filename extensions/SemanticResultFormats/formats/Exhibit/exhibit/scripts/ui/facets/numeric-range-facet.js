@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/facets/numeric-range-facet.js"]=12337;
+
 /*==================================================
  *  Exhibit.NumericRangeFacet
  *==================================================

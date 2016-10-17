@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaPhotoGallery/js/WikiaPhotoGallery.slider.mosaic.js"]=4217;
+
 var WikiaMosaicSliderMasterControl = {
 	init: function() {
 		// cache DOM

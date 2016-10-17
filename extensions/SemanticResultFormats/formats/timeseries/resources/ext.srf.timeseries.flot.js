@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/timeseries/resources/ext.srf.timeseries.flot.js"]=10682;
+
 /**
  * JavaScript for SRF timeseries
  * @see http://www.semantic-mediawiki.org/wiki/Help:Timeseries format

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/BannerNotifications/js/Gruntfile.js"]=569;
+
 module.exports = function( grunt ) {
 	'use strict';
 	grunt.loadNpmTasks( 'grunt-mustache' );

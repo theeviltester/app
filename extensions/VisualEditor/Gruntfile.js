@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/Gruntfile.js"]=2718;
+
 /*!
  * Grunt file
  *

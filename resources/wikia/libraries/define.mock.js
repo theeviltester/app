@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/define.mock.js"]=888;
+
 /**
  * AMD define mock to unit test AMD modules.
  *

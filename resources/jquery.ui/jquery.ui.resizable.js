@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.resizable.js"]=27787;
+
 /*
  * jQuery UI Resizable 1.8.17
  *

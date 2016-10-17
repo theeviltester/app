@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/dialogs/ve.ui.MWReferenceDialog.js"]=13125;
+
 /*!
  * VisualEditor UserInterface MediaWiki MWReferenceDialog class.
  *

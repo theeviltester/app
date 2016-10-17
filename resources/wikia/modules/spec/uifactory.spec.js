@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/uifactory.spec.js"]=6424;
+
 describe('UIFactory', function () {
 	'use strict';
 

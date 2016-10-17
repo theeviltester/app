@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/curate/curate-extension-bundle.js"]=17756;
+
 
 
 /* change-list.js */

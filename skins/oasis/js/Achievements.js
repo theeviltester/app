@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/Achievements.js"]=3336;
+
 (function( window, $ ) {
 	var AchievementsModule = {
 		init: function() {

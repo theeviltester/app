@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/bxslider/plugins/jquery.fitvids.js"]=2864;
+
 /*global jQuery */
 /*jshint multistr:true browser:true */
 /*!

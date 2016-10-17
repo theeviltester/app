@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoHandlers/js/handlers/Youtube.js"]=1483;
+
 /**
  * Use Youtube's iframe API to play and track videos
  * Uses player events to track video views

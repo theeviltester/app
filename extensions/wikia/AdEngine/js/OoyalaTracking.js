@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/OoyalaTracking.js"]=701;
+
 /*global require*/
 require(['wikia.window', 'wikia.tracker'], function (window, tracker) {
 	'use strict';

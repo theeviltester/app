@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/en/scripts/ui/ui-context-l10n.js"]=352;
+
 /*==================================================
  *  Exhibit.UIContext English localization
  *==================================================

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/curtain.js"]=774;
+
 /**
  * Curtain module to handle curtain that can overlay whole page
  */

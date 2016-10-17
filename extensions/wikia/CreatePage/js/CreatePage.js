@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CreatePage/js/CreatePage.js"]=10551;
+
 /* global $ */
 var CreatePage = {
 	pageLayout: null,

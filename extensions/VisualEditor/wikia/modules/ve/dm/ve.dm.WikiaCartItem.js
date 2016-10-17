@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/dm/ve.dm.WikiaCartItem.js"]=2659;
+
 /*!
  * VisualEditor DataModel WikiaCartItem class.
  * @license The MIT License (MIT); see LICENSE.txt

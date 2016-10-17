@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/utils/scriptLoader.spec.js"]=858;
+
 /*global describe, it, expect, modules, spyOn*/
 describe('Module ext.wikia.adEngine.utils.scriptLoader', function () {
 	'use strict';

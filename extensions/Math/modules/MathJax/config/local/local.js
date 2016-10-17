@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/config/local/local.js"]=1375;
+
 /*************************************************************
  *
  *  MathJax/config/local/local.js

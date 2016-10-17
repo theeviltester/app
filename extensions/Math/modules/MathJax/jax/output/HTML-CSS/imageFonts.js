@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/imageFonts.js"]=7705;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/imageFonts.js

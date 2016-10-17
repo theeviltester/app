@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/localStorage.js"]=214;
+
 /**
  * A set of AMD modules wrapping local storage API
  */

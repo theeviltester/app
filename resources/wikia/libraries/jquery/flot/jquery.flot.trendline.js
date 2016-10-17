@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/flot/jquery.flot.trendline.js"]=2062;
+
 /*
 @author Ricardo Vega - "ricardoe" in the google mail system
 @author Marooned for Wikia, inc. - fixes to original plugin

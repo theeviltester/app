@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialVideos/scripts/SpecialVideos.js"]=4105;
+
 /* global BannerNotification */
 
 /**

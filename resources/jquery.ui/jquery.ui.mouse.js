@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.mouse.js"]=4294;
+
 /*!
  * jQuery UI Mouse 1.8.17
  *

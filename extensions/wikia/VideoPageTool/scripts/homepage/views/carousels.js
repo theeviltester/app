@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/homepage/views/carousels.js"]=939;
+
 /**
  * View for list of carousels on the video homage page.
  * Collection data is an array with all the carousel data.

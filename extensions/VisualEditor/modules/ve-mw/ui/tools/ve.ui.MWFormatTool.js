@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/tools/ve.ui.MWFormatTool.js"]=4900;
+
 /*!
  * VisualEditor MediaWiki UserInterface format tool classes.
  *

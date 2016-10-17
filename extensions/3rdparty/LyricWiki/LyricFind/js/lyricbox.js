@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/3rdparty/LyricWiki/LyricFind/js/lyricbox.js"]=593;
+
 require(['jquery'], function($) {
 	function preventHighlighting(element){
 		if (typeof element.onselectstart !== "undefined") { // IE

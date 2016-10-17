@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/init/ve.init.wikia.ViewPageTarget.js"]=12303;
+
 /*!
  * VisualEditor MediaWiki Initialization WikiaViewPageTarget class.
  *

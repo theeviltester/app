@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Maps/includes/editor/js/jquery.miniColors.js"]=15765;
+
 /*
  * jQuery miniColors: A small color selector
  *

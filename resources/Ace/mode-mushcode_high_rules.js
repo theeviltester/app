@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/mode-mushcode_high_rules.js"]=8783;
+
 /*
  * MUSHCodeMode
  */

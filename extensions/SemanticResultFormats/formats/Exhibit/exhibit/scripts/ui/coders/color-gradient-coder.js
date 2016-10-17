@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/coders/color-gradient-coder.js"]=6261;
+
 /*==================================================
  *  Exhibit.ColorGradientCoder
  *==================================================

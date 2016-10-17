@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/comment/dialogs/comment.js"]=1518;
+
 /**
  *  Wikia comment editor
  *

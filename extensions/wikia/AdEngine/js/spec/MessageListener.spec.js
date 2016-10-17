@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/MessageListener.spec.js"]=8850;
+
 /*global describe, it, expect, modules, spyOn*/
 describe('Module ext.wikia.adEngine.messageListener', function () {
 	'use strict';

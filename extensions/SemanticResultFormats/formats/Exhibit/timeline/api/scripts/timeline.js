@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/scripts/timeline.js"]=21585;
+
 /*=================================================
  *
  * Coding standards:

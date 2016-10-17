@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/views/tile-view.js"]=6485;
+
 /*==================================================
  *  Exhibit.TileView
  *==================================================

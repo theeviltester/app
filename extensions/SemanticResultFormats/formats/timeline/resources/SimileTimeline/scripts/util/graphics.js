@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/scripts/util/graphics.js"]=12290;
+
 /*==================================================
  *  Graphics Utility Functions and Constants
  *==================================================

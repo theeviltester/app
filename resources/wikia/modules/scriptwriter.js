@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/scriptwriter.js"]=5547;
+
 /**
  * document.write sucks and block the whole page downloading and rendering until it's complete.
  *

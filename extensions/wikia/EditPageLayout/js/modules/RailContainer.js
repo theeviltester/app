@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/modules/RailContainer.js"]=1266;
+
 (function(window){
 
 	var WE = window.WikiaEditor;

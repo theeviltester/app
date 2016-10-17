@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CommunityPage/scripts/ext.communityPage.js"]=7814;
+
 require([
 	'jquery',
 	'wikia.ui.factory',

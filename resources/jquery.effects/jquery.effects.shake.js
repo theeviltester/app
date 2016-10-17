@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.effects/jquery.effects.shake.js"]=1939;
+
 /*
  * jQuery UI Effects Shake 1.8.17
  *

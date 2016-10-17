@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/homepage/views/carouselThumb.js"]=1084;
+
 define('videohomepage.views.carouselThumb', [
 	'shared.views.carouselThumb',
 	'wikia.tracker'

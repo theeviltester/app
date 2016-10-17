@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki/mediawiki.jqueryMsg.js"]=40499;
+
 /*!
 * Experimental advanced wikitext parser-emitter.
 * See: https://www.mediawiki.org/wiki/Extension:UploadWizard/MessageParser for docs

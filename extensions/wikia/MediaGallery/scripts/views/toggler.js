@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MediaGallery/scripts/views/toggler.js"]=767;
+
 define('mediaGallery.views.toggler', [
 	'mediaGallery.templates.mustache'
 ], function (templates) {

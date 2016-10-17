@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/excanvas.js"]=42086;
+
 // Memory Leaks patch from http://explorercanvas.googlecode.com/svn/trunk/ 
 //  svn : r73
 // ------------------------------------------------------------------

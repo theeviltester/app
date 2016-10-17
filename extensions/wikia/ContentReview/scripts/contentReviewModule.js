@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ContentReview/scripts/contentReviewModule.js"]=1474;
+
 define(
 	'ext.wikia.contentReview.module',
 	['jquery', 'mw', 'wikia.loader', 'wikia.nirvana', 'wikia.window', 'BannerNotification'],

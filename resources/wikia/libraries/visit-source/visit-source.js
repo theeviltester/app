@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/visit-source/visit-source.js"]=1720;
+
 var VisitSource = (function () {
 	/**
 	 *

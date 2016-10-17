@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/NativeMML/config.js"]=1748;
+
 /*************************************************************
  *
  *  MathJax/jax/output/NativeMML/config.js

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/AdEngine2.spec.js"]=7297;
+
 /*global describe,modules,it,expect,spyOn,jasmine*/
 /*jshint maxlen:200*/
 /*jslint unparam:true*/

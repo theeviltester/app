@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/wikibits_minimal.js"]=1566;
+
 /**
  * MediaWiki legacy wikibits
  *

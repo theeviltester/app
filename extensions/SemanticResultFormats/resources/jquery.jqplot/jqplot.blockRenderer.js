@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.blockRenderer.js"]=9155;
+
 /**
  * jqPlot
  * Pure JavaScript plotting plugin using jQuery

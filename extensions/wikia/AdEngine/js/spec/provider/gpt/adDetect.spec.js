@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/provider/gpt/adDetect.spec.js"]=8046;
+
 /*global describe, it, expect, modules, spyOn*/
 describe('Method ext.wikia.adEngine.provider.gpt.adDetect.onAdLoad', function () {
 	'use strict';

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/utils/math.js"]=403;
+
 /*global define*/
 define('ext.wikia.adEngine.utils.math', [
 ], function () {

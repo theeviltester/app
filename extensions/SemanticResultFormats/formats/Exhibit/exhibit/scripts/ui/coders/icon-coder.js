@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/coders/icon-coder.js"]=4337;
+
 /*==================================================
  *  Exhibit.IconCoder
  *==================================================

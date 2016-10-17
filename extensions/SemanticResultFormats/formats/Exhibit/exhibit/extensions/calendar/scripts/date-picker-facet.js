@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/calendar/scripts/date-picker-facet.js"]=15595;
+
 /*==================================================
  *  Exhibit.DatePickerFacet
  *==================================================

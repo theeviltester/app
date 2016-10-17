@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticForms/libs/ext.sf.js"]=390;
+
 /*
 * ext.sf.js
 *

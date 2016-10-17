@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/PageShare/scripts/spec/PageShare.spec.js"]=3294;
+
 describe('pageShare', function () {
 	'use strict';
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.tablesorter.js"]=24546;
+
 /**
  * TableSorter for MediaWiki
  *

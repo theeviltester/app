@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/AdEngine2.decorators.spec.js"]=3510;
+
 /*global describe,modules,it,expect,spyOn,jasmine*/
 /*jshint maxlen:200*/
 /*jshint unused:false*/

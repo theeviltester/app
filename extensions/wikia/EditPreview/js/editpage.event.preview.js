@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPreview/js/editpage.event.preview.js"]=5423;
+
 define('editpage.event.preview', ['editpage.event.helper', 'jquery', 'wikia.window', 'wikia.querystring'], function (helper, $, window, qs){
 	'use strict';
 

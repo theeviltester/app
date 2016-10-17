@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/UserLoginFacebook.wikiamobile.js"]=2128;
+
 /* global wgScriptPath */
 require(['track', 'wikia.querystring', 'toast', 'wikia.nirvana', 'JSMessages', 'wikia.window'],
 	function (track, Qs, toast, nirvana, msg, window) {

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/template/skin.js"]=3074;
+
 /*global define, require*/
 define('ext.wikia.adEngine.template.skin', [
 	'ext.wikia.adEngine.adContext',

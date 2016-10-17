@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/extensions/FontWarnings.js"]=11762;
+
 /*************************************************************
  *
  *  MathJax/extensions/FontWarnings.js

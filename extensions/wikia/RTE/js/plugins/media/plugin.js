@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/media/plugin.js"]=13587;
+
 /* global CKEDITOR, RTE, WikiaEditor, UserLogin */
 CKEDITOR.plugins.add('rte-media', {
 	init: function (editor) {

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/diff.js"]=612;
+
 ace.define('ace/snippets/diff', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

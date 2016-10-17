@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jqplot.json2.js"]=17280;
+
 /*
     2010-11-01 Chris Leonello
     

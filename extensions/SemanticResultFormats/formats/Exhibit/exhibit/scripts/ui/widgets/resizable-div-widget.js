@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/widgets/resizable-div-widget.js"]=1919;
+
 /*==================================================
  *  Exhibit.ResizableDivWidget
  *==================================================

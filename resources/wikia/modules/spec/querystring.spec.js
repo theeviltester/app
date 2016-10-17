@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/querystring.spec.js"]=8420;
+
 describe("Querystring", function () {
 	"use strict";
 

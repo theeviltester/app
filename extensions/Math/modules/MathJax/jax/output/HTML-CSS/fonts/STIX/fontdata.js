@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/fonts/STIX/fontdata.js"]=73116;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/font/STIX/fontdata.js

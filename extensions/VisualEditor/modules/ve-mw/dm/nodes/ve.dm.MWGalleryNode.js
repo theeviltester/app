@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/nodes/ve.dm.MWGalleryNode.js"]=1690;
+
 /*!
  * VisualEditor DataModel MWGalleryNode class.
  *

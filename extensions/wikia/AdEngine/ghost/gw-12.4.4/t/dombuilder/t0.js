@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/dombuilder/t0.js"]=11671;
+
 function test(){ 
 	var 
 		element= ghostwriter.domelement

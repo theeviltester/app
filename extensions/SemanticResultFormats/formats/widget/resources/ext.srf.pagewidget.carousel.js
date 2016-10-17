@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/widget/resources/ext.srf.pagewidget.carousel.js"]=3296;
+
 /**
  * JavaScript for SRF PageWidget format
  * @see http://www.semantic-mediawiki.org/wiki/Help:Pagewidget format

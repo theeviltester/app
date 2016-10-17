@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialDiscussionsLog/js/SpecialDiscussionsLog.js"]=1280;
+
 (function() {
 
     var ipCache = {};

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/facets/cloud-facet.js"]=17785;
+
 /*==================================================
  *  Exhibit.CloudFacet
  *==================================================

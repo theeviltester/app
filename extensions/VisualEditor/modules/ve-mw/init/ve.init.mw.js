@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/init/ve.init.mw.js"]=343;
+
 /*!
  * VisualEditor MediaWiki Initialization namespace.
  *

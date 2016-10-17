@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Lightbox/scripts/Lightbox.js"]=42041;
+
 /*global LightboxLoader:true, LightboxTracker, Geo, WikiaForm, wgTitle*/
 
 (function (window, $) {

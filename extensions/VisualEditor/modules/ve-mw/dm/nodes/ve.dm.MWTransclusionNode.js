@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/nodes/ve.dm.MWTransclusionNode.js"]=11858;
+
 /*!
  * VisualEditor DataModel MWTransclusionNode class.
  *

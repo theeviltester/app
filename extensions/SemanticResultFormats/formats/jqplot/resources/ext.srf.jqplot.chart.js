@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/jqplot/resources/ext.srf.jqplot.chart.js"]=5818;
+
 /**
  * JavaScript for SRF jqPlot chart/series module
  * @see http://www.semantic-mediawiki.org/wiki/Help:Jqplotchart format

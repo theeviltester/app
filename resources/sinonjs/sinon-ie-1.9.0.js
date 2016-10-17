@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/sinonjs/sinon-ie-1.9.0.js"]=3601;
+
 /**
  * Sinon.JS 1.9.0, 2014/03/05
  *

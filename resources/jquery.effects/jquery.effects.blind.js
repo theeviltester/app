@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.effects/jquery.effects.blind.js"]=1378;
+
 /*
  * jQuery UI Effects Blind 1.8.17
  *

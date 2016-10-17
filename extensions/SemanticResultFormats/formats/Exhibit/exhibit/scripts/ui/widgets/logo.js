@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/widgets/logo.js"]=1467;
+
 /*======================================================================
  *  Exhibit.Logo
  *======================================================================

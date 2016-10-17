@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/NjordPrototype/scripts/Mom.js"]=9425;
+
 (function (window, $) {
 	'use strict';
 

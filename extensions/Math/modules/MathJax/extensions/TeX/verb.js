@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/extensions/TeX/verb.js"]=1835;
+
 /*************************************************************
  *
  *  MathJax/extensions/TeX/verb.js

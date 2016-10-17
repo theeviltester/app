@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/DesignSystem/scripts/DesignSystemDropdowns.js"]=702;
+
 $(function ($) {
 	'use strict';
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/common/wikibits.js"]=23517;
+
 /**
  * MediaWiki legacy wikibits
  */

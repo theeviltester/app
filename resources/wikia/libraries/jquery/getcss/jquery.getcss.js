@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/getcss/jquery.getcss.js"]=3004;
+
 /**
  * jQuery.getCSS plugin
  * http://github.com/furf/jquery-getCSS

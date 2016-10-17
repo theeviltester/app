@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CodeLint/js/run-csslint.js"]=2112;
+
 /**
  * JS script performing lint check over CSS files. It should be run using nodejs.
  *

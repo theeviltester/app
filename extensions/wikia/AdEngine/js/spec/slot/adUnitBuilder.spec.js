@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/slot/adUnitBuilder.spec.js"]=534;
+
 describe('ext.wikia.adEngine.slot.adUnitBuilder', function () {
 	'use strict';
 

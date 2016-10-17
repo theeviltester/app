@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/autoload/ms.js"]=2057;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/autoload/ms.js

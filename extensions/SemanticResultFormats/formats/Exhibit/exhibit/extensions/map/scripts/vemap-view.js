@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/map/scripts/vemap-view.js"]=15671;
+
 /*==================================================
  *  Exhibit.VEMapView
  *==================================================

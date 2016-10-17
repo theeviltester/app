@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Rail/scripts/Rail.js"]=3049;
+
 $(function () {
 	'use strict';
 

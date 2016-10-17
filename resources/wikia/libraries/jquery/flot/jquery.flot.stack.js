@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/flot/jquery.flot.stack.js"]=6794;
+
 /*
 Flot plugin for stacking data sets, i.e. putting them on top of each
 other, for accumulative graphs.

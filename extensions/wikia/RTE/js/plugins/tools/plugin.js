@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/tools/plugin.js"]=10550;
+
 // "fake" CK plugin with RTE helper methods
 CKEDITOR.plugins.add('rte-tools', {});
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Spotlights/js/LazyLoadAds.js"]=1473;
+
 (function( window, $ ) {
 
 var $window = $( window ),

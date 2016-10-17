@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/es/scripts/exhibit-l10n.js"]=2003;
+
 /*==================================================
  *  Exhibit Spanish localization
  *==================================================

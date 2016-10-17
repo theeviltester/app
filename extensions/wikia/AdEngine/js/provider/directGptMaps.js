@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/provider/directGptMaps.js"]=323;
+
 /*global define*/
 define('ext.wikia.adEngine.provider.directGptMaps', [
 	'ext.wikia.adEngine.provider.factory.wikiaGpt'

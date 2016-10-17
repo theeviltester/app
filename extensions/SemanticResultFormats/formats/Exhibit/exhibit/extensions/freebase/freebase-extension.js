@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/freebase/freebase-extension.js"]=1988;
+
 /*==================================================
  *  Simile Exhibit Freebase Extension
  *==================================================

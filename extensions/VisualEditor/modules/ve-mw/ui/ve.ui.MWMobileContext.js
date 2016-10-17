@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/ve.ui.MWMobileContext.js"]=1385;
+
 /*!
  * VisualEditor UserInterface MobileContext class.
  *

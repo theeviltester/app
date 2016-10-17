@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WidgetFramework/Widgets/WidgetSlideshow/WidgetSlideshow.js"]=1157;
+
 // widget init (on add / on load)
 function WidgetSlideshow_init(id, widget) {
 	// preload images

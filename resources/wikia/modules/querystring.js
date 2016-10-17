@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/querystring.js"]=6456;
+
 /**
  * URL String handler
  *

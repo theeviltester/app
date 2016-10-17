@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.special/mediawiki.special.preferences.js"]=5153;
+
 /*
  * JavaScript for Special:Preferences
  */

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/xmlhttp.js"]=4165;
+
 /**
  * @fileOverview XmlHttp utility functions
  * @name SimileAjax.XmlHttp

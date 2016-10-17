@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/ext/geochrono/geochrono-api.js"]=2838;
+
 /*==================================================
  *  Geochrono Extension
  *

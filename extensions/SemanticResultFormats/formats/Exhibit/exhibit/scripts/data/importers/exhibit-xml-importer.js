@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/importers/exhibit-xml-importer.js"]=9250;
+
 /*==================================================
  *  Exhibit.ExhibitXMLImporter
  *==================================================

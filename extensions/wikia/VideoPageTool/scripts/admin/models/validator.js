@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/admin/models/validator.js"]=1698;
+
 /*
  * Uses jQuery Validation Plugin for validating admin forms
  * @author lizlux

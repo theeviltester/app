@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/plugins/Leaveconfirm.js"]=2407;
+
 /**
  * Prevent users from being able to accidentally leave the edit page (BugId:6969)
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaIrcGateway/WikiaIrcGateway.js"]=1923;
+
 function setrefercookie() {
    document.cookie = "referer="+document.referrer;
 }

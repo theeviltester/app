@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/es/scripts/ui/views/tabular-view-l10n.js"]=708;
+
 /*==================================================
  *  Exhibit.TabularView Spanish localization
  *==================================================

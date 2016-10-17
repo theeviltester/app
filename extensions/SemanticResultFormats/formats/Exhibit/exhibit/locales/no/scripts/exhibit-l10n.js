@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/no/scripts/exhibit-l10n.js"]=1870;
+
 /*==================================================
  *  Exhibit Norwegian localization
  *==================================================

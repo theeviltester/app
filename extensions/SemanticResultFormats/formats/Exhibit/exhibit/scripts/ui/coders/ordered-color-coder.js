@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/coders/ordered-color-coder.js"]=7381;
+
 /*==================================================
  *  Exhibit.OrderedColorCoder
  *  Reads the color coder entries as if they were

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.fancybox/jquery.fancybox-1.3.4.pack.js"]=15624;
+
 /*
  * FancyBox - jQuery Plugin
  * Simple and fancy lightbox alternative

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/DesignSystem/scripts/DesignSystemGlobalNavigationHeadroom.js"]=1535;
+
 $(function() {
 	'use strict';
 

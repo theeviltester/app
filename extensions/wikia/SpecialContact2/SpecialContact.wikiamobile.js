@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialContact2/SpecialContact.wikiamobile.js"]=1748;
+
 (function(d){
 	var form = d.getElementById('wkContactForm'),
 		submit = d.getElementById('contactSub'),

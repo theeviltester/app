@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/exporters/semantic-wikitext-exporter.js"]=1979;
+
 /*==================================================
  *  Exhibit.SemanticWikitextExporter
  *==================================================

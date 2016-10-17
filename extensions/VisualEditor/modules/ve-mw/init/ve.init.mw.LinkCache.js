@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/init/ve.init.mw.LinkCache.js"]=5504;
+
 /*!
  * VisualEditor MediaWiki Initialization LinkCache class.
  *

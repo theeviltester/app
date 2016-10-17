@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/ext/geochrono/scripts/ether-painters.js"]=7197;
+
 /*==================================================
  *  Geochrono Ether Painter
  *==================================================

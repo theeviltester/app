@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/dialogs/ve.ui.MWWikitextSwitchConfirmDialog.js"]=3390;
+
 /*
  * VisualEditor user interface MWWikitextSwitchConfirmDialog class.
  *

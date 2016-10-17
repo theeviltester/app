@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.suggestions.js"]=18833;
+
 /**
  * This plugin provides a generic way to add suggestions to a text box.
  *

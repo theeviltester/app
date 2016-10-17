@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CreateNewWiki/js/WikiWelcome.js"]=3137;
+
 /* global define, require, Mustache */
 
 /**

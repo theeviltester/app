@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/template/modalMercuryHandler.js"]=712;
+
 /*global define*/
 define('ext.wikia.adEngine.template.modalMercuryHandler', [
 	'wikia.window'

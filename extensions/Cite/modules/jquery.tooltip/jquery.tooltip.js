@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Cite/modules/jquery.tooltip/jquery.tooltip.js"]=8087;
+
 /*
  * jQuery Tooltip plugin 1.3
  *

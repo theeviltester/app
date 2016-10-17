@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/queue-multiple-calls/t0.js"]=1368;
+
 function test(){ 
 	var theTest = new Y.Test.Case({ 
 		name: "Queue Tests", 

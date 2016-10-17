@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/template/bfab.js"]=531;
+
 /*global define*/
 define('ext.wikia.adEngine.template.bfab', [
 	'ext.wikia.adEngine.slotTweaker',

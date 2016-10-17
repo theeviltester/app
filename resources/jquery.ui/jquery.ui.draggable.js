@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.draggable.js"]=30978;
+
 /*
  * jQuery UI Draggable 1.8.17
  *

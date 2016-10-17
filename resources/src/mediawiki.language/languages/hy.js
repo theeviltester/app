@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/languages/hy.js"]=943;
+
 /*!
  * Armenian (Հայերեն) language functions
  */

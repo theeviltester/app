@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.sortable.js"]=41131;
+
 /*!
  * jQuery UI Sortable 1.8.23
  *

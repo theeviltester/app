@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/ve.ui.MWSequenceRegistry.js"]=1332;
+
 /*!
  * VisualEditor MediaWiki SequenceRegistry registrations.
  *

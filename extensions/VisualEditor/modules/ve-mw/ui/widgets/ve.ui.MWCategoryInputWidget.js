@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/widgets/ve.ui.MWCategoryInputWidget.js"]=7724;
+
 /*!
  * VisualEditor UserInterface MWCategoryInputWidget class.
  *

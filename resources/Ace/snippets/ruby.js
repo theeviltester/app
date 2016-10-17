@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/ruby.js"]=23261;
+
 ace.define('ace/snippets/ruby', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.placeholder.js"]=2641;
+
 /**
  * HTML5 placeholder emulation for jQuery plugin
  *

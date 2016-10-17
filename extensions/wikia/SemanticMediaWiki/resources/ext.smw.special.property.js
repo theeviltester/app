@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SemanticMediaWiki/resources/ext.smw.special.property.js"]=469;
+
 /**
  * JavaScript for property related functions
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/mediawiki.language.init.js"]=2413;
+
 ( function ( mw ) {
 	/**
 	 * Base language object with methods related to language support, attempting to mirror some of the

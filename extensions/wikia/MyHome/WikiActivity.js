@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MyHome/WikiActivity.js"]=1706;
+
 var WikiActivity = {
 	feedType: false,
 	wrapper: false,

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqplot/jquery.jqplot.js"]=464537;
+
 /**
  * Title: jqPlot Charts
  * 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/lookup/prebid/prebidHelper.js"]=744;
+
 define('ext.wikia.adEngine.lookup.prebid.prebidHelper', function() {
 	var adUnits = [];
 

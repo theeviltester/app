@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/template/modalHandlerFactory.js"]=894;
+
 /*global define, require*/
 define('ext.wikia.adEngine.template.modalHandlerFactory', [
 	'ext.wikia.adEngine.adContext',

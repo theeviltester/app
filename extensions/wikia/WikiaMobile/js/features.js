@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/features.js"]=856;
+
 /**
  *
  * Think of it as a Modernizr replacement

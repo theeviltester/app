@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/track.spec.js"]=1186;
+
 /*global describe, it, expect*/
 describe('Track module', function () {
 	'use strict';

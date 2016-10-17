@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ce/annotations/ve.ce.MWNowikiAnnotation.js"]=938;
+
 /*!
  * VisualEditor ContentEditable MWNowikiAnnotation class.
  *

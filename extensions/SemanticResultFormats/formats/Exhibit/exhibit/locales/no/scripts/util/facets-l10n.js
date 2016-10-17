@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/no/scripts/util/facets-l10n.js"]=865;
+
 /*==================================================
  *  Exhibit.FacetUtilities Norwegian localization
  *==================================================

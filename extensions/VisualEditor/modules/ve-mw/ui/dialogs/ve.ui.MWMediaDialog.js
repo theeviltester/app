@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/dialogs/ve.ui.MWMediaDialog.js"]=22824;
+
 /*!
  * VisualEditor user interface MWMediaDialog class.
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.effects/jquery.effects.explode.js"]=2372;
+
 /*
  * jQuery UI Effects Explode 1.8.17
  *

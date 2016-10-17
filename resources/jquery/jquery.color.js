@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.color.js"]=1348;
+
 /**
  * jQuery Color Animations
  * Copyright 2007 John Resig

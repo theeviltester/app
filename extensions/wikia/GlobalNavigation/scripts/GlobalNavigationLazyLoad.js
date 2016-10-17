@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalNavigation/scripts/GlobalNavigationLazyLoad.js"]=1726;
+
 define(
 	'wikia.globalnavigation.lazyload', ['jquery', 'wikia.nirvana', 'wikia.window'],
 	function lazyLoad($, nirvana, win) {

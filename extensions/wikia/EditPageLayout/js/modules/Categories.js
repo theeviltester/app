@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/modules/Categories.js"]=1968;
+
 (function( window ) {
 
 var WikiaEditor = window.WikiaEditor,

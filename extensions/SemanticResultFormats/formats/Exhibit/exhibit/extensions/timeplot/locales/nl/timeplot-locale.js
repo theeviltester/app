@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/timeplot/locales/nl/timeplot-locale.js"]=361;
+
 /*==================================================
  *  Exhibit Timeplot Extension Dutch localization
  *==================================================

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/collection.js"]=13051;
+
 /*======================================================================
  *  Collection
  *======================================================================

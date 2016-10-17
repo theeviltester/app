@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CommunityPage/scripts/firstEditModal.js"]=2900;
+
 require([
 	'jquery',
 	'wikia.ui.factory',

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/helpers/FandomHelper.js"]=1761;
+
 define('ext.wikia.recirculation.helpers.fandom', [
 	'jquery',
 	'wikia.window',

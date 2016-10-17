@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/common/ajax.js"]=4971;
+
 // remote scripting library
 // (c) copyright 2005 modernmethod, inc
 window.sajax_debug_mode = false;

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/models/ve.dm.MWReferenceModel.js"]=8649;
+
 /*!
  * VisualEditor DataModel MWReferenceModel class.
  *

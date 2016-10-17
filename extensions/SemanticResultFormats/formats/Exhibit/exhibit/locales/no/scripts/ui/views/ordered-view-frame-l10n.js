@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/no/scripts/ui/views/ordered-view-frame-l10n.js"]=1547;
+
 /*==================================================
  *  Exhibit.OrderedViewFrame Norwegian localization
  *==================================================

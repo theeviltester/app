@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/carousel/jquery.wikia.carousel.js"]=8318;
+
 /*
  * Wikia Carousel jQuery plugin
  * Author Liz Lee, Hyun Lim

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.delayedBind.js"]=2391;
+
 (function( $ ) {
 /**
  * Function that escapes spaces in event names. This is needed because

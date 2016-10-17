@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/BackgroundChanger.js"]=3532;
+
 /**
  * BackgroundChanger
  *

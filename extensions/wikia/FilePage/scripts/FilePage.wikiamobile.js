@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/FilePage/scripts/FilePage.wikiamobile.js"]=385;
+
 /**
  * Any mobile-specific js for file page goes here.
  * @author Liz Lee

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticForms/libs/ext.sf.select2.tokens.js"]=9241;
+
 /*
  * ext.sf.select2.tokens.js
  *

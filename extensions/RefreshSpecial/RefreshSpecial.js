@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/RefreshSpecial/RefreshSpecial.js"]=358;
+
 /**
  * JavaScript helper function for RefreshSpecial extension
  */

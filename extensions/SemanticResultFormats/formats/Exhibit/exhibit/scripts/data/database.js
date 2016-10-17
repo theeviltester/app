@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/database.js"]=41354;
+
 /*======================================================================
  *  Exhibit.Database
  *  http://simile.mit.edu/wiki/Exhibit/API/Database

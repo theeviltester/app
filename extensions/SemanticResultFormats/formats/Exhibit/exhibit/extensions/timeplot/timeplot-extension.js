@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/timeplot/timeplot-extension.js"]=2896;
+
 /*==================================================
  *  Simile Exhibit Timeplot Extension
  *

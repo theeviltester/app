@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialManageWikiaHome/js/CollectionsSetup.js"]=2082;
+
 var CollectionsSetup = function() {};
 
 CollectionsSetup.prototype = {

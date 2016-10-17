@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/JitGraph/SRF_JitGraph.js"]=6370;
+
 var labelType, useGradients, nativeTextSupport, animate;
 
 (function() {

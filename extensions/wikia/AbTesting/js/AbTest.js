@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AbTesting/js/AbTest.js"]=10706;
+
 /**
  * Wikia A/B Testing Framework
  *

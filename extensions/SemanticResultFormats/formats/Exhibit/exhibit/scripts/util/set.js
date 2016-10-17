@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/util/set.js"]=1946;
+
 /*==================================================
  *  Exhibit.Set
  *==================================================

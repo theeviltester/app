@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.spinner.js"]=802;
+
 /**
  * jQuery spinner
  *

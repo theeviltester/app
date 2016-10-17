@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/stringhelper.js"]=10838;
+
 /**
  * String helper package
  *

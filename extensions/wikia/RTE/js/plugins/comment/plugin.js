@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/comment/plugin.js"]=665;
+
 CKEDITOR.plugins.add('rte-comment',
 {
 	init: function(editor) {

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/ext.math.mathjax.enabler.js"]=3181;
+
 /**
  * From https://en.wikipedia.org/wiki/User:Nageh/mathJax.js
  */

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ContentFeeds/js/FirstFewArticles.js"]=735;
+
 var FirstFewArticles = {
 	ErrorMessages : {
 		EmptyTitle : 'emptyTitleErrorMsg',

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/admin/models/datepicker.js"]=2600;
+
 /**
  * @description Generalized model for jQuery.ui Datepicker, based/refactored from SpecialEditHub implementation
  * @dependencies Model datepicker

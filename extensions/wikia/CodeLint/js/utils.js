@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CodeLint/js/utils.js"]=788;
+
 /**
  * Parses script arguments provided as
  *

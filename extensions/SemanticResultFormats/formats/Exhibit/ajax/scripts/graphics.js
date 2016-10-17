@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/graphics.js"]=24532;
+
 /**
  * @fileOverview Graphics utility functions and constants
  * @name SimileAjax.Graphics

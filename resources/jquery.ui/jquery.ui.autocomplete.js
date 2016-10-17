@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.autocomplete.js"]=17078;
+
 /*
  * jQuery UI Autocomplete 1.8.17
  *

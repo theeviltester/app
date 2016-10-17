@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/makefile.js"]=243;
+
 ace.define('ace/snippets/makefile', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

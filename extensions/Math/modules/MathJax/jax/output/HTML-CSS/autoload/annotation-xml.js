@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/autoload/annotation-xml.js"]=2047;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/autoload/annotation-xm;l.js

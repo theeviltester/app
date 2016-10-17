@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/scripts/timeline.js"]=27137;
+
 /*==================================================
  *  Timeline
  *==================================================

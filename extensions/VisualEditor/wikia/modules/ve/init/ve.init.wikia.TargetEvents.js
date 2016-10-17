@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/init/ve.init.wikia.TargetEvents.js"]=2118;
+
 /*!
  * VisualEditor MediaWiki Initialization WikiaTargetEvents class.
  *

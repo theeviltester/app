@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/MessageListener.js"]=2420;
+
 /*global define*/
 define('ext.wikia.adEngine.messageListener', [
 	'ext.wikia.adEngine.adContext',

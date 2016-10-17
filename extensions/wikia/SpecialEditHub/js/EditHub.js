@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialEditHub/js/EditHub.js"]=9519;
+
 (function (window, $) {
 	'use strict';
 

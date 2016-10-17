@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WAMPage/js/WAMPage.js"]=3891;
+
 var WAMPage = function () {};
 
 WAMPage.prototype = {

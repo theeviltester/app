@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/JSSnippets/js/JSSnippets.js"]=6203;
+
 /* global JSSnippetsStack: true, wgCdnRootUrl, wgResourceBasePath, wgAssetsManagerQuery, wgStyleVersion */
 /**
  * JSSnippets client-side API

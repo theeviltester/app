@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/theme-ambiance.js"]=29377;
+
 /* ***** BEGIN LICENSE BLOCK *****
  * Distributed under the BSD license:
  * 

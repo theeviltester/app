@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/curate/files/admin/submissions.js"]=3792;
+
 [
     {
         "sub_id": "102c7417fe54459081a7d1957c2ff126", 

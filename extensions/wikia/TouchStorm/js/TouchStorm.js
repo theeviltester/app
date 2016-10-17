@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/TouchStorm/js/TouchStorm.js"]=3999;
+
 /* @desc Open the Lightbox when when TouchStorm videos are clicked
  * @see Lightbox extension
  * @author lizlux

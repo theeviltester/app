@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ScavengerHunt/js/scavenger-special.js"]=13676;
+
 var SpecialScavengerHunt = {
 	inGameBox: null,
 	inGameBoxIndex: 0,

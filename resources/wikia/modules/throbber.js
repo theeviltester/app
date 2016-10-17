@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/throbber.js"]=618;
+
 /**
  * throbber module:
  *  * jQuery

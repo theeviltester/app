@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/chart/locales/nl/chart-locale.js"]=591;
+
 /*==================================================
  *  Exhibit Chart Extension Dutch localization
  *==================================================

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/zh/locale.js"]=1461;
+
 /*==================================================
  *  Chinese localization
  *

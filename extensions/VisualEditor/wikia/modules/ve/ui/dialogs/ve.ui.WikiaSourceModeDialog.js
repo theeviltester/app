@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/dialogs/ve.ui.WikiaSourceModeDialog.js"]=5709;
+
 /*!
  * VisualEditor user interface WikiaSourceModeDialog class.
  */

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialManageWikiaHome/js/CollectionsNavigation.js"]=1604;
+
 var CollectionsNavigation = function(modulesSelector) {
 	var turnOnButtons = function() {
 		var nav = $(modulesSelector).find('.navigation');

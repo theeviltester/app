@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalNavigation/scripts/GoogleSearchAPI.js"]=1488;
+
 /**
  * We AB test for wikia search (both within and all wikias) in Oasis with Google custom search result.
  * window.wgGoogleSearchTest: a global variable set true in Optimizely for 50% of users who visit ja wikia.

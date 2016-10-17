@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Places/js/SpecialNearby.js"]=1299;
+
 require(['jquery', 'mw'], function($, mw) {
 	// @see https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/getCurrentPosition
 	function getLocation( callback ) {

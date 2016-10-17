@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.getAttrs.js"]=666;
+
 /**
  * Utility to get all attributes of an element directy as an object.
  *

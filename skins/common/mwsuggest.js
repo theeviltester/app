@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/common/mwsuggest.js"]=29263;
+
 /*
  * OpenSearch ajax suggestion engine for MediaWiki
  *

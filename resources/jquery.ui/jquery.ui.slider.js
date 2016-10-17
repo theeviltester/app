@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.slider.js"]=17595;
+
 /*
  * jQuery UI Slider 1.8.17
  *

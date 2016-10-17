@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaInYourLang/modules/ext.wikiaInYourLang.js"]=7838;
+
 /**
  * Module that checks if a given wikia exists
  * in a user's native language (based on a Geo cookie)

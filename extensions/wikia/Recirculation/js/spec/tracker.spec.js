@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/spec/tracker.spec.js"]=1314;
+
 /*global beforeEach, describe, it, modules, expect*/
 describe('ext.wikia.recirculation.tracker', function () {
 	'use strict';

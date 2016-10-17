@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/mediagallery.spec.js"]=553;
+
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("Media Gallery module", function () {
 	'use strict';

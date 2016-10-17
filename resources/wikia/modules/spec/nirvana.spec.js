@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/nirvana.spec.js"]=5795;
+
 /*global describe, it, expect, dump, afterEach */
 describe('Nirvana', function () {
 	'use strict';

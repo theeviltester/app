@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalShortcuts/scripts/AddDiscussionsShortcuts.js"]=1015;
+
 /**
  * A module for adding shortcut key to GlobalShortcuts extension for opening discussions page
  */

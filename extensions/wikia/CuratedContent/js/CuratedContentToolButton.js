@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CuratedContent/js/CuratedContentToolButton.js"]=459;
+
 require(['jquery', 'curatedContentTool.modal', 'JSMessages'], function ($, curatedContentToolModal, msg) {
 		'use strict';
 		$('#CuratedContentTool').click(function () {

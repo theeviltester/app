@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/tools/ve.ui.MWMediaDialogTool.js"]=1147;
+
 /*!
  * VisualEditor MediaWiki media dialog tool classes.
  *

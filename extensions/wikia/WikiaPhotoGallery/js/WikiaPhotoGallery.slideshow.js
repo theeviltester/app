@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaPhotoGallery/js/WikiaPhotoGallery.slideshow.js"]=3626;
+
 /*global WikiaPhotoGalleryView, WikiaPhotoGallery */
 var WikiaPhotoGallerySlideshow = {
 	log: function(msg) {

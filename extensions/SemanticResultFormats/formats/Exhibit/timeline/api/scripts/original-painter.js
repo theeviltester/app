@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/scripts/original-painter.js"]=26997;
+
 /*==================================================
  *  Original Event Painter
  *==================================================

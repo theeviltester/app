@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/webview.js"]=460;
+
 (function(context){
 	var topbar = context.document.getElementById( 'wkTopNav' );
 

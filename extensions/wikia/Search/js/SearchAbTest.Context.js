@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Search/js/SearchAbTest.Context.js"]=2638;
+
 /**
  * Provides ids of search related A/B test groups.
  */

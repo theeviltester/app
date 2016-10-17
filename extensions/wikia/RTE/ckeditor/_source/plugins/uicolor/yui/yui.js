@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/ckeditor/_source/plugins/uicolor/yui/yui.js"]=117588;
+
 /*jsl:ignoreall*/
 /*
 Copyright (c) 2009, Yahoo! Inc. All rights reserved.

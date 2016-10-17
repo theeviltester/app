@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/haml.js"]=525;
+
 ace.define('ace/snippets/haml', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

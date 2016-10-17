@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/integration/aim.spec.js"]=1158;
+
 /*global describe, it, getBody, expect, document*/
 describe('AIM', function () {
 	'use strict';

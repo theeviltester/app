@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ScavengerHunt/js/scavenger-game.js"]=17352;
+
 /*global Sprite:true */
 var ScavengerHunt = {
 	currentArticleIndex: null,

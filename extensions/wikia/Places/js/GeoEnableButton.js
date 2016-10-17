@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Places/js/GeoEnableButton.js"]=1407;
+
 var GeoEnableButton = {
 	offButton: null,
 	onButton: null,

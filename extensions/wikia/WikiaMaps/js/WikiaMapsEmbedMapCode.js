@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/js/WikiaMapsEmbedMapCode.js"]=1922;
+
 define(
 	'wikia.maps.embedMapCode',
 	[

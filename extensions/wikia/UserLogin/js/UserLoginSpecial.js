@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/UserLoginSpecial.js"]=1273;
+
 $(function() {
 	var form = $('.UserLogin'),
 		formGroup = form.find('.input-group'),

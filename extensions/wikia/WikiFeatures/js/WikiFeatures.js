@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiFeatures/js/WikiFeatures.js"]=6298;
+
 /* global Modernizr */
 
 (function (window, $, mw) {

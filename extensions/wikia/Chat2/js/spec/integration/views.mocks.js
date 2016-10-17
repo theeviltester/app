@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Chat2/js/spec/integration/views.mocks.js"]=307;
+
 var Backbone = {
 	View: {
 		extend: function(obj){

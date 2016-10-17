@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Thumbnails/scripts/views/titleThumbnail.js"]=1157;
+
 define('thumbnails.views.titleThumbnail', [
 	'thumbnails.templates.mustache',
 	'wikia.mustache'

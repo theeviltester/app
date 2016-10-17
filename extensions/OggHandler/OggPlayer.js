@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/OggHandler/OggPlayer.js"]=25111;
+
 // This is a global configuration object which can embed multiple video instances
 var wgOggPlayer = {
 	'detectionDone': false,

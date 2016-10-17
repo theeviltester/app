@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaHubsV3/js/WikiaHubsV3.js"]=8338;
+
 define('wikia.hubs', ['wikia.window', 'jquery'], function wikiaHubs(window, $) {
 	'use strict';
 

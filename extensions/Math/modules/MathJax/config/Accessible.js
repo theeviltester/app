@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/config/Accessible.js"]=861;
+
 /*
  *  /MathJax/unpacked/config/Accessible.js
  *  

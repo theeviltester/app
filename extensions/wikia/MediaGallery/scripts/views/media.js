@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MediaGallery/scripts/views/media.js"]=2346;
+
 define('mediaGallery.views.media', [
 	'mediaGallery.views.caption',
 	'mediaGallery.templates.mustache'

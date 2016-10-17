@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Chat2/js/emoticons.js"]=6381;
+
 /**
  * @author Sean Colombo
  * @date 20110902

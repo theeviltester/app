@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/sparkline/resources/ext.srf.sparkline.js"]=1550;
+
 /**
  * JavaSript for SRF sparkline format
  * @see http://www.semantic-mediawiki.org/wiki/Help:Sparkline format

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/nix.js"]=159;
+
 ace.define('ace/snippets/nix', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

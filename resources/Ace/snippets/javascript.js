@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/javascript.js"]=4273;
+
 ace.define('ace/snippets/javascript', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

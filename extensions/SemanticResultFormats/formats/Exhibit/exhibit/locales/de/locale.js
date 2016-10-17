@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/de/locale.js"]=1457;
+
 /*==================================================
  *  German localization
  *==================================================

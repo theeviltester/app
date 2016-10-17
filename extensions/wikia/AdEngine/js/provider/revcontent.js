@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/provider/revcontent.js"]=1834;
+
 /*global define*/
 define('ext.wikia.adEngine.provider.revcontent', [
 	'wikia.document',

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/ui_components/modal/js/modal.js"]=12382;
+
 define('wikia.ui.modal', [
 	'jquery',
 	'wikia.window',

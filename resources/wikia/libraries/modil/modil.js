@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/modil/modil.js"]=7384;
+
 /**
  * modil.js
  *

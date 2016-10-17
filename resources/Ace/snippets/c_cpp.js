@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/c_cpp.js"]=2962;
+
 ace.define('ace/snippets/c_cpp', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

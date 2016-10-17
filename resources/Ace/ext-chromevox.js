@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/ext-chromevox.js"]=13513;
+
 ace.define('ace/ext/chromevox', ['require', 'exports', 'module' , 'ace/editor', 'ace/config'], function(require, exports, module) {
 var cvoxAce = {};
 cvoxAce.SpeechProperty;

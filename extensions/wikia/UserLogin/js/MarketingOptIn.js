@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/MarketingOptIn.js"]=934;
+
 define('usersignup.marketingOptIn', ['wikia.geo'], function (geo) {
 	'use strict';
 

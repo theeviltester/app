@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/TOC/js/tocWikiaArticle.js"]=6637;
+
 require( ['jquery', 'wikia.toc', 'wikia.mustache'], function( $, toc, mustache ) {
 	'use strict';
 

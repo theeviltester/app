@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/WikiaNotifications.js"]=2504;
+
 var WikiaNotificationsApp = {
 	purgeCurrentPage: function() {
 			$.post(wgScript, {action: 'purge', title: wgPageName});

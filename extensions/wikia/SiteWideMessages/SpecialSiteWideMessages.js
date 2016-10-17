@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SiteWideMessages/SpecialSiteWideMessages.js"]=1270;
+
 (function( window ) {
 	var track = Wikia.Tracker.buildTrackingFunction({
 		category: 'sitewidemessages',

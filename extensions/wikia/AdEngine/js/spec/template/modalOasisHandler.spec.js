@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/template/modalOasisHandler.spec.js"]=2279;
+
 /*global describe, it, expect, modules, spyOn, beforeEach*/
 describe('ext.wikia.adEngine.template.modalOasisHandler', function () {
 	'use strict';

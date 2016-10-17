@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/template/modal.js"]=3702;
+
 /*global define*/
 define('ext.wikia.adEngine.template.modal', [
 	'ext.wikia.adEngine.adHelper',

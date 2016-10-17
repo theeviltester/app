@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Follow/js/ajax.js"]=3173;
+
 (function (window, $, mw) {
 
 	var follow = {

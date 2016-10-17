@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/importers/jsonp-importer.js"]=9776;
+
 /*==================================================
  *  Exhibit.JSONPImporter
  *==================================================

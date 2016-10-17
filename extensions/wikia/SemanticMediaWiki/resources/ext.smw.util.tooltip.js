@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SemanticMediaWiki/resources/ext.smw.util.tooltip.js"]=4820;
+
 /**
  * JavaScript for SMW tooltip functions
  * @see http://www.semantic-mediawiki.org/wiki/Help:Tooltip

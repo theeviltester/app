@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/modules/Insert.js"]=1865;
+
 // Insert buttons for Main RTE
 (function(window){
 		var WE = window.WikiaEditor,

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Chat2/js/controllers/controllers.js"]=28136;
+
 //
 //Controllers
 //

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/media.class.js"]=1201;
+
 /**
  * This is a class used in media module to hold all necessary data about a media object
  */

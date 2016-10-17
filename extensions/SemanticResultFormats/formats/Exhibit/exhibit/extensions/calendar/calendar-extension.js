@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/calendar/calendar-extension.js"]=2264;
+
 /*==================================================
  *  Simile Exhibit Calendar Extension
  *==================================================

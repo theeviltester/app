@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/DOMElementTweaker.spec.js"]=1719;
+
 /*global describe, it, modules, expect, spyOn, beforeEach*/
 describe('DOMElementTweaker', function () {
 	'use strict';

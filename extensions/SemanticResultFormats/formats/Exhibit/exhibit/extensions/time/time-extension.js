@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/time/time-extension.js"]=2563;
+
 /*==================================================
  *  Simile Exhibit Time Extension
  *==================================================

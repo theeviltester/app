@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MyHome/ActivityFeedTag.js"]=614;
+
 var ActivityFeedTag = {};
 
 ActivityFeedTag.loadFreshData = function(id, params, timestamp) {

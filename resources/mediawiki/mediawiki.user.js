@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki/mediawiki.user.js"]=5509;
+
 /*
  * Implementation for mediaWiki.user
  */

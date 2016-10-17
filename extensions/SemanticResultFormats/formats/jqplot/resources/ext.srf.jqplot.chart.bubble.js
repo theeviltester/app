@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/jqplot/resources/ext.srf.jqplot.chart.bubble.js"]=3198;
+
 /**
  * JavaSript for SRF jqPlot bubble module
  *

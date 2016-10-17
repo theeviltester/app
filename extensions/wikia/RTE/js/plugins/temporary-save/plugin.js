@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/temporary-save/plugin.js"]=817;
+
 CKEDITOR.plugins.add('rte-temporary-save',
 {
 	init: function(editor) {

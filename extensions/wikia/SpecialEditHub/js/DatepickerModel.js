@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialEditHub/js/DatepickerModel.js"]=2271;
+
 var DatepickerModel = function(cityId) {
 	this.cityId = cityId;
 	this.specialDates = {};

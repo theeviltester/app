@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.mwExtension.js"]=3357;
+
 /*
  * JavaScript backwards-compatibility alternatives and other convenience functions
  */

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/geo.spec.js"]=2817;
+
 /*
  @test-require-asset /resources/wikia/libraries/define.mock.js
  @test-require-asset /resources/wikia/modules/geo.js

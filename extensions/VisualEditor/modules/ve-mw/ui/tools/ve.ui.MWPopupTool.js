@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/tools/ve.ui.MWPopupTool.js"]=6239;
+
 /*!
  * VisualEditor MediaWiki UserInterface popup tool classes.
  *

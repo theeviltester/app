@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ArticleComments/js/ArticleComments.js"]=21042;
+
 /* global wgAfterContentAndJS, wgArticleId, wgPageName, wgScript, MiniEditor, skin */
 
 (function (window, $) {

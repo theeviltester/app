@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/widgets/ve.ui.WikiaMediaQueryWidget.js"]=6028;
+
 /*!
  * VisualEditor UserInterface WikiaMediaQueryWidget class.
  */

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/ui.js"]=21889;
+
 /*======================================================================
  *  Exhibit UI Utilities
  *======================================================================

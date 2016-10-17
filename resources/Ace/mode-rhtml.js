@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/mode-rhtml.js"]=99647;
+
 /*
  * rhtml.js
  *

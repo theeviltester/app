@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserTools/scripts/UserTools.js"]=14437;
+
 /* global define */
 define('wikia.toolsCustomization', [
 	'wikia.window',

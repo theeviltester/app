@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/PageHeader.js"]=1393;
+
 var PageHeader = {
 
 	settings: {

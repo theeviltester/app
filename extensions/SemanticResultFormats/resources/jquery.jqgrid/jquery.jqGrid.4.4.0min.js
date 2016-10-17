@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.jqgrid/jquery.jqGrid.4.4.0min.js"]=259343;
+
 /* 
 * jqGrid  4.4.0 - jQuery Grid 
 * Copyright (c) 2008, Tony Tomov, tony@trirand.com 

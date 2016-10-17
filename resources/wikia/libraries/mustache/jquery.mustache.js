@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/mustache/jquery.mustache.js"]=230;
+
 /*
  * Mustache integration for jQuery
  */

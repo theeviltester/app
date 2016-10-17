@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WidgetFramework/Widgets/WidgetCommunity/WidgetCommunity.js"]=583;
+
 function WidgetCommunity_init(id, widget) {
 	var loadFreshData = function(id, timestamp) {
 		var params = {},

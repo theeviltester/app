@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CuratedContent/js/initCuratedContent.js"]=332;
+
 //in webview setTimeout does not work as expected
 //ie. webview is too long (as long as before section wrapping)
 //but we still want setTimeout to work for animations and stuff

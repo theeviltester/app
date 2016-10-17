@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/calendar/scripts/calendar-view.js"]=16626;
+
 /*==================================================
  *  Exhibit.CalendarView
  *==================================================

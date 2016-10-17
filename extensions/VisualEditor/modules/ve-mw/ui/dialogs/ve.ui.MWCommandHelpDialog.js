@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/dialogs/ve.ui.MWCommandHelpDialog.js"]=1397;
+
 /*!
  * VisualEditor UserInterface MWCommandHelpDialog class.
  *

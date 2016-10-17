@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/markdown.js"]=2204;
+
 ace.define('ace/snippets/markdown', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

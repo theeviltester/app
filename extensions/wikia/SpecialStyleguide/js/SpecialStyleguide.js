@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialStyleguide/js/SpecialStyleguide.js"]=1886;
+
 require([ 'jquery' ], function( $ ) {
 	'use strict';
 

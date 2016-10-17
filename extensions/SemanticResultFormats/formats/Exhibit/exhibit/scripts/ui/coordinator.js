@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/coordinator.js"]=1798;
+
 /*======================================================================
  *  Exhibit.Coordinator
  *======================================================================

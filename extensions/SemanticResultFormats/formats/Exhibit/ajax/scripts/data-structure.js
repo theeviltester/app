@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/ajax/scripts/data-structure.js"]=11618;
+
 /**
  * A basic set (in the mathematical sense) data structure
  *

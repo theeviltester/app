@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/lua.js"]=587;
+
 ace.define('ace/snippets/lua', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPreview/js/editpage.event.diff.js"]=2267;
+
 define('editpage.event.diff', ['editpage.event.helper', 'wikia.window', 'jquery'], function (helper, win, $){
 	'use strict';
 

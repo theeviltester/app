@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Thumbnails/scripts/spec/titleThumbnail.spec.js"]=1630;
+
 describe('titleThumbnail module', function () {
 	'use strict';
 

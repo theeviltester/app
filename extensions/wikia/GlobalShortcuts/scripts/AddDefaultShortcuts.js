@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalShortcuts/scripts/AddDefaultShortcuts.js"]=2330;
+
 /**
  * A module for adding a set of default shortcut keys that are always available
  */

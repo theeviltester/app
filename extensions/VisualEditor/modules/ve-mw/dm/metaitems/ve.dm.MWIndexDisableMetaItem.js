@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/metaitems/ve.dm.MWIndexDisableMetaItem.js"]=1278;
+
 /*!
  * VisualEditor DataModel MWIndexDisableMetaItem class.
  *

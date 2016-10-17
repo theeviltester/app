@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/provider/paidAssetDrop.js"]=941;
+
 /*global define*/
 define('ext.wikia.adEngine.provider.paidAssetDrop', [
 	'ext.wikia.adEngine.adContext',

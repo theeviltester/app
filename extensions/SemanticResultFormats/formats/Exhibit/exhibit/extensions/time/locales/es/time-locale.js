@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/time/locales/es/time-locale.js"]=381;
+
 /*==================================================
  *  Exhibit Time Extension Spanish localization
  *==================================================

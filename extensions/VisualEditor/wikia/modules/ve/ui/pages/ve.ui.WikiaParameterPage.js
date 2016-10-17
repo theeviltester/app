@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/pages/ve.ui.WikiaParameterPage.js"]=1016;
+
 /*!
  * VisualEditor user interface WikiaParameterPage class.
  *

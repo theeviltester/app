@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/ui_components/modal/js/modal_sample.js"]=8964;
+
 require(['jquery', 'wikia.ui.factory'], function ($, uiFactory) {
 	'use strict';
 	uiFactory.init('modal').then(function (uiModal) {

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ce/ve.ce.WikiaInlineVideoNode.js"]=920;
+
 /*!
  * VisualEditor ContentEditable WikiaInlineVideoNode class.
  */

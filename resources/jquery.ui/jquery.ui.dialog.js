@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.dialog.js"]=21845;
+
 /*
  * jQuery UI Dialog 1.8.17
  *

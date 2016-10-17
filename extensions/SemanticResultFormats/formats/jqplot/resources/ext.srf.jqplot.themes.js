@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/jqplot/resources/ext.srf.jqplot.themes.js"]=27776;
+
 /**
  * JavaSript for SRF jqPlot module
  *

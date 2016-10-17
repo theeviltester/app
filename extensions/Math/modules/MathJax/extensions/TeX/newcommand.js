@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/extensions/TeX/newcommand.js"]=6612;
+
 /*************************************************************
  *
  *  MathJax/extensions/TeX/newcommand.js

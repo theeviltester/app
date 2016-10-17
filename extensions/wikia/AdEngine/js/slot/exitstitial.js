@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/slot/exitstitial.js"]=2686;
+
 // TODO: replace with template/modal.js?
 
 /*global define, setTimeout*/

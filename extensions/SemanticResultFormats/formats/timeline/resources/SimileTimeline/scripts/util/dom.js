@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/timeline/resources/SimileTimeline/scripts/util/dom.js"]=1990;
+
 /*==================================================
  *  DOM Utility Functions
  *==================================================

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Maps/includes/ext.maps.coord.js"]=2907;
+
 /**
  * JavaScript for coordinate handling in the Maps extension.
  * @see http://www.mediawiki.org/wiki/Extension:Maps

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/helpers/CakeRelatedContentHelper.js"]=1657;
+
 define('ext.wikia.recirculation.helpers.cakeRelatedContent', [
     'jquery',
     'wikia.window',

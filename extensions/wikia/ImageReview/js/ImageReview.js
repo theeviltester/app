@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ImageReview/js/ImageReview.js"]=1433;
+
 $(function() {
 	// cycle through radio fields on each image click
 	var images = $('#ImageReviewForm div.img-container');

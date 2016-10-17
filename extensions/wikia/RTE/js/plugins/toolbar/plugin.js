@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/toolbar/plugin.js"]=572;
+
 CKEDITOR.plugins.add('rte-toolbar', {
 	// register separator item
 	beforeInit : function(editor) {

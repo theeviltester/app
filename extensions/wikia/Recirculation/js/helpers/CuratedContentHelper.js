@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/helpers/CuratedContentHelper.js"]=2391;
+
 define('ext.wikia.recirculation.helpers.curatedContent', [
 	'jquery',
 	'underscore',

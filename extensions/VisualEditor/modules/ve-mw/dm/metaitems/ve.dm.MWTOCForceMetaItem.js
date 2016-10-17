@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/metaitems/ve.dm.MWTOCForceMetaItem.js"]=1112;
+
 /*!
  * VisualEditor DataModel MWTOCForceMetaItem class.
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/UserLogin/js/UserLoginSpecial.wikiamobile.js"]=637;
+
 require(['jquery', 'wikia.window', 'wikia.loader', 'toast'], function ($, window, loader, toast) {
 	'use strict';
 

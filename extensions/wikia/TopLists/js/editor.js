@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/TopLists/js/editor.js"]=7186;
+
 /**
  * @author Federico "Lox" Lucignano <federico@wikia-inc.com>
  *

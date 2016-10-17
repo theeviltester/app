@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.api/mediawiki.api.category.js"]=2912;
+
 /**
  * Additional mw.Api methods to assist with API calls related to categories.
  */

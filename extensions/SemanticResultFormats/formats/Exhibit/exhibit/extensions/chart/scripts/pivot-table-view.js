@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/chart/scripts/pivot-table-view.js"]=9876;
+
 /*==================================================
  *  Exhibit.PivotTableView
  *==================================================

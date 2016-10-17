@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/link/plugin.js"]=5060;
+
 CKEDITOR.plugins.add('rte-link',
 {
 	init: function(editor) {

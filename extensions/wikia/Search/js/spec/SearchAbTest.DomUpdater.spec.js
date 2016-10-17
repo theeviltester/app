@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Search/js/spec/SearchAbTest.DomUpdater.spec.js"]=2266;
+
 /**
  * Updates all links related to search to contain specified parameters.
  */

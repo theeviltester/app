@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/TraceViewer/TraceViewer.js"]=36214;
+
 (function(window,$){
 
 	var createClass = function (sc,o) {

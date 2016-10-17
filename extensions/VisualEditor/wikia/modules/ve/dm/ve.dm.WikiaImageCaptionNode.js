@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/dm/ve.dm.WikiaImageCaptionNode.js"]=760;
+
 /*!
  * VisualEditor DataModel WikiaMediaCaptionNode class.
  */

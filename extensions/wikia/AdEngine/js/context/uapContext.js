@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/context/uapContext.js"]=1018;
+
 /*global define*/
 define('ext.wikia.adEngine.context.uapContext', [
 	'ext.wikia.adEngine.utils.eventDispatcher',

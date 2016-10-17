@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/ext.srf.util.js"]=5132;
+
 /**
  * JavaScript for SRF semanticFormats util namespace
  *

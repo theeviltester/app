@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/facets/slider.js"]=12126;
+
  
 Exhibit.SliderFacet.slider = function(div, facet, precision) {
     this._div = div;

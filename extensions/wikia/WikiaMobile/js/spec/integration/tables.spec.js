@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/spec/integration/tables.spec.js"]=1890;
+
 /*global describe, it, runs, waitsFor, expect, require, document*/
 describe("Tables module", function () {
 	'use strict';

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/iframeWriter.spec.js"]=1012;
+
 /*global describe, it, modules, expect, spyOn*/
 describe('iframeWriter module', function () {
 	'use strict';

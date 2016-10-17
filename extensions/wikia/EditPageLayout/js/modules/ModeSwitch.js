@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/modules/ModeSwitch.js"]=234;
+
 (function(window){
 
 	var WE = window.WikiaEditor;

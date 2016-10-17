@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.arrowSteps.js"]=2269;
+
 /**
  * jQuery arrowSteps plugin
  * Copyright Neil Kandalgaonkar, 2010

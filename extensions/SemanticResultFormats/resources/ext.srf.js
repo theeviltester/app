@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/ext.srf.js"]=977;
+
 /**
  * JavaScript for SRF namespace placeholder
  * @see http://www.semantic-mediawiki.org/wiki/Writing_result_printers

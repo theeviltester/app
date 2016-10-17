@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/imageServing.spec.js"]=2142;
+
 describe('Image Serving', function () {
 	'use strict';
 

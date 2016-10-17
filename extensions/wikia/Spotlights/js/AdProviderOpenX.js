@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Spotlights/js/AdProviderOpenX.js"]=2542;
+
 var AdProviderOpenX = {
 	url : '',
 	defaultHttpBase: 'http://spotlights.wikia.net/',

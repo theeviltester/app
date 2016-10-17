@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaStyleGuide/js/Dropdown.js"]=4050;
+
 (function(window, $) {
 
 var Wikia = window.Wikia || {};

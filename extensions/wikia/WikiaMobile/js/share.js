@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/share.js"]=2072;
+
 /* global wgServer wgArticlePath wgPageName $*/
 
 /**

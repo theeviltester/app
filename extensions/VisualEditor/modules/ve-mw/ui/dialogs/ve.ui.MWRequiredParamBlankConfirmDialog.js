@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/dialogs/ve.ui.MWRequiredParamBlankConfirmDialog.js"]=1495;
+
 /*
  * VisualEditor user interface MWRequiredParamBlankConfirmDialog class.
  *

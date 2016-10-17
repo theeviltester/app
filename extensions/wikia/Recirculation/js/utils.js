@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/utils.js"]=3895;
+
 /*global define*/
 define('ext.wikia.recirculation.utils', [
 	'jquery',

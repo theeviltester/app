@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.accordion.js"]=16242;
+
 /*
  * jQuery UI Accordion 1.8.17
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/modules/spec/scriptwriter.spec.js"]=1951;
+
 /*global describe, expect, it, jasmine, modules, spyOn*/
 describe('wikia.scriptwriter', function () {
 	'use strict';

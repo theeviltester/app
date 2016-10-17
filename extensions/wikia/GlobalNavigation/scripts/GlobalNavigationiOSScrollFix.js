@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalNavigation/scripts/GlobalNavigationiOSScrollFix.js"]=907;
+
 define('GlobalNavigationiOSScrollFix', ['jquery', 'wikia.window'], function($, win) {
 	'use strict';
 	var cachedScrollY;

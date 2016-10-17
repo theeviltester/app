@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery-2.1.1.js"]=247351;
+
 /*!
  * jQuery JavaScript Library v2.1.1
  * http://jquery.com/

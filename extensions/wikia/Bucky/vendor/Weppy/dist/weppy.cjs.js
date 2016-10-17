@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Bucky/vendor/Weppy/dist/weppy.cjs.js"]=15125;
+
 /// <reference path="../weppy.d.ts"/>
 var WeppyImpl;
 (function (WeppyImpl) {

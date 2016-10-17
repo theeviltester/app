@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/wrappers/prebid.js"]=312;
+
 /*global define*/
 define('ext.wikia.adEngine.wrappers.prebid', [
 	'wikia.window'

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaQuiz/js/WikiaPlayQuiz.js"]=10256;
+
 var WikiaQuiz = {
 	animationTiming: 400,
 	ui: {},

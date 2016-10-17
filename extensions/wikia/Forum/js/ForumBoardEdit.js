@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Forum/js/ForumBoardEdit.js"]=5544;
+
 /* global WikiaForm */
 
 (function (window, $) {

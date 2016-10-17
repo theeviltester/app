@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.appear.js"]=3017;
+
 /*
  * jQuery.appear
  * http://code.google.com/p/jquery-appear/

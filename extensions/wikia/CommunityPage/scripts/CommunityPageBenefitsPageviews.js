@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CommunityPage/scripts/CommunityPageBenefitsPageviews.js"]=286;
+
 require([
 	'wikia.pageviewsInSession',
 	'CommunityPageBenefitsModal',

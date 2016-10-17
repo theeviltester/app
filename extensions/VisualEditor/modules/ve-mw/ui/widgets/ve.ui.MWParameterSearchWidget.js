@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/widgets/ve.ui.MWParameterSearchWidget.js"]=4663;
+
 /*!
  * VisualEditor UserInterface MWParameterSearchWidget class.
  *

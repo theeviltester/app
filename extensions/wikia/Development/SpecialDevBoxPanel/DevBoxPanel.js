@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Development/SpecialDevBoxPanel/DevBoxPanel.js"]=383;
+
 var DevBoxPanel = {
 	init: function() {
 		$(".tabs").find("li").click(function() { DevBoxPanel.switchTab($(this)); });

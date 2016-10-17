@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Filtered/libs/ext.srf.filtered.list-view.js"]=2716;
+
 /**
  * File holding the list-view plugin
  *

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/element/mml/optable/MiscMathSymbolsA.js"]=1186;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/optable/MiscMathSymbolsA.js

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoHandlers/js/handlers/Ooyala.js"]=3700;
+
 /*global define, require*/
 
 /**

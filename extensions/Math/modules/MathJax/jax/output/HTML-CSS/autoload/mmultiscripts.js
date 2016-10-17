@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/output/HTML-CSS/autoload/mmultiscripts.js"]=6391;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/autoload/mmultiscripts.js

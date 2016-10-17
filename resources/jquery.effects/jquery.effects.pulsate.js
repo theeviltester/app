@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.effects/jquery.effects.pulsate.js"]=1221;
+
 /*
  * jQuery UI Effects Pulsate 1.8.17
  *

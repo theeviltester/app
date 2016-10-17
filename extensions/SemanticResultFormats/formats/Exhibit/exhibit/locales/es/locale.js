@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/es/locale.js"]=1461;
+
 /*==================================================
  *  Spanish localization
  *

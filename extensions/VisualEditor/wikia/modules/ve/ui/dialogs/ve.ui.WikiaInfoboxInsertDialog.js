@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/dialogs/ve.ui.WikiaInfoboxInsertDialog.js"]=10134;
+
 /*
  * VisualEditor user interface WikiaInfoboxInsertDialog class.
  */

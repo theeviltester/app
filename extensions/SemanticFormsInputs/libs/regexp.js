@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticFormsInputs/libs/regexp.js"]=1211;
+
 /**
  * Javascript code to be used with input type regexp.
  *

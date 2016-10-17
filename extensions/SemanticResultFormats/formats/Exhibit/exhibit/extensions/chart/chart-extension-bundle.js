@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/chart/chart-extension-bundle.js"]=25803;
+
 
 
 /* bar-chart-view.js */

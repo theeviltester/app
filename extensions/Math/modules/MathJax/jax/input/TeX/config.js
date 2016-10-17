@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/input/TeX/config.js"]=1312;
+
 /*************************************************************
  *
  *  MathJax/jax/input/TeX/config.js

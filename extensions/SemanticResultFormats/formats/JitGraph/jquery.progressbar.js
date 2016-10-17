@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/JitGraph/jquery.progressbar.js"]=4133;
+
 /*
  * jQuery Progress Bar plugin
  * Version 1.1.0 (06/20/2008)

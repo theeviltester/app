@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/ContentReview/scripts/contentReviewTestMode.js"]=2143;
+
 define(
 	'ext.wikia.contentReview.testMode',
 	['jquery', 'mw', 'wikia.loader', 'wikia.nirvana', 'wikia.window', 'wikia.querystring', 'BannerNotification'],

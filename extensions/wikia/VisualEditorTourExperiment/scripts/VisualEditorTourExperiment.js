@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VisualEditorTourExperiment/scripts/VisualEditorTourExperiment.js"]=3602;
+
 define('VisualEditorTourExperiment', ['jquery', 'wikia.loader', 'wikia.mustache', 'mw', 'ext.wikia.spitfires.experiments.tracker'],
 	function ($, loader, mustache, mw, tracker) {
 		'use strict';

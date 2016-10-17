@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery/slideshow/jquery-slideshow-0.4.js"]=7809;
+
 /* JQuery Slideshow 0.4
 	by Aaron Lozier 2008 (lozieraj-[at]-gmail.com) (twitter: @ajlozier)
 	heavily modified by macbre@wikia-inc.com 2011

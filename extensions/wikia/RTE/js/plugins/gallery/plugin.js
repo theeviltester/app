@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/gallery/plugin.js"]=3370;
+
 CKEDITOR.plugins.add('rte-gallery',
 {
 	init: function(editor) {

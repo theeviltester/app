@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/mode-r.js"]=11393;
+
 /*
  * r.js
  *

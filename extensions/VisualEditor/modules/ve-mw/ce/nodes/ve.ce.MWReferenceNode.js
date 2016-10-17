@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ce/nodes/ve.ce.MWReferenceNode.js"]=3221;
+
 /*!
  * VisualEditor ContentEditable MWReferenceNode class.
  *

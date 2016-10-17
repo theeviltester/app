@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.ui/jquery.ui.selectable.js"]=6957;
+
 /*
  * jQuery UI Selectable 1.8.17
  *

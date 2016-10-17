@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.farbtastic.js"]=7822;
+
 /**
  * Farbtastic Color Picker 1.2
  * © 2008 Steven Wittens

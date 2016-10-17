@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/widgets/ve.ui.MWMediaSearchWidget.js"]=6649;
+
 /*!
  * VisualEditor UserInterface MWMediaSearchWidget class.
  *

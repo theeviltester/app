@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/VideoPageTool/scripts/admin/views/autocompleteitem.js"]=856;
+
 define('videopageadmin.views.autocompleteitem', [
 	'jquery',
 	'videopagetool.templates.mustache'

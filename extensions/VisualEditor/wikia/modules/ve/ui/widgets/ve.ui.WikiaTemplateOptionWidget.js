@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/ui/widgets/ve.ui.WikiaTemplateOptionWidget.js"]=1243;
+
 /*!
  * VisualEditor UserInterface WikiaTemplateOptionWidget class.
  */

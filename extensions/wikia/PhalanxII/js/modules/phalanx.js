@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/PhalanxII/js/modules/phalanx.js"]=1071;
+
 define('phalanx', ['jquery', 'wikia.nirvana'], function($, nirvana) {
 	'use strict';
 

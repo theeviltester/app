@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/wikia/modules/ve/dm/ve.dm.WikiaTransclusionModel.js"]=4348;
+
 /*!
  * VisualEditor DataModel WikiaTransclusionModel class.
  * @license The MIT License (MIT); see LICENSE.txt

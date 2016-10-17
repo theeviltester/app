@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/time/time-extension-bundle-debug.js"]=13260;
+
 
 
 /* timeline-view.js */

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/category_page.js"]=2323;
+
 /**
  * module used to handle category pages pagination
  *

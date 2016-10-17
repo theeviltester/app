@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/DesignSystem/scripts/DesignSystemAuthenticationMenu.js"]=752;
+
 $(function ($) {
 	'use strict';
 

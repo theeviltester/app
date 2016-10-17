@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/common/img_success.js"]=9879;
+
 var undefined;
 
 function getFirstNodeOfType(nodeType,parent) {

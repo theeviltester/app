@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./skins/oasis/js/AnonTOC.js"]=254;
+
 /*
  * This script simply hides the Table of Contents by default.
  * Loaded only for Oasis Anons in AssetsManager.

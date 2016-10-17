@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdminDashboard/js/AdminDashboard.js"]=4186;
+
 require(['jquery', 'mw', 'wikia.nirvana'], function ($, mw, nirvana) {
 	var AdminDashboard = {
 		controls: {},

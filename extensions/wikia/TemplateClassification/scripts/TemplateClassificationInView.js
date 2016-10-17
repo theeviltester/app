@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/TemplateClassification/scripts/TemplateClassificationInView.js"]=2213;
+
 /**
  * TemplateClassificationInView module
  *

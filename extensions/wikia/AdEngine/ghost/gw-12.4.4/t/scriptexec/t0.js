@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/scriptexec/t0.js"]=6269;
+
 //preTest(); 
 //if(typeof HTMLScriptElement != 'undefined') 
 	//HTMLScriptElement.prototype.async= true; 

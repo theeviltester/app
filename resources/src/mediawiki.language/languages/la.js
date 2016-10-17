@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/languages/la.js"]=2511;
+
 /*!
  * Latin (lingua Latina) language functions
  * @author Santhosh Thottingal

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/ghostwriter/gw.src.js"]=59176;
+
 /* 
  * 
  * @preserve Copyright(c) 2010-2011 Digital Fulrcum, LLC 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/exporters/tsv-exporter.js"]=1573;
+
 /*==================================================
  *  Exhibit.TSVExporter
  *==================================================

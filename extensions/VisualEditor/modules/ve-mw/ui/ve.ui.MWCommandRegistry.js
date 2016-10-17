@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/ve.ui.MWCommandRegistry.js"]=3373;
+
 /*!
  * VisualEditor MediaWiki CommandRegistry registrations.
  *

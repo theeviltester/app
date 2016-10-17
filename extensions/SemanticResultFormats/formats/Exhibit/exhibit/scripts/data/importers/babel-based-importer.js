@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/data/importers/babel-based-importer.js"]=2810;
+
 /*==================================================
  *  Exhibit.BabelBasedImporter
  *==================================================

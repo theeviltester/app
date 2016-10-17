@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/ui_components/toc/js/toc.js"]=2696;
+
 define('wikia.ui.toc', ['jquery', 'wikia.window'], function($, w) {
 	"use strict";
 

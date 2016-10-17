@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/util/facets.js"]=18617;
+
 /*==================================================
  *  Exhibit.FacetUtilities
  *

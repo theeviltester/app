@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/editing/scripts/ui/lens.js"]=8055;
+
 
 Exhibit.LensRegistry.prototype.createLens = function(itemID, div, uiContext, editing) {
     var lensTemplate = this.getLens(itemID, uiContext);

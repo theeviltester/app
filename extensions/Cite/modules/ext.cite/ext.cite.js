@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Cite/modules/ext.cite/ext.cite.js"]=253;
+
 ( function($) {
 	$( function() {
 		$('.biblio-cite-link,sup.reference a').tooltip({

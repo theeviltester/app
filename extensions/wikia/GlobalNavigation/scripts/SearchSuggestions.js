@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalNavigation/scripts/SearchSuggestions.js"]=3105;
+
 $(function() {
 	'use strict';
 

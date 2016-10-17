@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Chat2/js/controllers/ChatBanModalLogs.js"]=764;
+
 var ChatBanLogController = function () {
 	$('.chat-change-ban').click(function (event) {
 		var title = mw.message('chat-ban-modal-change-ban-heading').escaped(),

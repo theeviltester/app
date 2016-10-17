@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/timeline/api/scripts/sources.js"]=22377;
+
 /*==================================================
  *  Default Event Source
  *==================================================

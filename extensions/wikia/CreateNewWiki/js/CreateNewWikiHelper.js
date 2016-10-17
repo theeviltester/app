@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CreateNewWiki/js/CreateNewWikiHelper.js"]=873;
+
 define(
 	'ext.createNewWiki.helper',
 	['wikia.stringhelper', 'wikia.querystring'],

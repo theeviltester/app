@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery.effects/jquery.effects.clip.js"]=1682;
+
 /*
  * jQuery UI Effects Clip 1.8.17
  *

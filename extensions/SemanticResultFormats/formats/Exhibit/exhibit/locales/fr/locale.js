@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/fr/locale.js"]=1457;
+
 /*==================================================
  *  French localization
  *==================================================

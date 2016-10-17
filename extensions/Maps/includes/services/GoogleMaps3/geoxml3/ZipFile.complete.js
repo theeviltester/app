@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Maps/includes/services/GoogleMaps3/geoxml3/ZipFile.complete.js"]=80860;
+
 // ZipFile.complete.js
 //
 // 2/17/2012

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaPhotoGallery/js/WikiaPhotoGallery.js"]=71959;
+
 (function( window, $ ) {
 	var Wikia = window.Wikia;
 

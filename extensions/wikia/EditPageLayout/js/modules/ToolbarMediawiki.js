@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/EditPageLayout/js/modules/ToolbarMediawiki.js"]=2230;
+
 (function(window){
 
 	var WE = window.WikiaEditor;

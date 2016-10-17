@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/iframebusters/xaxisadxpassback728x90.js"]=526;
+
 document.write("<script type=\"text\/javascript\"><!--");
 document.write("google_ad_client = \"ca-pub-7983542246824243\";");
 document.write("\/* Passback Xaxis *\/");

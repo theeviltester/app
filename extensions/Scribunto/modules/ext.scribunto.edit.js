@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Scribunto/modules/ext.scribunto.edit.js"]=9465;
+
 ( function ( $, mw ) {
 
 	/**

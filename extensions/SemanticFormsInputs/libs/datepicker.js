@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticFormsInputs/libs/datepicker.js"]=6305;
+
 /**
  * Javascript code to be used with input type datepicker.
  *

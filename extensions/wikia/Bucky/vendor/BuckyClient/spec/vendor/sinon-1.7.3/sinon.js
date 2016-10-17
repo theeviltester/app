@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Bucky/vendor/BuckyClient/spec/vendor/sinon-1.7.3/sinon.js"]=132684;
+
 /**
  * Sinon.JS 1.7.3, 2013/06/20
  *

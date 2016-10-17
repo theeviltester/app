@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMobile/js/sections.js"]=4828;
+
 /*
  * @define sections
  * module used to handle sections on wikiamobile

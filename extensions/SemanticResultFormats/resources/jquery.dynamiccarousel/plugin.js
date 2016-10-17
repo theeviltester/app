@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/resources/jquery.dynamiccarousel/plugin.js"]=14993;
+
 /*! (c) Mat Marquis (@wilto). MIT License. http://wil.to/3a */
 
 (function( $, undefined ) {

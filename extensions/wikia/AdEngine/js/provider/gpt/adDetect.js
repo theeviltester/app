@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/provider/gpt/adDetect.js"]=9493;
+
 /*global define, setTimeout, clearTimeout*/
 /*jshint camelcase:false, maxlen:127*/
 /*jslint regexp:true*/

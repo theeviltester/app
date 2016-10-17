@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/tracker.js"]=1047;
+
 /*global define*/
 define('ext.wikia.recirculation.tracker', [
 	'wikia.tracker',

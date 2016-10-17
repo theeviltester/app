@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Places/js/Places.js"]=6024;
+
 /*global google: true, WikiaMobile: true, PlacesEditor: true*/
 var Places = Places || (function(){
 	/** @private **/

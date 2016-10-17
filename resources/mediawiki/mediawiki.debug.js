@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki/mediawiki.debug.js"]=8398;
+
 /**
  * JavaScript for the new debug toolbar, enabled through $wgDebugToolbar.
  *

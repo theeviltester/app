@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/AdEngineRunner.js"]=3543;
+
 /*global define, require*/
 define('ext.wikia.adEngine.adEngineRunner', [
 	'ext.wikia.adEngine.adEngine',

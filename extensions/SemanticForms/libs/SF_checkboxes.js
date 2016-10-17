@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticForms/libs/SF_checkboxes.js"]=1635;
+
 /**
  * Javascript handler for the checkboxes input type
  *

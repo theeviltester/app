@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CuratedContent/js/CuratedContent.js"]=5133;
+
 /* global Ponto */
 (function($html, window){
 	'use strict';

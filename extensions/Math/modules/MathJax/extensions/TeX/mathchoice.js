@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/extensions/TeX/mathchoice.js"]=2206;
+
 /*************************************************************
  *
  *  MathJax/extensions/TeX/mathchoice.js

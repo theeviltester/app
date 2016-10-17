@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/polyfills/bind.js"]=951;
+
 /**
  * Polyfill for `Function.prototype.bind` because PhantomJS 1.9.8 doesn't support it
  * Should only need to use this for unit tests, as all Wikia's supported browsers support bind.

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/src/mediawiki.language/languages/sl.js"]=443;
+
 /*!
  * Slovenian (Slovenščina) language functions
  */

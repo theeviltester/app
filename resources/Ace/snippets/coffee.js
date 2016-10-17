@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/Ace/snippets/coffee.js"]=2460;
+
 ace.define('ace/snippets/coffee', ['require', 'exports', 'module' ], function(require, exports, module) {
 
 

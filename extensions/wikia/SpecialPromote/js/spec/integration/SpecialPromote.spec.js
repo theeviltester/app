@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SpecialPromote/js/spec/integration/SpecialPromote.spec.js"]=4479;
+
 describe("Module A", function(){
 
 	var orig$;

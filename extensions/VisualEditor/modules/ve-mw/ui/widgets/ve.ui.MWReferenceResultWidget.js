@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/widgets/ve.ui.MWReferenceResultWidget.js"]=1097;
+
 /*!
  * VisualEditor UserInterface MWReferenceResultWidget class.
  *

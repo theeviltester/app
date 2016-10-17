@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/mediawiki.libs/mediawiki.libs.jpegmeta.js"]=27218;
+
 /* This is JsJpegMeta 1.0, ported to MediaWiki ResourceLoader by Bryan Tong Minh */
 /* The following lines where changed with respect to the original: 54, 625-627 */
 

@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.cookie.js"]=4247;
+
 /**
  * Cookie plugin
  *

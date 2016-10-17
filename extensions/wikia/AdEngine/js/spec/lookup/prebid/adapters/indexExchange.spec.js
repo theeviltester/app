@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/lookup/prebid/adapters/indexExchange.spec.js"]=1059;
+
 describe('ext.wikia.adEngine.lookup.prebid.adapters.indexExchange', function () {
 	'use strict';
 

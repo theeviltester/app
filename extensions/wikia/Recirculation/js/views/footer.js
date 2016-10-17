@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/views/footer.js"]=735;
+
 define('ext.wikia.recirculation.views.footer', [
 	'jquery',
 	'wikia.window',

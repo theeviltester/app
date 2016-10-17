@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/coders/size-gradient-coder.js"]=6401;
+
 /*==================================================
  *  Exhibit.SizeGradientCoder
  *==================================================

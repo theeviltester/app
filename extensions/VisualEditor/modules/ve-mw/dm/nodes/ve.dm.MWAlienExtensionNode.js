@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/dm/nodes/ve.dm.MWAlienExtensionNode.js"]=1005;
+
 /*!
  * VisualEditor DataModel MWAlienExtensionNode class.
  *

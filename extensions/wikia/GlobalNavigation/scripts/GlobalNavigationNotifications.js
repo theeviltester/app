@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/GlobalNavigation/scripts/GlobalNavigationNotifications.js"]=11694;
+
 // TODO XW-1943
 // don't update this file as it's no longer being used
 // we plan to keep it only until the Design System Global Navigation proves to be stable on production

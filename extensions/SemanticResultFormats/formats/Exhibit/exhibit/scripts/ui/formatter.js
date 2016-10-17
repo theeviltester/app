@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/scripts/ui/formatter.js"]=18826;
+
 /*==================================================
  *  Exhibit.Formatter
  *  http://simile.mit.edu/wiki/Exhibit/API/Formatter

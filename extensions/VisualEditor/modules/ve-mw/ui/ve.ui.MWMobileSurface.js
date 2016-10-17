@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/VisualEditor/modules/ve-mw/ui/ve.ui.MWMobileSurface.js"]=754;
+
 /*!
  * VisualEditor UserInterface MediaWiki MobileSurface class.
  *

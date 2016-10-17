@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/RTE/js/plugins/modeswitch/plugin.js"]=6354;
+
 CKEDITOR.plugins.add('rte-modeswitch',
 {
 	sourceButton: false,

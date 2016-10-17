@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/ApiExplorer/apiExplorer.js"]=5025;
+
 /**
  * @author Sean Colombo
  * @date 20110917

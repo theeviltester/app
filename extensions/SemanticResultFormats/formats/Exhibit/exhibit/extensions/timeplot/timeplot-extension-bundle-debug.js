@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/timeplot/timeplot-extension-bundle-debug.js"]=9665;
+
 
 
 /* timeplot-view.js */

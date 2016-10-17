@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/SiteWideMessages/js/SiteWideMessages.anon.js"]=3311;
+
 (function ($, mw, window) {
 	'use strict';
 

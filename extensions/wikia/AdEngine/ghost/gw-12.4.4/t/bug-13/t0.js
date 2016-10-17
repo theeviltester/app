@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/ghost/gw-12.4.4/t/bug-13/t0.js"]=1458;
+
 function test(){ 
 var theTest = new Y.Test.Case({ 
 	name: "Target Not In Document",

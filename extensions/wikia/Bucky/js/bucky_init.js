@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Bucky/js/bucky_init.js"]=569;
+
 /* global Weppy */
 (function (context) {
 	'use strict';

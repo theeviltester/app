@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/Math/modules/MathJax/jax/element/mml/optable/MiscTechnical.js"]=1228;
+
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/optable/MiscTechnical.js

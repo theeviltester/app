@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/mobile/mercuryListener.js"]=991;
+
 /*global define*/
 define('ext.wikia.adEngine.mobile.mercuryListener', [
 	'wikia.lazyqueue',

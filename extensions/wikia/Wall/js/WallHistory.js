@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Wall/js/WallHistory.js"]=706;
+
 $(document).ready(function() {
 	var wallHistory = new WallHistory();
 });

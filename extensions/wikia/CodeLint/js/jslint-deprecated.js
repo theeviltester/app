@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CodeLint/js/jslint-deprecated.js"]=4087;
+
 /**
  * This file contains functions and variables deprecated in MediaWiki 1.19
  *

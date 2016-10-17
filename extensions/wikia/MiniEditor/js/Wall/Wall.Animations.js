@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/MiniEditor/js/Wall/Wall.Animations.js"]=2995;
+
 /* global MiniEditor:true */
 (function () {
 	'use strict';

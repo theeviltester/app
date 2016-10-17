@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/Recirculation/js/helpers/GoogleMatchHelper.js"]=1140;
+
 /*global define*/
 define('ext.wikia.recirculation.helpers.googleMatch', [
 	'jquery',

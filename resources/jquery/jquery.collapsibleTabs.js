@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/jquery/jquery.collapsibleTabs.js"]=4408;
+
 /*
  * Collapsible tabs jQuery Plugin
  */

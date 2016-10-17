@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/AdEngine/js/spec/lookup/rubicon/rubiconFastlane.spec.js"]=6339;
+
 /*global beforeEach, describe, it, modules, expect, spyOn*/
 describe('ext.wikia.adEngine.lookup.rubicon.rubiconFastlane', function () {
 	'use strict';

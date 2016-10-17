@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikihiero/modules/ext.wikihiero.Special.js"]=1152;
+
 jQuery( function ( $ ) {
 
 var $textarea = $( '#hiero-text' );

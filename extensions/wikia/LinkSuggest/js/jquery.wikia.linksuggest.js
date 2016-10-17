@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/LinkSuggest/js/jquery.wikia.linksuggest.js"]=13276;
+
 /*
  * jQuery MediaWiki LinkSuggest 1.1.0
  * JavaScript for LinkSuggest extension

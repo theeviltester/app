@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/extensions/map/scripts/map-view.js"]=32105;
+
 /*==================================================
  *  Exhibit.MapView
  *==================================================

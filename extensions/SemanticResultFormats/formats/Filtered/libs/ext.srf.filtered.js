@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Filtered/libs/ext.srf.filtered.js"]=9397;
+
 /**
  * File holding the filtered plugin
  *

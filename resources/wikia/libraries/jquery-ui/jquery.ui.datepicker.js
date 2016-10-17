@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./resources/wikia/libraries/jquery-ui/jquery.ui.datepicker.js"]=77276;
+
 /*!
  * jQuery UI Datepicker 1.9.1
  * http://jqueryui.com

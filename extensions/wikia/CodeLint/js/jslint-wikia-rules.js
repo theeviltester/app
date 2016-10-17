@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/CodeLint/js/jslint-wikia-rules.js"]=3970;
+
 /**
  * This file contains Wikia specific rules for JS lint
  */

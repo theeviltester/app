@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/wikia/WikiaMaps/js/WikiaMapsCreateMapPreview.js"]=6118;
+
 define(
 	'wikia.maps.createMap.preview',
 	[

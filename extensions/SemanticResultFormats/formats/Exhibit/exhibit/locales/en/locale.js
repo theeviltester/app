@@ -1,3 +1,5 @@
+jsWC=window.jsWC || {}; jsWC["./extensions/SemanticResultFormats/formats/Exhibit/exhibit/locales/en/locale.js"]=1499;
+
 /*==================================================
  *  English localization
  *  (also base and default localization)

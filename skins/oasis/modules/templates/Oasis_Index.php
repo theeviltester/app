@@ -43,7 +43,7 @@
 	TIME:     +1.0s
 	-->
 
-	<?= $cssLinks ?>
+	<link rel="stylesheet" href="/extensions/wikia/SEO-460/combined.css">
 
 	<!-- / cssLinks -->
 
@@ -331,11 +331,6 @@ SIZE:
 <!--<? $nielsen ?>-->
 
 <!-- / $bottomScripts -->
-
-
-
-
-
 
 
 

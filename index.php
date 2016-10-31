@@ -36,6 +36,9 @@
  * @file
  */
 
+var_dump( $_SERVER );
+var_dump( $_GET );
+
 # Bail on old versions of PHP.  Pretty much every other file in the codebase
 # has structures (try/catch, foo()->bar(), etc etc) which throw parse errors in
 # PHP 4. Setup.php and ObjectCache.php have structures invalid in PHP 5.0 and

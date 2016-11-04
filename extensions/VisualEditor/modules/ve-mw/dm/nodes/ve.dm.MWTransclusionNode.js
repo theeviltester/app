@@ -328,7 +328,7 @@ ve.dm.MWTransclusionNode.prototype.getWikitext = function () {
 			template = part.template;
 			wikitext += '{{' + template.target.wt;
 			for ( param in template.params ) {
-				wikitext += '|' + param + '=' +
+				wikitext += "\n|" + param + '=' +
 					this.constructor.static.escapeParameter( template.params[param].wt );
 			}
 			wikitext += '}}';

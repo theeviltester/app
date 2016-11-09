@@ -14,6 +14,9 @@ $color-level-3rd: mix($color-buttons, $color-page, 20%);
 $WikiNavWidth: $width-outside - 271px;
 
 .WikiHeader {
+
+	display: flex;
+
 	min-height: 69px;
 	margin: 0 0 3px;
 	padding: 20px 10px 1px;

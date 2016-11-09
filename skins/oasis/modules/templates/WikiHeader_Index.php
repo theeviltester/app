@@ -1,19 +1,38 @@
 <header id="WikiHeader" class="WikiHeader">
 	<?= $app->renderView( 'WikiHeader', 'Wordmark' ) ?>
-	<nav class="WikiNav">
-		<? if ( $displayHeader ): ?>
-			<h2><?= wfMessage( 'oasis-wiki-navigation', $wordmarkText )->escaped() ?></h2>
-		<? endif; ?>
-		<?= $app->renderView( 'WikiNavigation', 'Index' ) ?>
-	</nav>
-	<? if ( $displayHeaderButtons ) : ?>
-		<div class="buttons">
-			<? // TODO remove after XW-2226 is done ?>
-			<a href="/wiki/Special:CreatePage?flow=create-page-contribute-button" class="wikia-button createpage add-new-page-experiment-element">Add New Page</a>
-			<? // TODO remove end ?>
-			<?= $app->renderView( 'ContributeMenu', 'Index' ) ?>
+	<form class="wds-global-navigation__search" action="" style="flex: 2 1 auto;">
+		<div id="searchInputWrapperTest" class="wds-dropdown wds-global-navigation__search-input-wrapper">
+			<label class="wds-global-navigation__search-label">
+				<?= DesignSystemHelper::renderSvg(
+					'wds-icons-magnifying-glass',
+					'wds-icon wds-icon-small wds-global-navigation__search-label-icon'
+				) ?>
+				<input id="searchInputTest"
+					type="search"
+					class="wds-global-navigation__search-input"
+					name="query"
+					data-suggestions-url="index.php?action=ajax&rs=getLinkSuggest&format=json"
+					data-suggestions-param-name="query" data-suggestions-tracking-label="search-suggestion"
+					data-active-placeholder=""
+					placeholder="Search <?= F::app()->wg->Sitename; ?>"
+					autocomplete="off"
+				/>
+			</label>
+			<button class="wds-button wds-is-text wds-global-navigation__search-close" type="reset">
+				<?= DesignSystemHelper::renderSvg(
+					'wds-icons-cross',
+					'wds-icon wds-icon-small wds-global-navigation__search-close-icon',
+					wfMessage( 'global-navigation-search-cancel' )->escaped()
+				) ?>
+			</button>
+			<button class="wds-button wds-global-navigation__search-submit" type="submit" data-tracking-label="">
+				<?= DesignSystemHelper::renderSvg(
+					'wds-icons-arrow',
+					'wds-icon wds-icon-small wds-global-navigation__search-submit-icon'
+				) ?>
+			</button>
 		</div>
-	<? endif ?>
+	</form>
 	<div class="hiddenLinks">
 		<a href="<?= Sanitizer::encodeAttribute( $hiddenLinks['watchlist'] ); ?>" accesskey="l"><?= wfMessage( 'watchlist' )->escaped(); ?></a>
 		<a href="<?= Sanitizer::encodeAttribute( $hiddenLinks['random'] ); ?>" accesskey="x"><?= wfMessage( 'randompage' )->escaped(); ?></a>

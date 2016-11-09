@@ -1,6 +1,6 @@
 <header id="WikiHeader" class="WikiHeader">
 	<?= $app->renderView( 'WikiHeader', 'Wordmark' ) ?>
-	<form class="wds-global-navigation__search" action="" style="flex: 2 1 auto;">
+	<form class="wds-global-navigation__search" action="/wiki/Special:Search?fulltext=Search" style="flex: 2 1 auto;">
 		<div id="searchInputWrapperTest" class="wds-dropdown wds-global-navigation__search-input-wrapper">
 			<label class="wds-global-navigation__search-label">
 				<?= DesignSystemHelper::renderSvg(

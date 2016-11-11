@@ -81,8 +81,8 @@ class PageHeaderController extends WikiaController {
 			$this->actionImage = MenuButtonController::ADD_ICON;
 			$this->actionName = 'addtopic';
 		} // "Edit with form" (SMW)
-		else if ( isset( $this->content_actions['form_edit'] ) ) {
-			$this->action = $this->content_actions['form_edit'];
+		else if ( isset( $this->content_actions['formedit'] ) ) {
+			$this->action = $this->content_actions['formedit'];
 			$this->actionImage = MenuButtonController::EDIT_ICON;
 			$this->actionName = 'form-edit';
 		} // ve-edit
@@ -227,6 +227,8 @@ class PageHeaderController extends WikiaController {
 			// number of pages on this wiki
 			$this->tallyMsg = wfMessage( 'oasis-total-articles-mainpage', SiteStats::articles() )->parse();
 
+		} elseif ( !empty( $this->wg->Title ) && $this->wg->Title->isDeleted() == 0 ) {
+			$this->comments = false;
 		}
 
 		// remove namespaces prefix from title

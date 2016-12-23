@@ -4,7 +4,7 @@ require_once( dirname( __FILE__ ) . '/../../Maintenance.php' );
 
 class GetArticlesWithInfoboxes extends Maintenance {
 
-	const ARTICLES_PER_TEMPLATE_LIMIT = 1;
+	const ARTICLES_PER_TEMPLATE_LIMIT = 10;
 
 	public function execute() {
 			$infoboxTemplates = $this->getInfoboxTemplates();

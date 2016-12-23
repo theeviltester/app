@@ -4,8 +4,6 @@ require_once( dirname( __FILE__ ) . '/../../Maintenance.php' );
 
 class LoopOverTopWikis extends Maintenance {
 
-	const ARTICLES_PER_TEMPLATE_LIMIT = 1;
-
 	public function execute() {
 		$wikiIds = $this->getTopWikis( 5000 );
 		$counter = 0;

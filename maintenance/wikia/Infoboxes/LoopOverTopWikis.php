@@ -11,7 +11,7 @@ class LoopOverTopWikis extends Maintenance {
 		$counter = 0;
 		foreach ( $wikiIds as $wikiId ) {
 			$command = "/usr/wikia/backend/bin/run_maintenance --id=" . $wikiId . " --script='wikia/Infoboxes/GetArticlesWithInfoboxes.php'";
-			$this->output(shell_exec($command));
+			$this->output(shell_exec($command)."\n");
 			$counter++;
 			$this->error("\n".$counter."\n");
 		}

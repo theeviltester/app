@@ -4,19 +4,23 @@ require_once( dirname( __FILE__ ) . '/../../Maintenance.php' );
 
 class GetArticlesWithInfoboxes extends Maintenance {
 
-	const ARTICLES_PER_TEMPLATE_LIMIT = 2;
+	const ARTICLES_PER_TEMPLATE_LIMIT = 1;
 
 	public function execute() {
-//		$wikis = $this->getTopWikis(10);
+		$wikiIds = $this->getTopWikis(10);
 
-		$infoboxTemplates = $this->getInfoboxTemplates();
+		foreach ( $wikiIds as $wikiId ) {
+			$wgDBName = WikiFactory::getVarByName('wgDBName', $wikiId);
+			$this->output(unserialize($wgDBName->cv_value) . "\n");
+			$infoboxTemplates = $this->getInfoboxTemplates(unserialize($wgDBName->cv_value));
 
-		$articles = [];
-		foreach ( $infoboxTemplates as $template ) {
-			$articles = array_merge($articles, $this->getTemplateUsage($template));
+			$articles = [];
+			foreach ($infoboxTemplates as $template) {
+				$articles = array_merge($articles, $this->getTemplateUsage($template));
+			}
+
+			$this->output(implode("\n", $articles));
 		}
-
-		$this->output(implode("\n", $articles));
 	}
 
 	public function getTopWikis( $limit = 5000 ) {

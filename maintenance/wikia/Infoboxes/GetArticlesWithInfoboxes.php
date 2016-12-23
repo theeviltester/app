@@ -1,0 +1,79 @@
+<?php
+
+require_once( dirname( __FILE__ ) . '/../../Maintenance.php' );
+
+class GetArticlesWithInfoboxes extends Maintenance {
+
+	const ARTICLES_PER_TEMPLATE_LIMIT = 2;
+
+	public function execute() {
+//		$wikis = $this->getTopWikis(10);
+
+		$infoboxTemplates = $this->getInfoboxTemplates();
+
+		$articles = [];
+		foreach ( $infoboxTemplates as $template ) {
+			$articles = array_merge($articles, $this->getTemplateUsage($template));
+		}
+
+		$this->output(implode("\n", $articles));
+	}
+
+	public function getTopWikis( $limit = 5000 ) {
+
+		return (new DataMartService()) -> getWikisOrderByWam( $limit );
+	}
+
+	public function getInfoboxTemplates( $wiki = false ) {
+		$templates = ( new WikiaSQL() )
+			->SELECT( 'qc_title' )
+			->FROM( 'querycache' )
+			->WHERE( 'qc_type' )->EQUAL_TO( AllinfoboxesQueryPage::ALL_INFOBOXES_TYPE )
+			->run( $this->getDB( DB_SLAVE, [], $wiki), function ( ResultWrapper $result ) {
+				$out = [ ];
+				while ( $row = $result->fetchRow() ) {
+					$title = Title::newFromText( $row[ 'qc_title' ], NS_TEMPLATE );
+					if ( $title && $title->exists() ) {
+						$out[] = $title->getFullText();
+					}
+				}
+
+				return $out;
+			} );
+		return $templates;
+	}
+
+	private function getTemplateUsage( $template ) {
+		$params = [ 'action' => 'query',
+			'list' => 'embeddedin',
+			'eititle' => $template,
+			'eifilterredir' => 'nonredirects',
+			'eilimit' => self::ARTICLES_PER_TEMPLATE_LIMIT ];
+
+		$data = $this->callApi( $params );
+
+		$result = array_map( function ( $item ) {
+			$title = Title::newFromID($item[ 'pageid' ]);
+			return $title->getFullURL();
+		}, $data[ 'query' ][ 'embeddedin' ] );
+
+		return $result;
+	}
+
+	/**
+	 * @param $params
+	 *
+	 * @return array
+	 */
+	private function callApi( $params ) {
+		$this->output(RequestContext::getMain());
+
+		$api = new ApiMain( new FauxRequest( $params ), true );
+		$api->execute();
+
+		return $api->getResult()->getResultData();
+	}
+}
+
+$maintClass = "GetArticlesWithInfoboxes";
+require_once( RUN_MAINTENANCE_IF_MAIN );

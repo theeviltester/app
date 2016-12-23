@@ -7,12 +7,7 @@ class GetArticlesWithInfoboxes extends Maintenance {
 	const ARTICLES_PER_TEMPLATE_LIMIT = 1;
 
 	public function execute() {
-		$wikiIds = $this->getTopWikis(10);
-
-		foreach ( $wikiIds as $wikiId ) {
-			$wgDBName = WikiFactory::getVarByName('wgDBName', $wikiId);
-			$this->output(unserialize($wgDBName->cv_value) . "\n");
-			$infoboxTemplates = $this->getInfoboxTemplates(unserialize($wgDBName->cv_value));
+			$infoboxTemplates = $this->getInfoboxTemplates();
 
 			$articles = [];
 			foreach ($infoboxTemplates as $template) {
@@ -20,20 +15,14 @@ class GetArticlesWithInfoboxes extends Maintenance {
 			}
 
 			$this->output(implode("\n", $articles));
-		}
 	}
 
-	public function getTopWikis( $limit = 5000 ) {
-
-		return (new DataMartService()) -> getWikisOrderByWam( $limit );
-	}
-
-	public function getInfoboxTemplates( $wiki = false ) {
+	public function getInfoboxTemplates() {
 		$templates = ( new WikiaSQL() )
 			->SELECT( 'qc_title' )
 			->FROM( 'querycache' )
 			->WHERE( 'qc_type' )->EQUAL_TO( AllinfoboxesQueryPage::ALL_INFOBOXES_TYPE )
-			->run( $this->getDB( DB_SLAVE, [], $wiki), function ( ResultWrapper $result ) {
+			->run( $this->getDB( DB_SLAVE ), function ( ResultWrapper $result ) {
 				$out = [ ];
 				while ( $row = $result->fetchRow() ) {
 					$title = Title::newFromText( $row[ 'qc_title' ], NS_TEMPLATE );

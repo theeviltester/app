@@ -77,8 +77,9 @@ foreach ( $wikis as $wikiId => $wikiTitle ) {
 	$descr = (new CommunityDataService( $wikiId ))->getCommunityDescription();
 	$descrLength = strlen( $descr );
 
+	printf( "%d;%s;%d\n", $wikiId, $wikiTitle, $descrLength ) ;
+
 	if ( $descrLength ) {
-		printf( "[%d] [%s] description length: %d\n", $wikiId, $wikiTitle, $descrLength ) ;
 		$descrWikiCount++;
 		$summaryLength += $descrLength;
 		if ( $descrLength > $maxDescrLength ) {
@@ -87,7 +88,6 @@ foreach ( $wikis as $wikiId => $wikiTitle ) {
 		}
 	}
 	else {
-		printf( "[%d] [%s] ---\n", $wikiId, $wikiTitle ) ;
 		$noDescrWikiCount++;
 	}
 }

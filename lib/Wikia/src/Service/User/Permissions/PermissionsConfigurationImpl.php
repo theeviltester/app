@@ -220,7 +220,6 @@ class PermissionsConfigurationImpl implements PermissionsConfiguration {
 		'tasks-user',
 		'template-bulk-classification',
 		'templatedraft',
-		'textregex',
 		'themedesigner',
 		'usermanagement',
 		'removeavatar',
